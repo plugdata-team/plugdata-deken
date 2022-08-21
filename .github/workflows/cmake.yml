@@ -24,8 +24,8 @@ jobs:
       working-directory: ${{github.workspace}}/build
       run: |
         ./DekenParser \
-        cp ../README.md ./results/README.md \
-        cp ../LICENSE.md ./results/LICENSE
+        cp ../README.md ./result/README.md \
+        cp ../LICENSE.md ./result/LICENSE
 
     - name: Push
       uses: s0/git-publish-subdir-action@develop

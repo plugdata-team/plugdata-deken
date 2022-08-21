@@ -124,7 +124,7 @@ int main (int argc, char* argv[])
         }
     }
     
-    auto destfolder = File::getCurrentWorkingDirectory().getChildFile("results");
+    auto destfolder = File::getCurrentWorkingDirectory().getChildFile("result");
     destfolder.createDirectory();
 
     auto xmlout = destfolder.getChildFile("xml");
