@@ -22,7 +22,7 @@ jobs:
     - name: Copy files
       run: |
         mkdir -p ./build/result
-        mv./Source/README.md ./build/result/README.md \
+        mv ./Source/README.md ./build/result/README.md \
         mv ./LICENSE ./build/result/LICENSE
   
     - name: Run tool
