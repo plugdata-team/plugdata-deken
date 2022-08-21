@@ -20,10 +20,10 @@ jobs:
       run: make
       
     - name: Copy files
-    run: |
-      mkdir -p ./build/result
-      cp ./Source/README.md ./build/result/README.md \
-      cp ./LICENSE ./build/result/LICENSE
+      run: |
+        mkdir -p ./build/result
+        cp ./Source/README.md ./build/result/README.md \
+        cp ./LICENSE ./build/result/LICENSE
   
     - name: Run tool
       working-directory: ${{github.workspace}}/build
