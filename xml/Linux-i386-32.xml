@@ -12,7 +12,6 @@
              Author="lucarda" Timestamp="2021-06-01 13:03:21" Description="websocketserver[v0.0.0](Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
              Version="0.0.0" URL="http://puredata.info/Members/lucarda/software/websocketserver/0.0.0/websocketserver[v0.0.0](Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"/>
   </Packages>
-  <Packages Name="vinylcontrol~"/>
   <Packages Name="zexy">
     <Package ID="emV4eV8yLjQuMV8yMDIyLTAyLTAyIDE3OjE0OjA5X3ptb2VsbmlnYm90"
              Author="zmoelnigbot" Timestamp="2022-02-02 17:14:09" Description="zexy[v2.4.1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
@@ -35,25 +34,16 @@
              Author="chr15m" Timestamp="2015-08-07 15:10:30" Description="vanilla-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/vanilla/vanilla-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="unicode"/>
   <Packages Name="unauthorized">
     <Package ID="dW5hdXRob3JpemVkXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE1OjA5OjE5X2NocjE1bQ=="
              Author="chr15m" Timestamp="2015-08-07 15:09:19" Description="unauthorized-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/unauthorized/unauthorized-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="tune~"/>
-  <Packages Name="triggerize-plugin"/>
-  <Packages Name="timeStretch~"/>
-  <Packages Name="timbreIDLib"/>
-  <Packages Name="testtools"/>
-  <Packages Name="tclprompt-plugin"/>
-  <Packages Name="tabreceive_mult~"/>
   <Packages Name="syslog">
     <Package ID="c3lzbG9nXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjEwOjEyX2NocjE1bQ=="
              Author="chr15m" Timestamp="2015-08-07 14:10:12" Description="syslog-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/syslog/syslog-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="spect_scaled"/>
   <Packages Name="slip">
     <Package ID="c2xpcF8wLjF+Z2l0MjAxNTExMTdfMjAxNS0xMS0xOCAxMzo0Mjo1NF9yZHo="
              Author="rdz" Timestamp="2015-11-18 13:42:54" Description="slip-v0.1~git20151117-(Linux-i386-32)-externals.tar.gz"
@@ -67,23 +57,16 @@
              Author="chr15m" Timestamp="2015-08-07 14:17:05" Description="sigpack-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/sigpack/sigpack-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="sfruit"/>
-  <Packages Name="saturator"/>
   <Packages Name="rtcmix~">
     <Package ID="cnRjbWl4fl8wLjRfMjAxNS0wNi0xNyAyMDoyNzowNF9qd21hdHRoeXM="
              Author="jwmatthys" Timestamp="2015-06-17 20:27:04" Description="rtcmix~-v0.4-(Linux-i386-32)-externals.tar.gz"
              Version="0.4" URL="http://puredata.info/Members/jwmatthys/rtcmix~-v0.4-(Linux-i386-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="rtc"/>
   <Packages Name="readdir">
     <Package ID="cmVhZGRpcl8wLjAzfmdpdDIwMTUxMTE2XzIwMTUtMTEtMTggMTM6MzY6NTdfcmR6"
              Author="rdz" Timestamp="2015-11-18 13:36:57" Description="readdir-v0.03~git20151116-(Linux-i386-32)-externals.tar.gz"
              Version="0.03~git20151116" URL="http://puredata.info/Members/rdz/software/readdir-v0.03~git20151116-(Linux-i386-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="quilt"/>
-  <Packages Name="queryresponse"/>
-  <Packages Name="py4pd"/>
-  <Packages Name="puremapping"/>
   <Packages Name="pulqui">
     <Package ID="cHVscXVpXzAuMS4xXzIwMjItMDgtMDMgMjM6NDY6MzdfbHVjYXJkYQ=="
              Author="lucarda" Timestamp="2022-08-03 23:46:37" Description="pulqui[v0.1.1](Linux-i386-32).dek"
@@ -102,8 +85,6 @@
              Timestamp="2019-09-22 06:57:36" Description="psycho[v1.0](Linux-i386-32).dek"
              Version="1.0" URL="http://puredata.info/Members/porres/software/psycho/1.0/psycho[v1.0](Linux-i386-32).dek"/>
   </Packages>
-  <Packages Name="pool"/>
-  <Packages Name="pix_opencv"/>
   <Packages Name="tclpd">
     <Package ID="dGNscGRfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6NTA6MjJfY2hyMTVt"
              Author="chr15m" Timestamp="2015-08-07 14:50:22" Description="tclpd-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
@@ -119,47 +100,26 @@
              Timestamp="2019-03-13 10:15:00" Description="shmem[v1.0](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-i386-32)(Sources).dek"
              Version="1.0" URL="http://puredata.info/Members/chnry/software/shmem/1.0/shmem[v1.0](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-i386-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="pix_artoolkit"/>
-  <Packages Name="pduino"/>
-  <Packages Name="pdpp"/>
-  <Packages Name="shadylib"/>
-  <Packages Name="pdpii2c"/>
   <Packages Name="pdp">
     <Package ID="cGRwXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjI4OjQyX2NocjE1bQ=="
              Author="chr15m" Timestamp="2015-08-07 14:28:42" Description="pdp-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/pdp/pdp-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="pdmus"/>
-  <Packages Name="pdjs"/>
-  <Packages Name="pde"/>
-  <Packages Name="senselmorph"/>
   <Packages Name="pdcontainer">
     <Package ID="cGRjb250YWluZXJfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6MjQ6MzlfY2hyMTVt"
              Author="chr15m" Timestamp="2015-08-07 14:24:39" Description="pdcontainer-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/pdcontainer/pdcontainer-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="ws"/>
-  <Packages Name="streamStretch~"/>
-  <Packages Name="pd-zmq"/>
-  <Packages Name="vasp"/>
   <Packages Name="pdlua">
     <Package ID="cGRsdWFfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTU6MDA6NTdfY2hyMTVt"
              Author="chr15m" Timestamp="2015-08-07 15:00:57" Description="pdlua-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/pdlua/pdlua-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="pd-wavelet"/>
-  <Packages Name="pd-push-and-hold"/>
-  <Packages Name="patch2svg-plugin"/>
-  <Packages Name="pan"/>
-  <Packages Name="ossia"/>
   <Packages Name="oscx">
     <Package ID="b3NjeF8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNDozMTowMl9jaHIxNW0="
              Author="chr15m" Timestamp="2015-08-07 14:31:02" Description="oscx-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/oscx/oscx-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="gem2pdp"/>
-  <Packages Name="faustgen~"/>
-  <Packages Name="jpcvisu"/>
   <Packages Name="dnd-plugin">
     <Package ID="ZG5kLXBsdWdpbl8wLjMuMF8yMDIxLTA0LTE2IDAyOjA1OjQyX2x1Y2FyZGE="
              Author="lucarda" Timestamp="2021-04-16 02:05:42" Description="dnd-plugin[v0.3.0](Linux-i386-32).dek"
@@ -176,7 +136,6 @@
              Author="chr15m" Timestamp="2015-08-07 14:41:31" Description="cxc-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/cxc/cxc-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="absattr"/>
   <Packages Name="creb">
     <Package ID="Y3JlYl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNDowOTozOV9jaHIxNW0="
              Author="chr15m" Timestamp="2015-08-07 14:09:39" Description="creb-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
@@ -216,15 +175,11 @@
              Timestamp="2017-07-10 22:29:26" Description="convolve~-v0.9-(Linux-i386-32)-externals.tar.gz"
              Version="0.9" URL="http://puredata.info/Members/rdz/software/convolve~/0.9/convolve~-v0.9-(Linux-i386-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="ezaoo"/>
-  <Packages Name="ceammc"/>
   <Packages Name="plugin~">
     <Package ID="cGx1Z2lufl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNDozMDoxNl9jaHIxNW0="
              Author="chr15m" Timestamp="2015-08-07 14:30:16" Description="plugin~-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/plugin~/plugin~-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="constantq~"/>
-  <Packages Name="guis"/>
   <Packages Name="jl">
     <Package ID="amxfMC4xLjNfMjAxOS0wOS0wNCAxNzo0MToyN19qb3NlcGhsYXJyYWxkZQ=="
              Author="josephlarralde" Timestamp="2019-09-04 17:41:27" Description="jl[v0.1.3](Linux-i386-32).dek"
@@ -233,7 +188,6 @@
              Author="josephlarralde" Timestamp="2018-11-10 00:09:38" Description="jl[v0.1.2](Linux-i386-32).dek"
              Version="0.1.2" URL="http://puredata.info/Members/josephlarralde/software/jl/0.1.2/jl[v0.1.2](Linux-i386-32).dek"/>
   </Packages>
-  <Packages Name="hotfix732-deadkeys-plugin"/>
   <Packages Name="adaptive">
     <Package ID="YWRhcHRpdmVfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mzk6MTJfY2hyMTVt"
              Author="chr15m" Timestamp="2015-08-07 14:39:12" Description="adaptive-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
@@ -244,14 +198,11 @@
              Author="chr15m" Timestamp="2015-08-07 14:05:33" Description="freeverb~-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/freeverb~/freeverb~-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="ml.lib"/>
-  <Packages Name="jpcex"/>
   <Packages Name="extra">
     <Package ID="ZXh0cmFfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mjk6MzhfY2hyMTVt"
              Author="chr15m" Timestamp="2015-08-07 14:29:38" Description="extra-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/extra/extra-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="audiolab"/>
   <Packages Name="iem_spec2">
     <Package ID="aWVtX3NwZWMyXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjE5OjU4X2NocjE1bQ=="
              Author="chr15m" Timestamp="2015-08-07 14:19:58" Description="iem_spec2-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
@@ -262,7 +213,6 @@
              Author="chr15m" Timestamp="2015-08-07 15:08:20" Description="iemgui-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/iemgui/iemgui-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="purepd"/>
   <Packages Name="fftease">
     <Package ID="ZmZ0ZWFzZV8zLjAuMV8yMDIxLTAzLTAxIDAzOjQ5OjI0X2x1Y2FyZGE="
              Author="lucarda" Timestamp="2021-03-01 03:49:24" Description="fftease[v3.0.1](Linux-i386-32).dek"
@@ -279,14 +229,11 @@
              Author="chr15m" Timestamp="2015-08-07 14:40:47" Description="ekext-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/ekext/ekext-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="bassemu"/>
-  <Packages Name="jit_expr"/>
   <Packages Name="Gem">
     <Package ID="R2VtXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjM2OjAxX2NocjE1bQ=="
              Author="chr15m" Timestamp="2015-08-07 14:36:01" Description="Gem-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/Gem/Gem-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="lerdahl"/>
   <Packages Name="bsaylor">
     <Package ID="YnNheWxvcl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNDozMTo0OV9jaHIxNW0="
              Author="chr15m" Timestamp="2015-08-07 14:31:49" Description="bsaylor-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
@@ -302,8 +249,6 @@
              Author="chr15m" Timestamp="2015-08-07 14:42:58" Description="pddp-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/pddp/pddp-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="nusmuk-utils"/>
-  <Packages Name="completion-plugin"/>
   <Packages Name="aoo">
     <Package ID="YW9vXzIuMC1wcmUyXzIwMjAtMDYtMjAgMjE6MjY6MTVfc3BhY2VjaGlsZDE="
              Author="spacechild1" Timestamp="2020-06-20 21:26:15" Description="aoo[v2.0-pre2](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
@@ -312,11 +257,6 @@
              Author="spacechild1" Timestamp="2020-04-03 23:43:48" Description="aoo[v2.0-pre1](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
              Version="2.0-pre1" URL="http://puredata.info/Members/spacechild1/software/aoo/2.0-pre1/aoo[v2.0-pre1](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"/>
   </Packages>
-  <Packages Name="mc"/>
-  <Packages Name="missive~"/>
-  <Packages Name="algo~"/>
-  <Packages Name="ofelia"/>
-  <Packages Name="XXX-deken-test"/>
   <Packages Name="iemguts">
     <Package ID="aWVtZ3V0c18wLjMuMV8yMDIyLTAzLTMwIDE4OjMwOjI2X3ptb2VsbmlnYm90"
              Author="zmoelnigbot" Timestamp="2022-03-30 18:30:26" Description="iemguts[v0.3.1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
@@ -350,10 +290,6 @@
              Author="porres" Timestamp="2021-09-29 02:16:31" Description="else[v1.0-0_beta44_with_live_electronics_tutorial](Linux-amd64-32)(Linux-i386-32).dek"
              Version="1.0-0_beta44_with_live_electronics_tutorial" URL="http://puredata.info/Members/porres/software/else/1.0-0_beta44_with_live_electronics_tutorial/else[v1.0-0_beta44_with_live_electronics_tutorial](Linux-amd64-32)(Linux-i386-32).dek"/>
   </Packages>
-  <Packages Name="search-plugin"/>
-  <Packages Name="PDContainer"/>
-  <Packages Name="echocurve~"/>
-  <Packages Name="Pd_Spectral_Toolkit"/>
   <Packages Name="arraysize">
     <Package ID="YXJyYXlzaXplXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjA3OjI5X2NocjE1bQ=="
              Author="chr15m" Timestamp="2015-08-07 14:07:29" Description="arraysize-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
@@ -364,7 +300,6 @@
              Timestamp="2021-05-26 16:32:15" Description="aconnect[v0.5](Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32).dek"
              Version="0.5" URL="http://puredata.info/Members/iembot/software/aconnect/0.5/aconnect[v0.5](Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32).dek"/>
   </Packages>
-  <Packages Name="art_net"/>
   <Packages Name="earplug~">
     <Package ID="ZWFycGx1Z35fMC4zLjBfMjAyMS0wNi0wNiAxODo0NTozOV9sdWNhcmRh"
              Author="lucarda" Timestamp="2021-06-06 18:45:39" Description="earplug~[v0.3.0](Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
@@ -373,18 +308,11 @@
              Author="chr15m" Timestamp="2015-08-07 14:32:21" Description="earplug~-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/earplug~/earplug~-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="iempluginOSC"/>
-  <Packages Name="xsample"/>
-  <Packages Name="context"/>
-  <Packages Name="bandlimited"/>
   <Packages Name="net">
     <Package ID="bmV0XzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjM4OjMzX2NocjE1bQ=="
              Author="chr15m" Timestamp="2015-08-07 14:38:33" Description="net-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/net/net-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="timestretch"/>
-  <Packages Name="shotnoise"/>
-  <Packages Name="neuralnet"/>
   <Packages Name="nilwind">
     <Package ID="bmlsd2luZF8wLjIuMi1iZXRhNV8yMDE5LTEyLTIwIDIxOjEyOjQ3X2Zqa3JhYW4="
              Author="fjkraan" Timestamp="2019-12-20 21:12:47" Description="nilwind[v0.2.2-beta5](Linux-i386-32)(Sources).dek"
@@ -398,8 +326,6 @@
              Author="rdz" Timestamp="2015-11-18 13:29:59" Description="binfile-v0.1~git20151117-(Linux-i386-32)-externals.tar.gz"
              Version="0.1~git20151117" URL="http://puredata.info/Members/rdz/software/binfile-v0.1~git20151117-(Linux-i386-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="apple"/>
-  <Packages Name="fd_lib"/>
   <Packages Name="mp3cast~">
     <Package ID="bXAzY2FzdH5fMC41LTFfMjAyMi0wNS0xNiAyMDo1ODoxMF9yZHo=" Author="rdz"
              Timestamp="2022-05-16 20:58:10" Description="mp3cast~[v0.5-1](Linux-i386-32).dek"
@@ -408,10 +334,6 @@
              Timestamp="2022-05-12 22:28:56" Description="mp3cast~[v0.5](Linux-i386-32).dek"
              Version="0.5" URL="http://puredata.info/Members/rdz/software/mp3cast~/0.5/mp3cast~[v0.5](Linux-i386-32).dek"/>
   </Packages>
-  <Packages Name="Jamoma"/>
-  <Packages Name="bf-pd"/>
-  <Packages Name="spring22"/>
-  <Packages Name="chair"/>
   <Packages Name="chaos">
     <Package ID="Y2hhb3NfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6NTQ6MDVfY2hyMTVt"
              Author="chr15m" Timestamp="2015-08-07 14:54:05" Description="chaos-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
@@ -484,8 +406,6 @@
              Author="chr15m" Timestamp="2015-08-07 14:44:24" Description="hcs-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/hcs/hcs-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="mkmr"/>
-  <Packages Name="pispi"/>
   <Packages Name="cicmtools">
     <Package ID="Y2ljbXRvb2xzXzEuNV8yMDIxLTAyLTA3IDEzOjExOjU5X3BvcnJlcw=="
              Author="porres" Timestamp="2021-02-07 13:11:59" Description="cicmtools[v1.5](Linux-i386-32).dek"
@@ -505,33 +425,26 @@
              Author="residuum" Timestamp="2016-01-10 02:13:07" Description="purest_json-v1.4.0-(Linux-i386-32)-externals.tar.gz"
              Version="1.4.0" URL="http://puredata.info/Members/residuum/software/purest_json/1.4.0/purest_json-v1.4.0-(Linux-i386-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="nGui"/>
   <Packages Name="bassemu~">
     <Package ID="YmFzc2VtdX5fMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6MjY6MzlfY2hyMTVt"
              Author="chr15m" Timestamp="2015-08-07 14:26:39" Description="bassemu~-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/bassemu~/bassemu~-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="clk"/>
   <Packages Name="gigaverb~">
     <Package ID="Z2lnYXZlcmJ+XzAuNF8yMDIwLTAxLTA3IDE5OjA5OjIyX2Zqa3JhYW4="
              Author="fjkraan" Timestamp="2020-01-07 19:09:22" Description="gigaverb~[v0.4](Linux-i386-32)(Sources).dek"
              Version="0.4" URL="http://puredata.info/Members/fjkraan/software/gigaverb~/0.4/gigaverb~[v0.4](Linux-i386-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="grambilib"/>
-  <Packages Name="swe~"/>
-  <Packages Name="acre"/>
   <Packages Name="hexloader">
     <Package ID="aGV4bG9hZGVyXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjIxOjQ5X2NocjE1bQ=="
              Author="chr15m" Timestamp="2015-08-07 14:21:49" Description="hexloader-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/hexloader/hexloader-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="tracker"/>
   <Packages Name="filemtime">
     <Package ID="ZmlsZW10aW1lXzAuMC4wXzIwMjEtMDYtMTQgMjA6NTQ6MDNfbHVjYXJkYQ=="
              Author="lucarda" Timestamp="2021-06-14 20:54:03" Description="filemtime[v0.0.0](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
              Version="0.0.0" URL="http://puredata.info/Members/lucarda/software/filemtime/0.0.0/filemtime[v0.0.0](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"/>
   </Packages>
-  <Packages Name="dw_lib"/>
   <Packages Name="hid">
     <Package ID="aGlkXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjA2OjExX2NocjE1bQ=="
              Author="chr15m" Timestamp="2015-08-07 14:06:11" Description="hid-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
@@ -542,8 +455,6 @@
              Author="chr15m" Timestamp="2015-08-07 14:55:00" Description="iem_adaptfilt-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/iem_adaptfilt/iem_adaptfilt-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="planifolia"/>
-  <Packages Name="ndi"/>
   <Packages Name="webserver">
     <Package ID="d2Vic2VydmVyXzAuMC4xXzIwMjEtMDYtMTcgMjI6MTI6MDRfbHVjYXJkYQ=="
              Author="lucarda" Timestamp="2021-06-17 22:12:04" Description="webserver[v0.0.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
@@ -585,16 +496,11 @@
              Timestamp="2021-10-01 22:18:57" Description="command[v0.1](Linux-i386-32).dek"
              Version="0.1" URL="http://puredata.info/Members/rdz/software/command/0.1/command[v0.1](Linux-i386-32).dek"/>
   </Packages>
-  <Packages Name="hidin"/>
-  <Packages Name="jmmmp"/>
   <Packages Name="pdogg">
     <Package ID="cGRvZ2dfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTU6MTI6NDNfY2hyMTVt"
              Author="chr15m" Timestamp="2015-08-07 15:12:43" Description="pdogg-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/pdogg/pdogg-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="list-abs"/>
-  <Packages Name="hidio"/>
-  <Packages Name="vabs"/>
   <Packages Name="flite">
     <Package ID="ZmxpdGVfMC4zLjJfMjAyMi0wNi0yNCAxOTo0NDoxMV9sdWNhcmRh" Author="lucarda"
              Timestamp="2022-06-24 19:44:11" Description="flite[v0.3.2](Linux-amd64-32)(Linux-i386-32).dek"
@@ -605,28 +511,21 @@
              Author="chr15m" Timestamp="2015-08-07 14:42:20" Description="iem_ambi-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/iem_ambi/iem_ambi-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="upp"/>
-  <Packages Name="py"/>
-  <Packages Name="martha~"/>
   <Packages Name="iem_bin_ambi">
     <Package ID="aWVtX2Jpbl9hbWJpXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjQ4OjMwX2NocjE1bQ=="
              Author="chr15m" Timestamp="2015-08-07 14:48:30" Description="iem_bin_ambi-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/iem_bin_ambi/iem_bin_ambi-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="iem_vanilla"/>
   <Packages Name="boids">
     <Package ID="Ym9pZHNfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6NTg6MTNfY2hyMTVt"
              Author="chr15m" Timestamp="2015-08-07 14:58:13" Description="boids-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/boids/boids-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="lolPd"/>
-  <Packages Name="zconf"/>
   <Packages Name="iem_delay">
     <Package ID="aWVtX2RlbGF5XzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjA2OjU0X2NocjE1bQ=="
              Author="chr15m" Timestamp="2015-08-07 14:06:54" Description="iem_delay-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/iem_delay/iem_delay-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="la-kitchen"/>
   <Packages Name="iem_tab">
     <Package ID="aWVtX3RhYl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNTowMTo0N19jaHIxNW0="
              Author="chr15m" Timestamp="2015-08-07 15:01:47" Description="iem_tab-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
@@ -637,7 +536,6 @@
              Author="chr15m" Timestamp="2015-08-07 14:17:51" Description="vbap-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/vbap/vbap-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="patcherize-plugin"/>
   <Packages Name="iemmatrix">
     <Package ID="aWVtbWF0cml4XzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjE0OjE5X2NocjE1bQ=="
              Author="chr15m" Timestamp="2015-08-07 14:14:19" Description="iemmatrix-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
@@ -665,7 +563,6 @@
              Author="chr15m" Timestamp="2015-08-07 14:15:46" Description="iemxmlrpc-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/iemxmlrpc/iemxmlrpc-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="RabbitControl"/>
   <Packages Name="jasch_lib">
     <Package ID="amFzY2hfbGliXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjA4OjQ4X2NocjE1bQ=="
              Author="chr15m" Timestamp="2015-08-07 14:08:48" Description="jasch_lib-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
@@ -704,7 +601,6 @@
              Author="chr15m" Timestamp="2015-08-07 15:00:00" Description="iemlib-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/iemlib/iemlib-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="kiosk-plugin"/>
   <Packages Name="libdir">
     <Package ID="bGliZGlyXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE1OjA0OjQzX2NocjE1bQ=="
              Author="chr15m" Timestamp="2015-08-07 15:04:43" Description="libdir-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
@@ -723,7 +619,6 @@
              Author="chr15m" Timestamp="2015-08-07 15:05:36" Description="pmpd-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/pmpd/pmpd-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="pii2c"/>
   <Packages Name="iem_roomsim">
     <Package ID="aWVtX3Jvb21zaW1fMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6MjY6MDBfY2hyMTVt"
              Author="chr15m" Timestamp="2015-08-07 14:26:00" Description="iem_roomsim-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
@@ -734,13 +629,11 @@
              Author="lucarda" Timestamp="2021-03-17 00:09:44" Description="lyonpotpourri[v3.0.0](Linux-i386-32).dek"
              Version="3.0.0" URL="http://puredata.info/Members/lucarda/software/lyonpotpourri[v3.0.0](Linux-i386-32).dek"/>
   </Packages>
-  <Packages Name="mapping"/>
   <Packages Name="markex">
     <Package ID="bWFya2V4XzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE1OjAyOjMxX2NocjE1bQ=="
              Author="chr15m" Timestamp="2015-08-07 15:02:31" Description="markex-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/markex/markex-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="deken-plugin"/>
   <Packages Name="maxlib">
     <Package ID="bWF4bGliXzEuNS44XzIwMTktMTItMjAgMTc6MjA6MDBfZmprcmFhbg=="
              Author="fjkraan" Timestamp="2019-12-20 17:20:00" Description="maxlib[v1.5.8](Linux-i386-32)(Sources).dek"
@@ -759,7 +652,6 @@
              Author="porres" Timestamp="2021-01-28 02:09:36" Description="soundtouch~[v0.9](Darwin-i386-32)(Darwin-ppc-32)(Linux-i386-32)(Windows-i386-32)(Sources).dek"
              Version="0.9" URL="http://puredata.info/Members/porres/software/soundtouch~/0.9/soundtouch~[v0.9](Darwin-i386-32)(Darwin-ppc-32)(Linux-i386-32)(Windows-i386-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="midifile"/>
   <Packages Name="windowing">
     <Package ID="d2luZG93aW5nXzAuMi4wXzIwMTktMTItMjggMjE6MjM6MzhfZmprcmFhbg=="
              Author="fjkraan" Timestamp="2019-12-28 21:23:38" Description="windowing[v0.2.0](Linux-i386-32)(Sources).dek"
@@ -768,8 +660,6 @@
              Author="chr15m" Timestamp="2015-08-07 14:11:51" Description="windowing-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/windowing/windowing-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="nsend"/>
-  <Packages Name="scrollpage-plugin"/>
   <Packages Name="iem16">
     <Package ID="aWVtMTZfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6MTY6MjNfY2hyMTVt"
              Author="chr15m" Timestamp="2015-08-07 14:16:23" Description="iem16-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
@@ -811,8 +701,6 @@
              Author="chr15m" Timestamp="2015-08-07 14:49:22" Description="osc-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/osc/osc-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="doublechord-plugin"/>
-  <Packages Name="muug"/>
   <Packages Name="nicinfo">
     <Package ID="bmljaW5mb18wLjAuMF8yMDIxLTA2LTAxIDEyOjU4OjUxX2x1Y2FyZGE="
              Author="lucarda" Timestamp="2021-06-01 12:58:51" Description="nicinfo[v0.0.0](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
@@ -837,6 +725,4 @@
              Author="chr15m" Timestamp="2015-08-07 14:25:23" Description="comport-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/comport/comport-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="easyflow"/>
-  <Packages Name="osci"/>
 </Linux-i386-32>

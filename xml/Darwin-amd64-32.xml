@@ -6,7 +6,6 @@
              Author="lucarda" Timestamp="2021-11-16 10:07:45" Description="websocketserver[v0.0.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
              Version="0.0.2" URL="http://puredata.info/Members/lucarda/software/websocketserver/0.0.2/websocketserver[v0.0.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"/>
   </Packages>
-  <Packages Name="vinylcontrol~"/>
   <Packages Name="zexy">
     <Package ID="emV4eV8yLjQuMV8yMDIyLTAyLTAyIDE3OjE0OjA5X3ptb2VsbmlnYm90"
              Author="zmoelnigbot" Timestamp="2022-02-02 17:14:09" Description="zexy[v2.4.1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
@@ -38,13 +37,11 @@
              Author="zmoelnig" Timestamp="2015-12-10 14:35:11" Description="vanilla-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/vanilla/0-0extended/vanilla-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="unicode"/>
   <Packages Name="unauthorized">
     <Package ID="dW5hdXRob3JpemVkXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MzQ6NTRfem1vZWxuaWc="
              Author="zmoelnig" Timestamp="2015-12-10 14:34:54" Description="unauthorized-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/unauthorized/0-0extended/unauthorized-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="tune~"/>
   <Packages Name="triggerize-plugin">
     <Package ID="dHJpZ2dlcml6ZS1wbHVnaW5fMC4yLjJfMjAxOC0xMC0wMSAyMTozNzozNl96bW9lbG5pZ2JvdA=="
              Author="zmoelnigbot" Timestamp="2018-10-01 21:37:36" Description="triggerize-plugin[v0.2.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"
@@ -53,21 +50,16 @@
              Author="zmoelnigbot" Timestamp="2018-05-29 17:24:18" Description="triggerize-plugin[v0.2.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"
              Version="0.2.1" URL="http://puredata.info/Members/zmoelnigbot/software/punish/v0.2.1/triggerize-plugin/triggerize-plugin[v0.2.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"/>
   </Packages>
-  <Packages Name="timeStretch~"/>
   <Packages Name="timbreIDLib">
     <Package ID="dGltYnJlSURMaWJfMC45LjFfMjAyMi0wNy0xOCAyMjozMzoyNV93bWJyZW50"
              Author="wmbrent" Timestamp="2022-07-18 22:33:25" Description="timbreIDLib[v0.9.1](Darwin-amd64-32)(Darwin-arm64-32).dek"
              Version="0.9.1" URL="http://puredata.info/Members/wmbrent/software/timbreIDLib/0.9.1/timbreIDLib[v0.9.1](Darwin-amd64-32)(Darwin-arm64-32).dek"/>
   </Packages>
-  <Packages Name="testtools"/>
-  <Packages Name="tclprompt-plugin"/>
-  <Packages Name="tabreceive_mult~"/>
   <Packages Name="syslog">
     <Package ID="c3lzbG9nXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MzM6NTFfem1vZWxuaWc="
              Author="zmoelnig" Timestamp="2015-12-10 14:33:51" Description="syslog-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/syslog/0-0extended/syslog-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="spect_scaled"/>
   <Packages Name="slip">
     <Package ID="c2xpcF8wLjF+Z2l0MjAxNTExMThfMjAxNS0xMi0xNSAwOTo0NjowN19yZHo="
              Author="rdz" Timestamp="2015-12-15 09:46:07" Description="slip-v0.1~git20151118-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz"
@@ -81,7 +73,6 @@
              Author="zmoelnig" Timestamp="2015-12-10 14:33:19" Description="sigpack-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/sigpack/0-0extended/sigpack-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="sfruit"/>
   <Packages Name="saturator">
     <Package ID="c2F0dXJhdG9yXzAuMy41XzIwMTYtMDctMzAgMjA6MzY6NDNfc2F0dXJubw=="
              Author="saturno" Timestamp="2016-07-30 20:36:43" Description="saturator-v0.3.5-(Darwin-i386-32)(Sources)(Darwin-x86_64-32)(Linux-amd64-64)(Windows-i386-32)-externals.zip"
@@ -92,7 +83,6 @@
              Author="jwmatthys" Timestamp="2015-06-17 20:28:05" Description="rtcmix~-v0.4-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0.4" URL="http://puredata.info/Members/jwmatthys/rtcmix~-v0.4-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="rtc"/>
   <Packages Name="readdir">
     <Package ID="cmVhZGRpcl8wLjAzfmdpdDIwMTUxMTE2XzIwMTUtMTItMTUgMDk6NDU6MzhfcmR6"
              Author="rdz" Timestamp="2015-12-15 09:45:38" Description="readdir-v0.03~git20151116-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz"
@@ -106,9 +96,6 @@
              Timestamp="2022-02-25 12:27:27" Description="quilt[v0.7.7](Darwin-amd64-32).dek"
              Version="0.7.7" URL="http://puredata.info/Members/myQwil/software/quilt/0.7.7/quilt[v0.7.7](Darwin-amd64-32).dek"/>
   </Packages>
-  <Packages Name="queryresponse"/>
-  <Packages Name="py4pd"/>
-  <Packages Name="puremapping"/>
   <Packages Name="pulqui">
     <Package ID="cHVscXVpXzAuMS4xXzIwMjItMDgtMDMgMjM6NDg6MjhfbHVjYXJkYQ=="
              Author="lucarda" Timestamp="2022-08-03 23:48:28" Description="pulqui[v0.1.1](Darwin-amd64-32).dek"
@@ -138,7 +125,6 @@
              Timestamp="2022-02-15 22:55:16" Description="pool[v0.2.2](Darwin-amd64-32)(Darwin-i386-32).dek"
              Version="0.2.2" URL="http://puredata.info/Members/thomas/software/pool/0.2.2/pool[v0.2.2](Darwin-amd64-32)(Darwin-i386-32).dek"/>
   </Packages>
-  <Packages Name="pix_opencv"/>
   <Packages Name="tclpd">
     <Package ID="dGNscGRfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDozNDowOV96bW9lbG5pZw=="
              Author="zmoelnig" Timestamp="2015-12-10 14:34:09" Description="tclpd-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
@@ -157,9 +143,6 @@
              Timestamp="2019-03-13 10:15:00" Description="shmem[v1.0](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-i386-32)(Sources).dek"
              Version="1.0" URL="http://puredata.info/Members/chnry/software/shmem/1.0/shmem[v1.0](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-i386-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="pix_artoolkit"/>
-  <Packages Name="pduino"/>
-  <Packages Name="pdpp"/>
   <Packages Name="shadylib">
     <Package ID="c2hhZHlsaWJfMi4zLjBfMjAyMC0xMi0xNCAyMjowNzo1OF9zZWJmdW1hc3Rlcg=="
              Author="sebfumaster" Timestamp="2020-12-14 22:07:58" Description="shadylib[v2.3.0](Darwin-amd64-32).dek"
@@ -183,13 +166,11 @@
              Author="sebfumaster" Timestamp="2017-09-15 08:01:34" Description="shadylib/2.0 (OSX-64 bit w/source)"
              Version="2.0" URL="http://puredata.info/downloads/shadylib/releases/2.0/shadylib-v2.0-(Darwin-i386-32)(Sources)(Darwin-x86_64-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="pdpii2c"/>
   <Packages Name="pdp">
     <Package ID="cGRwXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MzE6MDVfem1vZWxuaWc="
              Author="zmoelnig" Timestamp="2015-12-10 14:31:05" Description="pdp-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/pdp/0-0extended/pdp-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="pdmus"/>
   <Packages Name="pdjs">
     <Package ID="cGRqc18xLjIuNzRfMjAyMS0wMS0yNyAxNToxOTo1Nl9tZ2Fuc3M=" Author="mganss"
              Timestamp="2021-01-27 15:19:56" Description="pdjs[v1.2.74](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv8-32)(Windows-amd64-32).dek"
@@ -207,7 +188,6 @@
              Timestamp="2020-11-16 19:03:23" Description="pdjs[v1.2.63](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Windows-amd64-32).dek"
              Version="1.2.63" URL="http://puredata.info/Members/mganss/software/pdjs/1.2.63/pdjs[v1.2.63](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Windows-amd64-32).dek"/>
   </Packages>
-  <Packages Name="pde"/>
   <Packages Name="senselmorph">
     <Package ID="c2Vuc2VsbW9ycGhfMS4yLjFfMjAyMC0wOC0yOCAwNTozMTo0NF9MMk9yaw=="
              Author="L2Ork" Timestamp="2020-08-28 05:31:44" Description="senselmorph[v1.2.1](Darwin-amd64-32).dek"
@@ -221,9 +201,6 @@
              Author="zmoelnig" Timestamp="2015-12-10 14:29:33" Description="pdcontainer-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/pdcontainer/0-0extended/pdcontainer-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="ws"/>
-  <Packages Name="streamStretch~"/>
-  <Packages Name="pd-zmq"/>
   <Packages Name="vasp">
     <Package ID="dmFzcF8wLjEuNF8yMDIyLTAyLTE2IDE3OjA3OjEyX3Rob21hcw==" Author="thomas"
              Timestamp="2022-02-16 17:07:12" Description="vasp[v0.1.4](Darwin-amd64-32)(Darwin-arm64-32).dek"
@@ -237,10 +214,6 @@
              Author="zmoelnig" Timestamp="2015-12-10 14:30:17" Description="pdlua-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/pdlua/0-0extended/pdlua-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="pd-wavelet"/>
-  <Packages Name="pd-push-and-hold"/>
-  <Packages Name="patch2svg-plugin"/>
-  <Packages Name="pan"/>
   <Packages Name="ossia">
     <Package ID="b3NzaWFfMS4yLjVfMjAyMS0wMy0wOSAyMDo1NzoxOF9vc3NpYQ==" Author="ossia"
              Timestamp="2021-03-09 20:57:18" Description="ossia-v1.2.5-(Darwin-x86_64-64)(Darwin-x86_64-32)-externals.tar.gz"
@@ -338,7 +311,6 @@
              Author="zmoelnig" Timestamp="2015-12-10 14:29:14" Description="oscx-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/oscx/0-0extended/oscx-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="gem2pdp"/>
   <Packages Name="faustgen~">
     <Package ID="ZmF1c3RnZW5+XzAuMS4yXzIwMjAtMDgtMDMgMTc6Mzg6MjVfcGllcnJlZ2x0"
              Author="pierreglt" Timestamp="2020-08-03 17:38:25" Description="faustgen~[v0.1.2](Darwin-amd64-32)(Sources).dek"
@@ -460,7 +432,6 @@
              Timestamp="2017-07-10 22:31:55" Description="convolve~-v0.9-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0.9" URL="http://puredata.info/Members/rdz/software/convolve~/0.9/convolve~-v0.9-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="ezaoo"/>
   <Packages Name="ceammc">
     <Package ID="Y2VhbW1jXzAuOS40XzIwMjEtMTEtMjAgMjM6MzA6MzJfYW5hZGphcm92"
              Author="anadjarov" Timestamp="2021-11-20 23:30:32" Description="ceammc[v0.9.4](Darwin-amd64-32).dek"
@@ -528,7 +499,6 @@
              Author="josephlarralde" Timestamp="2018-11-05 04:15:52" Description="jl[v0.1.1](Darwin-amd64-32)(Darwin-i386-32).dek"
              Version="0.1.1" URL="http://puredata.info/Members/josephlarralde/software/jl/0.1.1/jl[v0.1.1](Darwin-amd64-32)(Darwin-i386-32).dek"/>
   </Packages>
-  <Packages Name="hotfix732-deadkeys-plugin"/>
   <Packages Name="adaptive">
     <Package ID="YWRhcHRpdmVfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxMzozNl96bW9lbG5pZw=="
              Author="zmoelnig" Timestamp="2015-12-10 14:13:36" Description="adaptive-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
@@ -554,7 +524,6 @@
              Author="zmoelnig" Timestamp="2015-12-10 14:18:36" Description="extra-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/extra/0-0extended/extra-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="audiolab"/>
   <Packages Name="iem_spec2">
     <Package ID="aWVtX3NwZWMyXzEuMjFfMjAxOC0xMS0yOSAxNjoxNToyNF9tdXNpbA=="
              Author="musil" Timestamp="2018-11-29 16:15:24" Description="iem_spec2[v1.21](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32)(Sources).dek"
@@ -574,7 +543,6 @@
              Author="zmoelnig" Timestamp="2015-12-10 14:22:40" Description="iemgui-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/iemgui/0-0extended/iemgui-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="purepd"/>
   <Packages Name="fftease">
     <Package ID="ZmZ0ZWFzZV8zLjAuMV8yMDIxLTAzLTAxIDA0OjM1OjIzX2x1Y2FyZGE="
              Author="lucarda" Timestamp="2021-03-01 04:35:23" Description="fftease[v3.0.1](Darwin-amd64-32)(Darwin-i386-32).dek"
@@ -591,7 +559,6 @@
              Author="zmoelnig" Timestamp="2015-12-10 14:17:52" Description="ekext-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/ekext/0-0extended/ekext-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="bassemu"/>
   <Packages Name="jit_expr">
     <Package ID="aml0X2V4cHJfMC4xLjFfMjAxOC0wNC0wMiAxODoxODoyOV94Mzd2" Author="x37v"
              Timestamp="2018-04-02 18:18:29" Description="jit_expr[v0.1.1](Darwin-amd64-32)(Darwin-i386-32).dek"
@@ -611,7 +578,6 @@
              Author="zmoelnig" Timestamp="2018-12-23 18:17:43" Description="Gem/0.94~pre1 (deken-archive for macOS Intel/64bit)"
              Version="0.94~pre1" URL="http://puredata.info/downloads/gem/releases/0.94_pre1/Gem[v0.94~pre1](Darwin-amd64-32).dek"/>
   </Packages>
-  <Packages Name="lerdahl"/>
   <Packages Name="bsaylor">
     <Package ID="YnNheWxvcl8wLjEuMS0yMDE1MDUyOWllbV8yMDE2LTA4LTMwIDE0OjMwOjQxX3ptb2Vsbmln"
              Author="zmoelnig" Timestamp="2016-08-30 14:30:41" Description="bsaylor-v0.1.1-20150529iem-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz"
@@ -638,7 +604,6 @@
              Author="chnry" Timestamp="2019-03-13 10:12:20" Description="nusmuk-utils[v2015](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-i386-32)(Sources).dek"
              Version="2015" URL="http://puredata.info/Members/chnry/software/nusmuk-utils/2015/nusmuk-utils[v2015](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-i386-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="completion-plugin"/>
   <Packages Name="aoo">
     <Package ID="YW9vXzIuMC1wcmUyXzIwMjAtMDYtMjAgMjE6MjY6MTVfc3BhY2VjaGlsZDE="
              Author="spacechild1" Timestamp="2020-06-20 21:26:15" Description="aoo[v2.0-pre2](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
@@ -647,8 +612,6 @@
              Author="spacechild1" Timestamp="2020-04-03 23:43:48" Description="aoo[v2.0-pre1](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
              Version="2.0-pre1" URL="http://puredata.info/Members/spacechild1/software/aoo/2.0-pre1/aoo[v2.0-pre1](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"/>
   </Packages>
-  <Packages Name="mc"/>
-  <Packages Name="missive~"/>
   <Packages Name="algo~">
     <Package ID="YWxnb35fMS4wLjFfMjAyMC0wOS0wMiAxNToxMDoxMl93bWJyZW50" Author="wmbrent"
              Timestamp="2020-09-02 15:10:12" Description="algo~[v1.0.1](Darwin-amd64-32).dek"
@@ -674,7 +637,6 @@
              Author="cuinjune" Timestamp="2018-04-29 18:11:49" Description="ofelia-v1.0.8-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="1.0.8" URL="http://puredata.info/Members/cuinjune/software/ofelia/1.0.8/ofelia-v1.0.8-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="XXX-deken-test"/>
   <Packages Name="iemguts">
     <Package ID="aWVtZ3V0c18wLjMuMV8yMDIyLTAzLTMwIDE4OjMwOjI2X3ptb2VsbmlnYm90"
              Author="zmoelnigbot" Timestamp="2022-03-30 18:30:26" Description="iemguts[v0.3.1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
@@ -717,8 +679,6 @@
              Author="porres" Timestamp="2021-09-27 16:46:38" Description="else[v1.0-0_beta44_with_live_electronics_tutorial](Darwin-amd64-32)(Darwin-i386-32).dek"
              Version="1.0-0_beta44_with_live_electronics_tutorial" URL="http://puredata.info/Members/porres/software/else/1.0-0_beta44_with_live_electronics_tutorial/else[v1.0-0_beta44_with_live_electronics_tutorial](Darwin-amd64-32)(Darwin-i386-32).dek"/>
   </Packages>
-  <Packages Name="search-plugin"/>
-  <Packages Name="PDContainer"/>
   <Packages Name="echocurve~">
     <Package ID="ZWNob2N1cnZlfl8wLjFfMjAxOC0wOC0wNiAwNzozNjowN19qd21hdHRoeXM="
              Author="jwmatthys" Timestamp="2018-08-06 07:36:07" Description="echocurve~[v0.1](Darwin-amd64-32)(Darwin-i386-32)(Sources).dek"
@@ -734,14 +694,11 @@
              Author="zmoelnig" Timestamp="2015-12-10 14:14:10" Description="arraysize-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/arraysize/0-0extended/arraysize-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="aconnect"/>
-  <Packages Name="art_net"/>
   <Packages Name="earplug~">
     <Package ID="ZWFycGx1Z35fMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxNzoyNF96bW9lbG5pZw=="
              Author="zmoelnig" Timestamp="2015-12-10 14:17:24" Description="earplug~-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/earplug~/0-0extended/earplug~-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="iempluginOSC"/>
   <Packages Name="xsample">
     <Package ID="eHNhbXBsZV8wLjMuMl8yMDIyLTA3LTEwIDAxOjE0OjI4X3Rob21hcw=="
              Author="thomas" Timestamp="2022-07-10 01:14:28" Description="xsample[v0.3.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Windows-amd64-32).dek"
@@ -774,8 +731,6 @@
              Author="zmoelnig" Timestamp="2015-12-10 14:28:33" Description="net-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/net/0-0extended/net-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="timestretch"/>
-  <Packages Name="shotnoise"/>
   <Packages Name="neuralnet">
     <Package ID="bmV1cmFsbmV0XzAuMl8yMDIyLTA3LTA5IDE2OjUwOjMzX2FsZXhhbmRyb3M="
              Author="alexandros" Timestamp="2022-07-09 16:50:33" Description="neuralnet[v0.2](Darwin-amd64-32)(Darwin-i386-32)(Sources).dek"
@@ -809,9 +764,6 @@
              Timestamp="2022-05-12 22:33:36" Description="mp3cast~[v0.5](Darwin-amd64-32).dek"
              Version="0.5" URL="http://puredata.info/Members/rdz/software/mp3cast~/0.5/mp3cast~[v0.5](Darwin-amd64-32).dek"/>
   </Packages>
-  <Packages Name="Jamoma"/>
-  <Packages Name="bf-pd"/>
-  <Packages Name="spring22"/>
   <Packages Name="chair">
     <Package ID="Y2hhaXJfMC41Ml8yMDE4LTExLTI0IDE4OjM4OjE2X0NIQUlS" Author="CHAIR"
              Timestamp="2018-11-24 18:38:16" Description="chair[v0.52](Darwin-x86_64-32).dek"
@@ -901,8 +853,6 @@
              Author="zmoelnig" Timestamp="2015-12-10 14:20:03" Description="hcs-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/hcs/0-0extended/hcs-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="mkmr"/>
-  <Packages Name="pispi"/>
   <Packages Name="cicmtools">
     <Package ID="Y2ljbXRvb2xzXzEuNV8yMDIxLTAyLTA2IDIwOjAwOjU0X3BvcnJlcw=="
              Author="porres" Timestamp="2021-02-06 20:00:54" Description="cicmtools[v1.5](Darwin-amd64-32)(Darwin-i386-32).dek"
@@ -916,7 +866,6 @@
              Author="residuum" Timestamp="2017-01-03 13:49:21" Description="purest_json-v1.4.2-(Darwin-x86_64-64)-externals.tar.gz"
              Version="1.4.2" URL="http://puredata.info/Members/residuum/software/purest_json/1.4.2/purest_json-v1.4.2-(Darwin-x86_64-64)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="nGui"/>
   <Packages Name="bassemu~">
     <Package ID="YmFzc2VtdX5fMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxNDoyOV96bW9lbG5pZw=="
              Author="zmoelnig" Timestamp="2015-12-10 14:14:29" Description="bassemu~-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
@@ -941,13 +890,11 @@
              Timestamp="2016-02-16 18:05:52" Description="gigaverb~(Darwin-i386-32)(Sources)(Darwin-x86_64-32)-externals.tar.gz"
              Version="" URL="http://puredata.info/Members/dis/software/gigaverb~/gigaverb~(Darwin-i386-32)(Sources)(Darwin-x86_64-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="grambilib"/>
   <Packages Name="swe~">
     <Package ID="c3dlfl8wLjdfMjAxNy0xMS0xNyAwODozNjo0N19qd21hdHRoeXM=" Author="jwmatthys"
              Timestamp="2017-11-17 08:36:47" Description="swe~-v0.7-(Darwin-i386-32)(Sources)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0.7" URL="http://puredata.info/Members/jwmatthys/software/swe~/0.7/swe~-v0.7-(Darwin-i386-32)(Sources)(Darwin-x86_64-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="acre"/>
   <Packages Name="hexloader">
     <Package ID="aGV4bG9hZGVyXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MjA6MjBfem1vZWxuaWc="
              Author="zmoelnig" Timestamp="2015-12-10 14:20:20" Description="hexloader-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
@@ -981,7 +928,6 @@
              Author="zmoelnig" Timestamp="2015-12-10 14:21:16" Description="iem_adaptfilt-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/iem_adaptfilt/0-0extended/iem_adaptfilt-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="planifolia"/>
   <Packages Name="ndi">
     <Package ID="bmRpXzAuMC4wXzIwMjAtMDYtMDcgMjE6NTk6NTRfYXZpbGxlcmV0" Author="avilleret"
              Timestamp="2020-06-07 21:59:54" Description="ndi-v0.0.0-(Darwin-x86_64-64)-externals.tar.gz"
@@ -1064,16 +1010,11 @@
              Timestamp="2021-10-01 22:19:51" Description="command[v0.1](Darwin-amd64-32).dek"
              Version="0.1" URL="http://puredata.info/Members/rdz/software/command/0.1/command[v0.1](Darwin-amd64-32).dek"/>
   </Packages>
-  <Packages Name="hidin"/>
-  <Packages Name="jmmmp"/>
   <Packages Name="pdogg">
     <Package ID="cGRvZ2dfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDozMDozOV96bW9lbG5pZw=="
              Author="zmoelnig" Timestamp="2015-12-10 14:30:39" Description="pdogg-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/pdogg/0-0extended/pdogg-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="list-abs"/>
-  <Packages Name="hidio"/>
-  <Packages Name="vabs"/>
   <Packages Name="flite">
     <Package ID="ZmxpdGVfMC4zLjJfMjAyMi0wNi0yNCAxOTo0NjoyOV9sdWNhcmRh" Author="lucarda"
              Timestamp="2022-06-24 19:46:29" Description="flite[v0.3.2](Darwin-amd64-32).dek"
@@ -1090,25 +1031,21 @@
              Author="zmoelnig" Timestamp="2015-12-10 14:21:34" Description="iem_ambi-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/iem_ambi/0-0extended/iem_ambi-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="upp"/>
   <Packages Name="py">
     <Package ID="cHlfMC4yLjJfMjAyMi0wMi0xNSAyMjo1NjowMF90aG9tYXM=" Author="thomas"
              Timestamp="2022-02-15 22:56:00" Description="py[v0.2.2](Darwin-amd64-32)(Darwin-i386-32).dek"
              Version="0.2.2" URL="http://puredata.info/Members/thomas/software/py/0.2.2/py[v0.2.2](Darwin-amd64-32)(Darwin-i386-32).dek"/>
   </Packages>
-  <Packages Name="martha~"/>
   <Packages Name="iem_bin_ambi">
     <Package ID="aWVtX2Jpbl9hbWJpXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MjE6NTdfem1vZWxuaWc="
              Author="zmoelnig" Timestamp="2015-12-10 14:21:57" Description="iem_bin_ambi-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/iem_bin_ambi/0-0extended/iem_bin_ambi-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="iem_vanilla"/>
   <Packages Name="boids">
     <Package ID="Ym9pZHNfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxNDo0NF96bW9lbG5pZw=="
              Author="zmoelnig" Timestamp="2015-12-10 14:14:44" Description="boids-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/boids/0-0extended/boids-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="lolPd"/>
   <Packages Name="zconf">
     <Package ID="emNvbmZfMC4yLjFfMjAyMi0wMi0xNiAxODo1Nzo1Nl90aG9tYXM=" Author="thomas"
              Timestamp="2022-02-16 18:57:56" Description="zconf[v0.2.1](Darwin-amd64-32)(Darwin-arm64-32).dek"
@@ -1122,7 +1059,6 @@
              Author="zmoelnig" Timestamp="2015-12-10 14:22:14" Description="iem_delay-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/iem_delay/0-0extended/iem_delay-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="la-kitchen"/>
   <Packages Name="iem_tab">
     <Package ID="aWVtX3RhYl8xLjIxXzIwMTgtMTEtMjkgMTY6MTY6NDRfbXVzaWw=" Author="musil"
              Timestamp="2018-11-29 16:16:44" Description="iem_tab[v1.21](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32)(Sources).dek"
@@ -1256,7 +1192,6 @@
              Author="zmoelnig" Timestamp="2015-12-10 14:23:18" Description="iemlib-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/iemlib/0-0extended/iemlib-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="kiosk-plugin"/>
   <Packages Name="libdir">
     <Package ID="bGliZGlyXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MjU6Mzdfem1vZWxuaWc="
              Author="zmoelnig" Timestamp="2015-12-10 14:25:37" Description="libdir-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
@@ -1278,7 +1213,6 @@
              Author="zmoelnig" Timestamp="2015-12-10 14:33:01" Description="pmpd-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/pmpd/0-0extended/pmpd-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="pii2c"/>
   <Packages Name="iem_roomsim">
     <Package ID="aWVtX3Jvb21zaW1fMS4yMV8yMDE4LTExLTI5IDE2OjE0OjE5X211c2ls"
              Author="musil" Timestamp="2018-11-29 16:14:19" Description="iem_roomsim[v1.21](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32)(Sources).dek"
@@ -1292,13 +1226,11 @@
              Author="lucarda" Timestamp="2021-03-17 00:05:44" Description="lyonpotpourri[v3.0.0](Darwin-amd64-32)(Darwin-i386-32).dek"
              Version="3.0.0" URL="http://puredata.info/Members/lucarda/software/lyonpotpourri[v3.0.0](Darwin-amd64-32)(Darwin-i386-32).dek"/>
   </Packages>
-  <Packages Name="mapping"/>
   <Packages Name="markex">
     <Package ID="bWFya2V4XzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MjY6MDZfem1vZWxuaWc="
              Author="zmoelnig" Timestamp="2015-12-10 14:26:06" Description="markex-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/markex/0-0extended/markex-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="deken-plugin"/>
   <Packages Name="maxlib">
     <Package ID="bWF4bGliXzEuNS44XzIwMTktMTItMjAgMTc6MTg6NDNfZmprcmFhbg=="
              Author="fjkraan" Timestamp="2019-12-20 17:18:43" Description="maxlib[v1.5.8](Darwin-amd64-32)(Darwin-i386-32)(Sources).dek"
@@ -1339,8 +1271,6 @@
              Author="zmoelnig" Timestamp="2015-12-10 14:35:45" Description="windowing-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/windowing/0-0extended/windowing-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="nsend"/>
-  <Packages Name="scrollpage-plugin"/>
   <Packages Name="iem16">
     <Package ID="aWVtMTZfMS4yXzIwMjEtMDktMjQgMTE6Mjc6MDNfaWVtYm90" Author="iembot"
              Timestamp="2021-09-24 11:27:03" Description="iem16[v1.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"
@@ -1431,7 +1361,6 @@
              Author="zmoelnig" Timestamp="2015-12-10 14:15:58" Description="comport-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/comport/0-0extended/comport-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="easyflow"/>
   <Packages Name="osci">
     <Package ID="b3NjaV8wLjIuMF8yMDIxLTA3LTIwIDE4OjQ5OjQ3X2VyaWNsZW5uYXJ0c29u"
              Author="ericlennartson" Timestamp="2021-07-20 18:49:47" Description="osci[v0.2.0](Darwin-amd64-32).dek"

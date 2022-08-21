@@ -12,7 +12,6 @@
              Author="lucarda" Timestamp="2021-06-01 13:03:21" Description="websocketserver[v0.0.0](Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
              Version="0.0.0" URL="http://puredata.info/Members/lucarda/software/websocketserver/0.0.0/websocketserver[v0.0.0](Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"/>
   </Packages>
-  <Packages Name="vinylcontrol~"/>
   <Packages Name="zexy">
     <Package ID="emV4eV8yLjQuMV8yMDIyLTAyLTAyIDE3OjE0OjA5X3ptb2VsbmlnYm90"
              Author="zmoelnigbot" Timestamp="2022-02-02 17:14:09" Description="zexy[v2.4.1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
@@ -33,14 +32,11 @@
              Author="lucarda" Timestamp="2018-09-26 03:51:04" Description="zexy[v0.0.extended](Windows-amd64-32)(Sources).dek"
              Version="0.0.extended" URL="http://puredata.info/Members/lucarda/software/zexy[v0.0.extended](Windows-amd64-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="vanilla"/>
-  <Packages Name="unicode"/>
   <Packages Name="unauthorized">
     <Package ID="dW5hdXRob3JpemVkXzAuMV8yMDIyLTAyLTA0IDExOjA2OjI5X2x1Y2FyZGE="
              Author="lucarda" Timestamp="2022-02-04 11:06:29" Description="unauthorized[v0.1](Windows-amd64-32)(Sources).dek"
              Version="0.1" URL="http://puredata.info/Members/lucarda/software/unauthorized/0.1/unauthorized[v0.1](Windows-amd64-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="tune~"/>
   <Packages Name="triggerize-plugin">
     <Package ID="dHJpZ2dlcml6ZS1wbHVnaW5fMC4yLjJfMjAxOC0xMC0wMSAyMTozNzozNl96bW9lbG5pZ2JvdA=="
              Author="zmoelnigbot" Timestamp="2018-10-01 21:37:36" Description="triggerize-plugin[v0.2.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"
@@ -49,17 +45,11 @@
              Author="zmoelnigbot" Timestamp="2018-05-29 17:24:18" Description="triggerize-plugin[v0.2.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"
              Version="0.2.1" URL="http://puredata.info/Members/zmoelnigbot/software/punish/v0.2.1/triggerize-plugin/triggerize-plugin[v0.2.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"/>
   </Packages>
-  <Packages Name="timeStretch~"/>
   <Packages Name="timbreIDLib">
     <Package ID="dGltYnJlSURMaWJfMC45LjFfMjAyMi0wNy0xOCAyMjozODozNl93bWJyZW50"
              Author="wmbrent" Timestamp="2022-07-18 22:38:36" Description="timbreIDLib[v0.9.1](Windows-amd64-32).dek"
              Version="0.9.1" URL="http://puredata.info/Members/wmbrent/software/timbreIDLib/0.9.1/timbreIDLib[v0.9.1](Windows-amd64-32).dek"/>
   </Packages>
-  <Packages Name="testtools"/>
-  <Packages Name="tclprompt-plugin"/>
-  <Packages Name="tabreceive_mult~"/>
-  <Packages Name="syslog"/>
-  <Packages Name="spect_scaled"/>
   <Packages Name="slip">
     <Package ID="c2xpcF8wLjF+Z2l0MjAxODEwMDZfMjAxOS0wNC0yOCAyMjozMTo1MV9yZHo="
              Author="rdz" Timestamp="2019-04-28 22:31:51" Description="slip[v0.1~git20181006](Windows-amd64-32).dek"
@@ -73,10 +63,6 @@
              Author="lucarda" Timestamp="2019-01-12 00:45:29" Description="sigpack[v0.045](Windows-amd64-32)(Sources).dek"
              Version="0.045" URL="http://puredata.info/Members/lucarda/software/sigpack[v0.045](Windows-amd64-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="sfruit"/>
-  <Packages Name="saturator"/>
-  <Packages Name="rtcmix~"/>
-  <Packages Name="rtc"/>
   <Packages Name="readdir">
     <Package ID="cmVhZGRpcl8wLjAzfmdpdDIwMTUxMjIyXzIwMTktMDQtMjggMjI6MjM6MTlfcmR6"
              Author="rdz" Timestamp="2019-04-28 22:23:19" Description="readdir[v0.03~git20151222](Windows-amd64-32).dek"
@@ -90,7 +76,6 @@
              Timestamp="2022-02-25 12:28:07" Description="quilt[v0.7.7](Windows-amd64-32).dek"
              Version="0.7.7" URL="http://puredata.info/Members/myQwil/software/quilt/0.7.7/quilt[v0.7.7](Windows-amd64-32).dek"/>
   </Packages>
-  <Packages Name="queryresponse"/>
   <Packages Name="py4pd">
     <Package ID="cHk0cGRfMC4wLjJfMjAyMi0wOC0yMCAwMzozMTo0OF9jaGFybGVzbmVpbW9n"
              Author="charlesneimog" Timestamp="2022-08-20 03:31:48" Description="py4pd[v0.0.2](Windows-amd64-32)(Sources).dek"
@@ -99,7 +84,6 @@
              Author="charlesneimog" Timestamp="2022-08-02 01:24:25" Description="py4pd[v0.0.1](Windows-amd64-32)(Sources).dek"
              Version="0.0.1" URL="http://puredata.info/Members/charlesneimog/software/py4pd/0.0.1/py4pd[v0.0.1](Windows-amd64-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="puremapping"/>
   <Packages Name="pulqui">
     <Package ID="cHVscXVpXzAuMS4xXzIwMjItMDgtMDMgMjM6NTI6MTJfbHVjYXJkYQ=="
              Author="lucarda" Timestamp="2022-08-03 23:52:12" Description="pulqui[v0.1.1](Windows-amd64-32).dek"
@@ -126,9 +110,6 @@
              Timestamp="2020-03-04 13:26:01" Description="pool[v0.2.2](Windows-amd64-32).dek"
              Version="0.2.2" URL="http://puredata.info/Members/thomas/software/pool/0.2.2/pool[v0.2.2](Windows-amd64-32).dek"/>
   </Packages>
-  <Packages Name="pix_opencv"/>
-  <Packages Name="tclpd"/>
-  <Packages Name="pix_fiducialtrack"/>
   <Packages Name="shmem">
     <Package ID="c2htZW1fMS4xXzIwMjItMDMtMTkgMTU6MjQ6MjJfY2hucnk=" Author="chnry"
              Timestamp="2022-03-19 15:24:22" Description="shmem[v1.1](Darwin-amd64-32)(Linux-amd64-32)(Linux-armv7-32)(Windows-amd64-32)(Windows-i386-32).dek"
@@ -137,9 +118,6 @@
              Timestamp="2019-03-15 21:19:41" Description="shmem[v1.0](Windows-amd64-32)(Sources).dek"
              Version="1.0" URL="http://puredata.info/Members/lucarda/software/shmem[v1.0](Windows-amd64-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="pix_artoolkit"/>
-  <Packages Name="pduino"/>
-  <Packages Name="pdpp"/>
   <Packages Name="shadylib">
     <Package ID="c2hhZHlsaWJfMi4zLjBfMjAyMC0xMi0xNSAwNTo1MzozM19zZWJmdW1hc3Rlcg=="
              Author="sebfumaster" Timestamp="2020-12-15 05:53:33" Description="shadylib[v2.3.0](Windows-amd64-32).dek"
@@ -148,9 +126,6 @@
              Author="sebfumaster" Timestamp="2020-09-15 11:55:17" Description="shadylib[v2.2.0](Windows-amd64-32).dek"
              Version="2.2.0" URL="http://puredata.info/Members/sebfumaster/software/shadylib/2.2.0/shadylib[v2.2.0](Windows-amd64-32).dek"/>
   </Packages>
-  <Packages Name="pdpii2c"/>
-  <Packages Name="pdp"/>
-  <Packages Name="pdmus"/>
   <Packages Name="pdjs">
     <Package ID="cGRqc18xLjIuNzRfMjAyMS0wMS0yNyAxNToxOTo1Nl9tZ2Fuc3M=" Author="mganss"
              Timestamp="2021-01-27 15:19:56" Description="pdjs[v1.2.74](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv8-32)(Windows-amd64-32).dek"
@@ -171,22 +146,11 @@
              Timestamp="2020-11-12 16:41:49" Description="pdjs[v1.2.57](Linux-amd64-32)(Linux-arm64-32)(Windows-amd64-32).dek"
              Version="1.2.57" URL="http://puredata.info/Members/mganss/software/pdjs/1.2.57/pdjs[v1.2.57](Linux-amd64-32)(Linux-arm64-32)(Windows-amd64-32).dek"/>
   </Packages>
-  <Packages Name="pde"/>
-  <Packages Name="senselmorph"/>
-  <Packages Name="pdcontainer"/>
-  <Packages Name="ws"/>
-  <Packages Name="streamStretch~"/>
-  <Packages Name="pd-zmq"/>
   <Packages Name="vasp">
     <Package ID="dmFzcF8wLjEuNF8yMDIwLTAzLTE4IDAyOjM1OjE3X3Rob21hcw==" Author="thomas"
              Timestamp="2020-03-18 02:35:17" Description="vasp[v0.1.4](Windows-amd64-32).dek"
              Version="0.1.4" URL="http://puredata.info/Members/thomas/software/vasp/0.1.4/vasp[v0.1.4](Windows-amd64-32).dek"/>
   </Packages>
-  <Packages Name="pdlua"/>
-  <Packages Name="pd-wavelet"/>
-  <Packages Name="pd-push-and-hold"/>
-  <Packages Name="patch2svg-plugin"/>
-  <Packages Name="pan"/>
   <Packages Name="ossia">
     <Package ID="b3NzaWFfXzIwMjEtMTEtMDMgMDE6MTQ6NDBfb3NzaWE=" Author="ossia"
              Timestamp="2021-11-03 01:14:40" Description="ossia-v-(Windows-amd64-32)-externals.zip"
@@ -231,8 +195,6 @@
              Timestamp="2020-09-16 10:19:37" Description="ossia-vv1.0.6-(Windows-amd64-32)-externals.zip"
              Version="v1.0.6" URL="http://puredata.info/Members/ossia/software/ossia/v1.0.6/ossia-vv1.0.6-(Windows-amd64-32)-externals.zip"/>
   </Packages>
-  <Packages Name="oscx"/>
-  <Packages Name="gem2pdp"/>
   <Packages Name="faustgen~">
     <Package ID="ZmF1c3RnZW5+XzAuMS4yXzIwMjAtMDgtMDMgMTc6NDY6MDBfcGllcnJlZ2x0"
              Author="pierreglt" Timestamp="2020-08-03 17:46:00" Description="faustgen~[v0.1.2](Windows-amd64-32)(Sources).dek"
@@ -247,7 +209,6 @@
              Author="pierreglt" Timestamp="2018-07-27 14:19:26" Description="faustgen~[v0.0.5](Windows-amd64-32)(Sources).dek"
              Version="0.0.5" URL="http://puredata.info/Members/pierreglt/software/faustgen~/0.0.5/faustgen~[v0.0.5](Windows-amd64-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="jpcvisu"/>
   <Packages Name="dnd-plugin">
     <Package ID="ZG5kLXBsdWdpbl8wLjMuMF8yMDIxLTA0LTE2IDAyOjA2OjM1X2x1Y2FyZGE="
              Author="lucarda" Timestamp="2021-04-16 02:06:35" Description="dnd-plugin[v0.3.0](Windows-i386-32)(Windows-amd64-32).dek"
@@ -344,7 +305,6 @@
              Author="lucarda" Timestamp="2019-01-17 08:33:54" Description="convolve~[v0.13](Windows-amd64-32)(Sources).dek"
              Version="0.13" URL="http://puredata.info/Members/lucarda/software/convolve~[v0.13](Windows-amd64-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="ezaoo"/>
   <Packages Name="ceammc">
     <Package ID="Y2VhbW1jXzAuOS40XzIwMjEtMTEtMjAgMjM6MjY6MDRfYW5hZGphcm92"
              Author="anadjarov" Timestamp="2021-11-20 23:26:04" Description="ceammc[v0.9.4](Windows-amd64-32).dek"
@@ -365,9 +325,6 @@
              Author="anadjarov" Timestamp="2019-04-27 01:14:54" Description="ceammc[v0.7.1](Windows-amd64-32)(Windows-amd64-None).dek"
              Version="0.7.1" URL="http://puredata.info/Members/anadjarov/software/ceammc/0.7.1/ceammc[v0.7.1](Windows-amd64-32)(Windows-amd64-None).dek"/>
   </Packages>
-  <Packages Name="plugin~"/>
-  <Packages Name="constantq~"/>
-  <Packages Name="guis"/>
   <Packages Name="jl">
     <Package ID="amxfMC4xLjNfMjAxOS0wOS0wNCAxNzo0MjoyOF9qb3NlcGhsYXJyYWxkZQ=="
              Author="josephlarralde" Timestamp="2019-09-04 17:42:28" Description="jl[v0.1.3](Windows-amd64-32).dek"
@@ -396,9 +353,6 @@
              Timestamp="2019-10-25 01:59:27" Description="ml.lib[v1.0.3](Windows-amd64-32).dek"
              Version="1.0.3" URL="http://puredata.info/Members/jb/software/ml.lib/1.0.3/ml.lib[v1.0.3](Windows-amd64-32).dek"/>
   </Packages>
-  <Packages Name="jpcex"/>
-  <Packages Name="extra"/>
-  <Packages Name="audiolab"/>
   <Packages Name="iem_spec2">
     <Package ID="aWVtX3NwZWMyXzEuMjFfMjAxOC0xMS0yOSAxNjoxNToyNF9tdXNpbA=="
              Author="musil" Timestamp="2018-11-29 16:15:24" Description="iem_spec2[v1.21](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32)(Sources).dek"
@@ -418,7 +372,6 @@
              Timestamp="2018-10-31 18:16:00" Description="iemgui[v1.21](Windows-amd64-32)(Windows-i386-32)(Sources).dek"
              Version="1.21" URL="http://puredata.info/Members/musil/software/iemgui/1.21/iemgui[v1.21](Windows-amd64-32)(Windows-i386-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="purepd"/>
   <Packages Name="fftease">
     <Package ID="ZmZ0ZWFzZV8zLjAuMV8yMDIxLTAzLTAxIDAzOjUxOjUyX2x1Y2FyZGE="
              Author="lucarda" Timestamp="2021-03-01 03:51:52" Description="fftease[v3.0.1](Windows-amd64-32).dek"
@@ -440,7 +393,6 @@
              Author="lucarda" Timestamp="2018-09-26 03:37:08" Description="bassemu~[v0.0.extended](Windows-amd64-32)(Sources).dek"
              Version="0.0.extended" URL="http://puredata.info/Members/lucarda/software/bassemu[v0.0.extended](Windows-amd64-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="jit_expr"/>
   <Packages Name="Gem">
     <Package ID="R2VtXzAuOTRfMjAxOS0wMy0xNCAyMjo1Mjo0NV96bW9lbG5pZw==" Author="zmoelnig"
              Timestamp="2019-03-14 22:52:45" Description="Gem/0.94 (deken-archive for Windows 64bit)"
@@ -474,7 +426,6 @@
              Author="lucarda" Timestamp="2019-03-15 21:15:54" Description="nusmuk-utils[v2015](Windows-amd64-32)(Sources).dek"
              Version="2015" URL="http://puredata.info/Members/lucarda/software/nusmuk-utils[v2015](Windows-amd64-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="completion-plugin"/>
   <Packages Name="aoo">
     <Package ID="YW9vXzIuMC1wcmUyXzIwMjAtMDYtMjAgMjE6MjY6MTVfc3BhY2VjaGlsZDE="
              Author="spacechild1" Timestamp="2020-06-20 21:26:15" Description="aoo[v2.0-pre2](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
@@ -483,8 +434,6 @@
              Author="spacechild1" Timestamp="2020-04-03 23:43:48" Description="aoo[v2.0-pre1](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
              Version="2.0-pre1" URL="http://puredata.info/Members/spacechild1/software/aoo/2.0-pre1/aoo[v2.0-pre1](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"/>
   </Packages>
-  <Packages Name="mc"/>
-  <Packages Name="missive~"/>
   <Packages Name="algo~">
     <Package ID="YWxnb35fMS4wLjFfMjAyMC0wOS0xMSAxNToxMjozN193bWJyZW50" Author="wmbrent"
              Timestamp="2020-09-11 15:12:37" Description="algo~[v1.0.1](Windows-amd64-32).dek"
@@ -507,7 +456,6 @@
              Author="cuinjune" Timestamp="2019-06-25 10:52:52" Description="ofelia-v2.3.1-(Windows-amd64-64)-externals.zip"
              Version="2.3.1" URL="http://puredata.info/Members/cuinjune/software/ofelia/2.3.1/ofelia-v2.3.1-(Windows-amd64-64)-externals.zip"/>
   </Packages>
-  <Packages Name="XXX-deken-test"/>
   <Packages Name="iemguts">
     <Package ID="aWVtZ3V0c18wLjMuMV8yMDIyLTAzLTMwIDE4OjMwOjI2X3ptb2VsbmlnYm90"
              Author="zmoelnigbot" Timestamp="2022-03-30 18:30:26" Description="iemguts[v0.3.1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
@@ -541,13 +489,11 @@
              Author="porres" Timestamp="2021-09-29 02:17:01" Description="else[v1.0-0_beta44_with_live_electronics_tutorial](Windows-amd64-32)(Windows-i386-32).dek"
              Version="1.0-0_beta44_with_live_electronics_tutorial" URL="http://puredata.info/Members/porres/software/else/1.0-0_beta44_with_live_electronics_tutorial/else[v1.0-0_beta44_with_live_electronics_tutorial](Windows-amd64-32)(Windows-i386-32).dek"/>
   </Packages>
-  <Packages Name="search-plugin"/>
   <Packages Name="PDContainer">
     <Package ID="UERDb250YWluZXJfMC4wLmV4dGVuZGVkXzIwMTgtMDktMjYgMDM6NDg6MzdfbHVjYXJkYQ=="
              Author="lucarda" Timestamp="2018-09-26 03:48:37" Description="PDContainer[v0.0.extended](Windows-amd64-32)(Sources).dek"
              Version="0.0.extended" URL="http://puredata.info/Members/lucarda/software/PDContainer[v0.0.extended](Windows-amd64-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="echocurve~"/>
   <Packages Name="Pd_Spectral_Toolkit">
     <Package ID="UGRfU3BlY3RyYWxfVG9vbGtpdF8xLjFfMjAxOS0xMS0wMyAyMzoxMjoxOF9jb29wZXJiYWtlcg=="
              Author="cooperbaker" Timestamp="2019-11-03 23:12:18" Description="Pd_Spectral_Toolkit[v1.1](Windows-amd64-32).dek"
@@ -558,8 +504,6 @@
              Author="lucarda" Timestamp="2018-09-26 03:36:10" Description="arraysize[v0.0.extended](Windows-amd64-32)(Sources).dek"
              Version="0.0.extended" URL="http://puredata.info/Members/lucarda/software/arraysize[v0.0.extended](Windows-amd64-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="aconnect"/>
-  <Packages Name="art_net"/>
   <Packages Name="earplug~">
     <Package ID="ZWFycGx1Z35fMC4zLjBfMjAyMS0wNi0wNiAxODo0NTozOV9sdWNhcmRh"
              Author="lucarda" Timestamp="2021-06-06 18:45:39" Description="earplug~[v0.3.0](Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
@@ -568,7 +512,6 @@
              Author="lucarda" Timestamp="2021-05-26 01:42:18" Description="earplug~[v0.0.extended](Windows-amd64-32)(Sources).dek"
              Version="0.0.extended" URL="http://puredata.info/Members/lucarda/software/earplug~/0.0.extended/earplug~[v0.0.extended](Windows-amd64-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="iempluginOSC"/>
   <Packages Name="xsample">
     <Package ID="eHNhbXBsZV8wLjMuMl8yMDIyLTA3LTEwIDAxOjE0OjI4X3Rob21hcw=="
              Author="thomas" Timestamp="2022-07-10 01:14:28" Description="xsample[v0.3.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Windows-amd64-32).dek"
@@ -577,11 +520,6 @@
              Author="thomas" Timestamp="2020-03-04 12:27:14" Description="xsample[v0.3.2](Windows-amd64-32).dek"
              Version="0.3.2" URL="http://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Windows-amd64-32).dek"/>
   </Packages>
-  <Packages Name="context"/>
-  <Packages Name="bandlimited"/>
-  <Packages Name="net"/>
-  <Packages Name="timestretch"/>
-  <Packages Name="shotnoise"/>
   <Packages Name="neuralnet">
     <Package ID="bmV1cmFsbmV0XzAuMl8yMDIyLTA3LTAxIDIxOjIxOjIyX2FsZXhhbmRyb3M="
              Author="alexandros" Timestamp="2022-07-01 21:21:22" Description="neuralnet[v0.2](Windows-amd64-32)(Windows-i386-32)(Sources).dek"
@@ -600,7 +538,6 @@
              Author="rdz" Timestamp="2019-04-28 22:55:24" Description="binfile[v0.1~git20181006](Windows-amd64-32).dek"
              Version="0.1~git20181006" URL="http://puredata.info/Members/rdz/software/binfile/0.1~git20181006/binfile[v0.1~git20181006](Windows-amd64-32).dek"/>
   </Packages>
-  <Packages Name="apple"/>
   <Packages Name="fd_lib">
     <Package ID="ZmRfbGliXzAuMV8yMDE5LTEwLTA0IDAxOjMzOjM0X2ZkY2g=" Author="fdch"
              Timestamp="2019-10-04 01:33:34" Description="fd_lib[v0.1](Windows-amd64-32)(Sources).dek"
@@ -611,9 +548,6 @@
              Timestamp="2022-05-12 22:38:01" Description="mp3cast~[v0.5](Windows-amd64-32).dek"
              Version="0.5" URL="http://puredata.info/Members/rdz/software/mp3cast~/0.5/mp3cast~[v0.5](Windows-amd64-32).dek"/>
   </Packages>
-  <Packages Name="Jamoma"/>
-  <Packages Name="bf-pd"/>
-  <Packages Name="spring22"/>
   <Packages Name="chair">
     <Package ID="Y2hhaXJfMC42M18yMDE4LTExLTI4IDExOjM5OjM1X0NIQUlS" Author="CHAIR"
              Timestamp="2018-11-28 11:39:35" Description="chair[v0.63](Windows-amd64-32).dek"
@@ -624,8 +558,6 @@
              Author="lucarda" Timestamp="2018-09-26 03:38:53" Description="chaos[v0.0.extended](Windows-amd64-32)(Sources).dek"
              Version="0.0.extended" URL="http://puredata.info/Members/lucarda/software/chaos[v0.0.extended](Windows-amd64-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="pix_drum"/>
-  <Packages Name="flatgui"/>
   <Packages Name="abl_link~">
     <Package ID="YWJsX2xpbmt+XzAuNl8yMDIxLTA1LTI2IDAwOjIxOjU5X2x1Y2FyZGE="
              Author="lucarda" Timestamp="2021-05-26 00:21:59" Description="abl_link~[v0.6](Windows-amd64-32)(Windows-i386-32).dek"
@@ -674,16 +606,11 @@
              Author="lucarda" Timestamp="2018-09-26 03:42:26" Description="hcs[v0.0.extended](Windows-amd64-32)(Sources).dek"
              Version="0.0.extended" URL="http://puredata.info/Members/lucarda/software/hcs[v0.0.extended](Windows-amd64-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="mkmr"/>
-  <Packages Name="pispi"/>
   <Packages Name="cicmtools">
     <Package ID="Y2ljbXRvb2xzXzEuNV8yMDIxLTAyLTA3IDEzOjEyOjI5X3BvcnJlcw=="
              Author="porres" Timestamp="2021-02-07 13:12:29" Description="cicmtools[v1.5](Windows-amd64-32).dek"
              Version="1.5" URL="http://puredata.info/Members/porres/software/cicmtools/1.5/cicmtools[v1.5](Windows-amd64-32).dek"/>
   </Packages>
-  <Packages Name="purest_json"/>
-  <Packages Name="nGui"/>
-  <Packages Name="bassemu~"/>
   <Packages Name="clk">
     <Package ID="Y2xrXzAuMi4xXzIwMjAtMDMtMDQgMTM6MzE6MTVfdGhvbWFz" Author="thomas"
              Timestamp="2020-03-04 13:31:15" Description="clk[v0.2.1](Windows-amd64-32).dek"
@@ -699,8 +626,6 @@
              Timestamp="2016-10-25 22:48:28" Description="grambilib-v1-(Linux-x86_64-64)(Windows-x86_64-64)(Darwin-i386-32)(Darwin-x86_64)(Sources)-externals"
              Version="1" URL="http://puredata.info/Members/ricky/grambilib-v1-(Linux-x86_64-64)(Windows-x86_64-64)(Darwin-i386-32)(Darwin-x86_64)(Sources)-externals.zip"/>
   </Packages>
-  <Packages Name="swe~"/>
-  <Packages Name="acre"/>
   <Packages Name="hexloader">
     <Package ID="aGV4bG9hZGVyXzAuMC5leHRlbmRlZF8yMDE4LTA5LTI2IDAzOjQzOjE1X2x1Y2FyZGE="
              Author="lucarda" Timestamp="2018-09-26 03:43:15" Description="hexloader[v0.0.extended](Windows-amd64-32)(Sources).dek"
@@ -721,7 +646,6 @@
              Timestamp="2020-11-27 23:25:17" Description="dw_lib[v1.18.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32)(Sources).dek"
              Version="1.18.1" URL="http://puredata.info/Members/musil/software/dw_lib/dw_lib[v1.18.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="hid"/>
   <Packages Name="iem_adaptfilt">
     <Package ID="aWVtX2FkYXB0ZmlsdF8xLjIxXzIwMTgtMTEtMjkgMTY6Mjc6MTFfbXVzaWw="
              Author="musil" Timestamp="2018-11-29 16:27:11" Description="iem_adaptfilt[v1.21](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32)(Sources).dek"
@@ -730,8 +654,6 @@
              Author="musil" Timestamp="2018-10-31 18:14:23" Description="iem_adaptfilt[v1.21](Windows-amd64-32)(Windows-i386-32)(Sources).dek"
              Version="1.21" URL="http://puredata.info/Members/musil/software/iem_adaptfilt/1.21/iem_adaptfilt[v1.21](Windows-amd64-32)(Windows-i386-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="planifolia"/>
-  <Packages Name="ndi"/>
   <Packages Name="webserver">
     <Package ID="d2Vic2VydmVyXzAuMC4xXzIwMjEtMDYtMTcgMjI6MTI6MDRfbHVjYXJkYQ=="
              Author="lucarda" Timestamp="2021-06-17 22:12:04" Description="webserver[v0.0.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
@@ -745,22 +667,16 @@
              Author="lucarda" Timestamp="2019-10-29 15:32:19" Description="soundhack[v0.0.8](Windows-i386-32)(Windows-amd64-32)(Sources).dek"
              Version="0.0.8" URL="http://puredata.info/Members/lucarda/software/soundhack[v0.0.8](Windows-i386-32)(Windows-amd64-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="pof"/>
-  <Packages Name="command"/>
-  <Packages Name="hidin"/>
-  <Packages Name="jmmmp"/>
   <Packages Name="pdogg">
     <Package ID="cGRvZ2dfMC4wLmV4dGVuZGVkXzIwMjEtMDItMjQgMTQ6MjU6MjZfbHVjYXJkYQ=="
              Author="lucarda" Timestamp="2021-02-24 14:25:26" Description="pdogg[v0.0.extended](Windows-amd64-32)(Sources).dek"
              Version="0.0.extended" URL="http://puredata.info/Members/lucarda/software/pdogg[v0.0.extended](Windows-amd64-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="list-abs"/>
   <Packages Name="hidio">
     <Package ID="aGlkaW9fMC4yMDIwMDIyNF8yMDIwLTAyLTIzIDE3OjQ2OjI3X21hcnRpbnJw"
              Author="martinrp" Timestamp="2020-02-23 17:46:27" Description="hidio[v0.20200224](Windows-amd64-32)(Sources).dek"
              Version="0.20200224" URL="http://puredata.info/Members/martinrp/software/hidio/0.20200224/hidio[v0.20200224](Windows-amd64-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="vabs"/>
   <Packages Name="flite">
     <Package ID="ZmxpdGVfMC4zLjJfMjAyMi0wNi0yNCAxOTo0OTo1N19sdWNhcmRh" Author="lucarda"
              Timestamp="2022-06-24 19:49:57" Description="flite[v0.3.2](Windows-amd64-32)(Windows-i386-32).dek"
@@ -774,24 +690,16 @@
              Timestamp="2018-10-31 18:17:28" Description="iem_ambi[v1.21](Windows-amd64-32)(Windows-i386-32)(Sources).dek"
              Version="1.21" URL="http://puredata.info/Members/musil/software/iem_ambi/1.21/iem_ambi[v1.21](Windows-amd64-32)(Windows-i386-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="upp"/>
   <Packages Name="py">
     <Package ID="cHlfMC4yLjJfMjAyMC0wNS0xOSAwMjoxMzo0N190aG9tYXM=" Author="thomas"
              Timestamp="2020-05-19 02:13:47" Description="py[v0.2.2](Windows-amd64-32).dek"
              Version="0.2.2" URL="http://puredata.info/Members/thomas/software/py/0.2.2/py[v0.2.2](Windows-amd64-32).dek"/>
   </Packages>
-  <Packages Name="martha~"/>
-  <Packages Name="iem_bin_ambi"/>
-  <Packages Name="iem_vanilla"/>
   <Packages Name="boids">
     <Package ID="Ym9pZHNfMC4wLmV4dGVuZGVkXzIwMTgtMDktMjYgMDM6Mzg6MDJfbHVjYXJkYQ=="
              Author="lucarda" Timestamp="2018-09-26 03:38:02" Description="boids[v0.0.extended](Windows-amd64-32)(Sources).dek"
              Version="0.0.extended" URL="http://puredata.info/Members/lucarda/software/boids[v0.0.extended](Windows-amd64-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="lolPd"/>
-  <Packages Name="zconf"/>
-  <Packages Name="iem_delay"/>
-  <Packages Name="la-kitchen"/>
   <Packages Name="iem_tab">
     <Package ID="aWVtX3RhYl8xLjIxXzIwMTgtMTEtMjkgMTY6MTY6NDRfbXVzaWw=" Author="musil"
              Timestamp="2018-11-29 16:16:44" Description="iem_tab[v1.21](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32)(Sources).dek"
@@ -835,7 +743,6 @@
              Author="zmoelnigbot" Timestamp="2019-02-01 14:53:06" Description="iemnet[v0.2.2](Windows-amd64-32).dek"
              Version="0.2.2" URL="http://puredata.info/Members/zmoelnigbot/software/iemnet/0.2.2/iemnet[v0.2.2](Windows-amd64-32).dek"/>
   </Packages>
-  <Packages Name="iemxmlrpc"/>
   <Packages Name="RabbitControl">
     <Package ID="UmFiYml0Q29udHJvbF8xLjAuNF8yMDIyLTA2LTExIDE1OjExOjMwX2lfbl9nX28="
              Author="i_n_g_o" Timestamp="2022-06-11 15:11:30" Description="RabbitControl[v1.0.4](Windows-amd64-32)(Sources).dek"
@@ -850,7 +757,6 @@
              Author="i_n_g_o" Timestamp="2022-03-20 16:19:07" Description="RabbitControl[v1.0.1](Windows-amd64-32)(Sources).dek"
              Version="1.0.1" URL="http://puredata.info/Members/i_n_g_o/software/RabbitControl/1.0.1/RabbitControl[v1.0.1](Windows-amd64-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="jasch_lib"/>
   <Packages Name="tof">
     <Package ID="dG9mXzAuMi40XzIwMjAtMDktMTQgMjA6NTI6NDNfZmprcmFhbg==" Author="fjkraan"
              Timestamp="2020-09-14 20:52:43" Description="tof[v0.2.4](Windows-amd64-32)(Sources).dek"
@@ -881,8 +787,6 @@
              Timestamp="2018-10-31 18:15:18" Description="iemlib[v1.21](Windows-amd64-32)(Windows-i386-32)(Sources).dek"
              Version="1.21" URL="http://puredata.info/Members/musil/software/iemlib/1.21/iemlib[v1.21](Windows-amd64-32)(Windows-i386-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="kiosk-plugin"/>
-  <Packages Name="libdir"/>
   <Packages Name="log">
     <Package ID="bG9nXzAuMC5leHRlbmRlZF8yMDE4LTA5LTI2IDAzOjQzOjU4X2x1Y2FyZGE="
              Author="lucarda" Timestamp="2018-09-26 03:43:58" Description="log[v0.0.extended](Windows-amd64-32)(Sources).dek"
@@ -899,7 +803,6 @@
              Author="lucarda" Timestamp="2018-09-26 03:50:14" Description="pmpd[v0.0.extended](Windows-amd64-32)(Sources).dek"
              Version="0.0.extended" URL="http://puredata.info/Members/lucarda/software/pmpd[v0.0.extended](Windows-amd64-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="pii2c"/>
   <Packages Name="iem_roomsim">
     <Package ID="aWVtX3Jvb21zaW1fMS4yMV8yMDE4LTExLTI5IDE2OjE0OjE5X211c2ls"
              Author="musil" Timestamp="2018-11-29 16:14:19" Description="iem_roomsim[v1.21](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32)(Sources).dek"
@@ -916,13 +819,11 @@
              Author="lucarda" Timestamp="2019-11-19 04:34:34" Description="lyonpotpourri[v0.3](Windows-amd64-32)(Sources).dek"
              Version="0.3" URL="http://puredata.info/Members/lucarda/software/lyonpotpourri[v0.3](Windows-amd64-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="mapping"/>
   <Packages Name="markex">
     <Package ID="bWFya2V4XzAuMC5leHRlbmRlZF8yMDE4LTA5LTI2IDAzOjQ0OjUyX2x1Y2FyZGE="
              Author="lucarda" Timestamp="2018-09-26 03:44:52" Description="markex[v0.0.extended](Windows-amd64-32)(Sources).dek"
              Version="0.0.extended" URL="http://puredata.info/Members/lucarda/software/markex[v0.0.extended](Windows-amd64-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="deken-plugin"/>
   <Packages Name="maxlib">
     <Package ID="bWF4bGliXzEuNS44XzIwMTktMTItMjAgMTc6MjA6MzhfZmprcmFhbg=="
              Author="fjkraan" Timestamp="2019-12-20 17:20:38" Description="maxlib[v1.5.8](Windows-amd64-32)(Sources).dek"
@@ -942,7 +843,6 @@
              Author="lucarda" Timestamp="2018-09-26 03:45:30" Description="mediasettings[v0.0.extended](Windows-amd64-32)(Sources).dek"
              Version="0.0.extended" URL="http://puredata.info/Members/lucarda/software/mediasettings[v0.0.extended](Windows-amd64-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="soundtouch~"/>
   <Packages Name="midifile">
     <Package ID="bWlkaWZpbGVfMC40MV8yMDIwLTA2LTA5IDIwOjI5OjAxX21hcnRpbnJw"
              Author="martinrp" Timestamp="2020-06-09 20:29:01" Description="midifile[v0.41](Windows-amd64-32)(Sources).dek"
@@ -962,8 +862,6 @@
              Author="lucarda" Timestamp="2019-01-12 00:48:04" Description="windowing[v0.2.0](Windows-amd64-32)(Sources).dek"
              Version="0.2.0" URL="http://puredata.info/Members/lucarda/software/windowing[v0.2.0](Windows-amd64-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="nsend"/>
-  <Packages Name="scrollpage-plugin"/>
   <Packages Name="iem16">
     <Package ID="aWVtMTZfMS4yXzIwMjEtMDktMjQgMTE6Mjc6MDNfaWVtYm90" Author="iembot"
              Timestamp="2021-09-24 11:27:03" Description="iem16[v1.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"
@@ -987,7 +885,6 @@
              Author="lucarda" Timestamp="2018-09-26 03:47:50" Description="mrpeach[v0.0.extended](Windows-amd64-32)(Sources).dek"
              Version="0.0.extended" URL="http://puredata.info/Members/lucarda/software/mrpeach[v0.0.extended](Windows-amd64-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="pix_mano"/>
   <Packages Name="mjlib">
     <Package ID="bWpsaWJfMC4xLjNfMjAyMC0wMS0wNSAyMToyMzoyNV9mamtyYWFu" Author="fjkraan"
              Timestamp="2020-01-05 21:23:25" Description="mjlib[v0.1.3](Windows-amd64-32)(Sources).dek"
@@ -1012,7 +909,6 @@
              Author="zmoelnigbot" Timestamp="2018-05-29 17:22:50" Description="doublechord-plugin[v0.2.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"
              Version="0.2.1" URL="http://puredata.info/Members/zmoelnigbot/software/punish/v0.2.1/doublechord-plugin/doublechord-plugin[v0.2.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"/>
   </Packages>
-  <Packages Name="muug"/>
   <Packages Name="nicinfo">
     <Package ID="bmljaW5mb18wLjAuMF8yMDIxLTA2LTAxIDEyOjU4OjUxX2x1Y2FyZGE="
              Author="lucarda" Timestamp="2021-06-01 12:58:51" Description="nicinfo[v0.0.0](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
@@ -1034,6 +930,4 @@
              Timestamp="2019-03-15 22:47:54" Description="comport[v1.1](Windows-amd64-32)(Sources).dek"
              Version="1.1" URL="http://puredata.info/Members/lucarda/software/comport[v1.1](Windows-amd64-32)(Sources).dek"/>
   </Packages>
-  <Packages Name="easyflow"/>
-  <Packages Name="osci"/>
 </Windows-amd64-32>

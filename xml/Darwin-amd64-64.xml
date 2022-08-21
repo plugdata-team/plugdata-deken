@@ -1,36 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Darwin-amd64-64>
-  <Packages Name="websocketserver"/>
-  <Packages Name="vinylcontrol~"/>
-  <Packages Name="zexy"/>
-  <Packages Name="vanilla"/>
-  <Packages Name="unicode"/>
-  <Packages Name="unauthorized"/>
-  <Packages Name="tune~"/>
-  <Packages Name="triggerize-plugin"/>
-  <Packages Name="timeStretch~"/>
-  <Packages Name="timbreIDLib"/>
-  <Packages Name="testtools"/>
-  <Packages Name="tclprompt-plugin"/>
-  <Packages Name="tabreceive_mult~"/>
-  <Packages Name="syslog"/>
-  <Packages Name="spect_scaled"/>
-  <Packages Name="slip"/>
-  <Packages Name="sigpack"/>
-  <Packages Name="sfruit"/>
-  <Packages Name="search-plugin"/>
-  <Packages Name="saturator"/>
-  <Packages Name="rtcmix~"/>
-  <Packages Name="rtc"/>
-  <Packages Name="readdir"/>
-  <Packages Name="quilt"/>
-  <Packages Name="queryresponse"/>
-  <Packages Name="py4pd"/>
-  <Packages Name="puremapping"/>
-  <Packages Name="pulqui"/>
-  <Packages Name="smlib"/>
-  <Packages Name="psycho"/>
   <Packages Name="pool">
     <Package ID="cG9vbF8wLjIuMl8yMDIyLTA3LTEwIDE1OjU5OjAwX3Rob21hcw==" Author="thomas"
              Timestamp="2022-07-10 15:59:00" Description="pool[v0.2.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek"
@@ -39,51 +9,11 @@
              Timestamp="2020-03-04 23:38:44" Description="pool[v0.2.2](Darwin-amd64-64).dek"
              Version="0.2.2" URL="http://puredata.info/Members/thomas/software/pool/0.2.2/pool[v0.2.2](Darwin-amd64-64).dek"/>
   </Packages>
-  <Packages Name="pix_opencv"/>
-  <Packages Name="iempluginOSC"/>
-  <Packages Name="earplug~"/>
-  <Packages Name="ws"/>
-  <Packages Name="streamStretch~"/>
-  <Packages Name="pd-zmq"/>
-  <Packages Name="zconf"/>
-  <Packages Name="iem_delay"/>
-  <Packages Name="la-kitchen"/>
-  <Packages Name="iemgui"/>
-  <Packages Name="iem_spec2"/>
-  <Packages Name="iem_adaptfilt"/>
-  <Packages Name="planifolia"/>
-  <Packages Name="ndi"/>
-  <Packages Name="purepd"/>
-  <Packages Name="fftease"/>
-  <Packages Name="hotfix732-deadkeys-plugin"/>
-  <Packages Name="hidio"/>
-  <Packages Name="webserver"/>
-  <Packages Name="soundhack"/>
-  <Packages Name="pof"/>
-  <Packages Name="command"/>
-  <Packages Name="hidin"/>
-  <Packages Name="jmmmp"/>
-  <Packages Name="swe~"/>
-  <Packages Name="hexloader"/>
-  <Packages Name="mkmr"/>
-  <Packages Name="guis"/>
-  <Packages Name="plugin~"/>
-  <Packages Name="constantq~"/>
-  <Packages Name="grambilib"/>
-  <Packages Name="gigaverb~"/>
-  <Packages Name="gem2pdp"/>
-  <Packages Name="upp"/>
   <Packages Name="py">
     <Package ID="cHlfMC4yLjJfMjAyMC0wMy0wNCAyMzo0MjoyN190aG9tYXM=" Author="thomas"
              Timestamp="2020-03-04 23:42:27" Description="py[v0.2.2](Darwin-amd64-64).dek"
              Version="0.2.2" URL="http://puredata.info/Members/thomas/software/py/0.2.2/py[v0.2.2](Darwin-amd64-64).dek"/>
   </Packages>
-  <Packages Name="martha~"/>
-  <Packages Name="iem_bin_ambi"/>
-  <Packages Name="iem_vanilla"/>
-  <Packages Name="lolPd"/>
-  <Packages Name="vstplugin~"/>
-  <Packages Name="convolve~"/>
   <Packages Name="ceammc">
     <Package ID="Y2VhbW1jXzAuOS40XzIwMjEtMTEtMjAgMjI6NTc6MTVfYW5hZGphcm92"
              Author="anadjarov" Timestamp="2021-11-20 22:57:15" Description="ceammc[v0.9.4](Darwin-amd64-64).dek"
@@ -98,30 +28,6 @@
              Author="anadjarov" Timestamp="2020-12-29 23:22:36" Description="ceammc[v0.9.1](Darwin-amd64-64).dek"
              Version="0.9.1" URL="http://puredata.info/Members/anadjarov/software/ceammc/0.9.1/ceammc[v0.9.1](Darwin-amd64-64).dek"/>
   </Packages>
-  <Packages Name="ezaoo"/>
-  <Packages Name="vabs"/>
-  <Packages Name="flite"/>
-  <Packages Name="iem_ambi"/>
-  <Packages Name="pix_drum"/>
-  <Packages Name="flatgui"/>
-  <Packages Name="chaos"/>
-  <Packages Name="pduino"/>
-  <Packages Name="faustgen~"/>
-  <Packages Name="jpcvisu"/>
-  <Packages Name="jl"/>
-  <Packages Name="iemnet"/>
-  <Packages Name="iem_tab"/>
-  <Packages Name="hcs"/>
-  <Packages Name="cyclone"/>
-  <Packages Name="list-abs"/>
-  <Packages Name="pdogg"/>
-  <Packages Name="creb"/>
-  <Packages Name="spring22"/>
-  <Packages Name="chair"/>
-  <Packages Name="completion-plugin"/>
-  <Packages Name="dnd-plugin"/>
-  <Packages Name="cxc"/>
-  <Packages Name="ext13"/>
   <Packages Name="xsample">
     <Package ID="eHNhbXBsZV8wLjMuMl8yMDIyLTA3LTEwIDAxOjE0OjQ2X3Rob21hcw=="
              Author="thomas" Timestamp="2022-07-10 01:14:46" Description="xsample[v0.3.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek"
@@ -130,101 +36,9 @@
              Author="thomas" Timestamp="2020-03-04 00:50:37" Description="xsample[v0.3.2](Darwin-amd64-64)(Darwin-i386-64).dek"
              Version="0.3.2" URL="http://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Darwin-amd64-64)(Darwin-i386-64).dek"/>
   </Packages>
-  <Packages Name="context"/>
-  <Packages Name="else"/>
-  <Packages Name="shmem"/>
-  <Packages Name="pix_artoolkit"/>
-  <Packages Name="echocurve~"/>
-  <Packages Name="jit_expr"/>
-  <Packages Name="ekext"/>
-  <Packages Name="iemguts"/>
-  <Packages Name="ggee"/>
-  <Packages Name="freeverb~"/>
-  <Packages Name="ml.lib"/>
-  <Packages Name="tracker"/>
-  <Packages Name="hid"/>
-  <Packages Name="dw_lib"/>
-  <Packages Name="filemtime"/>
   <Packages Name="jpcex">
     <Package ID="anBjZXhfMC4xXzIwMTgtMDMtMDggMTg6MTU6MDJfanBjaW1h" Author="jpcima"
              Timestamp="2018-03-08 18:15:02" Description="jpcex[v0.1](Darwin-amd64-64)(Sources).dek"
              Version="0.1" URL="http://puredata.info/Members/jpcima/software/jpcex/0.1/jpcex[v0.1](Darwin-amd64-64)(Sources).dek"/>
   </Packages>
-  <Packages Name="extra"/>
-  <Packages Name="purest_json"/>
-  <Packages Name="clk"/>
-  <Packages Name="nGui"/>
-  <Packages Name="iemxmlrpc"/>
-  <Packages Name="pd-push-and-hold"/>
-  <Packages Name="jasch_lib"/>
-  <Packages Name="pdp"/>
-  <Packages Name="tof"/>
-  <Packages Name="moonlib"/>
-  <Packages Name="iemlib"/>
-  <Packages Name="kiosk-plugin"/>
-  <Packages Name="lerdahl"/>
-  <Packages Name="oscx"/>
-  <Packages Name="libdir"/>
-  <Packages Name="nusmuk-utils"/>
-  <Packages Name="pddp"/>
-  <Packages Name="log"/>
-  <Packages Name="mapping"/>
-  <Packages Name="markex"/>
-  <Packages Name="pdjs"/>
-  <Packages Name="deken-plugin"/>
-  <Packages Name="maxlib"/>
-  <Packages Name="mc"/>
-  <Packages Name="missive~"/>
-  <Packages Name="mediasettings"/>
-  <Packages Name="soundtouch~"/>
-  <Packages Name="midifile"/>
-  <Packages Name="windowing"/>
-  <Packages Name="nsend"/>
-  <Packages Name="scrollpage-plugin"/>
-  <Packages Name="iem16"/>
-  <Packages Name="moocow"/>
-  <Packages Name="motex"/>
-  <Packages Name="fd_lib"/>
-  <Packages Name="mp3cast~"/>
-  <Packages Name="senselmorph"/>
-  <Packages Name="pdcontainer"/>
-  <Packages Name="mrpeach"/>
-  <Packages Name="pix_mano"/>
-  <Packages Name="mjlib"/>
-  <Packages Name="osc"/>
-  <Packages Name="doublechord-plugin"/>
-  <Packages Name="muug"/>
-  <Packages Name="net"/>
-  <Packages Name="timestretch"/>
-  <Packages Name="shotnoise"/>
-  <Packages Name="neuralnet"/>
-  <Packages Name="nicinfo"/>
-  <Packages Name="tclpd"/>
-  <Packages Name="pix_fiducialtrack"/>
-  <Packages Name="nilwind"/>
-  <Packages Name="nusmuk-audio"/>
-  <Packages Name="ofelia"/>
-  <Packages Name="easyflow"/>
-  <Packages Name="comport"/>
-  <Packages Name="osci"/>
-  <Packages Name="ossia"/>
-  <Packages Name="pan"/>
-  <Packages Name="patch2svg-plugin"/>
-  <Packages Name="vbap"/>
-  <Packages Name="iemmatrix"/>
-  <Packages Name="patcherize-plugin"/>
-  <Packages Name="vasp"/>
-  <Packages Name="pdlua"/>
-  <Packages Name="pd-wavelet"/>
-  <Packages Name="pde"/>
-  <Packages Name="pdmus"/>
-  <Packages Name="shadylib"/>
-  <Packages Name="pdpii2c"/>
-  <Packages Name="pdpp"/>
-  <Packages Name="cicmtools"/>
-  <Packages Name="pispi"/>
-  <Packages Name="pmpd"/>
-  <Packages Name="iem_roomsim"/>
-  <Packages Name="lyonpotpourri"/>
-  <Packages Name="pii2c"/>
 </Darwin-amd64-64>

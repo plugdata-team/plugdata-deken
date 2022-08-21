@@ -1,61 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Linux-armv6l-32>
-  <Packages Name="windowing"/>
-  <Packages Name="webserver"/>
-  <Packages Name="vanilla"/>
-  <Packages Name="vabs"/>
-  <Packages Name="vinylcontrol~"/>
-  <Packages Name="vasp"/>
-  <Packages Name="tune~"/>
-  <Packages Name="triggerize-plugin"/>
-  <Packages Name="tracker"/>
-  <Packages Name="timbreIDLib"/>
-  <Packages Name="vbap"/>
-  <Packages Name="testtools"/>
-  <Packages Name="unauthorized"/>
-  <Packages Name="tclpd"/>
-  <Packages Name="search-plugin"/>
-  <Packages Name="scrollpage-plugin"/>
-  <Packages Name="zexy"/>
-  <Packages Name="timeStretch~"/>
-  <Packages Name="rtcmix~"/>
-  <Packages Name="readdir"/>
-  <Packages Name="websocketserver"/>
-  <Packages Name="queryresponse"/>
-  <Packages Name="timestretch"/>
-  <Packages Name="quilt"/>
-  <Packages Name="saturator"/>
-  <Packages Name="senselmorph"/>
-  <Packages Name="unicode"/>
-  <Packages Name="slip"/>
-  <Packages Name="ws"/>
-  <Packages Name="rtc"/>
-  <Packages Name="py4pd"/>
-  <Packages Name="py"/>
-  <Packages Name="upp"/>
-  <Packages Name="sigpack"/>
-  <Packages Name="zconf"/>
-  <Packages Name="tclprompt-plugin"/>
-  <Packages Name="soundtouch~"/>
-  <Packages Name="sfruit"/>
-  <Packages Name="streamStretch~"/>
-  <Packages Name="syslog"/>
-  <Packages Name="shadylib"/>
-  <Packages Name="xsample"/>
-  <Packages Name="shmem"/>
-  <Packages Name="smlib"/>
-  <Packages Name="soundhack"/>
-  <Packages Name="vstplugin~"/>
-  <Packages Name="tof"/>
-  <Packages Name="spring22"/>
-  <Packages Name="spect_scaled"/>
-  <Packages Name="swe~"/>
   <Packages Name="purest_json">
     <Package ID="cHVyZXN0X2pzb25fMS40LjFfMjAxNi0wNi0yOSAwMTozMzowM19yZXNpZHV1bQ=="
              Author="residuum" Timestamp="2016-06-29 01:33:03" Description="purest_json-v1.4.1-(Linux-armv6l-32)-externals.tar.gz"
              Version="1.4.1" URL="http://puredata.info/Members/residuum/software/purest_json/1.4.1/purest_json-v1.4.1-(Linux-armv6l-32)-externals.tar.gz"/>
   </Packages>
-  <Packages Name="shotnoise"/>
-  <Packages Name="tabreceive_mult~"/>
 </Linux-armv6l-32>

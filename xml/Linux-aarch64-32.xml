@@ -1,28 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Linux-aarch64-32>
-  <Packages Name="windowing"/>
-  <Packages Name="webserver"/>
-  <Packages Name="vanilla"/>
-  <Packages Name="tracker"/>
-  <Packages Name="xsample"/>
-  <Packages Name="tune~"/>
   <Packages Name="tof">
     <Package ID="dG9mXzAuMi4xXzIwMTYtMTEtMDUgMTU6MzU6MDFfZmprcmFhbg==" Author="fjkraan"
              Timestamp="2016-11-05 15:35:01" Description="tof-v0.2.1-(Linux-aarch64-64)(Sources)-externals.tgz"
              Version="0.2.1" URL="http://puredata.info/Members/fjkraan/software/tof/0.2.1/tof-v0.2.1-(Linux-aarch64-64)(Sources)-externals.tgz"/>
   </Packages>
-  <Packages Name="vabs"/>
-  <Packages Name="websocketserver"/>
-  <Packages Name="triggerize-plugin"/>
-  <Packages Name="zexy"/>
-  <Packages Name="unauthorized"/>
-  <Packages Name="unicode"/>
-  <Packages Name="vbap"/>
-  <Packages Name="upp"/>
-  <Packages Name="vasp"/>
-  <Packages Name="vinylcontrol~"/>
-  <Packages Name="zconf"/>
-  <Packages Name="ws"/>
-  <Packages Name="vstplugin~"/>
 </Linux-aarch64-32>
