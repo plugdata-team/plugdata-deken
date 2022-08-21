@@ -27,9 +27,6 @@ jobs:
         cp ../README.md ./results/README.md \
         cp ../LICENSE.md ./results/LICENSE
 
-    - name: Set current date as env variable
-      run: echo "NOW::$(date +'%Y-%m-%dT%H:%M:%S')" >> $GITHUB_ENV
-
     - name: Push
       uses: s0/git-publish-subdir-action@develop
       env:
@@ -37,4 +34,4 @@ jobs:
         BRANCH: main
         FOLDER: build/result
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        MESSAGE: "Update: $NOW"
+        MESSAGE: "Update: $(date +'%Y-%m-%dT%H:%M:%S')"
