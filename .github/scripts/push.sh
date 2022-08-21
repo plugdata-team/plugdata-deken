@@ -2,7 +2,6 @@
 
 git clone https://github.com/timothyschoen/PlugDataDekenServer.git
 
-cd PlugDataDekenServer
 rm -rf PlugDataDekenServer/xml
 rm -rf PlugDataDekenServer/compressed
 
