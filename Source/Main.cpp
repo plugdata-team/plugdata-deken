@@ -133,6 +133,8 @@ int main (int argc, char* argv[])
         
         for (auto& [name, package] : library) {
             
+            if(!package.size()) continue;
+            
             ValueTree pkgList = ValueTree("Packages");
             pkgList.setProperty("Name", name, nullptr);
             
