@@ -22,8 +22,19 @@ jobs:
       
     - name: Run tool
       working-directory: ${{github.workspace}}/build
-      run: ./DekenParser
+      run: |
+      ./DekenParser
+      cp ../README.md ./results/README.md
+      cp ../LICENSE.md ./results/LICENSE
 
-    - name: Push result to main branch
-      working-directory: ${{github.workspace}}
-      run: ./.github/scripts/push.sh
+    - name: Set current date as env variable
+            run: echo "NOW::$(date +'%Y-%m-%dT%H:%M:%S')" >> $GITHUB_ENV
+
+    - name: Push
+            uses: s0/git-publish-subdir-action@develop
+            env:
+              REPO: self
+              BRANCH: main
+              FOLDER: build/result
+              GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              MESSAGE: "Update: $NOW"

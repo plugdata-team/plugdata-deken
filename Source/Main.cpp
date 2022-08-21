@@ -32,149 +32,12 @@ using PackageList = std::unordered_map<String, Array<PackageInfo>>;
 
 using namespace nlohmann;
 
-/*
-struct PackageManager : public ActionBroadcaster public ValueTree::Listener public DeletedAtShutdown {
-    
-    PackageManager()
-    {
-        cacheState.addListener(this);
-        
-        startThread(3);
-    }
-    
-    ~PackageManager()
-    {
-        if (webstream)
-            webstream->cancel();
-        stopThread(500);
-    }
-    
-    void update()
-    {
-        sendActionMessage("");
-        startThread(3);
-    }
-    
-    void run() override
-    {
-        // Continue on pipe errors
-#ifndef _MSC_VER
-        signal(SIGPIPE, SIG_IGN);
-#endif
-        allPackages = getAvailablePackages();
-        sendActionMessage("");
-    }
-    
-    
-    
-    
-     PackageList readFromCache()
-     {
-     PackageList result;
-     
-     auto state = cacheState.getChildWithName("State");
-     for (auto package : state) {
-     auto name = package.getProperty("Name").toString();
-     auto author = package.getProperty("Author").toString();
-     auto timestamp = package.getProperty("Timestamp").toString();
-     auto url = package.getProperty("URL").toString();
-     auto description = package.getProperty("Description").toString();
-     auto version = package.getProperty("Version").toString();
-     StringArray objects;
-     
-     for (auto object : package.getChildWithName("Objects")) {
-     objects.add(object.getProperty("Name").toString());
-     }
-     
-     result.add(PackageInfo(name, author, timestamp, url, description, version, objects));
-     }
-     
-     return result;
-     }
-    
-    
-    
-    
-     static bool checkArchitecture(String platform)
-     {
-     // Check OS
-     if (platform.upToFirstOccurrenceOf("-", false, false) != os)
-     return false;
-     platform = platform.fromFirstOccurrenceOf("-", false, false);
-     
-     // Check floatsize
-     if (platform.fromLastOccurrenceOf("-", false, false) != floatsize)
-     return false;
-     platform = platform.upToLastOccurrenceOf("-", false, false);
-     
-     if (machine.contains(platform))
-     return true;
-     
-     return false;
-     }
-    
-    PackageList allPackages;
-    
-    inline static File filesystem = File::getSpecialLocation(File::SpecialLocationType::userApplicationDataDirectory).getChildFile("PlugData").getChildFile("Library").getChildFile("Deken");
-    
-    ValueTree cacheState = ValueTree("cache");
-    
-    std::unique_ptr<WebInputStream> webstream;
-    
-    static inline const String floatsize = String(32);
-    static inline const String os =
-#if JUCE_LINUX
-    "Linux"
-#elif JUCE_MAC
-    "Darwin"
-#elif JUCE_WINDOWS
-    "Windows"
-    // PlugData has no official BSD support and testing, but for completeness:
-#elif defined __FreeBSD__
-    "FreeBSD"
-#elif defined __NetBSD__
-    "NetBSD"
-#elif defined __OpenBSD__
-    "OpenBSD"
-#else
-#    if defined(__GNUC__)
-#        warning unknown OS
-#    endif
-    0
-#endif
-    ;
-    
-    static inline const StringArray machine =
-#if defined(__x86_64__) || defined(__amd64__) || defined(_M_X64) || defined(_M_AMD64)
-    { "amd64", "x86_64" }
-#elif defined(__i386__) || defined(__i486__) || defined(__i586__) || defined(__i686__) || defined(_M_IX86)
-    { "i386", "i686", "i586" }
-#elif defined(__ppc__)
-    { "ppc", "PowerPC" }
-#elif defined(__aarch64__)
-    { "arm64" }
-#elif __ARM_ARCH == 6 || defined(__ARM_ARCH_6__)
-    { "armv6", "armv6l", "arm" }
-#elif __ARM_ARCH == 7 || defined(__ARM_ARCH_7__)
-    { "armv7l", "armv7", "armv6l", "armv6", "arm" }
-#else
-#    if defined(__GNUC__)
-#        warning unknown architecture
-#    endif
-    {}
-#endif
-    ;
-    
-}; */
-
 static inline const String floatsize = String(32);
 std::unique_ptr<WebInputStream> webstream;
 ValueTree cacheState = ValueTree("cache");
 
-
 StringArray getObjectInfo(String const& objectUrl)
 {
-    
     StringArray result;
     
     webstream = std::make_unique<WebInputStream>(URL("https://deken.puredata.info/info.json?url=" + objectUrl), false);
@@ -196,7 +59,6 @@ StringArray getObjectInfo(String const& objectUrl)
     
     return result;
 }
-
 
 //==============================================================================
 int main (int argc, char* argv[])
@@ -243,7 +105,6 @@ int main (int argc, char* argv[])
                     
                     StringArray objects = getObjectInfo(url);
                     
-                    std::cout << arch << std::endl;
                     // Add valid option
                     packages[arch][name].add({ name, author, timestamp, url, description, version, objects });
                 }
@@ -263,8 +124,11 @@ int main (int argc, char* argv[])
         }
     }
     
-    auto xmlout = File::getCurrentWorkingDirectory().getChildFile("xml");
-    auto compressedout = File::getCurrentWorkingDirectory().getChildFile("bin");
+    auto destfolder = File::getCurrentWorkingDirectory().getChildFile("results");
+    destfolder.createDirectory();
+
+    auto xmlout = destfolder.getChildFile("xml");
+    auto compressedout = destfolder.getChildFile("bin");
     
     xmlout.createDirectory();
     compressedout.createDirectory();
@@ -313,13 +177,8 @@ int main (int argc, char* argv[])
         platformTree.writeToStream(stream);
         stream.flush();
         
-    }
-
-    
-    
-    
-    std::cout << packages.size() << std::endl;
-    
+    }    
+     
     // ..your code goes here!
     
     webstream.reset(nullptr);
