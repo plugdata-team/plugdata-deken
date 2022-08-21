@@ -1,11 +1,3 @@
-/*
- ==============================================================================
- 
- This file contains the basic startup code for a JUCE application.
- 
- ==============================================================================
- */
-
 #include <JuceHeader.h>
 #include "JSON.h"
 
@@ -156,7 +148,7 @@ int main (int argc, char* argv[])
                     objects.appendChild(objectTree, nullptr);
                 }
                 
-                pkgEntry.appendChild(objectTree);
+                pkgEntry.appendChild(objects);
 
                 pkgList.appendChild(pkgEntry, nullptr);
             }
