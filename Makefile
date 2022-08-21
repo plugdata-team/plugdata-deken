@@ -20,7 +20,7 @@ ifndef AR
 endif
 
 ifndef CONFIG
-  CONFIG=Debug
+  CONFIG=Release
 endif
 
 JUCE_ARCH_LABEL := $(shell uname -m)
