@@ -229,7 +229,6 @@ int main (int argc, char* argv[])
             for (auto platform : platforms) {
                 
                 for (auto architecture : platform["archs"]) {
-
                     // Extract platform
                     String arch = architecture.is_null() ? "null" : architecture;
                     
@@ -267,6 +266,9 @@ int main (int argc, char* argv[])
     auto xmlout = File::getCurrentWorkingDirectory().getChildFile("xml");
     auto compressedout = File::getCurrentWorkingDirectory().getChildFile("bin");
     
+    xmlout.createDirectory();
+    compressedout.createDirectory();
+    
     for(auto& [platform, library] : packages) {
         ValueTree platformTree = ValueTree(Identifier(platform));
         
@@ -298,10 +300,19 @@ int main (int argc, char* argv[])
             platformTree.appendChild(pkgList, nullptr);
         }
         
+        // Readable xml output for debugging
         auto outfile = xmlout.getChildFile(platform + ".xml");
         outfile.create();
-        
         outfile.replaceWithText(platformTree.toXmlString());
+        
+        // Compressed output for fast downloads
+        auto compressedfile = compressedout.getChildFile(platform + ".bin");
+        compressedfile.create();
+        
+        FileOutputStream stream(compressedfile);
+        platformTree.writeToStream(stream);
+        stream.flush();
+        
     }
 
     
@@ -311,6 +322,7 @@ int main (int argc, char* argv[])
     
     // ..your code goes here!
     
+    webstream.reset(nullptr);
     
     return 0;
 }
