@@ -21,7 +21,7 @@ jobs:
       
     - name: Copy files
       run: |
-        mkdir -p ./build/result
+        mkdir -p ./build/result \
         mv ./Source/README.md ./build/result/README.md \
         mv ./LICENSE ./build/result/LICENSE
   
