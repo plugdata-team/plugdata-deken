@@ -1,0 +1,29 @@
+name: CMake
+
+on: [push, workflow_dispatch]
+
+env:
+  # Customize the CMake build type here (Release, Debug, RelWithDebInfo, etc.)
+  BUILD_TYPE: Release
+
+jobs:
+  update-database:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        submodules: recursive
+
+    - name: Install Dependencies
+      run: sudo apt -qq update && sudo apt install  -y libasound2-dev libjack-jackd2-dev libcurl4-openssl-dev libfreetype6-dev libx11-dev libxcomposite-dev libxcursor-dev libxcursor-dev libxext-dev libxinerama-dev libxrandr-dev libxrender-dev libwebkit2gtk-4.0-dev libglu1-mesa-dev mesa-common-dev
+
+    - name: Build tool
+      run: make
+      
+    - name: Run tool
+      working-directory: ${{github.workspace}}/build
+      run: ./build/DekenParser
+
+    - name: Push result to main branch
+      working-directory: ${{github.workspace}}
+      run: ./.github/scripts/push.sh
