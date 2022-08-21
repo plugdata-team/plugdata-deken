@@ -40,4 +40,4 @@ jobs:
         BRANCH: main
         FOLDER: build/result
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        MESSAGE: "Update: ${{ DATE }}"
+        MESSAGE: "Update: ${DATE}"
