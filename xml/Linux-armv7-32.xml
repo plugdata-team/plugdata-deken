@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Linux-armv7-32>
+  <Packages Name="websocketserver"/>
+  <Packages Name="vinylcontrol~"/>
+  <Packages Name="zexy">
+    <Package ID="emV4eV8yLjQuMV8yMDIyLTAyLTAyIDE3OjE0OjA5X3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2022-02-02 17:14:09" Description="zexy[v2.4.1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="2.4.1" URL="http://puredata.info/Members/zmoelnigbot/software/zexy/2.4.1/zexy[v2.4.1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"/>
+    <Package ID="emV4eV8yLjQuMF8yMDIyLTAxLTE4IDE1OjU3OjA5X3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2022-01-18 15:57:09" Description="zexy[v2.4.0](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="2.4.0" URL="http://puredata.info/Members/zmoelnigbot/software/zexy/2.4.0/zexy[v2.4.0](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"/>
+    <Package ID="emV4eV8yLjMuMV8yMDIwLTA1LTI5IDIzOjMzOjM3X3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2020-05-29 23:33:37" Description="zexy[v2.3.1](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="2.3.1" URL="http://puredata.info/Members/zmoelnigbot/software/zexy/2.3.1/zexy[v2.3.1](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"/>
+  </Packages>
+  <Packages Name="vanilla"/>
+  <Packages Name="unicode"/>
+  <Packages Name="unauthorized"/>
+  <Packages Name="tune~"/>
+  <Packages Name="triggerize-plugin"/>
+  <Packages Name="timeStretch~"/>
+  <Packages Name="timbreIDLib"/>
+  <Packages Name="testtools"/>
+  <Packages Name="tclprompt-plugin"/>
+  <Packages Name="tabreceive_mult~">
+    <Package ID="dGFicmVjZWl2ZV9tdWx0fl8wLjFfMjAxNy0wOC0zMSAxODo0MzowNV9hbGV4YW5kcm9z"
+             Author="alexandros" Timestamp="2017-08-31 18:43:05" Description="tabreceive_mult~-v0.1-(Sources)(Linux-armv7-32)-externals.tar.gz"
+             Version="0.1" URL="http://puredata.info/Members/alexandros/software/tabreceive_mult~/0.1/tabreceive_mult~-v0.1-(Sources)(Linux-armv7-32)-externals.tar.gz"/>
+  </Packages>
+  <Packages Name="syslog"/>
+  <Packages Name="spect_scaled"/>
+  <Packages Name="slip"/>
+  <Packages Name="sigpack"/>
+  <Packages Name="sfruit"/>
+  <Packages Name="search-plugin"/>
+  <Packages Name="saturator"/>
+  <Packages Name="rtcmix~"/>
+  <Packages Name="rtc"/>
+  <Packages Name="readdir"/>
+  <Packages Name="quilt"/>
+  <Packages Name="queryresponse"/>
+  <Packages Name="py4pd"/>
+  <Packages Name="puremapping"/>
+  <Packages Name="pulqui"/>
+  <Packages Name="smlib"/>
+  <Packages Name="psycho">
+    <Package ID="cHN5Y2hvXzEuMF8yMDE5LTA5LTI1IDAwOjAxOjM1X3BvcnJlcw==" Author="porres"
+             Timestamp="2019-09-25 00:01:35" Description="psycho[v1.0](Linux-armv7-32).dek"
+             Version="1.0" URL="http://puredata.info/Members/porres/software/psycho/1.0/psycho[v1.0](Linux-armv7-32).dek"/>
+  </Packages>
+  <Packages Name="pool">
+    <Package ID="cG9vbF8wLjIuMl8yMDIyLTA3LTEwIDE1OjU4OjM2X3Rob21hcw==" Author="thomas"
+             Timestamp="2022-07-10 15:58:36" Description="pool[v0.2.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Windows-amd64-32).dek"
+             Version="0.2.2" URL="http://puredata.info/Members/thomas/software/pool/0.2.2/pool[v0.2.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Windows-amd64-32).dek"/>
+    <Package ID="cG9vbF8wLjIuMl8yMDIwLTAzLTA0IDIzOjEzOjE0X3Rob21hcw==" Author="thomas"
+             Timestamp="2020-03-04 23:13:14" Description="pool[v0.2.2](Linux-armv7-32).dek"
+             Version="0.2.2" URL="http://puredata.info/Members/thomas/software/pool/0.2.2/pool[v0.2.2](Linux-armv7-32).dek"/>
+  </Packages>
+  <Packages Name="pix_opencv"/>
+  <Packages Name="tclpd"/>
+  <Packages Name="pix_fiducialtrack"/>
+  <Packages Name="shmem">
+    <Package ID="c2htZW1fMS4xXzIwMjItMDMtMTkgMTU6MjQ6MjJfY2hucnk=" Author="chnry"
+             Timestamp="2022-03-19 15:24:22" Description="shmem[v1.1](Darwin-amd64-32)(Linux-amd64-32)(Linux-armv7-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="1.1" URL="http://puredata.info/Members/chnry/software/shmem/1.1/shmem[v1.1](Darwin-amd64-32)(Linux-amd64-32)(Linux-armv7-32)(Windows-amd64-32)(Windows-i386-32).dek"/>
+  </Packages>
+  <Packages Name="pix_artoolkit"/>
+  <Packages Name="pduino"/>
+  <Packages Name="pdpp"/>
+  <Packages Name="shadylib"/>
+  <Packages Name="pdpii2c">
+    <Package ID="cGRwaWkyY18yMDIwMDkyM18yMDIwLTA5LTIzIDIyOjMxOjQ4X21hcnRpbnJw"
+             Author="martinrp" Timestamp="2020-09-23 22:31:48" Description="pdpii2c[v20200923](Linux-armv7-32)(Sources).dek"
+             Version="20200923" URL="http://puredata.info/Members/martinrp/software/pdpii2c/20200923/pdpii2c[v20200923](Linux-armv7-32)(Sources).dek"/>
+  </Packages>
+  <Packages Name="pdp"/>
+  <Packages Name="pdmus"/>
+  <Packages Name="pdjs"/>
+  <Packages Name="pde"/>
+  <Packages Name="senselmorph"/>
+  <Packages Name="pdcontainer"/>
+  <Packages Name="ws"/>
+  <Packages Name="streamStretch~"/>
+  <Packages Name="pd-zmq"/>
+  <Packages Name="jmmmp"/>
+  <Packages Name="pdogg"/>
+  <Packages Name="list-abs"/>
+  <Packages Name="mkmr"/>
+  <Packages Name="iem_adaptfilt"/>
+  <Packages Name="planifolia"/>
+  <Packages Name="ndi"/>
+  <Packages Name="guis">
+    <Package ID="Z3Vpc18wLjIuMF8yMDIxLTEyLTAzIDAxOjQxOjMyX2VyaWNsZW5uYXJ0c29u"
+             Author="ericlennartson" Timestamp="2021-12-03 01:41:32" Description="guis[v0.2.0](Linux-armv7-32).dek"
+             Version="0.2.0" URL="http://puredata.info/Members/ericlennartson/software/guis/0.2.0/guis[v0.2.0](Linux-armv7-32).dek"/>
+    <Package ID="Z3Vpc18wLjEuMF8yMDIxLTEwLTEwIDAxOjAzOjQxX2VyaWNsZW5uYXJ0c29u"
+             Author="ericlennartson" Timestamp="2021-10-10 01:03:41" Description="guis[v0.1.0](Linux-armv7-32).dek"
+             Version="0.1.0" URL="http://puredata.info/Members/ericlennartson/software/guis/0.1.0/guis[v0.1.0](Linux-armv7-32).dek"/>
+  </Packages>
+  <Packages Name="plugin~"/>
+  <Packages Name="constantq~"/>
+  <Packages Name="grambilib"/>
+  <Packages Name="gigaverb~"/>
+  <Packages Name="gem2pdp"/>
+  <Packages Name="faustgen~"/>
+  <Packages Name="jpcvisu"/>
+  <Packages Name="else">
+    <Package ID="ZWxzZV8xLjAtMF9yYzItd2l0aF9saXZlX2VsZWN0cm9uaWNzX3R1dG9yaWFsXzIwMjItMDYtMDIgMTU6MzQ6MTdfcG9ycmVz"
+             Author="porres" Timestamp="2022-06-02 15:34:17" Description="else[v1.0-0_rc2-with_live_electronics_tutorial](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="1.0-0_rc2-with_live_electronics_tutorial" URL="http://puredata.info/Members/porres/software/else/1.0-0_rc2-with_live_electronics_tutorial/else[v1.0-0_rc2-with_live_electronics_tutorial](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"/>
+    <Package ID="ZWxzZV8xLjAtMF9iZXRhNDRfd2l0aF9saXZlX2VsZWN0cm9uaWNzX3R1dG9yaWFsXzIwMjEtMDktMjkgMDI6MTU6MTVfcG9ycmVz"
+             Author="porres" Timestamp="2021-09-29 02:15:15" Description="else[v1.0-0_beta44_with_live_electronics_tutorial](Linux-arm64-32)(Linux-armv6-32)(Linux-armv7-32).dek"
+             Version="1.0-0_beta44_with_live_electronics_tutorial" URL="http://puredata.info/Members/porres/software/else/1.0-0_beta44_with_live_electronics_tutorial/else[v1.0-0_beta44_with_live_electronics_tutorial](Linux-arm64-32)(Linux-armv6-32)(Linux-armv7-32).dek"/>
+  </Packages>
+  <Packages Name="echocurve~">
+    <Package ID="ZWNob2N1cnZlfl8wLjFfMjAxOC0wOC0wNiAwNzowMjozNV9qd21hdHRoeXM="
+             Author="jwmatthys" Timestamp="2018-08-06 07:02:35" Description="echocurve~-v0.1-(Sources)(Linux-armv7-32)-externals.tar.gz"
+             Version="0.1" URL="http://puredata.info/Members/jwmatthys/software/echocurve~/0.1/echocurve~-v0.1-(Sources)(Linux-armv7-32)-externals.tar.gz"/>
+  </Packages>
+  <Packages Name="ggee">
+    <Package ID="Z2dlZV8wLjI4XzIwMjEtMDMtMTggMTA6MjI6NTFfcmR6" Author="rdz"
+             Timestamp="2021-03-18 10:22:51" Description="ggee[v0.28](Linux-armv7-32).dek"
+             Version="0.28" URL="http://puredata.info/Members/rdz/software/ggee/0.28/ggee[v0.28](Linux-armv7-32).dek"/>
+  </Packages>
+  <Packages Name="iemguts">
+    <Package ID="aWVtZ3V0c18wLjMuMV8yMDIyLTAzLTMwIDE4OjMwOjI2X3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2022-03-30 18:30:26" Description="iemguts[v0.3.1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.3.1" URL="http://puredata.info/Members/zmoelnigbot/software/iemguts/0.3.1/iemguts[v0.3.1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"/>
+    <Package ID="aWVtZ3V0c18wLjIuMV8yMDE3LTA4LTMxIDE4OjQ4OjMxX2FsZXhhbmRyb3M="
+             Author="alexandros" Timestamp="2017-08-31 18:48:31" Description="iemguts-v0.2.1-(Sources)(Linux-armv7-32)-externals.tar.gz"
+             Version="0.2.1" URL="http://puredata.info/Members/alexandros/software/iemguts/0.2.1/iemguts-v0.2.1-(Sources)(Linux-armv7-32)-externals.tar.gz"/>
+  </Packages>
+  <Packages Name="dnd-plugin"/>
+  <Packages Name="cxc"/>
+  <Packages Name="absattr">
+    <Package ID="YWJzYXR0cl8wLjIuM18yMDIwLTAzLTA0IDIzOjE2OjU1X3Rob21hcw=="
+             Author="thomas" Timestamp="2020-03-04 23:16:55" Description="absattr[v0.2.3](Linux-armv7-32).dek"
+             Version="0.2.3" URL="http://puredata.info/Members/thomas/software/absattr/0.2.3/absattr[v0.2.3](Linux-armv7-32).dek"/>
+  </Packages>
+  <Packages Name="hcs">
+    <Package ID="aGNzXzAuMi4xXzIwMjItMDMtMzAgMTc6NTY6NDRfaWVtYm90" Author="iembot"
+             Timestamp="2022-03-30 17:56:44" Description="hcs[v0.2.1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.2.1" URL="http://puredata.info/Members/iembot/software/hcs/0.2.1/hcs[v0.2.1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"/>
+  </Packages>
+  <Packages Name="cyclone">
+    <Package ID="Y3ljbG9uZV8wLjUtNV8yMDIwLTExLTI1IDE4OjU0OjI3X3BvcnJlcw=="
+             Author="porres" Timestamp="2020-11-25 18:54:27" Description="cyclone[v0.5-5](Linux-armv7-32).dek"
+             Version="0.5-5" URL="http://puredata.info/Members/porres/software/cyclone/0.5-5/cyclone[v0.5-5](Linux-armv7-32).dek"/>
+    <Package ID="Y3ljbG9uZV8wLjUtNF8yMDIwLTEwLTE4IDIzOjU1OjIwX2Vtdml2ZXJvcw=="
+             Author="emviveros" Timestamp="2020-10-18 23:55:20" Description="cyclone[v0.5-4](Linux-armv7-32).dek"
+             Version="0.5-4" URL="http://puredata.info/Members/emviveros/software/cyclone/0.5-4/cyclone[v0.5-4](Linux-armv7-32).dek"/>
+    <Package ID="Y3ljbG9uZV8wLjUtM18yMDIwLTA4LTIxIDIyOjM3OjE0X3BvcnJlcw=="
+             Author="porres" Timestamp="2020-08-21 22:37:14" Description="cyclone[v0.5-3](Linux-armv7-32).dek"
+             Version="0.5-3" URL="http://puredata.info/Members/porres/software/cyclone/0.5-3/cyclone[v0.5-3](Linux-armv7-32).dek"/>
+    <Package ID="Y3ljbG9uZV8wLjUtMl8yMDIwLTA3LTA3IDE4OjQwOjQ3X3BvcnJlcw=="
+             Author="porres" Timestamp="2020-07-07 18:40:47" Description="cyclone[v0.5-2](Linux-armv7-32).dek"
+             Version="0.5-2" URL="http://puredata.info/Members/porres/software/cyclone/0.5-2/cyclone[v0.5-2](Linux-armv7-32).dek"/>
+    <Package ID="Y3ljbG9uZV8wLjUtMV8yMDIwLTA2LTIyIDIyOjEyOjMyX3BvcnJlcw=="
+             Author="porres" Timestamp="2020-06-22 22:12:32" Description="cyclone[v0.5-1](Linux-armv7-32).dek"
+             Version="0.5-1" URL="http://puredata.info/Members/porres/software/cyclone/0.5-1/cyclone[v0.5-1](Linux-armv7-32).dek"/>
+    <Package ID="Y3ljbG9uZV8wLjUtMF8yMDIwLTA2LTA5IDE3OjQyOjU1X3BvcnJlcw=="
+             Author="porres" Timestamp="2020-06-09 17:42:55" Description="cyclone[v0.5-0](Linux-armv7-32).dek"
+             Version="0.5-0" URL="http://puredata.info/Members/porres/software/cyclone/0.5-0/cyclone[v0.5-0](Linux-armv7-32).dek"/>
+    <Package ID="Y3ljbG9uZV8wLjRfMjAxOS0wOS0xNyAwMDo0MDoyOF9wb3JyZXM=" Author="porres"
+             Timestamp="2019-09-17 00:40:28" Description="cyclone[v0.4](Linux-armv7-32).dek"
+             Version="0.4" URL="http://puredata.info/Members/porres/software/cyclone/0.4/cyclone[v0.4](Linux-armv7-32).dek"/>
+    <Package ID="Y3ljbG9uZV8wLjNfMjAxOS0wMi0yMiAwMzoyMTozMF9wb3JyZXM=" Author="porres"
+             Timestamp="2019-02-22 03:21:30" Description="cyclone[v0.3](Linux-armv7-32).dek"
+             Version="0.3" URL="http://puredata.info/Members/porres/software/cyclone/0.3/cyclone[v0.3](Linux-armv7-32).dek"/>
+  </Packages>
+  <Packages Name="jpcex"/>
+  <Packages Name="extra"/>
+  <Packages Name="arraysize"/>
+  <Packages Name="nilwind"/>
+  <Packages Name="binfile"/>
+  <Packages Name="apple"/>
+  <Packages Name="pddp"/>
+  <Packages Name="nusmuk-utils"/>
+  <Packages Name="completion-plugin"/>
+  <Packages Name="aoo">
+    <Package ID="YW9vXzIuMC1wcmUyXzIwMjAtMDYtMjAgMjE6MjY6MTVfc3BhY2VjaGlsZDE="
+             Author="spacechild1" Timestamp="2020-06-20 21:26:15" Description="aoo[v2.0-pre2](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="2.0-pre2" URL="http://puredata.info/Members/spacechild1/software/aoo/2.0-pre2/aoo[v2.0-pre2](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"/>
+    <Package ID="YW9vXzIuMC1wcmUxXzIwMjAtMDQtMDMgMjM6NDM6NDhfc3BhY2VjaGlsZDE="
+             Author="spacechild1" Timestamp="2020-04-03 23:43:48" Description="aoo[v2.0-pre1](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="2.0-pre1" URL="http://puredata.info/Members/spacechild1/software/aoo/2.0-pre1/aoo[v2.0-pre1](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"/>
+  </Packages>
+  <Packages Name="mc"/>
+  <Packages Name="missive~"/>
+  <Packages Name="ezaoo"/>
+  <Packages Name="ceammc"/>
+  <Packages Name="vstplugin~"/>
+  <Packages Name="convolve~">
+    <Package ID="Y29udm9sdmV+XzAuMTMuMV8yMDIxLTA1LTE4IDE5OjA5OjI3X3dtYnJlbnQ="
+             Author="wmbrent" Timestamp="2021-05-18 19:09:27" Description="convolve~[v0.13.1](Linux-armv7-32).dek"
+             Version="0.13.1" URL="http://puredata.info/Members/wmbrent/software/convolve~/0.13.1/convolve~[v0.13.1](Linux-armv7-32).dek"/>
+    <Package ID="Y29udm9sdmV+XzAuOV8yMDE3LTA3LTEwIDIyOjI4OjQ4X3Jkeg==" Author="rdz"
+             Timestamp="2017-07-10 22:28:48" Description="convolve~-v0.9-(Linux-armv7-32)-externals.tar.gz"
+             Version="0.9" URL="http://puredata.info/Members/rdz/software/convolve~/0.9/convolve~-v0.9-(Linux-armv7-32)-externals.tar.gz"/>
+  </Packages>
+  <Packages Name="algo~"/>
+  <Packages Name="swe~">
+    <Package ID="c3dlfl8wLjdfMjAxNy0xMS0xNyAwOTowMzozOF9qd21hdHRoeXM=" Author="jwmatthys"
+             Timestamp="2017-11-17 09:03:38" Description="swe~-v0.7-(Sources)(Linux-armv7-32)-externals.tar.gz"
+             Version="0.7" URL="http://puredata.info/Members/jwmatthys/software/swe~/0.7/swe~-v0.7-(Sources)(Linux-armv7-32)-externals.tar.gz"/>
+  </Packages>
+  <Packages Name="hexloader"/>
+  <Packages Name="acre"/>
+  <Packages Name="adaptive"/>
+  <Packages Name="patch2svg-plugin"/>
+  <Packages Name="freeverb~"/>
+  <Packages Name="ml.lib"/>
+  <Packages Name="audiolab"/>
+  <Packages Name="iem_spec2"/>
+  <Packages Name="iemgui"/>
+  <Packages Name="purepd"/>
+  <Packages Name="fftease"/>
+  <Packages Name="mp3cast~">
+    <Package ID="bXAzY2FzdH5fMC41XzIwMjItMDUtMTIgMjI6MzE6MDlfcmR6" Author="rdz"
+             Timestamp="2022-05-12 22:31:09" Description="mp3cast~[v0.5](Linux-armv7-32).dek"
+             Version="0.5" URL="http://puredata.info/Members/rdz/software/mp3cast~/0.5/mp3cast~[v0.5](Linux-armv7-32).dek"/>
+  </Packages>
+  <Packages Name="fd_lib"/>
+  <Packages Name="ekext"/>
+  <Packages Name="bassemu"/>
+  <Packages Name="jit_expr"/>
+  <Packages Name="art_net"/>
+  <Packages Name="aconnect">
+    <Package ID="YWNvbm5lY3RfMC41XzIwMjEtMDUtMjYgMTY6MzI6MTVfaWVtYm90" Author="iembot"
+             Timestamp="2021-05-26 16:32:15" Description="aconnect[v0.5](Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32).dek"
+             Version="0.5" URL="http://puredata.info/Members/iembot/software/aconnect/0.5/aconnect[v0.5](Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32).dek"/>
+  </Packages>
+  <Packages Name="tracker"/>
+  <Packages Name="hid"/>
+  <Packages Name="filemtime"/>
+  <Packages Name="dw_lib"/>
+  <Packages Name="bf-pd"/>
+  <Packages Name="ext13"/>
+  <Packages Name="bsaylor"/>
+  <Packages Name="jl"/>
+  <Packages Name="spring22"/>
+  <Packages Name="chair"/>
+  <Packages Name="chaos"/>
+  <Packages Name="pix_drum"/>
+  <Packages Name="flatgui"/>
+  <Packages Name="pispi">
+    <Package ID="cGlzcGlfMC4yMDIwMDEwNl8yMDIwLTAxLTA4IDIwOjI5OjM2X21hcnRpbnJw"
+             Author="martinrp" Timestamp="2020-01-08 20:29:36" Description="pispi[v0.20200106](Linux-armv7-32)(Sources).dek"
+             Version="0.20200106" URL="http://puredata.info/Members/martinrp/software/pispi/0.20200106/pispi[v0.20200106](Linux-armv7-32)(Sources).dek"/>
+  </Packages>
+  <Packages Name="cicmtools"/>
+  <Packages Name="purest_json">
+    <Package ID="cHVyZXN0X2pzb25fMS40LjNfMjAxOS0xMS0wOCAwMTowNjowNV9yZXNpZHV1bQ=="
+             Author="residuum" Timestamp="2019-11-08 01:06:05" Description="purest_json[v1.4.3](Linux-armv7-32).dek"
+             Version="1.4.3" URL="http://puredata.info/Members/residuum/software/purest_json/1.4.3/purest_json[v1.4.3](Linux-armv7-32).dek"/>
+  </Packages>
+  <Packages Name="nGui"/>
+  <Packages Name="bassemu~"/>
+  <Packages Name="clk">
+    <Package ID="Y2xrXzAuMi4xXzIwMjAtMDMtMDQgMjM6MTQ6NDNfdGhvbWFz" Author="thomas"
+             Timestamp="2020-03-04 23:14:43" Description="clk[v0.2.1](Linux-armv7-32).dek"
+             Version="0.2.1" URL="http://puredata.info/Members/thomas/software/clk/0.2.1/clk[v0.2.1](Linux-armv7-32).dek"/>
+  </Packages>
+  <Packages Name="webserver"/>
+  <Packages Name="soundhack"/>
+  <Packages Name="pof"/>
+  <Packages Name="hidin"/>
+  <Packages Name="command">
+    <Package ID="Y29tbWFuZF8wLjNfMjAyMi0wMi0wOCAyMjoxNTo0N19yZHo=" Author="rdz"
+             Timestamp="2022-02-08 22:15:47" Description="command[v0.3](Linux-armv7-32).dek"
+             Version="0.3" URL="http://puredata.info/Members/rdz/software/command/0.3/command[v0.3](Linux-armv7-32).dek"/>
+    <Package ID="Y29tbWFuZF8wLjJfMjAyMi0wMi0wMyAxMTozNTozMF9yZHo=" Author="rdz"
+             Timestamp="2022-02-03 11:35:30" Description="command[v0.2](Linux-armv7-32).dek"
+             Version="0.2" URL="http://puredata.info/Members/rdz/software/command/0.2/command[v0.2](Linux-armv7-32).dek"/>
+    <Package ID="Y29tbWFuZF8wLjFfMjAyMS0xMC0wMSAyMjoyMDoxOV9yZHo=" Author="rdz"
+             Timestamp="2021-10-01 22:20:19" Description="command[v0.1](Linux-armv7-32).dek"
+             Version="0.1" URL="http://puredata.info/Members/rdz/software/command/0.1/command[v0.1](Linux-armv7-32).dek"/>
+  </Packages>
+  <Packages Name="hotfix732-deadkeys-plugin"/>
+  <Packages Name="earplug~"/>
+  <Packages Name="iempluginOSC"/>
+  <Packages Name="xsample">
+    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIyLTA3LTEwIDAxOjE0OjI4X3Rob21hcw=="
+             Author="thomas" Timestamp="2022-07-10 01:14:28" Description="xsample[v0.3.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Windows-amd64-32).dek"
+             Version="0.3.2" URL="http://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Windows-amd64-32).dek"/>
+    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIwLTAzLTA0IDIzOjA3OjAzX3Rob21hcw=="
+             Author="thomas" Timestamp="2020-03-04 23:07:03" Description="xsample[v0.3.2](Linux-armv7-32).dek"
+             Version="0.3.2" URL="http://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Linux-armv7-32).dek"/>
+  </Packages>
+  <Packages Name="context"/>
+  <Packages Name="bandlimited"/>
+  <Packages Name="net"/>
+  <Packages Name="timestretch"/>
+  <Packages Name="shotnoise"/>
+  <Packages Name="neuralnet">
+    <Package ID="bmV1cmFsbmV0XzAuMl8yMDIyLTA3LTAxIDIxOjE4OjMyX2FsZXhhbmRyb3M="
+             Author="alexandros" Timestamp="2022-07-01 21:18:32" Description="neuralnet[v0.2](Linux-armv7-32)(Sources).dek"
+             Version="0.2" URL="http://puredata.info/Members/alexandros/software/neuralnet/0.2/neuralnet[v0.2](Linux-armv7-32)(Sources).dek"/>
+    <Package ID="bmV1cmFsbmV0XzAuMV8yMDIyLTA2LTMwIDE2OjM5OjM3X2FsZXhhbmRyb3M="
+             Author="alexandros" Timestamp="2022-06-30 16:39:37" Description="neuralnet[v0.1](Linux-armv7-32)(Sources).dek"
+             Version="0.1" URL="http://puredata.info/Members/alexandros/software/neuralnet/0.1/neuralnet[v0.1](Linux-armv7-32)(Sources).dek"/>
+  </Packages>
+  <Packages Name="creb"/>
+  <Packages Name="hidio"/>
+  <Packages Name="vabs"/>
+  <Packages Name="flite"/>
+  <Packages Name="iem_ambi"/>
+  <Packages Name="upp"/>
+  <Packages Name="py">
+    <Package ID="cHlfMC4yLjJfMjAyMC0wMy0wNCAyMzoyNDowMl90aG9tYXM=" Author="thomas"
+             Timestamp="2020-03-04 23:24:02" Description="py[v0.2.2](Linux-armv7-32).dek"
+             Version="0.2.2" URL="http://puredata.info/Members/thomas/software/py/0.2.2/py[v0.2.2](Linux-armv7-32).dek"/>
+  </Packages>
+  <Packages Name="martha~"/>
+  <Packages Name="iem_bin_ambi"/>
+  <Packages Name="iem_vanilla"/>
+  <Packages Name="boids"/>
+  <Packages Name="lolPd"/>
+  <Packages Name="zconf"/>
+  <Packages Name="iem_delay"/>
+  <Packages Name="la-kitchen"/>
+  <Packages Name="iem_tab"/>
+  <Packages Name="iemnet">
+    <Package ID="aWVtbmV0XzAuMy4wXzIwMjItMDMtMzAgMTg6NTM6MTZfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2022-03-30 18:53:16" Description="iemnet[v0.3.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.3.0" URL="http://puredata.info/Members/zmoelnigbot/software/iemnet/0.3.0/iemnet[v0.3.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"/>
+    <Package ID="aWVtbmV0XzAuMy4wXzIwMjAtMDYtMjQgMjM6NTQ6MThfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2020-06-24 23:54:18" Description="iemnet[v0.3.0](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.3.0" URL="http://puredata.info/Members/zmoelnigbot/software/iemnet/0.3.0/iemnet[v0.3.0](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"/>
+    <Package ID="aWVtbmV0XzAuMi4zXzIwMjAtMDQtMDMgMjE6MjY6NTFfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2020-04-03 21:26:51" Description="iemnet[v0.2.3](Linux-armv7-32).dek"
+             Version="0.2.3" URL="http://puredata.info/Members/zmoelnigbot/software/iemnet/0.2.3/iemnet[v0.2.3](Linux-armv7-32).dek"/>
+  </Packages>
+  <Packages Name="iemxmlrpc"/>
+  <Packages Name="pd-push-and-hold"/>
+  <Packages Name="jasch_lib"/>
+  <Packages Name="tof"/>
+  <Packages Name="moonlib">
+    <Package ID="bW9vbmxpYl8wLjRfMjAxOS0wMS0wMyAxMjozMjo0N19hbnQxcg==" Author="ant1r"
+             Timestamp="2019-01-03 12:32:47" Description="moonlib[v0.4](Linux-armv7-32).dek"
+             Version="0.4" URL="http://puredata.info/Members/ant1r/software/moonlib/0.4/moonlib[v0.4](Linux-armv7-32).dek"/>
+    <Package ID="bW9vbmxpYl8wLjMuNF8yMDE2LTExLTAxIDE3OjU2OjU5X2FudDFy" Author="ant1r"
+             Timestamp="2016-11-01 17:56:59" Description="moonlib-v0.3.4-(Sources)(Linux-armv7-32)-externals.tar.gz"
+             Version="0.3.4" URL="http://puredata.info/Members/ant1r/software/moonlib/0.3.4/moonlib-v0.3.4-(Sources)(Linux-armv7-32)-externals.tar.gz"/>
+  </Packages>
+  <Packages Name="iemlib">
+    <Package ID="aWVtbGliXzEuMjItMl8yMDIyLTAzLTMwIDE1OjUzOjA5X2llbWJvdA=="
+             Author="iembot" Timestamp="2022-03-30 15:53:09" Description="iemlib[v1.22-2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="1.22-2" URL="http://puredata.info/Members/iembot/software/iemlib/1.22-2/iemlib[v1.22-2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"/>
+    <Package ID="aWVtbGliXzEuMjItMV8yMDIxLTA5LTEyIDExOjU5OjQ0X3Jkeg==" Author="rdz"
+             Timestamp="2021-09-12 11:59:44" Description="iemlib[v1.22-1](Linux-armv7-32).dek"
+             Version="1.22-1" URL="http://puredata.info/Members/rdz/software/iemlib/1.22-1/iemlib[v1.22-1](Linux-armv7-32).dek"/>
+  </Packages>
+  <Packages Name="kiosk-plugin"/>
+  <Packages Name="lerdahl"/>
+  <Packages Name="oscx"/>
+  <Packages Name="libdir"/>
+  <Packages Name="log"/>
+  <Packages Name="pmpd">
+    <Package ID="cG1wZF8wLjEyXzIwMjEtMTEtMjAgMTQ6MDc6MDJfYXZpbGxlcmV0" Author="avilleret"
+             Timestamp="2021-11-20 14:07:02" Description="pmpd[v0.12](Darwin-amd64-32)(Linux-amd64-32)(Linux-armv7-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.12" URL="http://puredata.info/Members/avilleret/software/pmpd/0.12/pmpd[v0.12](Darwin-amd64-32)(Linux-amd64-32)(Linux-armv7-32)(Windows-amd64-32)(Windows-i386-32).dek"/>
+  </Packages>
+  <Packages Name="pii2c">
+    <Package ID="cGlpMmNfMC4yMDIwMDEwNl8yMDIwLTAxLTA4IDIwOjMwOjI4X21hcnRpbnJw"
+             Author="martinrp" Timestamp="2020-01-08 20:30:28" Description="pii2c[v0.20200106](Linux-armv7-32)(Sources).dek"
+             Version="0.20200106" URL="http://puredata.info/Members/martinrp/software/pii2c/0.20200106/pii2c[v0.20200106](Linux-armv7-32)(Sources).dek"/>
+  </Packages>
+  <Packages Name="iem_roomsim"/>
+  <Packages Name="lyonpotpourri"/>
+  <Packages Name="mapping"/>
+  <Packages Name="markex"/>
+  <Packages Name="deken-plugin"/>
+  <Packages Name="maxlib"/>
+  <Packages Name="mediasettings"/>
+  <Packages Name="soundtouch~"/>
+  <Packages Name="midifile"/>
+  <Packages Name="windowing"/>
+  <Packages Name="nsend"/>
+  <Packages Name="scrollpage-plugin"/>
+  <Packages Name="iem16"/>
+  <Packages Name="moocow"/>
+  <Packages Name="motex"/>
+  <Packages Name="mrpeach">
+    <Package ID="bXJwZWFjaF8yMDIwMDYxNV8yMDIwLTA2LTE4IDIxOjI1OjI2X21hcnRpbnJw"
+             Author="martinrp" Timestamp="2020-06-18 21:25:26" Description="mrpeach[v20200615](Linux-armv7-32)(Sources).dek"
+             Version="20200615" URL="http://puredata.info/Members/martinrp/software/mrpeach/20200615/mrpeach[v20200615](Linux-armv7-32)(Sources).dek"/>
+  </Packages>
+  <Packages Name="pix_mano"/>
+  <Packages Name="mjlib"/>
+  <Packages Name="osc"/>
+  <Packages Name="doublechord-plugin"/>
+  <Packages Name="muug"/>
+  <Packages Name="nicinfo"/>
+  <Packages Name="nusmuk-audio"/>
+  <Packages Name="ofelia"/>
+  <Packages Name="easyflow"/>
+  <Packages Name="comport">
+    <Package ID="Y29tcG9ydF8xLjJfMjAyMi0wMy0yMSAxMTo1MjoyN19pZW1ib3Q=" Author="iembot"
+             Timestamp="2022-03-21 11:52:27" Description="comport[v1.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="1.2" URL="http://puredata.info/Members/iembot/software/comport/1.2/comport[v1.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"/>
+    <Package ID="Y29tcG9ydF8xLjEuMV8yMDE3LTAzLTE4IDE4OjU1OjUxX3Jkeg==" Author="rdz"
+             Timestamp="2017-03-18 18:55:51" Description="comport-v1.1.1-(Linux-armv7-32)-externals.tar.gz"
+             Version="1.1.1" URL="http://puredata.info/Members/rdz/software/comport/1.1.1/comport-v1.1.1-(Linux-armv7-32)-externals.tar.gz"/>
+    <Package ID="Y29tcG9ydF8xLjFfMjAxNy0wMy0wMyAxNjoxMDozMl9yZHo=" Author="rdz"
+             Timestamp="2017-03-03 16:10:32" Description="comport-v1.1-(Linux-armv7-32)-externals.tar.gz"
+             Version="1.1" URL="http://puredata.info/Members/rdz/software/comport/1.1/comport-v1.1-(Linux-armv7-32)-externals.tar.gz"/>
+  </Packages>
+  <Packages Name="osci">
+    <Package ID="b3NjaV8wLjIuMF8yMDIxLTA3LTIwIDE5OjE1OjE1X2VyaWNsZW5uYXJ0c29u"
+             Author="ericlennartson" Timestamp="2021-07-20 19:15:15" Description="osci[v0.2.0](Linux-armv7-32).dek"
+             Version="0.2.0" URL="http://puredata.info/Members/ericlennartson/software/osci/0.2.0/osci[v0.2.0](Linux-armv7-32).dek"/>
+    <Package ID="b3NjaV8wLjEuMV8yMDIxLTAxLTMxIDE5OjQ5OjMwX2VyaWNsZW5uYXJ0c29u"
+             Author="ericlennartson" Timestamp="2021-01-31 19:49:30" Description="osci[v0.1.1](Linux-armv7-32).dek"
+             Version="0.1.1" URL="http://puredata.info/Members/ericlennartson/software/osci/0.1.1/osci[v0.1.1](Linux-armv7-32).dek"/>
+    <Package ID="b3NjaV8wLjEuMF8yMDIxLTAxLTI3IDE2OjUyOjM5X2VyaWNsZW5uYXJ0c29u"
+             Author="ericlennartson" Timestamp="2021-01-27 16:52:39" Description="osci[v0.1.0](Linux-armv7-32).dek"
+             Version="0.1.0" URL="http://puredata.info/Members/ericlennartson/software/osci/0.1.0/osci[v0.1.0](Linux-armv7-32).dek"/>
+  </Packages>
+  <Packages Name="ossia"/>
+  <Packages Name="pan"/>
+  <Packages Name="vbap"/>
+  <Packages Name="iemmatrix"/>
+  <Packages Name="patcherize-plugin"/>
+  <Packages Name="vasp">
+    <Package ID="dmFzcF8wLjEuNF8yMDIwLTAzLTE5IDIzOjE1OjI4X3Rob21hcw==" Author="thomas"
+             Timestamp="2020-03-19 23:15:28" Description="vasp[v0.1.4](Linux-armv7-32).dek"
+             Version="0.1.4" URL="http://puredata.info/Members/thomas/software/vasp/0.1.4/vasp[v0.1.4](Linux-armv7-32).dek"/>
+  </Packages>
+  <Packages Name="pdlua"/>
+  <Packages Name="pd-wavelet"/>
+</Linux-armv7-32>

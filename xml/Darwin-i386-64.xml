@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Darwin-i386-64>
+  <Packages Name="zexy"/>
+  <Packages Name="zconf"/>
+  <Packages Name="xsample">
+    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIwLTAzLTA0IDAwOjUwOjM3X3Rob21hcw=="
+             Author="thomas" Timestamp="2020-03-04 00:50:37" Description="xsample[v0.3.2](Darwin-amd64-64)(Darwin-i386-64).dek"
+             Version="0.3.2" URL="http://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Darwin-amd64-64)(Darwin-i386-64).dek"/>
+  </Packages>
+</Darwin-i386-64>

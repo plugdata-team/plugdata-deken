@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Darwin-arm64-64>
+  <Packages Name="windowing"/>
+  <Packages Name="webserver"/>
+  <Packages Name="vanilla"/>
+  <Packages Name="vabs"/>
+  <Packages Name="vinylcontrol~"/>
+  <Packages Name="vasp"/>
+  <Packages Name="tune~"/>
+  <Packages Name="triggerize-plugin"/>
+  <Packages Name="tracker"/>
+  <Packages Name="timbreIDLib"/>
+  <Packages Name="vbap"/>
+  <Packages Name="testtools"/>
+  <Packages Name="unauthorized"/>
+  <Packages Name="tclpd"/>
+  <Packages Name="syslog"/>
+  <Packages Name="swe~"/>
+  <Packages Name="zexy"/>
+  <Packages Name="timeStretch~"/>
+  <Packages Name="rtcmix~"/>
+  <Packages Name="readdir"/>
+  <Packages Name="websocketserver"/>
+  <Packages Name="queryresponse"/>
+  <Packages Name="py"/>
+  <Packages Name="upp"/>
+  <Packages Name="sigpack"/>
+  <Packages Name="zconf"/>
+  <Packages Name="tclprompt-plugin"/>
+  <Packages Name="soundtouch~"/>
+  <Packages Name="smlib"/>
+  <Packages Name="soundhack"/>
+  <Packages Name="pulqui"/>
+  <Packages Name="psycho"/>
+  <Packages Name="ws"/>
+  <Packages Name="py4pd"/>
+  <Packages Name="rtc"/>
+  <Packages Name="streamStretch~"/>
+  <Packages Name="sfruit"/>
+  <Packages Name="timestretch"/>
+  <Packages Name="quilt"/>
+  <Packages Name="saturator"/>
+  <Packages Name="puremapping"/>
+  <Packages Name="pool">
+    <Package ID="cG9vbF8wLjIuMl8yMDIyLTA3LTEwIDE1OjU5OjAwX3Rob21hcw==" Author="thomas"
+             Timestamp="2022-07-10 15:59:00" Description="pool[v0.2.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek"
+             Version="0.2.2" URL="http://puredata.info/Members/thomas/software/pool/0.2.2/pool[v0.2.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek"/>
+  </Packages>
+  <Packages Name="purepd"/>
+  <Packages Name="scrollpage-plugin"/>
+  <Packages Name="search-plugin"/>
+  <Packages Name="senselmorph"/>
+  <Packages Name="unicode"/>
+  <Packages Name="slip"/>
+  <Packages Name="shadylib"/>
+  <Packages Name="xsample">
+    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIyLTA3LTEwIDAxOjE0OjQ2X3Rob21hcw=="
+             Author="thomas" Timestamp="2022-07-10 01:14:46" Description="xsample[v0.3.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek"
+             Version="0.3.2" URL="http://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek"/>
+  </Packages>
+  <Packages Name="shmem"/>
+  <Packages Name="tabreceive_mult~"/>
+  <Packages Name="purest_json"/>
+  <Packages Name="shotnoise"/>
+  <Packages Name="vstplugin~"/>
+  <Packages Name="tof"/>
+  <Packages Name="spring22"/>
+  <Packages Name="spect_scaled"/>
+</Darwin-arm64-64>

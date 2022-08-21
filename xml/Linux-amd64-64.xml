@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Linux-amd64-64>
+  <Packages Name="webserver"/>
+  <Packages Name="vstplugin~"/>
+  <Packages Name="vinylcontrol~"/>
+  <Packages Name="vabs"/>
+  <Packages Name="ws"/>
+  <Packages Name="unicode"/>
+  <Packages Name="triggerize-plugin"/>
+  <Packages Name="tof"/>
+  <Packages Name="timeStretch~"/>
+  <Packages Name="testtools"/>
+  <Packages Name="tclprompt-plugin"/>
+  <Packages Name="tclpd"/>
+  <Packages Name="zexy"/>
+  <Packages Name="zconf"/>
+  <Packages Name="websocketserver"/>
+  <Packages Name="syslog"/>
+  <Packages Name="soundtouch~"/>
+  <Packages Name="soundhack"/>
+  <Packages Name="slip"/>
+  <Packages Name="shmem"/>
+  <Packages Name="vanilla"/>
+  <Packages Name="search-plugin"/>
+  <Packages Name="scrollpage-plugin"/>
+  <Packages Name="saturator"/>
+  <Packages Name="rtcmix~"/>
+  <Packages Name="tracker"/>
+  <Packages Name="readdir"/>
+  <Packages Name="unauthorized"/>
+  <Packages Name="quilt"/>
+  <Packages Name="queryresponse"/>
+  <Packages Name="purepd"/>
+  <Packages Name="vasp">
+    <Package ID="dmFzcF8wLjEuNF8yMDIwLTAzLTE4IDAyOjM2OjAxX3Rob21hcw==" Author="thomas"
+             Timestamp="2020-03-18 02:36:01" Description="vasp[v0.1.4](Linux-amd64-64).dek"
+             Version="0.1.4" URL="http://puredata.info/Members/thomas/software/vasp/0.1.4/vasp[v0.1.4](Linux-amd64-64).dek"/>
+  </Packages>
+  <Packages Name="psycho"/>
+  <Packages Name="pof"/>
+  <Packages Name="plugin~"/>
+  <Packages Name="planifolia"/>
+  <Packages Name="pix_opencv"/>
+  <Packages Name="shadylib"/>
+  <Packages Name="pix_artoolkit"/>
+  <Packages Name="timestretch"/>
+  <Packages Name="nGui"/>
+  <Packages Name="purest_json"/>
+  <Packages Name="pool">
+    <Package ID="cG9vbF8wLjIuMl8yMDIyLTA3LTEwIDE1OjU5OjAwX3Rob21hcw==" Author="thomas"
+             Timestamp="2022-07-10 15:59:00" Description="pool[v0.2.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek"
+             Version="0.2.2" URL="http://puredata.info/Members/thomas/software/pool/0.2.2/pool[v0.2.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek"/>
+    <Package ID="cG9vbF8wLjIuMl8yMDIwLTAzLTA0IDIzOjM0OjM2X3Rob21hcw==" Author="thomas"
+             Timestamp="2020-03-04 23:34:36" Description="pool[v0.2.2](Linux-amd64-64).dek"
+             Version="0.2.2" URL="http://puredata.info/Members/thomas/software/pool/0.2.2/pool[v0.2.2](Linux-amd64-64).dek"/>
+  </Packages>
+  <Packages Name="pix_drum"/>
+  <Packages Name="ndi"/>
+  <Packages Name="pmpd"/>
+  <Packages Name="log"/>
+  <Packages Name="muug"/>
+  <Packages Name="ml.lib"/>
+  <Packages Name="mjlib"/>
+  <Packages Name="streamStretch~"/>
+  <Packages Name="moocow"/>
+  <Packages Name="windowing"/>
+  <Packages Name="senselmorph"/>
+  <Packages Name="martha~"/>
+  <Packages Name="maxlib"/>
+  <Packages Name="jpcex">
+    <Package ID="anBjZXhfMC4xXzIwMTgtMDMtMDggMTg6MTY6MDhfanBjaW1h" Author="jpcima"
+             Timestamp="2018-03-08 18:16:08" Description="jpcex[v0.1](Linux-amd64-64)(Sources).dek"
+             Version="0.1" URL="http://puredata.info/Members/jpcima/software/jpcex/0.1/jpcex[v0.1](Linux-amd64-64)(Sources).dek"/>
+  </Packages>
+  <Packages Name="motex"/>
+  <Packages Name="pdlua"/>
+  <Packages Name="list-abs"/>
+  <Packages Name="mkmr"/>
+  <Packages Name="nilwind"/>
+  <Packages Name="pispi"/>
+  <Packages Name="pdpp"/>
+  <Packages Name="mediasettings"/>
+  <Packages Name="jpcvisu"/>
+  <Packages Name="lyonpotpourri"/>
+  <Packages Name="upp"/>
+  <Packages Name="pd-push-and-hold"/>
+  <Packages Name="lolPd"/>
+  <Packages Name="osci"/>
+  <Packages Name="pii2c"/>
+  <Packages Name="pdcontainer"/>
+  <Packages Name="mp3cast~"/>
+  <Packages Name="vbap"/>
+  <Packages Name="spring22"/>
+  <Packages Name="la-kitchen"/>
+  <Packages Name="py4pd"/>
+  <Packages Name="missive~"/>
+  <Packages Name="mc"/>
+  <Packages Name="kiosk-plugin"/>
+  <Packages Name="pulqui"/>
+  <Packages Name="pddp"/>
+  <Packages Name="libdir"/>
+  <Packages Name="mapping"/>
+  <Packages Name="xsample">
+    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIyLTA3LTEwIDAxOjE0OjQ2X3Rob21hcw=="
+             Author="thomas" Timestamp="2022-07-10 01:14:46" Description="xsample[v0.3.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek"
+             Version="0.3.2" URL="http://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek"/>
+    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIwLTAzLTA0IDIzOjI5OjEyX3Rob21hcw=="
+             Author="thomas" Timestamp="2020-03-04 23:29:12" Description="xsample[v0.3.2](Linux-amd64-64).dek"
+             Version="0.3.2" URL="http://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Linux-amd64-64).dek"/>
+  </Packages>
+  <Packages Name="net"/>
+  <Packages Name="neuralnet"/>
+  <Packages Name="sigpack"/>
+  <Packages Name="py">
+    <Package ID="cHlfMC4yLjJfMjAyMC0wMy0wNCAyMzozMTowN190aG9tYXM=" Author="thomas"
+             Timestamp="2020-03-04 23:31:07" Description="py[v0.2.2](Linux-amd64-64).dek"
+             Version="0.2.2" URL="http://puredata.info/Members/thomas/software/py/0.2.2/py[v0.2.2](Linux-amd64-64).dek"/>
+  </Packages>
+  <Packages Name="puremapping"/>
+  <Packages Name="pix_fiducialtrack"/>
+  <Packages Name="nicinfo"/>
+  <Packages Name="pdmus"/>
+  <Packages Name="midifile"/>
+  <Packages Name="nsend"/>
+  <Packages Name="pix_mano"/>
+  <Packages Name="nusmuk-audio"/>
+  <Packages Name="ossia"/>
+  <Packages Name="nusmuk-utils"/>
+  <Packages Name="spect_scaled"/>
+  <Packages Name="ofelia"/>
+  <Packages Name="smlib"/>
+  <Packages Name="markex"/>
+  <Packages Name="pdjs"/>
+  <Packages Name="mrpeach"/>
+  <Packages Name="osc"/>
+  <Packages Name="sfruit"/>
+  <Packages Name="lerdahl"/>
+  <Packages Name="oscx"/>
+  <Packages Name="tune~"/>
+  <Packages Name="pan"/>
+  <Packages Name="patch2svg-plugin"/>
+  <Packages Name="swe~"/>
+  <Packages Name="patcherize-plugin"/>
+  <Packages Name="rtc"/>
+  <Packages Name="pd-wavelet"/>
+  <Packages Name="moonlib"/>
+  <Packages Name="pd-zmq"/>
+  <Packages Name="timbreIDLib"/>
+  <Packages Name="pde"/>
+  <Packages Name="shotnoise"/>
+  <Packages Name="pdogg"/>
+  <Packages Name="pdp"/>
+  <Packages Name="tabreceive_mult~"/>
+  <Packages Name="pdpii2c"/>
+  <Packages Name="pduino"/>
+</Linux-amd64-64>

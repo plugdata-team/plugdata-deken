@@ -1,21 +1,166 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <null>
-  <Packages Name="Gem"/>
-  <Packages Name="Fraise">
-    <Package ID="RnJhaXNlXzAuMS4xXzIwMjEtMDMtMjUgMTU6Mzk6MjlfYW50MXI=" Author="ant1r"
-             Timestamp="2021-03-25 15:39:29" Description="Fraise[v0.1.1].dek"
-             Version="0.1.1" URL="http://puredata.info/Members/ant1r/software/Fraise/0.1.1/Fraise[v0.1.1].dek"/>
-    <Package ID="RnJhaXNlXzAuMS4wXzIwMjEtMDEtMDcgMTI6MzI6MzVfYW50MXI=" Author="ant1r"
-             Timestamp="2021-01-07 12:32:35" Description="Fraise[v0.1.0].dek"
-             Version="0.1.0" URL="http://puredata.info/Members/ant1r/software/Fraise/0.1.0/Fraise[v0.1.0].dek"/>
+  <Packages Name="websocketserver"/>
+  <Packages Name="vinylcontrol~"/>
+  <Packages Name="zexy"/>
+  <Packages Name="vanilla"/>
+  <Packages Name="unicode">
+    <Package ID="dW5pY29kZV8wLjEuMF8yMDIxLTAzLTIyIDE2OjQxOjA4X3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2021-03-22 16:41:08" Description="unicode[v0.1.0].dek"
+             Version="0.1.0" URL="http://puredata.info/Members/zmoelnigbot/software/unicode/0.1.0/unicode[v0.1.0].dek"/>
   </Packages>
-  <Packages Name="DRFX">
-    <Package ID="RFJGWF8wLjUuMV8yMDE4LTAzLTI2IDA0OjI2OjA3X3dtYnJlbnQ=" Author="wmbrent"
-             Timestamp="2018-03-26 04:26:07" Description="DRFX[v0.5.1].dek"
-             Version="0.5.1" URL="http://puredata.info/Members/wmbrent/software/DRFX/0.5.1/DRFX[v0.5.1].dek"/>
+  <Packages Name="unauthorized"/>
+  <Packages Name="tune~">
+    <Package ID="dHVuZX5fMC4yXzIwMjEtMDUtMTcgMTk6MjA6NTRfd21icmVudA==" Author="wmbrent"
+             Timestamp="2021-05-17 19:20:54" Description="tune~[v0.2].dek"
+             Version="0.2" URL="http://puredata.info/Members/wmbrent/software/tune~/0.2/tune~[v0.2].dek"/>
   </Packages>
-  <Packages Name="Cream"/>
+  <Packages Name="triggerize-plugin"/>
+  <Packages Name="timeStretch~">
+    <Package ID="dGltZVN0cmV0Y2h+XzAuMi4xXzIwMTktMDctMDYgMTk6NTM6MjZfd21icmVudA=="
+             Author="wmbrent" Timestamp="2019-07-06 19:53:26" Description="timeStretch~[v0.2.1].dek"
+             Version="0.2.1" URL="http://puredata.info/Members/wmbrent/software/timeStretch~/0.2.1/timeStretch~[v0.2.1].dek"/>
+  </Packages>
+  <Packages Name="timbreIDLib"/>
+  <Packages Name="testtools">
+    <Package ID="dGVzdHRvb2xzXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjE4OjI5X2NocjE1bQ=="
+             Author="chr15m" Timestamp="2015-08-07 14:18:29" Description="testtools-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/testtools/testtools-v0.0.extended--externals.zip"/>
+  </Packages>
+  <Packages Name="tclprompt-plugin">
+    <Package ID="dGNscHJvbXB0LXBsdWdpbl8wLjFfMjAxNi0wNy0yMSAxMzo0NDo0OV96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2016-07-21 13:44:49" Description="tclprompt-plugin-v0.1--externals.zip"
+             Version="0.1" URL="http://puredata.info/Members/zmoelnig/software/tclprompt-plugin/0.1/tclprompt-plugin-v0.1--externals.zip"/>
+  </Packages>
+  <Packages Name="tabreceive_mult~"/>
+  <Packages Name="syslog"/>
+  <Packages Name="spect_scaled">
+    <Package ID="c3BlY3Rfc2NhbGVkXzAuMC4xXzIwMjAtMDMtMDQgMDE6MDM6MThfdGhvbWFz"
+             Author="thomas" Timestamp="2020-03-04 01:03:18" Description="spect_scaled[v0.0.1].dek"
+             Version="0.0.1" URL="http://puredata.info/Members/thomas/software/spect_scaled/0.0.1/spect_scaled[v0.0.1].dek"/>
+  </Packages>
+  <Packages Name="slip"/>
+  <Packages Name="sigpack"/>
+  <Packages Name="sfruit">
+    <Package ID="c2ZydWl0XzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjMzOjM5X2NocjE1bQ=="
+             Author="chr15m" Timestamp="2015-08-07 14:33:39" Description="sfruit-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/sfruit/sfruit-v0.0.extended--externals.zip"/>
+  </Packages>
+  <Packages Name="saturator"/>
+  <Packages Name="rtcmix~"/>
+  <Packages Name="rtc">
+    <Package ID="cnRjXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjUzOjEzX2NocjE1bQ=="
+             Author="chr15m" Timestamp="2015-08-07 14:53:13" Description="rtc-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/rtc/rtc-v0.0.extended--externals.zip"/>
+  </Packages>
+  <Packages Name="readdir"/>
+  <Packages Name="quilt"/>
+  <Packages Name="queryresponse">
+    <Package ID="cXVlcnlyZXNwb25zZV8wLjFfMjAyMS0wOC0zMSAxMToyNToyN19pZW1ib3Q="
+             Author="iembot" Timestamp="2021-08-31 11:25:27" Description="queryresponse[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/iembot/software/queryresponse/0.1/queryresponse[v0.1].dek"/>
+  </Packages>
+  <Packages Name="py4pd"/>
+  <Packages Name="puremapping">
+    <Package ID="cHVyZW1hcHBpbmdfMC4wXzIwMTctMDMtMTMgMjM6MDM6MDRfYXZpbGxlcmV0"
+             Author="avilleret" Timestamp="2017-03-13 23:03:04" Description="puremapping-v0.0--externals.zip"
+             Version="0.0" URL="http://puredata.info/Members/avilleret/software/puremapping/0.0/puremapping-v0.0--externals.zip"/>
+  </Packages>
+  <Packages Name="pulqui"/>
+  <Packages Name="smlib"/>
+  <Packages Name="psycho"/>
+  <Packages Name="pool"/>
+  <Packages Name="pix_opencv"/>
+  <Packages Name="tclpd"/>
+  <Packages Name="pix_fiducialtrack"/>
+  <Packages Name="shmem"/>
+  <Packages Name="pix_artoolkit">
+    <Package ID="cGl4X2FydG9vbGtpdF8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNTowNjo0Nl9jaHIxNW0="
+             Author="chr15m" Timestamp="2015-08-07 15:06:46" Description="pix_artoolkit-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/pix_artoolkit/pix_artoolkit-v0.0.extended--externals.zip"/>
+  </Packages>
+  <Packages Name="pduino">
+    <Package ID="cGR1aW5vXzAuOF8yMDIxLTAzLTI0IDE5OjU5OjIxX3Jkeg==" Author="rdz"
+             Timestamp="2021-03-24 19:59:21" Description="pduino[v0.8].dek"
+             Version="0.8" URL="http://puredata.info/Members/rdz/software/pduino/0.8/pduino[v0.8].dek"/>
+    <Package ID="cGR1aW5vXzAuN18yMDIxLTAxLTA0IDIyOjAxOjMyX3Jkeg==" Author="rdz"
+             Timestamp="2021-01-04 22:01:32" Description="pduino[v0.7].dek"
+             Version="0.7" URL="http://puredata.info/Members/rdz/software/pduino/0.7/pduino[v0.7].dek"/>
+    <Package ID="cGR1aW5vXzAuNl8yMDE5LTA1LTA2IDEzOjQ4OjIzX3Jkeg==" Author="rdz"
+             Timestamp="2019-05-06 13:48:23" Description="pduino[v0.6].dek"
+             Version="0.6" URL="http://puredata.info/Members/rdz/software/pduino/0.6/pduino[v0.6].dek"/>
+    <Package ID="cGR1aW5vXzAuNS4xLTIwMTUwNTI5aWVtXzIwMTYtMDgtMzAgMTQ6NDA6MTRfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2016-08-30 14:40:14" Description="pduino-v0.5.1-20150529iem--externals.zip"
+             Version="0.5.1-20150529iem" URL="http://puredata.info/Members/zmoelnig/software/iem/20150529.2247/pduino-v0.5.1-20150529iem--externals.zip"/>
+    <Package ID="cGR1aW5vXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE1OjA3OjM5X2NocjE1bQ=="
+             Author="chr15m" Timestamp="2015-08-07 15:07:39" Description="pduino-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/pduino/pduino-v0.0.extended--externals.zip"/>
+  </Packages>
+  <Packages Name="pdpp">
+    <Package ID="cGRwcF8xLjBfMjAxOC0wMy0xOSAxNDowNTo1N19yaXRzY2g=" Author="ritsch"
+             Timestamp="2018-03-19 14:05:57" Description="pdpp-v1.0--externals.zip"
+             Version="1.0" URL="http://puredata.info/Members/ritsch/software/pdpp/1.0/pdpp-v1.0--externals.zip"/>
+  </Packages>
+  <Packages Name="shadylib"/>
+  <Packages Name="pdpii2c"/>
+  <Packages Name="pdp"/>
+  <Packages Name="pdmus">
+    <Package ID="cGRtdXNfMC4xXzIwMTYtMDMtMTAgMjA6MDc6MTFfYW5nZWxmYXJhbGRv"
+             Author="angelfaraldo" Timestamp="2016-03-10 20:07:11" Description="pdmus-v0.1--externals.zip"
+             Version="0.1" URL="http://puredata.info/downloads/pdmus/releases/0.1/pdmus-v0.1--externals.zip"/>
+  </Packages>
+  <Packages Name="pdjs"/>
+  <Packages Name="pde">
+    <Package ID="cGRlXzEuMF8yMDE4LTAzLTE5IDE0OjExOjE5X3JpdHNjaA==" Author="ritsch"
+             Timestamp="2018-03-19 14:11:19" Description="pde-v1.0--externals.zip"
+             Version="1.0" URL="http://puredata.info/Members/ritsch/software/pde/1.0/pde-v1.0--externals.zip"/>
+  </Packages>
+  <Packages Name="senselmorph"/>
+  <Packages Name="pdcontainer"/>
+  <Packages Name="ws">
+    <Package ID="d3NfMC4xXzIwMTgtMDMtMTkgMDQ6NTI6MTJfY2hyMTVt" Author="chr15m"
+             Timestamp="2018-03-19 04:52:12" Description="ws[v0.1].dek" Version="0.1"
+             URL="http://puredata.info/Members/chr15m/software/ws/0.1/ws[v0.1].dek"/>
+  </Packages>
+  <Packages Name="streamStretch~">
+    <Package ID="c3RyZWFtU3RyZXRjaH5fMC41LjNfMjAxOS0wNy0wNiAxOTo1MDo0Nl93bWJyZW50"
+             Author="wmbrent" Timestamp="2019-07-06 19:50:46" Description="streamStretch~[v0.5.3].dek"
+             Version="0.5.3" URL="http://puredata.info/Members/wmbrent/software/streamStretch~/0.5.3/streamStretch~[v0.5.3].dek"/>
+  </Packages>
+  <Packages Name="pd-zmq"/>
+  <Packages Name="vasp"/>
+  <Packages Name="pdlua"/>
+  <Packages Name="pd-wavelet">
+    <Package ID="cGQtd2F2ZWxldF8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNDo1ODo1OV9jaHIxNW0="
+             Author="chr15m" Timestamp="2015-08-07 14:58:59" Description="pd-wavelet-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/pd-wavelet/pd-wavelet-v0.0.extended--externals.zip"/>
+  </Packages>
+  <Packages Name="pd-push-and-hold">
+    <Package ID="cGQtcHVzaC1hbmQtaG9sZF8wLjJfMjAxOS0wMy0xNyAxNDoyMTowMV9jaHIxNW0="
+             Author="chr15m" Timestamp="2019-03-17 14:21:01" Description="pd-push-and-hold[v0.2].dek"
+             Version="0.2" URL="http://puredata.info/Members/chr15m/software/pd-push-and-hold/0.2/pd-push-and-hold[v0.2].dek"/>
+    <Package ID="cGQtcHVzaC1hbmQtaG9sZF8wLjFfMjAxOS0wMy0xNyAxMzoxNjo0M19jaHIxNW0="
+             Author="chr15m" Timestamp="2019-03-17 13:16:43" Description="pd-push-and-hold[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/chr15m/software/pd-push-and-hold/0.1/pd-push-and-hold[v0.1].dek"/>
+  </Packages>
+  <Packages Name="patch2svg-plugin">
+    <Package ID="cGF0Y2gyc3ZnLXBsdWdpbl8wLjFfMjAxNi0wMy0yMiAxNjoyOToyNV96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2016-03-22 16:29:25" Description="patch2svg-plugin-v0.1--externals.zip"
+             Version="0.1" URL="http://puredata.info/downloads/patch2svg-plugin/releases/0.1/patch2svg-plugin-v0.1--externals.zip"/>
+  </Packages>
+  <Packages Name="pan">
+    <Package ID="cGFuXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjMyOjU3X2NocjE1bQ=="
+             Author="chr15m" Timestamp="2015-08-07 14:32:57" Description="pan-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/pan/pan-v0.0.extended--externals.zip"/>
+  </Packages>
+  <Packages Name="ossia"/>
+  <Packages Name="oscx"/>
+  <Packages Name="ofelia"/>
+  <Packages Name="pddp"/>
+  <Packages Name="nusmuk-utils"/>
+  <Packages Name="faustgen~"/>
+  <Packages Name="jpcvisu"/>
   <Packages Name="AutoPreset">
     <Package ID="QXV0b1ByZXNldF8wLjEwXzIwMTYtMTEtMDcgMjM6MDc6MjRfYW50MXI="
              Author="ant1r" Timestamp="2016-11-07 23:07:24" Description="AutoPreset-v0.10--externals.zip"
@@ -24,4 +169,393 @@
              Author="ant1r" Timestamp="2015-12-18 00:06:18" Description="AutoPreset-v0.9--externals.zip"
              Version="0.9" URL="http://puredata.info/Members/ant1r/software/AutoPreset/0.9/AutoPreset-v0.9--externals.zip"/>
   </Packages>
+  <Packages Name="dnd-plugin"/>
+  <Packages Name="cxc"/>
+  <Packages Name="absattr"/>
+  <Packages Name="creb"/>
+  <Packages Name="vstplugin~"/>
+  <Packages Name="convolve~"/>
+  <Packages Name="ceammc"/>
+  <Packages Name="ezaoo">
+    <Package ID="ZXphb29fMS4yXzIwMjAtMDgtMDkgMTc6NDA6NTVfZmRjaA==" Author="fdch"
+             Timestamp="2020-08-09 17:40:55" Description="ezaoo[v1.2].dek"
+             Version="1.2" URL="http://puredata.info/Members/fdch/software/ezaoo/1.2/ezaoo[v1.2].dek"/>
+    <Package ID="ZXphb29fMS4xXzIwMjAtMDgtMDkgMTc6Mzk6NDlfZmRjaA==" Author="fdch"
+             Timestamp="2020-08-09 17:39:49" Description="ezaoo[v1.1].dek"
+             Version="1.1" URL="http://puredata.info/Members/fdch/software/ezaoo/1.1/ezaoo[v1.1].dek"/>
+  </Packages>
+  <Packages Name="plugin~"/>
+  <Packages Name="constantq~"/>
+  <Packages Name="guis"/>
+  <Packages Name="jl"/>
+  <Packages Name="hotfix732-deadkeys-plugin"/>
+  <Packages Name="pix_drum"/>
+  <Packages Name="flatgui"/>
+  <Packages Name="chaos"/>
+  <Packages Name="Gem"/>
+  <Packages Name="lerdahl"/>
+  <Packages Name="pispi"/>
+  <Packages Name="cicmtools"/>
+  <Packages Name="abl_link~"/>
+  <Packages Name="cyclone"/>
+  <Packages Name="hcs"/>
+  <Packages Name="mkmr">
+    <Package ID="bWttcl8wLjFfMjAxOS0xMC0yMyAyMzo0ODoyNV9NaWtlTW9yZW5vQXVkaW8="
+             Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek"/>
+  </Packages>
+  <Packages Name="osci"/>
+  <Packages Name="comport"/>
+  <Packages Name="easyflow">
+    <Package ID="ZWFzeWZsb3dfMC4zLjBfMjAxOS0wOS0yNyAwNjoyODo0NV9IZW5yaQ=="
+             Author="Henri" Timestamp="2019-09-27 06:28:45" Description="easyflow[v0.3.0].dek"
+             Version="0.3.0" URL="http://puredata.info/Members/Henri/software/easyflow/0.3.0/easyflow[v0.3.0].dek"/>
+    <Package ID="ZWFzeWZsb3dfMC4yLjBfMjAxOC0wOC0xMiAwNzoxNjozN19IZW5yaQ=="
+             Author="Henri" Timestamp="2018-08-12 07:16:37" Description="easyflow[v0.2.0].dek"
+             Version="0.2.0" URL="http://puredata.info/Members/Henri/software/easyflow/0.2.0/easyflow[v0.2.0].dek"/>
+  </Packages>
+  <Packages Name="else"/>
+  <Packages Name="search-plugin">
+    <Package ID="c2VhcmNoLXBsdWdpbl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNTowMzoyNV9jaHIxNW0="
+             Author="chr15m" Timestamp="2015-08-07 15:03:25" Description="search-plugin-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/search-plugin/search-plugin-v0.0.extended--externals.zip"/>
+  </Packages>
+  <Packages Name="PDContainer"/>
+  <Packages Name="echocurve~"/>
+  <Packages Name="Pd_Spectral_Toolkit"/>
+  <Packages Name="arraysize"/>
+  <Packages Name="purepd">
+    <Package ID="cHVyZXBkXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE1OjA2OjEyX2NocjE1bQ=="
+             Author="chr15m" Timestamp="2015-08-07 15:06:12" Description="purepd-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/purepd/purepd-v0.0.extended--externals.zip"/>
+  </Packages>
+  <Packages Name="fftease"/>
+  <Packages Name="DRFX">
+    <Package ID="RFJGWF8wLjUuMV8yMDE4LTAzLTI2IDA0OjI2OjA3X3dtYnJlbnQ=" Author="wmbrent"
+             Timestamp="2018-03-26 04:26:07" Description="DRFX[v0.5.1].dek"
+             Version="0.5.1" URL="http://puredata.info/Members/wmbrent/software/DRFX/0.5.1/DRFX[v0.5.1].dek"/>
+  </Packages>
+  <Packages Name="ekext"/>
+  <Packages Name="jit_expr"/>
+  <Packages Name="bassemu"/>
+  <Packages Name="jpcex"/>
+  <Packages Name="extra"/>
+  <Packages Name="XXX-deken-test"/>
+  <Packages Name="adaptive"/>
+  <Packages Name="audiolab">
+    <Package ID="YXVkaW9sYWJfMC40MV8yMDIxLTA0LTMwIDEzOjI4OjMyX3NvbGlwZA=="
+             Author="solipd" Timestamp="2021-04-30 13:28:32" Description="audiolab[v0.41].dek"
+             Version="0.41" URL="http://puredata.info/Members/solipd/software/audiolab/0.41/audiolab[v0.41].dek"/>
+    <Package ID="YXVkaW9sYWJfMC40XzIwMjEtMDMtMjkgMTA6NDc6NTFfc29saXBk" Author="solipd"
+             Timestamp="2021-03-29 10:47:51" Description="audiolab[v0.4].dek"
+             Version="0.4" URL="http://puredata.info/Members/solipd/software/audiolab/0.4/audiolab[v0.4].dek"/>
+    <Package ID="YXVkaW9sYWJfMC4zXzIwMjAtMDktMTEgMTc6NDk6NTFfc29saXBk" Author="solipd"
+             Timestamp="2020-09-11 17:49:51" Description="audiolab[v0.3].dek"
+             Version="0.3" URL="http://puredata.info/Members/solipd/software/audiolab/0.3/audiolab[v0.3].dek"/>
+    <Package ID="YXVkaW9sYWJfMC4yXzIwMTktMTEtMjIgMTA6MzU6NTFfc29saXBk" Author="solipd"
+             Timestamp="2019-11-22 10:35:51" Description="audiolab[v0.2].dek"
+             Version="0.2" URL="http://puredata.info/Members/solipd/software/audiolab/0.2/audiolab[v0.2].dek"/>
+  </Packages>
+  <Packages Name="iem_spec2"/>
+  <Packages Name="iemgui"/>
+  <Packages Name="algo~"/>
+  <Packages Name="bsaylor"/>
+  <Packages Name="ext13"/>
+  <Packages Name="completion-plugin">
+    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40Ny4xXzIwMTktMDktMTggMTM6Mzc6MjdfSGVucmk="
+             Author="Henri" Timestamp="2019-09-18 13:37:27" Description="completion-plugin[v0.47.1].dek"
+             Version="0.47.1" URL="http://puredata.info/Members/Henri/software/completion-plugin/0.47.1/completion-plugin[v0.47.1].dek"/>
+    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40Ny4wXzIwMTktMDktMDggMDE6MTM6NDFfSGVucmk="
+             Author="Henri" Timestamp="2019-09-08 01:13:41" Description="completion-plugin[v0.47.0].dek"
+             Version="0.47.0" URL="http://puredata.info/Members/Henri/software/completion-plugin/0.47.0/completion-plugin[v0.47.0].dek"/>
+    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40Ni4xXzIwMTgtMDktMTIgMjI6MDU6NDdfSGVucmk="
+             Author="Henri" Timestamp="2018-09-12 22:05:47" Description="completion-plugin[v0.46.1].dek"
+             Version="0.46.1" URL="http://puredata.info/Members/Henri/software/completion-plugin/0.46.1/completion-plugin[v0.46.1].dek"/>
+  </Packages>
+  <Packages Name="aoo"/>
+  <Packages Name="mc">
+    <Package ID="bWNfMC4wLjFfMjAyMS0xMi0wNiAwMDowNzoxMV90aG9tYXM=" Author="thomas"
+             Timestamp="2021-12-06 00:07:11" Description="mc[v0.0.1].dek"
+             Version="0.0.1" URL="http://puredata.info/Members/thomas/software/mc/0.0.1/mc[v0.0.1].dek"/>
+  </Packages>
+  <Packages Name="missive~">
+    <Package ID="bWlzc2l2ZX5fMC40XzIwMjEtMTItMjggMTc6MjQ6MDVfd21icmVudA=="
+             Author="wmbrent" Timestamp="2021-12-28 17:24:05" Description="missive~[v0.4].dek"
+             Version="0.4" URL="http://puredata.info/Members/wmbrent/software/missive~/0.4/missive~[v0.4].dek"/>
+  </Packages>
+  <Packages Name="spring22">
+    <Package ID="c3ByaW5nMjJfMC4yMDIyMDYxN18yMDIyLTA2LTE3IDE1OjAwOjIxX3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2022-06-17 15:00:21" Description="spring22[v0.20220617].dek"
+             Version="0.20220617" URL="http://puredata.info/Members/zmoelnig/software/spring22/0.20220617/spring22[v0.20220617].dek"/>
+  </Packages>
+  <Packages Name="chair">
+    <Package ID="Y2hhaXJfMC44MV8yMDIwLTAyLTE0IDIwOjQxOjMwX0NIQUlS" Author="CHAIR"
+             Timestamp="2020-02-14 20:41:30" Description="chair[v0.81].dek"
+             Version="0.81" URL="http://puredata.info/Members/CHAIR/software/chair/0.81/chair[v0.81].dek"/>
+    <Package ID="Y2hhaXJfMC44MF8yMDE5LTEwLTI4IDAwOjEyOjEyX0NIQUlS" Author="CHAIR"
+             Timestamp="2019-10-28 00:12:12" Description="chair[v0.80].dek"
+             Version="0.80" URL="http://puredata.info/Members/CHAIR/software/chair/0.80/chair[v0.80].dek"/>
+    <Package ID="Y2hhaXJfMC43M18yMDE5LTA2LTE1IDAwOjUyOjI3X0NIQUlS" Author="CHAIR"
+             Timestamp="2019-06-15 00:52:27" Description="chair[v0.73].dek"
+             Version="0.73" URL="http://puredata.info/Members/CHAIR/software/chair/0.73/chair[v0.73].dek"/>
+  </Packages>
+  <Packages Name="pix_mano"/>
+  <Packages Name="osc"/>
+  <Packages Name="mjlib"/>
+  <Packages Name="apple"/>
+  <Packages Name="binfile"/>
+  <Packages Name="fd_lib"/>
+  <Packages Name="mp3cast~"/>
+  <Packages Name="aconnect"/>
+  <Packages Name="art_net">
+    <Package ID="YXJ0X25ldF8yMDE5XzIwMTktMDQtMDMgMTY6NTQ6MzNfY2hucnk=" Author="chnry"
+             Timestamp="2019-04-03 16:54:33" Description="art_net[v2019].dek"
+             Version="2019" URL="http://puredata.info/Members/chnry/software/art_net/2019/art_net[v2019].dek"/>
+  </Packages>
+  <Packages Name="Fraise">
+    <Package ID="RnJhaXNlXzAuMS4xXzIwMjEtMDMtMjUgMTU6Mzk6MjlfYW50MXI=" Author="ant1r"
+             Timestamp="2021-03-25 15:39:29" Description="Fraise[v0.1.1].dek"
+             Version="0.1.1" URL="http://puredata.info/Members/ant1r/software/Fraise/0.1.1/Fraise[v0.1.1].dek"/>
+    <Package ID="RnJhaXNlXzAuMS4wXzIwMjEtMDEtMDcgMTI6MzI6MzVfYW50MXI=" Author="ant1r"
+             Timestamp="2021-01-07 12:32:35" Description="Fraise[v0.1.0].dek"
+             Version="0.1.0" URL="http://puredata.info/Members/ant1r/software/Fraise/0.1.0/Fraise[v0.1.0].dek"/>
+  </Packages>
+  <Packages Name="earplug~"/>
+  <Packages Name="iempluginOSC">
+    <Package ID="aWVtcGx1Z2luT1NDXzAuMV8yMDE5LTA0LTEyIDEyOjQzOjU1X3NwYWNlY2hpbGQx"
+             Author="spacechild1" Timestamp="2019-04-12 12:43:55" Description="iempluginOSC[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/spacechild1/software/iempluginOSC/0.1/iempluginOSC[v0.1].dek"/>
+  </Packages>
+  <Packages Name="xsample"/>
+  <Packages Name="context"/>
+  <Packages Name="bandlimited"/>
+  <Packages Name="net"/>
+  <Packages Name="timestretch">
+    <Package ID="dGltZXN0cmV0Y2hfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mjc6MTZfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-08-07 14:27:16" Description="timestretch-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/timestretch/timestretch-v0.0.extended--externals.zip"/>
+  </Packages>
+  <Packages Name="shotnoise">
+    <Package ID="c2hvdG5vaXNlXzAuOS4xXzIwMTYtMDctMzAgMjM6NTA6NDFfc2F0dXJubw=="
+             Author="saturno" Timestamp="2016-07-30 23:50:41" Description="shotnoise-v0.9.1--externals.zip"
+             Version="0.9.1" URL="http://puredata.info/Members/saturno/software/shotnoise/0.9.1/shotnoise-v0.9.1--externals.zip"/>
+  </Packages>
+  <Packages Name="neuralnet"/>
+  <Packages Name="purest_json"/>
+  <Packages Name="clk"/>
+  <Packages Name="nGui">
+    <Package ID="bkd1aV8wLjFfMjAyMC0wNS0yOCAyMzozOTowMV9tYXJpb19idW9uaW5mYW50ZQ=="
+             Author="mario_buoninfante" Timestamp="2020-05-28 23:39:01" Description="nGui[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/mario_buoninfante/software/nGui/0.1/nGui[v0.1].dek"/>
+  </Packages>
+  <Packages Name="bassemu~"/>
+  <Packages Name="nilwind"/>
+  <Packages Name="Jamoma"/>
+  <Packages Name="bf-pd">
+    <Package ID="YmYtcGRfMS4wXzIwMjEtMDgtMDMgMTI6MTQ6MTZfZmJlcnRoYXV0" Author="fberthaut"
+             Timestamp="2021-08-03 12:14:16" Description="bf-pd[v1.0].dek"
+             Version="1.0" URL="http://puredata.info/Members/fberthaut/software/bf-pd/1.0/bf-pd[v1.0].dek"/>
+  </Packages>
+  <Packages Name="freeverb~"/>
+  <Packages Name="ml.lib"/>
+  <Packages Name="Cream"/>
+  <Packages Name="gem2pdp"/>
+  <Packages Name="iemguts"/>
+  <Packages Name="ggee"/>
+  <Packages Name="gigaverb~"/>
+  <Packages Name="grambilib"/>
+  <Packages Name="swe~"/>
+  <Packages Name="acre">
+    <Package ID="YWNyZV8xLjAzXzIwMjAtMTItMDMgMDk6MzE6MzJfcml0c2No" Author="ritsch"
+             Timestamp="2020-12-03 09:31:32" Description="acre[v1.03].dek"
+             Version="1.03" URL="http://puredata.info/Members/ritsch/software/acre/1.0/acre[v1.03].dek"/>
+    <Package ID="YWNyZV8xLjAxXzIwMTYtMTAtMjEgMjM6Mzk6MzJfcml0c2No" Author="ritsch"
+             Timestamp="2016-10-21 23:39:32" Description="acre-v1.01--externals.zip"
+             Version="1.01" URL="http://puredata.info/Members/ritsch/software/acre/1.0/acre-v1.01--externals.zip"/>
+    <Package ID="YWNyZV8xLjBfMjAxNi0wNy0xMSAwMDo0OToxNV9yaXRzY2g=" Author="ritsch"
+             Timestamp="2016-07-11 00:49:15" Description="acre-v1.0--externals.zip"
+             Version="1.0" URL="http://puredata.info/Members/ritsch/software/acre/1.0/acre-v1.0--externals.zip"/>
+    <Package ID="YWNyZV8wLjY5XzIwMTYtMDUtMDggMjI6NDU6NThfcml0c2No" Author="ritsch"
+             Timestamp="2016-05-08 22:45:58" Description="acre-v0.69--externals.zip"
+             Version="0.69" URL="http://puredata.info/Members/ritsch/software/acre/0.69/acre-v0.69--externals.zip"/>
+  </Packages>
+  <Packages Name="hexloader"/>
+  <Packages Name="tracker"/>
+  <Packages Name="filemtime"/>
+  <Packages Name="dw_lib"/>
+  <Packages Name="hid"/>
+  <Packages Name="iem_adaptfilt"/>
+  <Packages Name="planifolia">
+    <Package ID="cGxhbmlmb2xpYV8wLjJfMjAyMi0wNy0xMSAyMjo0ODowOV96ZXBhZG92YW5p"
+             Author="zepadovani" Timestamp="2022-07-11 22:48:09" Description="planifolia[v0.2].dek"
+             Version="0.2" URL="http://puredata.info/Members/zepadovani/software/planifolia/0.2/planifolia[v0.2].dek"/>
+    <Package ID="cGxhbmlmb2xpYV8wLjFfMjAyMS0wOS0xNSAxNDowMzo0MF96ZXBhZG92YW5p"
+             Author="zepadovani" Timestamp="2021-09-15 14:03:40" Description="planifolia[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/zepadovani/software/planifolia/0.1/planifolia[v0.1].dek"/>
+  </Packages>
+  <Packages Name="ndi"/>
+  <Packages Name="webserver"/>
+  <Packages Name="soundhack"/>
+  <Packages Name="pof"/>
+  <Packages Name="command"/>
+  <Packages Name="hidin"/>
+  <Packages Name="jmmmp">
+    <Package ID="am1tbXBfMC42MV8yMDIxLTA1LTI2IDIzOjE4OjI5X2ptbW1w" Author="jmmmp"
+             Timestamp="2021-05-26 23:18:29" Description="jmmmp library - v0.61"
+             Version="0.61" URL="http://puredata.info/downloads/jmmmp/releases/0.61/jmmmp-v0.61--externals.zip"/>
+    <Package ID="am1tbXBfMC42MF8yMDIwLTA4LTMwIDAwOjM1OjUyX2ptbW1w" Author="jmmmp"
+             Timestamp="2020-08-30 00:35:52" Description="jmmmp library - v0.60"
+             Version="0.60" URL="http://puredata.info/downloads/jmmmp/releases/0.60/jmmmp-v0.60--externals.zip"/>
+    <Package ID="am1tbXBfMC41OV8yMDIwLTA4LTAxIDE4OjU3OjMzX2ptbW1w" Author="jmmmp"
+             Timestamp="2020-08-01 18:57:33" Description="jmmmp library - v0.59"
+             Version="0.59" URL="http://puredata.info/downloads/jmmmp/releases/0.59/jmmmp-v0.59--externals.zip"/>
+    <Package ID="am1tbXBfMC41OC5leHRlbmRlZF8yMDIwLTAxLTExIDE2OjI3OjUxX2ptbW1w"
+             Author="jmmmp" Timestamp="2020-01-11 16:27:51" Description="jmmmp/0.58.extended (jmmmp library - v0.58)"
+             Version="0.58.extended" URL="http://puredata.info/downloads/jmmmp/releases/0.58/jmmmp-v0.58.extended--externals.zip"/>
+    <Package ID="am1tbXBfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6MjM6MjNfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-08-07 14:23:23" Description="jmmmp-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/jmmmp/jmmmp-v0.0.extended--externals.zip"/>
+  </Packages>
+  <Packages Name="pdogg"/>
+  <Packages Name="list-abs">
+    <Package ID="bGlzdC1hYnNfMC4xLTIwMTUwNTI5aWVtXzIwMTYtMDgtMzAgMTQ6Mzk6NDNfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2016-08-30 14:39:43" Description="list-abs-v0.1-20150529iem--externals.zip"
+             Version="0.1-20150529iem" URL="http://puredata.info/Members/zmoelnig/software/iem/20150529.2247/list-abs-v0.1-20150529iem--externals.zip"/>
+    <Package ID="bGlzdC1hYnNfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6MDg6MDdfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-08-07 14:08:07" Description="list-abs-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/list-abs/list-abs-v0.0.extended--externals.zip"/>
+  </Packages>
+  <Packages Name="hidio"/>
+  <Packages Name="vabs">
+    <Package ID="dmFic18wLjFfMjAxNi0wMy0xMCAxOTozNDo0OV9hbmdlbGZhcmFsZG8="
+             Author="angelfaraldo" Timestamp="2016-03-10 19:34:49" Description="vabs-v0.1--externals.zip"
+             Version="0.1" URL="http://puredata.info/downloads/vabs/releases/0.1/vabs-v0.1--externals.zip"/>
+  </Packages>
+  <Packages Name="flite"/>
+  <Packages Name="iem_ambi"/>
+  <Packages Name="upp">
+    <Package ID="dXBwXzAuMi4wXzIwMjItMDgtMjEgMDA6MDA6MTVfdGhvbWFz" Author="thomas"
+             Timestamp="2022-08-21 00:00:15" Description="upp[v0.2.0].dek"
+             Version="0.2.0" URL="http://puredata.info/Members/thomas/software/upp/0.2.0/upp[v0.2.0].dek"/>
+    <Package ID="dXBwXzAuMS4wXzIwMjItMDItMTUgMjI6NTY6NTBfdGhvbWFz" Author="thomas"
+             Timestamp="2022-02-15 22:56:50" Description="upp[v0.1.0].dek"
+             Version="0.1.0" URL="http://puredata.info/Members/thomas/software/upp/0.1.0/upp[v0.1.0].dek"/>
+  </Packages>
+  <Packages Name="py"/>
+  <Packages Name="martha~">
+    <Package ID="bWFydGhhfl8wLjZfMjAxOC0wMy0yNCAxOTo0Njo0OV93bWJyZW50" Author="wmbrent"
+             Timestamp="2018-03-24 19:46:49" Description="martha~[v0.6].dek"
+             Version="0.6" URL="http://puredata.info/Members/wmbrent/software/martha~/0.6/martha~[v0.6].dek"/>
+  </Packages>
+  <Packages Name="iem_bin_ambi"/>
+  <Packages Name="iem_vanilla">
+    <Package ID="aWVtX3ZhbmlsbGFfMS4wMF8yMDIwLTEwLTMwIDE1OjM5OjI5X211c2ls"
+             Author="musil" Timestamp="2020-10-30 15:39:29" Description="iem_vanilla[v1.00].dek"
+             Version="1.00" URL="http://puredata.info/Members/musil/software/iem_vanilla/iem_vanilla[v1.00].dek"/>
+  </Packages>
+  <Packages Name="boids"/>
+  <Packages Name="lolPd">
+    <Package ID="bG9sUGRfMC4zXzIwMTYtMTItMDIgMDU6MTI6NTlfY2hyMTVt" Author="chr15m"
+             Timestamp="2016-12-02 05:12:59" Description="lolPd-v0.3--externals.zip"
+             Version="0.3" URL="http://puredata.info/Members/chr15m/software/lolPd/0.3/lolPd-v0.3--externals.zip"/>
+    <Package ID="bG9sUGRfMC4yXzIwMTYtMTEtMTcgMTc6MDU6NDVfY2hyMTVt" Author="chr15m"
+             Timestamp="2016-11-17 17:05:45" Description="lolPd-v0.2--externals.zip"
+             Version="0.2" URL="http://puredata.info/Members/chr15m/software/lolPd/0.2/lolPd-v0.2--externals.zip"/>
+    <Package ID="bG9sUGRfMC4xXzIwMTYtMDctMTAgMTU6MTU6NTJfY2hyMTVt" Author="chr15m"
+             Timestamp="2016-07-10 15:15:52" Description="lolPd-v0.1--externals.zip"
+             Version="0.1" URL="http://puredata.info/Members/chr15m/software/lolPd/0.1/lolPd-v0.1--externals.zip"/>
+  </Packages>
+  <Packages Name="zconf"/>
+  <Packages Name="iem_delay"/>
+  <Packages Name="la-kitchen">
+    <Package ID="bGEta2l0Y2hlbl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNDo1MjozNF9jaHIxNW0="
+             Author="chr15m" Timestamp="2015-08-07 14:52:34" Description="la-kitchen-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/la-kitchen/la-kitchen-v0.0.extended--externals.zip"/>
+  </Packages>
+  <Packages Name="iem_tab"/>
+  <Packages Name="vbap"/>
+  <Packages Name="patcherize-plugin"/>
+  <Packages Name="iemmatrix"/>
+  <Packages Name="iemnet"/>
+  <Packages Name="iemxmlrpc"/>
+  <Packages Name="RabbitControl"/>
+  <Packages Name="jasch_lib"/>
+  <Packages Name="tof"/>
+  <Packages Name="moonlib"/>
+  <Packages Name="iemlib"/>
+  <Packages Name="kiosk-plugin">
+    <Package ID="a2lvc2stcGx1Z2luXzAuNF8yMDIxLTA1LTAzIDA4OjU5OjQ2X2llbWJvdA=="
+             Author="iembot" Timestamp="2021-05-03 08:59:46" Description="kiosk-plugin[v0.4].dek"
+             Version="0.4" URL="http://puredata.info/Members/iembot/software/kiosk-plugin/0.4/kiosk-plugin[v0.4].dek"/>
+  </Packages>
+  <Packages Name="libdir"/>
+  <Packages Name="log"/>
+  <Packages Name="pmpd"/>
+  <Packages Name="pii2c"/>
+  <Packages Name="iem_roomsim"/>
+  <Packages Name="lyonpotpourri"/>
+  <Packages Name="mapping">
+    <Package ID="bWFwcGluZ18wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNDo0NToxMV9jaHIxNW0="
+             Author="chr15m" Timestamp="2015-08-07 14:45:11" Description="mapping-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/mapping/mapping-v0.0.extended--externals.zip"/>
+  </Packages>
+  <Packages Name="markex"/>
+  <Packages Name="deken-plugin">
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4yXzIwMjItMDYtMDEgMTE6NTQ6MjFfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2022-06-01 11:54:21" Description="deken-plugin[v0.9.2].dek"
+             Version="0.9.2" URL="http://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.2/deken-plugin[v0.9.2].dek"/>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOV8yMDIyLTA1LTIxIDE2OjE4OjMzX3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2022-05-21 16:18:33" Description="deken-plugin[v0.9].dek"
+             Version="0.9" URL="http://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9/deken-plugin[v0.9].dek"/>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOC4wXzIwMjEtMDYtMTYgMjI6MDE6MzZfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2021-06-16 22:01:36" Description="deken-plugin[v0.8.0].dek"
+             Version="0.8.0" URL="http://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.8.0/deken-plugin[v0.8.0].dek"/>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuNy44XzIwMjEtMDMtMjIgMTU6MjA6MjVfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2021-03-22 15:20:25" Description="deken-plugin[v0.7.8].dek"
+             Version="0.7.8" URL="http://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.7.8/deken-plugin[v0.7.8].dek"/>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuNy42XzIwMjEtMDMtMTAgMTI6MTQ6MDJfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2021-03-10 12:14:02" Description="deken-plugin[v0.7.6].dek"
+             Version="0.7.6" URL="http://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.7.6/deken-plugin[v0.7.6].dek"/>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuNy40XzIwMjEtMDMtMDkgMjM6NDE6MzZfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2021-03-09 23:41:36" Description="deken-plugin[v0.7.4].dek"
+             Version="0.7.4" URL="http://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.7.4/deken-plugin[v0.7.4].dek"/>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuNy4yXzIwMjEtMDMtMDUgMTY6NTA6MzFfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2021-03-05 16:50:31" Description="deken-plugin[v0.7.2].dek"
+             Version="0.7.2" URL="http://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.7.2/deken-plugin[v0.7.2].dek"/>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuNy4xXzIwMjEtMDMtMDMgMTg6MzI6NDJfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2021-03-03 18:32:42" Description="deken-plugin[v0.7.1].dek"
+             Version="0.7.1" URL="http://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.7.1/deken-plugin[v0.7.1].dek"/>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuNS4wXzIwMTgtMDYtMDUgMjE6Mzg6MTBfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2018-06-05 21:38:10" Description="deken-plugin/0.5.0 (Deken externals downloader)"
+             Version="0.5.0" URL="http://puredata.info/downloads/deken/releases/0.5.0/deken-plugin-v0.5.0--externals.zip"/>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuMy4xXzIwMTgtMDQtMDUgMTI6MDA6MjZfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2018-04-05 12:00:26" Description="deken-plugin/0.3.1 (Deken externals downloader - MINIMUM VERSION REQUIRED FOR NEW PACKAGES)"
+             Version="0.3.1" URL="http://puredata.info/downloads/deken/releases/0.3.1/deken-plugin-v0.3.1--externals.zip"/>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuNC4xXzIwMTgtMDQtMDUgMTE6NTk6NTlfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2018-04-05 11:59:59" Description="deken-plugin/0.4.1 (Deken externals downloader)"
+             Version="0.4.1" URL="http://puredata.info/downloads/deken/releases/0.4.1/deken-plugin-v0.4.1--externals.zip"/>
+  </Packages>
+  <Packages Name="maxlib"/>
+  <Packages Name="mediasettings"/>
+  <Packages Name="soundtouch~"/>
+  <Packages Name="midifile"/>
+  <Packages Name="windowing"/>
+  <Packages Name="nsend">
+    <Package ID="bnNlbmRfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mzk6NTRfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-08-07 14:39:54" Description="nsend-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/nsend/nsend-v0.0.extended--externals.zip"/>
+  </Packages>
+  <Packages Name="scrollpage-plugin">
+    <Package ID="c2Nyb2xscGFnZS1wbHVnaW5fMC4xXzIwMjItMDctMTMgMjI6MTQ6MDNfaWVtYm90"
+             Author="iembot" Timestamp="2022-07-13 22:14:03" Description="scrollpage-plugin[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/iembot/software/scrollpage-plugin/0.1/scrollpage-plugin[v0.1].dek"/>
+  </Packages>
+  <Packages Name="iem16"/>
+  <Packages Name="moocow"/>
+  <Packages Name="motex"/>
+  <Packages Name="mrpeach"/>
+  <Packages Name="doublechord-plugin"/>
+  <Packages Name="muug"/>
+  <Packages Name="nicinfo"/>
+  <Packages Name="nusmuk-audio"/>
 </null>
