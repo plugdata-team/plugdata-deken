@@ -22,8 +22,8 @@ jobs:
     - name: Copy files
       run: |
         mkdir -p ./build/result
-        cp ./Source/README.md ./build/result/README.md \
-        cp ./LICENSE ./build/result/LICENSE
+        cp ./Source/README.md ./build/result \
+        cp ./LICENSE ./build/result
   
     - name: Run tool
       working-directory: ${{github.workspace}}/build
