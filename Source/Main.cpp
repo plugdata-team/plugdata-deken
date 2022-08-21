@@ -154,6 +154,8 @@ int main (int argc, char* argv[])
                     objects.appendChild(objectTree, nullptr);
                 }
                 
+                pkgEntry.appendChild(objectTree);
+
                 pkgList.appendChild(pkgEntry, nullptr);
             }
             
