@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Darwin-amd64-32>
+  <Packages Name="Gem">
+    <Package ID="R2VtXzAuOTRfMjAxOS0wMy0xNCAyMzoxMDoxNF96bW9lbG5pZw==" Author="zmoelnig"
+             Timestamp="2019-03-14 23:10:14" Description="Gem/0.94 (deken-archive for macOS Intel/64bit (macOS10.12+))"
+             Version="0.94" URL="http://puredata.info/downloads/gem/releases/0.94/Gem[v0.94](Darwin-amd64-32).dek"/>
+    <Package ID="R2VtXzAuOTRfMjAxOS0wMy0xNCAyMjo0NjoxNl96bW9lbG5pZw==" Author="zmoelnig"
+             Timestamp="2019-03-14 22:46:16" Description="Gem/0.94 (deken-archive for old OSX&gt;10.6 PowerPC/Intel32bit/Intel64bit)"
+             Version="0.94" URL="http://puredata.info/downloads/gem/releases/0.94/Gem[v0.94](Darwin-ppc-32)(Darwin-i386-32)(Darwin-amd64-32).dek"/>
+    <Package ID="R2VtXzAuOTR+cHJlMV8yMDE4LTEyLTIzIDE4OjE3OjQzX3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2018-12-23 18:17:43" Description="Gem/0.94~pre1 (deken-archive for macOS Intel/64bit)"
+             Version="0.94~pre1" URL="http://puredata.info/downloads/gem/releases/0.94_pre1/Gem[v0.94~pre1](Darwin-amd64-32).dek"/>
+  </Packages>
+</Darwin-amd64-32>

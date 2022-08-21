@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Linux-armv6-32>
+  <Packages Name="Gem">
+    <Package ID="R2VtXzAuOTMuM2dpdDU0YjRiN2NfMjAxNi0wMi0xNSAxNTozNToxN19hdmlsbGVyZXQ="
+             Author="avilleret" Timestamp="2016-02-15 15:35:17" Description="Gem-v0.93.3git54b4b7c-(Linux-armv6-32)-externals.tar.gz"
+             Version="0.93.3git54b4b7c" URL="http://puredata.info/Members/avilleret/software/Gem/0.93.3git54b4b7c/Gem-v0.93.3git54b4b7c-(Linux-armv6-32)-externals.tar.gz"/>
+  </Packages>
+  <Packages Name="Fraise"/>
+  <Packages Name="DRFX"/>
+  <Packages Name="Cream">
+    <Package ID="Q3JlYW1fMC40LWJldGFfMjAxNS0xMS0yMyAxODoxNTo0NV9hdmlsbGVyZXQ="
+             Author="avilleret" Timestamp="2015-11-23 18:15:45" Description="Cream-v0.4-beta-(Linux-armv6-32)-externals.tar.gz"
+             Version="0.4-beta" URL="http://puredata.info/Members/avilleret/software/Cream/0.4-beta/Cream-v0.4-beta-(Linux-armv6-32)-externals.tar.gz"/>
+  </Packages>
+</Linux-armv6-32>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Darwin-ppc-32>
+  <Packages Name="Gem">
+    <Package ID="R2VtXzAuOTRfMjAxOS0wMy0xNCAyMjo0NjoxNl96bW9lbG5pZw==" Author="zmoelnig"
+             Timestamp="2019-03-14 22:46:16" Description="Gem/0.94 (deken-archive for old OSX&gt;10.6 PowerPC/Intel32bit/Intel64bit)"
+             Version="0.94" URL="http://puredata.info/downloads/gem/releases/0.94/Gem[v0.94](Darwin-ppc-32)(Darwin-i386-32)(Darwin-amd64-32).dek"/>
+    <Package ID="R2VtXzAuOTMuM18yMDE2LTA1LTIwIDA5OjI0OjAyX3ptb2Vsbmln" Author="zmoelnig"
+             Timestamp="2016-05-20 09:24:02" Description="Gem/0.93.3 (deken installable file for OSX PowerPC+i386/32bit))"
+             Version="0.93.3" URL="http://puredata.info/downloads/gem/releases/0.93.3/Gem-v0.93.3-(Darwin-i386-32)(Darwin-PowerPC-32)-externals.tar.gz"/>
+    <Package ID="R2VtXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6NTU6MThfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:55:18" Description="Gem-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/Gem/0-0extended/Gem-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)-externals.tar.gz"/>
+  </Packages>
+</Darwin-ppc-32>

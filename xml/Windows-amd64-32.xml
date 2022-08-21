@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Windows-amd64-32>
+  <Packages Name="Gem">
+    <Package ID="R2VtXzAuOTRfMjAxOS0wMy0xNCAyMjo1Mjo0NV96bW9lbG5pZw==" Author="zmoelnig"
+             Timestamp="2019-03-14 22:52:45" Description="Gem/0.94 (deken-archive for Windows 64bit)"
+             Version="0.94" URL="http://puredata.info/downloads/gem/releases/0.94/Gem[v0.94](Windows-amd64-32).dek"/>
+    <Package ID="R2VtXzAuOTR+cHJlMV8yMDE4LTEyLTIzIDE4OjEwOjA2X3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2018-12-23 18:10:06" Description="Gem/0.94~pre1 (deken-archive for Windows 64bit)"
+             Version="0.94~pre1" URL="http://puredata.info/downloads/gem/releases/0.94_pre1/Gem[v0.94~pre1](Windows-amd64-32).dek"/>
+  </Packages>
+</Windows-amd64-32>

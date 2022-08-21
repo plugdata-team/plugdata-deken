@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Sources>
+  <Packages Name="Gem">
+    <Package ID="R2VtXzAuOTRfMjAxOS0wMy0xNCAyMjo0NDowMl96bW9lbG5pZw==" Author="zmoelnig"
+             Timestamp="2019-03-14 22:44:02" Description="Gem/0.94 (source package (compiles on linux, OSX, W64,...))"
+             Version="0.94" URL="http://puredata.info/downloads/gem/releases/0.94/Gem[v0.94](Sources).dek"/>
+    <Package ID="R2VtXzAuOTR+cHJlMV8yMDE4LTEyLTIzIDE4OjE1OjUxX3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2018-12-23 18:15:51" Description="Gem/0.94~pre1 (source package (compiles on linux, OSX, W32,...))"
+             Version="0.94~pre1" URL="http://puredata.info/downloads/gem/releases/0.94_pre1/Gem[v0.94~pre1](Sources).dek"/>
+    <Package ID="R2VtXzAuOTMuM2dpdDU0YjRiN2NfMjAxNi0wMi0xNSAxNTozMzoyOF9hdmlsbGVyZXQ="
+             Author="avilleret" Timestamp="2016-02-15 15:33:28" Description="Gem-v0.93.3git54b4b7c-(Sources)-externals.tar.gz"
+             Version="0.93.3git54b4b7c" URL="http://puredata.info/Members/avilleret/software/Gem/0.93.3git54b4b7c/Gem-v0.93.3git54b4b7c-(Sources)-externals.tar.gz"/>
+  </Packages>
+</Sources>

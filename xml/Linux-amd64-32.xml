@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Linux-amd64-32>
+  <Packages Name="Gem">
+    <Package ID="R2VtXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjM2OjAxX2NocjE1bQ=="
+             Author="chr15m" Timestamp="2015-08-07 14:36:01" Description="Gem-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/Gem/Gem-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"/>
+  </Packages>
+  <Packages Name="Fraise"/>
+  <Packages Name="DRFX"/>
+  <Packages Name="Cream">
+    <Package ID="Q3JlYW1fMC40LWJldGFfMjAxNS0xMS0yMyAxODoxNTo1OF9hdmlsbGVyZXQ="
+             Author="avilleret" Timestamp="2015-11-23 18:15:58" Description="Cream-v0.4-beta-(Linux-amd64-64)-externals.tar.gz"
+             Version="0.4-beta" URL="http://puredata.info/Members/avilleret/software/Cream-v0.4-beta-(Linux-amd64-64)-externals.tar.gz"/>
+  </Packages>
+</Linux-amd64-32>
