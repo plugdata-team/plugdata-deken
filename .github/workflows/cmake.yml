@@ -23,12 +23,15 @@ jobs:
     - name: Build tool
       run: make
       
+    - name: Copy files
+    run: |
+      mkdir -p ./build/result
+      cp ./Source/README.md ./build/result/README.md \
+      cp ./LICENSE ./build/result/LICENSE
+  
     - name: Run tool
       working-directory: ${{github.workspace}}/build
-      run: |
-        ./DekenParser \
-        cp ../Source/README.md ./result/README.md \
-        cp ../LICENSE ./result/LICENSE
+      run: ./DekenParser
 
     - name: Get Date
       run: |

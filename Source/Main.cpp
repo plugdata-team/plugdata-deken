@@ -120,7 +120,6 @@ int main (int argc, char* argv[])
     }
     
     auto destfolder = File::getCurrentWorkingDirectory().getChildFile("result");
-    destfolder.createDirectory();
 
     auto xmlout = destfolder.getChildFile("xml");
     auto compressedout = destfolder.getChildFile("bin");
@@ -134,7 +133,7 @@ int main (int argc, char* argv[])
         for (auto& [name, package] : library) {
             
             if(!package.size()) continue;
-            
+
             ValueTree pkgList = ValueTree("Packages");
             pkgList.setProperty("Name", name, nullptr);
             
