@@ -117,11 +117,6 @@ int main (int argc, char* argv[])
         if (!os_packages[name].isEmpty()) {
             std::sort(os_packages[name].begin(), os_packages[name].end(), [](auto const& result1, auto const& result2) { return result1.timestamp.compare(result2.timestamp) > 0; });
         }
-        
-        // Speed it up for testing
-        if(packages.size() > 5) {
-            break;
-        }
     }
     
     auto destfolder = File::getCurrentWorkingDirectory().getChildFile("result");
