@@ -24,8 +24,8 @@ jobs:
       working-directory: ${{github.workspace}}/build
       run: |
         ./DekenParser \
-        cp ../README.md ./result/README.md \
-        cp ../LICENSE.md ./result/LICENSE
+        cp ../Source/README.md ./result/README.md \
+        cp ../LICENSE ./result/LICENSE
 
     - name: Get current time
       uses: josStorer/get-current-time@v2.0.1
