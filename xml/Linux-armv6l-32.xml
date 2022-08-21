@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<Linux-armv6l-32>
-  <Packages Name="purest_json">
-    <Package ID="cHVyZXN0X2pzb25fMS40LjFfMjAxNi0wNi0yOSAwMTozMzowM19yZXNpZHV1bQ=="
-             Author="residuum" Timestamp="2016-06-29 01:33:03" Description="purest_json-v1.4.1-(Linux-armv6l-32)-externals.tar.gz"
-             Version="1.4.1" URL="http://puredata.info/Members/residuum/software/purest_json/1.4.1/purest_json-v1.4.1-(Linux-armv6l-32)-externals.tar.gz"/>
-  </Packages>
-</Linux-armv6l-32>

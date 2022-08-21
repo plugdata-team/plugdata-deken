@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<Linux-armv6KZ-32>
-  <Packages Name="pof">
-    <Package ID="cG9mXzAuMy00LWc0OTc4XzIwMTgtMDUtMjIgMTI6MzE6MDhfYW50MXI="
-             Author="ant1r" Timestamp="2018-05-22 12:31:08" Description="pof[v0.3-4-g4978](Linux-armv6KZ-32).dek"
-             Version="0.3-4-g4978" URL="http://puredata.info/Members/ant1r/software/pof/0.3-4-g4978/pof[v0.3-4-g4978](Linux-armv6KZ-32).dek"/>
-  </Packages>
-</Linux-armv6KZ-32>

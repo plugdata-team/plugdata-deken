@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<Linux-aarch64-32>
-  <Packages Name="tof">
-    <Package ID="dG9mXzAuMi4xXzIwMTYtMTEtMDUgMTU6MzU6MDFfZmprcmFhbg==" Author="fjkraan"
-             Timestamp="2016-11-05 15:35:01" Description="tof-v0.2.1-(Linux-aarch64-64)(Sources)-externals.tgz"
-             Version="0.2.1" URL="http://puredata.info/Members/fjkraan/software/tof/0.2.1/tof-v0.2.1-(Linux-aarch64-64)(Sources)-externals.tgz"/>
-  </Packages>
-</Linux-aarch64-32>
