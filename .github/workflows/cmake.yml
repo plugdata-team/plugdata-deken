@@ -27,17 +27,17 @@ jobs:
         cp ../Source/README.md ./result/README.md \
         cp ../LICENSE ./result/LICENSE
 
-- name: Get Date
-  run: |
-    echo "DATE=$(date --rfc-3339=date)" >> ${GITHUB_ENV}
-    
-- name: Push
-  uses: s0/git-publish-subdir-action@develop
-  env:
-    TIME: "${{ steps.current-time.outputs.time }}"
-    R_TIME: "${{ steps.current-time.outputs.readableTime }}"
-    REPO: self
-    BRANCH: main
-    FOLDER: build/result
-    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    MESSAGE: "Update: ${{ DATE }}"
+    - name: Get Date
+      run: |
+        echo "DATE=$(date --rfc-3339=date)" >> ${GITHUB_ENV}
+        
+    - name: Push
+      uses: s0/git-publish-subdir-action@develop
+      env:
+        TIME: "${{ steps.current-time.outputs.time }}"
+        R_TIME: "${{ steps.current-time.outputs.readableTime }}"
+        REPO: self
+        BRANCH: main
+        FOLDER: build/result
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        MESSAGE: "Update: ${{ DATE }}"
