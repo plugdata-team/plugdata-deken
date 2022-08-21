@@ -27,11 +27,20 @@ jobs:
         cp ../README.md ./result/README.md \
         cp ../LICENSE.md ./result/LICENSE
 
+    - name: Get current time
+      uses: josStorer/get-current-time@v2.0.1
+      id: current-time
+      with:
+        format: YYYYMMDD-HH
+        utcOffset: "+01:00" # Central European Time, without daylight saving time
+
     - name: Push
       uses: s0/git-publish-subdir-action@develop
       env:
+        TIME: "${{ steps.current-time.outputs.time }}"
+        R_TIME: "${{ steps.current-time.outputs.readableTime }}"
         REPO: self
         BRANCH: main
         FOLDER: build/result
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        MESSAGE: "Update: $(date +'%Y-%m-%dT%H:%M:%S')"
+        MESSAGE: "Update: $TIME"
