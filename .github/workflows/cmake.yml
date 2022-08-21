@@ -23,8 +23,8 @@ jobs:
     - name: Run tool
       working-directory: ${{github.workspace}}/build
       run: |
-        ./DekenParser
-        cp ../README.md ./results/README.md
+        ./DekenParser \
+        cp ../README.md ./results/README.md \
         cp ../LICENSE.md ./results/LICENSE
 
     - name: Set current date as env variable
