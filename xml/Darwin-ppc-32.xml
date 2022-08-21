@@ -1,0 +1,1213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Darwin-ppc-32>
+  <Packages Name="zexy">
+    <Package ID="emV4eV8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjM2OjA4X3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2015-12-10 14:36:08" Description="zexy-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/zexy/0-0extended/zexy-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="vanilla">
+    <Package ID="dmFuaWxsYV8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjM1OjExX3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2015-12-10 14:35:11" Description="vanilla-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/vanilla/0-0extended/vanilla-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="unauthorized">
+    <Package ID="dW5hdXRob3JpemVkXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MzQ6NTRfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:34:54" Description="unauthorized-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/unauthorized/0-0extended/unauthorized-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="syslog">
+    <Package ID="c3lzbG9nXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MzM6NTFfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:33:51" Description="syslog-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/syslog/0-0extended/syslog-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="sigpack">
+    <Package ID="c2lncGFja18wLjA0NF8yMDE2LTA1LTA2IDE1OjQ3OjIwX2Zqa3JhYW4="
+             Author="fjkraan" Timestamp="2016-05-06 15:47:20" Description="sigpack-v0.044-(Darwin-ppc-32)(Darwin-i386-32)(Darwin-X86_64-32)(Sources)-externals.tgz"
+             Version="0.044" URL="http://puredata.info/Members/fjkraan/software/sigpack/0.044/sigpack-v0.044-(Darwin-ppc-32)(Darwin-i386-32)(Darwin-X86_64-32)(Sources)-externals.tgz">
+      <Objects>
+        <Object Name="chop~"/>
+        <Object Name="decimate~"/>
+        <Object Name="diode~"/>
+        <Object Name="foldback~"/>
+        <Object Name="foldover~"/>
+        <Object Name="freqdiv~"/>
+        <Object Name="freqshift~"/>
+        <Object Name="hardlimit~"/>
+        <Object Name="harmgen~"/>
+        <Object Name="impulse~"/>
+        <Object Name="rectify~"/>
+        <Object Name="round~"/>
+        <Object Name="saturate~"/>
+        <Object Name="shape~"/>
+        <Object Name="sieve~"/>
+        <Object Name="split~"/>
+        <Object Name="transient~"/>
+        <Object Name="ustep~"/>
+        <Object Name="valverect~"/>
+        <Object Name="vowel~"/>
+        <Object Name="wavewrap~"/>
+      </Objects>
+    </Package>
+    <Package ID="c2lncGFja18wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjMzOjE5X3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2015-12-10 14:33:19" Description="sigpack-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/sigpack/0-0extended/sigpack-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="rtcmix~">
+    <Package ID="cnRjbWl4fl8wLjRfMjAxNS0wNi0xNyAyMDoyODowNV9qd21hdHRoeXM="
+             Author="jwmatthys" Timestamp="2015-06-17 20:28:05" Description="rtcmix~-v0.4-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0.4" URL="http://puredata.info/Members/jwmatthys/rtcmix~-v0.4-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="smlib">
+    <Package ID="c21saWJfMC4xMi4zXzIwMTYtMDktMTYgMTE6MDE6NTRfZmprcmFhbg=="
+             Author="fjkraan" Timestamp="2016-09-16 11:01:54" Description="smlib-v0.12.3-(Darwin-ppc-32)(Darwin-i386-32)(Darwin-X86_64-32)(Sources)-externals.tgz"
+             Version="0.12.3" URL="http://puredata.info/Members/fjkraan/software/smlib/0.12.3/smlib-v0.12.3-(Darwin-ppc-32)(Darwin-i386-32)(Darwin-X86_64-32)(Sources)-externals.tgz">
+      <Objects>
+        <Object Name="bp"/>
+        <Object Name="decimator"/>
+        <Object Name="deltas"/>
+        <Object Name="hip"/>
+        <Object Name="hist"/>
+        <Object Name="itov"/>
+        <Object Name="lavg"/>
+        <Object Name="lhist"/>
+        <Object Name="lhisti"/>
+        <Object Name="linspace"/>
+        <Object Name="lmax"/>
+        <Object Name="lmin"/>
+        <Object Name="lrange"/>
+        <Object Name="lstd"/>
+        <Object Name="prevl"/>
+        <Object Name="threshold"/>
+        <Object Name="vclip"/>
+        <Object Name="vcog"/>
+        <Object Name="vdbtorms"/>
+        <Object Name="vdelta"/>
+        <Object Name="vfmod"/>
+        <Object Name="vftom"/>
+        <Object Name="vlavg"/>
+        <Object Name="vlmax"/>
+        <Object Name="vlmin"/>
+        <Object Name="vlrange"/>
+        <Object Name="vmax"/>
+        <Object Name="vmin"/>
+        <Object Name="vmtof"/>
+        <Object Name="vpow"/>
+        <Object Name="vrms"/>
+        <Object Name="vrmstodb"/>
+        <Object Name="vstd"/>
+        <Object Name="vsum"/>
+        <Object Name="vthreshold"/>
+        <Object Name="vv+"/>
+        <Object Name="vv-"/>
+        <Object Name="vvconv"/>
+      </Objects>
+    </Package>
+    <Package ID="c21saWJfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDozMzozNV96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:33:35" Description="smlib-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/smlib/0-0extended/smlib-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="tclpd">
+    <Package ID="dGNscGRfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDozNDowOV96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:34:09" Description="tclpd-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/tclpd/0-0extended/tclpd-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="pix_fiducialtrack">
+    <Package ID="cGl4X2ZpZHVjaWFsdHJhY2tfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDozMTo0MV96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:31:41" Description="pix_fiducialtrack-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/pix_fiducialtrack/0-0extended/pix_fiducialtrack-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="pdp">
+    <Package ID="cGRwXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MzE6MDVfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:31:05" Description="pdp-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/pdp/0-0extended/pdp-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="pdcontainer">
+    <Package ID="cGRjb250YWluZXJfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoyOTozM196bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:29:33" Description="pdcontainer-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/pdcontainer/0-0extended/pdcontainer-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="pdlua">
+    <Package ID="cGRsdWFfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDozMDoxN196bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:30:17" Description="pdlua-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/pdlua/0-0extended/pdlua-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="oscx">
+    <Package ID="b3NjeF8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjI5OjE0X3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2015-12-10 14:29:14" Description="oscx-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/oscx/0-0extended/oscx-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="gem2pdp">
+    <Package ID="Z2VtMnBkcF8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjU0OjU1X3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2015-12-10 14:54:55" Description="gem2pdp-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/gem2pdp/0-0extended/gem2pdp-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="cxc">
+    <Package ID="Y3hjXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MTY6NDFfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:16:41" Description="cxc-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/cxc/0-0extended/cxc-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="creb">
+    <Package ID="Y3JlYl8wLjkuMl9kYXJjc18yMDE2LTA1LTEwIDIxOjE0OjQ4X2Zqa3JhYW4="
+             Author="fjkraan" Timestamp="2016-05-10 21:14:48" Description="creb-v0.9.2_darcs-(Darwin-ppc-32)(Darwin-i386-32)(Darwin-x86_64-32)(Sources)-externals.tgz"
+             Version="0.9.2_darcs" URL="http://puredata.info/Members/fjkraan/software/creb/0.9.2_darcs/creb-v0.9.2_darcs-(Darwin-ppc-32)(Darwin-i386-32)(Darwin-x86_64-32)(Sources)-externals.tgz">
+      <Objects>
+        <Object Name="64k"/>
+        <Object Name="bdft"/>
+        <Object Name="bdfts"/>
+        <Object Name="bdiag~"/>
+        <Object Name="bfft~"/>
+        <Object Name="bhip~"/>
+        <Object Name="biquadseries~"/>
+        <Object Name="bitsplit~"/>
+        <Object Name="blocknorm~"/>
+        <Object Name="blop~"/>
+        <Object Name="blosc~"/>
+        <Object Name="bmatrix~"/>
+        <Object Name="bpm"/>
+        <Object Name="bwin~"/>
+        <Object Name="cadd~"/>
+        <Object Name="ccmap~"/>
+        <Object Name="cconj~"/>
+        <Object Name="cep~"/>
+        <Object Name="cexp~"/>
+        <Object Name="cheby~"/>
+        <Object Name="cinv~"/>
+        <Object Name="clog~"/>
+        <Object Name="cmul~"/>
+        <Object Name="cosc~"/>
+        <Object Name="count"/>
+        <Object Name="csub~"/>
+        <Object Name="diag~"/>
+        <Object Name="dist~"/>
+        <Object Name="dsfosc~"/>
+        <Object Name="dwt~"/>
+        <Object Name="dynwav~"/>
+        <Object Name="eadh~"/>
+        <Object Name="eadsrh~"/>
+        <Object Name="eadsr~"/>
+        <Object Name="ead~"/>
+        <Object Name="ear~"/>
+        <Object Name="expmap~"/>
+        <Object Name="fblock"/>
+        <Object Name="fdn~"/>
+        <Object Name="ffpoly"/>
+        <Object Name="filterortho~"/>
+        <Object Name="fmod"/>
+        <Object Name="fmop~"/>
+        <Object Name="frequor~"/>
+        <Object Name="fwarp"/>
+        <Object Name="icep~"/>
+        <Object Name="idsfosc~"/>
+        <Object Name="inv"/>
+        <Object Name="junction~"/>
+        <Object Name="lattice3"/>
+        <Object Name="lattice~"/>
+        <Object Name="lpifft~"/>
+        <Object Name="pdynwav~"/>
+        <Object Name="permut~"/>
+        <Object Name="qmult~"/>
+        <Object Name="qnorm~"/>
+        <Object Name="ramp~"/>
+        <Object Name="ratio"/>
+        <Object Name="resofilt~"/>
+        <Object Name="sbosc~"/>
+        <Object Name="scale7"/>
+        <Object Name="scrollgrid1D~"/>
+        <Object Name="statwav~"/>
+        <Object Name="tabreadmix~"/>
+        <Object Name="tblock"/>
+        <Object Name="ti_hihat"/>
+        <Object Name="ti_snare"/>
+        <Object Name="ucmod~"/>
+        <Object Name="ucnorm~"/>
+        <Object Name="vols~"/>
+        <Object Name="vol~"/>
+        <Object Name="xfm~"/>
+      </Objects>
+    </Package>
+    <Package ID="Y3JlYl8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjE2OjIzX3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2015-12-10 14:16:23" Description="creb-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/creb/0-0extended/creb-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="plugin~">
+    <Package ID="cGx1Z2lufl8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjMyOjMxX3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2015-12-10 14:32:31" Description="plugin~-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/plugin~/0-0extended/plugin~-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="adaptive">
+    <Package ID="YWRhcHRpdmVfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxMzozNl96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:13:36" Description="adaptive-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/adaptive/0-0extended/adaptive-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="freeverb~">
+    <Package ID="ZnJlZXZlcmJ+XzEuMi4zXzIwMTYtMDctMjkgMTY6NDA6MDZfZmprcmFhbg=="
+             Author="fjkraan" Timestamp="2016-07-29 16:40:06" Description="freeverb~-v1.2.3-(Darwin-ppc-32)(Darwin-i386-32)(Darwin-X86_64-32)(Sources)-externals.tgz"
+             Version="1.2.3" URL="http://puredata.info/Members/fjkraan/software/freeverb~/1.2.3/freeverb~-v1.2.3-(Darwin-ppc-32)(Darwin-i386-32)(Darwin-X86_64-32)(Sources)-externals.tgz">
+      <Objects>
+        <Object Name="freeverb~"/>
+      </Objects>
+    </Package>
+    <Package ID="ZnJlZXZlcmJ+XzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MTk6Mjhfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:19:28" Description="freeverb~-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/freeverb~/0-0extended/freeverb~-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="extra">
+    <Package ID="ZXh0cmFfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxODozNl96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:18:36" Description="extra-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/extra/0-0extended/extra-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="iem_spec2">
+    <Package ID="aWVtX3NwZWMyXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MjQ6MjVfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:24:25" Description="iem_spec2-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/iem_spec2/0-0extended/iem_spec2-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="iemgui">
+    <Package ID="aWVtZ3VpXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MjI6NDBfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:22:40" Description="iemgui-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/iemgui/0-0extended/iemgui-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="ekext">
+    <Package ID="ZWtleHRfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxNzo1Ml96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:17:52" Description="ekext-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/ekext/0-0extended/ekext-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="Gem">
+    <Package ID="R2VtXzAuOTRfMjAxOS0wMy0xNCAyMjo0NjoxNl96bW9lbG5pZw==" Author="zmoelnig"
+             Timestamp="2019-03-14 22:46:16" Description="Gem/0.94 (deken-archive for old OSX&gt;10.6 PowerPC/Intel32bit/Intel64bit)"
+             Version="0.94" URL="http://puredata.info/downloads/gem/releases/0.94/Gem[v0.94](Darwin-ppc-32)(Darwin-i386-32)(Darwin-amd64-32).dek">
+      <Objects>
+        <Object Name="accumrotate"/>
+        <Object Name="alpha"/>
+        <Object Name="ambient"/>
+        <Object Name="ambientRGB"/>
+        <Object Name="camera"/>
+        <Object Name="circle"/>
+        <Object Name="color"/>
+        <Object Name="colorRGB"/>
+        <Object Name="colorSquare"/>
+        <Object Name="cone"/>
+        <Object Name="cube"/>
+        <Object Name="cuboid"/>
+        <Object Name="curve"/>
+        <Object Name="curve3d"/>
+        <Object Name="cylinder"/>
+        <Object Name="depth"/>
+        <Object Name="diffuse"/>
+        <Object Name="diffuseRGB"/>
+        <Object Name="disk"/>
+        <Object Name="emission"/>
+        <Object Name="emissionRGB"/>
+        <Object Name="fragment_program"/>
+        <Object Name="gemcocoawindow"/>
+        <Object Name="gemcubeframebuffer"/>
+        <Object Name="gemframebuffer"/>
+        <Object Name="GEMglBegin"/>
+        <Object Name="gemglfw2window"/>
+        <Object Name="gemglfw3window"/>
+        <Object Name="gemglutwindow"/>
+        <Object Name="gemglxwindow"/>
+        <Object Name="gemhead"/>
+        <Object Name="gemkeyboard"/>
+        <Object Name="gemkeyname"/>
+        <Object Name="gemlist"/>
+        <Object Name="gemlist_info"/>
+        <Object Name="gemlist_matrix"/>
+        <Object Name="gemmacoswindow"/>
+        <Object Name="gemmacwindow"/>
+        <Object Name="gemmouse"/>
+        <Object Name="gemorb"/>
+        <Object Name="gemreceive"/>
+        <Object Name="gemsdlwindow"/>
+        <Object Name="gemtablet"/>
+        <Object Name="gemvertexbuffer"/>
+        <Object Name="gemw32window"/>
+        <Object Name="gemwin"/>
+        <Object Name="GLdefine"/>
+        <Object Name="glsl_fragment"/>
+        <Object Name="glsl_geometry"/>
+        <Object Name="glsl_program"/>
+        <Object Name="glsl_vertex"/>
+        <Object Name="hsv2rgb"/>
+        <Object Name="imageVert"/>
+        <Object Name="light"/>
+        <Object Name="linear_path"/>
+        <Object Name="mesh_line"/>
+        <Object Name="mesh_square"/>
+        <Object Name="model"/>
+        <Object Name="multimodel"/>
+        <Object Name="newWave"/>
+        <Object Name="ortho"/>
+        <Object Name="part_color"/>
+        <Object Name="part_damp"/>
+        <Object Name="part_draw"/>
+        <Object Name="part_follow"/>
+        <Object Name="part_gravity"/>
+        <Object Name="part_head"/>
+        <Object Name="part_info"/>
+        <Object Name="part_killold"/>
+        <Object Name="part_killslow"/>
+        <Object Name="part_orbitpoint"/>
+        <Object Name="part_render"/>
+        <Object Name="part_sink"/>
+        <Object Name="part_size"/>
+        <Object Name="part_source"/>
+        <Object Name="part_targetcolor"/>
+        <Object Name="part_targetsize"/>
+        <Object Name="part_velcone"/>
+        <Object Name="part_velocity"/>
+        <Object Name="part_velsphere"/>
+        <Object Name="part_vertex"/>
+        <Object Name="pix_2grey"/>
+        <Object Name="pix_a_2grey"/>
+        <Object Name="pix_add"/>
+        <Object Name="pix_aging"/>
+        <Object Name="pix_alpha"/>
+        <Object Name="pix_background"/>
+        <Object Name="pix_backlight"/>
+        <Object Name="pix_biquad"/>
+        <Object Name="pix_bitmask"/>
+        <Object Name="pix_blob"/>
+        <Object Name="pix_blobtracker"/>
+        <Object Name="pix_blur"/>
+        <Object Name="pix_buf"/>
+        <Object Name="pix_buffer"/>
+        <Object Name="pix_buffer_filmopen"/>
+        <Object Name="pix_buffer_read"/>
+        <Object Name="pix_buffer_write"/>
+        <Object Name="pix_chroma_key"/>
+        <Object Name="pix_clearblock"/>
+        <Object Name="pix_color"/>
+        <Object Name="pix_coloralpha"/>
+        <Object Name="pix_colorclassify"/>
+        <Object Name="pix_colormatrix"/>
+        <Object Name="pix_colorreduce"/>
+        <Object Name="pix_compare"/>
+        <Object Name="pix_composite"/>
+        <Object Name="pix_contrast"/>
+        <Object Name="pix_convert"/>
+        <Object Name="pix_convolve"/>
+        <Object Name="pix_coordinate"/>
+        <Object Name="pix_crop"/>
+        <Object Name="pix_curve"/>
+        <Object Name="pix_data"/>
+        <Object Name="pix_deinterlace"/>
+        <Object Name="pix_delay"/>
+        <Object Name="pix_diff"/>
+        <Object Name="pix_dot"/>
+        <Object Name="pix_draw"/>
+        <Object Name="pix_drum"/>
+        <Object Name="pix_dump"/>
+        <Object Name="pix_duotone"/>
+        <Object Name="pix_equal"/>
+        <Object Name="pix_fiducialtrack"/>
+        <Object Name="pix_film"/>
+        <Object Name="pix_flip"/>
+        <Object Name="pix_freeframe"/>
+        <Object Name="pix_frei0r"/>
+        <Object Name="pix_gain"/>
+        <Object Name="pix_grey"/>
+        <Object Name="pix_halftone"/>
+        <Object Name="pix_histo"/>
+        <Object Name="pix_hit"/>
+        <Object Name="pix_hsv2rgb"/>
+        <Object Name="pix_image"/>
+        <Object Name="pix_imageInPlace"/>
+        <Object Name="pix_indycam"/>
+        <Object Name="pix_info"/>
+        <Object Name="pix_invert"/>
+        <Object Name="pix_kaleidoscope"/>
+        <Object Name="pix_levels"/>
+        <Object Name="pix_lumaoffset"/>
+        <Object Name="pix_mano"/>
+        <Object Name="pix_mask"/>
+        <Object Name="pix_mean_color"/>
+        <Object Name="pix_metaimage"/>
+        <Object Name="pix_mix"/>
+        <Object Name="pix_motionblur"/>
+        <Object Name="pix_movement"/>
+        <Object Name="pix_movement2"/>
+        <Object Name="pix_movie"/>
+        <Object Name="pix_multiblob"/>
+        <Object Name="pix_multiimage"/>
+        <Object Name="pix_multiply"/>
+        <Object Name="pix_multitexture"/>
+        <Object Name="pix_noise"/>
+        <Object Name="pix_normalize"/>
+        <Object Name="pix_offset"/>
+        <Object Name="pix_pix2sig~"/>
+        <Object Name="pix_posterize"/>
+        <Object Name="pix_puzzle"/>
+        <Object Name="pix_rds"/>
+        <Object Name="pix_record"/>
+        <Object Name="pix_rectangle"/>
+        <Object Name="pix_refraction"/>
+        <Object Name="pix_resize"/>
+        <Object Name="pix_rgb2hsv"/>
+        <Object Name="pix_rgba"/>
+        <Object Name="pix_roi"/>
+        <Object Name="pix_roll"/>
+        <Object Name="pix_rtx"/>
+        <Object Name="pix_scanline"/>
+        <Object Name="pix_set"/>
+        <Object Name="pix_share_read"/>
+        <Object Name="pix_share_write"/>
+        <Object Name="pix_sig2pix~"/>
+        <Object Name="pix_snap"/>
+        <Object Name="pix_snap2tex"/>
+        <Object Name="pix_subtract"/>
+        <Object Name="pix_takealpha"/>
+        <Object Name="pix_texture"/>
+        <Object Name="pix_threshold"/>
+        <Object Name="pix_threshold_bernsen"/>
+        <Object Name="pix_tIIR"/>
+        <Object Name="pix_video"/>
+        <Object Name="pix_write"/>
+        <Object Name="pix_writer"/>
+        <Object Name="pix_yuv"/>
+        <Object Name="pix_zoom"/>
+        <Object Name="polygon"/>
+        <Object Name="polygon_smooth"/>
+        <Object Name="pqtorusknots"/>
+        <Object Name="primTri"/>
+        <Object Name="rectangle"/>
+        <Object Name="render_trigger"/>
+        <Object Name="rgb2hsv"/>
+        <Object Name="rgb2yuv"/>
+        <Object Name="ripple"/>
+        <Object Name="rotate"/>
+        <Object Name="rotateXYZ"/>
+        <Object Name="rubber"/>
+        <Object Name="scale"/>
+        <Object Name="scaleXYZ"/>
+        <Object Name="scopeXYZ~"/>
+        <Object Name="separator"/>
+        <Object Name="shearXY"/>
+        <Object Name="shearXZ"/>
+        <Object Name="shearYX"/>
+        <Object Name="shearYZ"/>
+        <Object Name="shearZX"/>
+        <Object Name="shearZY"/>
+        <Object Name="shininess"/>
+        <Object Name="slideSquares"/>
+        <Object Name="specular"/>
+        <Object Name="specularRGB"/>
+        <Object Name="sphere"/>
+        <Object Name="sphere3d"/>
+        <Object Name="spline_path"/>
+        <Object Name="spot_light"/>
+        <Object Name="square"/>
+        <Object Name="surface3d"/>
+        <Object Name="teapot"/>
+        <Object Name="text2d"/>
+        <Object Name="text3d"/>
+        <Object Name="textextruded"/>
+        <Object Name="textoutline"/>
+        <Object Name="torus"/>
+        <Object Name="translate"/>
+        <Object Name="translateXYZ"/>
+        <Object Name="trapezoid"/>
+        <Object Name="triangle"/>
+        <Object Name="tube"/>
+        <Object Name="vertex_program"/>
+        <Object Name="world_light"/>
+        <Object Name="yuv2rgb"/>
+      </Objects>
+    </Package>
+    <Package ID="R2VtXzAuOTMuM18yMDE2LTA1LTIwIDA5OjI0OjAyX3ptb2Vsbmln" Author="zmoelnig"
+             Timestamp="2016-05-20 09:24:02" Description="Gem/0.93.3 (deken installable file for OSX PowerPC+i386/32bit))"
+             Version="0.93.3" URL="http://puredata.info/downloads/gem/releases/0.93.3/Gem-v0.93.3-(Darwin-i386-32)(Darwin-PowerPC-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+    <Package ID="R2VtXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6NTU6MThfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:55:18" Description="Gem-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/Gem/0-0extended/Gem-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="bsaylor">
+    <Package ID="YnNheWxvcl8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjE1OjA1X3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2015-12-10 14:15:05" Description="bsaylor-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/bsaylor/0-0extended/bsaylor-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="ext13">
+    <Package ID="ZXh0MTNfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxODoxNV96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:18:15" Description="ext13-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/ext13/0-0extended/ext13-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="pddp">
+    <Package ID="cGRkcF8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjI5OjQ5X3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2015-12-10 14:29:49" Description="pddp-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/pddp/0-0extended/pddp-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="XXX-deken-test">
+    <Package ID="WFhYLWRla2VuLXRlc3RfMC45LjItOC1nN2EzZDkzY19vc3hfMjAyMi0wNi0xMyAxNDoyMTozM196bW9lbG5pZ2JvdA=="
+             Author="zmoelnigbot" Timestamp="2022-06-13 14:21:33" Description="XXX-deken-test[v0.9.2-8-g7a3d93c_osx](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
+             Version="0.9.2-8-g7a3d93c_osx" URL="http://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/9175/0.9.2-8-g7a3d93c_osx/XXX-deken-test[v0.9.2-8-g7a3d93c_osx](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
+      <Objects/>
+    </Package>
+    <Package ID="WFhYLWRla2VuLXRlc3RfMC45LjItOC1nN2EzZDkzY19kb2NrZXJfMjAyMi0wNi0xMyAxNDowODoyMV96bW9lbG5pZ2JvdA=="
+             Author="zmoelnigbot" Timestamp="2022-06-13 14:08:21" Description="XXX-deken-test[v0.9.2-8-g7a3d93c_docker](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
+             Version="0.9.2-8-g7a3d93c_docker" URL="http://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/9175/0.9.2-8-g7a3d93c_docker/XXX-deken-test[v0.9.2-8-g7a3d93c_docker](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
+      <Objects/>
+    </Package>
+    <Package ID="WFhYLWRla2VuLXRlc3RfMC45LjItNy1nZDQyMjk2ZV9kb2NrZXJfMjAyMi0wNi0xMyAxMzo1NDo1NV96bW9lbG5pZ2JvdA=="
+             Author="zmoelnigbot" Timestamp="2022-06-13 13:54:55" Description="XXX-deken-test[v0.9.2-7-gd42296e_docker](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
+             Version="0.9.2-7-gd42296e_docker" URL="http://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/9174/0.9.2-7-gd42296e_docker/XXX-deken-test[v0.9.2-7-gd42296e_docker](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="iemguts">
+    <Package ID="aWVtZ3V0c18wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjIyOjU3X3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2015-12-10 14:22:57" Description="iemguts-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/iemguts/0-0extended/iemguts-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="ggee">
+    <Package ID="Z2dlZV8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjE5OjQ3X3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2015-12-10 14:19:47" Description="ggee-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/ggee/0-0extended/ggee-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="arraysize">
+    <Package ID="YXJyYXlzaXplXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MTQ6MTBfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:14:10" Description="arraysize-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/arraysize/0-0extended/arraysize-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="earplug~">
+    <Package ID="ZWFycGx1Z35fMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxNzoyNF96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:17:24" Description="earplug~-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/earplug~/0-0extended/earplug~-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="net">
+    <Package ID="bmV0XzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6Mjg6MzNfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:28:33" Description="net-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/net/0-0extended/net-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="apple">
+    <Package ID="YXBwbGVfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxMzo1NV96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:13:55" Description="apple-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/apple/0-0extended/apple-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="chaos">
+    <Package ID="Y2hhb3NfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxNTozNF96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:15:34" Description="chaos-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/chaos/0-0extended/chaos-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="pix_drum">
+    <Package ID="cGl4X2RydW1fMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDozMToyM196bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:31:23" Description="pix_drum-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/pix_drum/0-0extended/pix_drum-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="flatgui">
+    <Package ID="ZmxhdGd1aV8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjE5OjAxX3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2015-12-10 14:19:01" Description="flatgui-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/flatgui/0-0extended/flatgui-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="cyclone">
+    <Package ID="Y3ljbG9uZV8wLjJiZXRhMV8yMDE2LTAxLTA3IDE5OjQ1OjMwX2Zqa3JhYW4="
+             Author="fjkraan" Timestamp="2016-01-07 19:45:30" Description="cyclone-v0.2beta1-(Darwin-ppc-32)(Darwin-i386-32)(Darwin-X86_64-32)(Sources)-externals.tgz"
+             Version="0.2beta1" URL="http://puredata.info/Members/fjkraan/software/cyclone/0.2beta1/cyclone-v0.2beta1-(Darwin-ppc-32)(Darwin-i386-32)(Darwin-X86_64-32)(Sources)-externals.tgz">
+      <Objects>
+        <Object Name="abs~"/>
+        <Object Name="accum"/>
+        <Object Name="acos"/>
+        <Object Name="acosh~"/>
+        <Object Name="acos~"/>
+        <Object Name="active"/>
+        <Object Name="allpass~"/>
+        <Object Name="anal"/>
+        <Object Name="Append"/>
+        <Object Name="asin"/>
+        <Object Name="asinh~"/>
+        <Object Name="asin~"/>
+        <Object Name="atan2~"/>
+        <Object Name="atanh~"/>
+        <Object Name="atan~"/>
+        <Object Name="average~"/>
+        <Object Name="avg~"/>
+        <Object Name="bangbang"/>
+        <Object Name="bitand~"/>
+        <Object Name="bitnot~"/>
+        <Object Name="bitor~"/>
+        <Object Name="bitshift~"/>
+        <Object Name="bitxor~"/>
+        <Object Name="bondo"/>
+        <Object Name="Borax"/>
+        <Object Name="Bucket"/>
+        <Object Name="buddy"/>
+        <Object Name="buffir~"/>
+        <Object Name="capture"/>
+        <Object Name="capture~"/>
+        <Object Name="cartopol"/>
+        <Object Name="cartopol~"/>
+        <Object Name="change~"/>
+        <Object Name="click~"/>
+        <Object Name="Clip"/>
+        <Object Name="Clip~"/>
+        <Object Name="coll"/>
+        <Object Name="comb~"/>
+        <Object Name="comment"/>
+        <Object Name="cosh"/>
+        <Object Name="cosh~"/>
+        <Object Name="cosx~"/>
+        <Object Name="counter"/>
+        <Object Name="count~"/>
+        <Object Name="curve~"/>
+        <Object Name="cycle"/>
+        <Object Name="cycle~"/>
+        <Object Name="decide"/>
+        <Object Name="Decode"/>
+        <Object Name="delay~"/>
+        <Object Name="deltaclip~"/>
+        <Object Name="delta~"/>
+        <Object Name="drunk"/>
+        <Object Name="edge~"/>
+        <Object Name="flush"/>
+        <Object Name="forward"/>
+        <Object Name="frameaccum~"/>
+        <Object Name="framedelta~"/>
+        <Object Name="fromsymbol"/>
+        <Object Name="funbuff"/>
+        <Object Name="funnel"/>
+        <Object Name="gate"/>
+        <Object Name="grab"/>
+        <Object Name="Histo"/>
+        <Object Name="index~"/>
+        <Object Name="iter"/>
+        <Object Name="kink~"/>
+        <Object Name="linedrive"/>
+        <Object Name="Line~"/>
+        <Object Name="log~"/>
+        <Object Name="lookup~"/>
+        <Object Name="lores~"/>
+        <Object Name="match"/>
+        <Object Name="matrix~"/>
+        <Object Name="maximum"/>
+        <Object Name="maximum~"/>
+        <Object Name="maxmode"/>
+        <Object Name="mean"/>
+        <Object Name="midiflush"/>
+        <Object Name="midiformat"/>
+        <Object Name="midiparse"/>
+        <Object Name="minimum"/>
+        <Object Name="minimum~"/>
+        <Object Name="minmax~"/>
+        <Object Name="mousefilter"/>
+        <Object Name="MouseState"/>
+        <Object Name="mstosamps~"/>
+        <Object Name="mtr"/>
+        <Object Name="nettles"/>
+        <Object Name="next"/>
+        <Object Name="offer"/>
+        <Object Name="onebang"/>
+        <Object Name="onepole~"/>
+        <Object Name="overdrive~"/>
+        <Object Name="past"/>
+        <Object Name="Peak"/>
+        <Object Name="peakamp~"/>
+        <Object Name="peek~"/>
+        <Object Name="phasewrap~"/>
+        <Object Name="pink~"/>
+        <Object Name="play~"/>
+        <Object Name="poke~"/>
+        <Object Name="poltocar"/>
+        <Object Name="poltocar~"/>
+        <Object Name="pong~"/>
+        <Object Name="pow~"/>
+        <Object Name="prepend"/>
+        <Object Name="prob"/>
+        <Object Name="pv"/>
+        <Object Name="rampsmooth~"/>
+        <Object Name="rand~"/>
+        <Object Name="record~"/>
+        <Object Name="reson~"/>
+        <Object Name="sah~"/>
+        <Object Name="sampstoms~"/>
+        <Object Name="Scope~"/>
+        <Object Name="seq"/>
+        <Object Name="sinh"/>
+        <Object Name="sinh~"/>
+        <Object Name="sinx~"/>
+        <Object Name="slide~"/>
+        <Object Name="Snapshot~"/>
+        <Object Name="speedlim"/>
+        <Object Name="spell"/>
+        <Object Name="spike~"/>
+        <Object Name="split"/>
+        <Object Name="spray"/>
+        <Object Name="sprintf"/>
+        <Object Name="substitute"/>
+        <Object Name="sustain"/>
+        <Object Name="svf~"/>
+        <Object Name="switch"/>
+        <Object Name="Table"/>
+        <Object Name="tanh"/>
+        <Object Name="tanh~"/>
+        <Object Name="tanx~"/>
+        <Object Name="teeth~"/>
+        <Object Name="testmess"/>
+        <Object Name="thresh"/>
+        <Object Name="TogEdge"/>
+        <Object Name="tosymbol"/>
+        <Object Name="train~"/>
+        <Object Name="trapezoid~"/>
+        <Object Name="triangle~"/>
+        <Object Name="Trough"/>
+        <Object Name="universal"/>
+        <Object Name="urn"/>
+        <Object Name="Uzi"/>
+        <Object Name="vectral~"/>
+        <Object Name="wave~"/>
+        <Object Name="xbendin"/>
+        <Object Name="xbendin2"/>
+        <Object Name="xbendout"/>
+        <Object Name="xbendout2"/>
+        <Object Name="xnotein"/>
+        <Object Name="xnoteout"/>
+        <Object Name="zerox~"/>
+        <Object Name="zl"/>
+      </Objects>
+    </Package>
+    <Package ID="Y3ljbG9uZV8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjE3OjA2X3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2015-12-10 14:17:06" Description="cyclone-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/cyclone/0-0extended/cyclone-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="hcs">
+    <Package ID="aGNzXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MjA6MDNfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:20:03" Description="hcs-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/hcs/0-0extended/hcs-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="bassemu~">
+    <Package ID="YmFzc2VtdX5fMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxNDoyOV96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:14:29" Description="bassemu~-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/bassemu~/0-0extended/bassemu~-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="hexloader">
+    <Package ID="aGV4bG9hZGVyXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MjA6MjBfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:20:20" Description="hexloader-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/hexloader/0-0extended/hexloader-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="hid">
+    <Package ID="aGlkXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MjA6Mzhfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:20:38" Description="hid-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/hid/0-0extended/hid-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="iem_adaptfilt">
+    <Package ID="aWVtX2FkYXB0ZmlsdF8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjIxOjE2X3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2015-12-10 14:21:16" Description="iem_adaptfilt-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/iem_adaptfilt/0-0extended/iem_adaptfilt-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="pdogg">
+    <Package ID="cGRvZ2dfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDozMDozOV96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:30:39" Description="pdogg-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/pdogg/0-0extended/pdogg-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="iem_ambi">
+    <Package ID="aWVtX2FtYmlfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoyMTozNF96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:21:34" Description="iem_ambi-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/iem_ambi/0-0extended/iem_ambi-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="iem_bin_ambi">
+    <Package ID="aWVtX2Jpbl9hbWJpXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MjE6NTdfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:21:57" Description="iem_bin_ambi-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/iem_bin_ambi/0-0extended/iem_bin_ambi-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="boids">
+    <Package ID="Ym9pZHNfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxNDo0NF96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:14:44" Description="boids-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/boids/0-0extended/boids-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="iem_delay">
+    <Package ID="aWVtX2RlbGF5XzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MjI6MTRfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:22:14" Description="iem_delay-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/iem_delay/0-0extended/iem_delay-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="iem_tab">
+    <Package ID="aWVtX3RhYl8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjI0OjQxX3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2015-12-10 14:24:41" Description="iem_tab-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/iem_tab/0-0extended/iem_tab-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="vbap">
+    <Package ID="dmJhcF8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjM1OjI4X3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2015-12-10 14:35:28" Description="vbap-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/vbap/0-0extended/vbap-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="iemmatrix">
+    <Package ID="aWVtbWF0cml4XzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MjM6MzVfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:23:35" Description="iemmatrix-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/iemmatrix/0-0extended/iemmatrix-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="iemnet">
+    <Package ID="aWVtbmV0XzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MjM6NTJfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:23:52" Description="iemnet-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/iemnet/0-0extended/iemnet-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="iemxmlrpc">
+    <Package ID="aWVteG1scnBjXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MjQ6NTlfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:24:59" Description="iemxmlrpc-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/iemxmlrpc/0-0extended/iemxmlrpc-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="jasch_lib">
+    <Package ID="amFzY2hfbGliXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MjU6MTdfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:25:17" Description="jasch_lib-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/jasch_lib/0-0extended/jasch_lib-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="tof">
+    <Package ID="dG9mXzAuMi4xXzIwMTktMDEtMTMgMjI6NDc6MDdfZmprcmFhbg==" Author="fjkraan"
+             Timestamp="2019-01-13 22:47:07" Description="tof-v0.2.1-(Darwin-ppc-32)(Darwin-i386-32)(Darwin-x86_64-32)(Sources).dek"
+             Version="0.2.1" URL="http://puredata.info/Members/fjkraan/software/tof/0.2.1/tof-v0.2.1-(Darwin-ppc-32)(Darwin-i386-32)(Darwin-x86_64-32)(Sources)-externals.tgz">
+      <Objects>
+        <Object Name="animate"/>
+        <Object Name="argument"/>
+        <Object Name="arguments"/>
+        <Object Name="breakpoints"/>
+        <Object Name="breakpoints~"/>
+        <Object Name="common~"/>
+        <Object Name="crossfade~"/>
+        <Object Name="folderpanel"/>
+        <Object Name="from_ascii_code"/>
+        <Object Name="gemwin+"/>
+        <Object Name="getdollarzero"/>
+        <Object Name="imagebang"/>
+        <Object Name="increment"/>
+        <Object Name="iterate"/>
+        <Object Name="list_accum"/>
+        <Object Name="list_unfold"/>
+        <Object Name="listUnfold"/>
+        <Object Name="menubutton"/>
+        <Object Name="onlyone"/>
+        <Object Name="open_help"/>
+        <Object Name="openHelp"/>
+        <Object Name="OSCToParam"/>
+        <Object Name="param"/>
+        <Object Name="path"/>
+        <Object Name="phasorshot~"/>
+        <Object Name="pix_film+"/>
+        <Object Name="pmenu"/>
+        <Object Name="sample"/>
+        <Object Name="sample_granule~"/>
+        <Object Name="sample_packel"/>
+        <Object Name="sample_play~"/>
+        <Object Name="sample_record~"/>
+        <Object Name="sample_shifft~"/>
+        <Object Name="sample_unpack"/>
+        <Object Name="streamMinMax"/>
+        <Object Name="to_ascii_code"/>
+      </Objects>
+    </Package>
+    <Package ID="dG9mXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MzQ6MjZfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:34:26" Description="tof-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/tof/0-0extended/tof-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="moonlib">
+    <Package ID="bW9vbmxpYl8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjI3OjQyX3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2015-12-10 14:27:42" Description="moonlib-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/moonlib/0-0extended/moonlib-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="iemlib">
+    <Package ID="aWVtbGliXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MjM6MThfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:23:18" Description="iemlib-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/iemlib/0-0extended/iemlib-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="libdir">
+    <Package ID="bGliZGlyXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MjU6Mzdfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:25:37" Description="libdir-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/libdir/0-0extended/libdir-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="log">
+    <Package ID="bG9nXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MjU6NTFfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:25:51" Description="log-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/log/0-0extended/log-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="pmpd">
+    <Package ID="cG1wZF8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjMzOjAxX3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2015-12-10 14:33:01" Description="pmpd-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/pmpd/0-0extended/pmpd-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="iem_roomsim">
+    <Package ID="aWVtX3Jvb21zaW1fMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoyNDoxMF96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:24:10" Description="iem_roomsim-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/iem_roomsim/0-0extended/iem_roomsim-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="markex">
+    <Package ID="bWFya2V4XzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MjY6MDZfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:26:06" Description="markex-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/markex/0-0extended/markex-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="maxlib">
+    <Package ID="bWF4bGliXzEuNS42XzIwMTYtMDQtMDUgMjA6MDM6NTNfZmprcmFhbg=="
+             Author="fjkraan" Timestamp="2016-04-05 20:03:53" Description="maxlib-v1.5.6-(Darwin-ppc-32)(Darwin-i386-32)(Darwin-X86_64-32)(Sources)-externals.tgz"
+             Version="1.5.6" URL="http://puredata.info/Members/fjkraan/software/maxlib/1.5.6/maxlib-v1.5.6-(Darwin-ppc-32)(Darwin-i386-32)(Darwin-X86_64-32)(Sources)-externals.tgz">
+      <Objects>
+        <Object Name="allow"/>
+        <Object Name="arbran"/>
+        <Object Name="arraycopy"/>
+        <Object Name="average"/>
+        <Object Name="beat"/>
+        <Object Name="beta"/>
+        <Object Name="bilex"/>
+        <Object Name="borax"/>
+        <Object Name="cauchy"/>
+        <Object Name="chord"/>
+        <Object Name="delta"/>
+        <Object Name="deny"/>
+        <Object Name="dist"/>
+        <Object Name="divide"/>
+        <Object Name="divmod"/>
+        <Object Name="edge"/>
+        <Object Name="expo"/>
+        <Object Name="fifo"/>
+        <Object Name="gauss"/>
+        <Object Name="gestalt"/>
+        <Object Name="history"/>
+        <Object Name="ignore"/>
+        <Object Name="iso"/>
+        <Object Name="lifo"/>
+        <Object Name="limit"/>
+        <Object Name="linear"/>
+        <Object Name="listfifo"/>
+        <Object Name="listfunnel"/>
+        <Object Name="match"/>
+        <Object Name="minus"/>
+        <Object Name="mlife"/>
+        <Object Name="multi"/>
+        <Object Name="nchange"/>
+        <Object Name="nroute"/>
+        <Object Name="pitch"/>
+        <Object Name="plus"/>
+        <Object Name="poisson"/>
+        <Object Name="pong"/>
+        <Object Name="pulse"/>
+        <Object Name="pwrap"/>
+        <Object Name="remote"/>
+        <Object Name="rewrap"/>
+        <Object Name="rhythm"/>
+        <Object Name="scale"/>
+        <Object Name="score"/>
+        <Object Name="speedlim"/>
+        <Object Name="split"/>
+        <Object Name="step"/>
+        <Object Name="subst"/>
+        <Object Name="sync"/>
+        <Object Name="temperature"/>
+        <Object Name="tilt"/>
+        <Object Name="timebang"/>
+        <Object Name="triang"/>
+        <Object Name="unroute"/>
+        <Object Name="urn"/>
+        <Object Name="velocity"/>
+        <Object Name="weibull"/>
+      </Objects>
+    </Package>
+    <Package ID="bWF4bGliXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MjY6MjJfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:26:22" Description="maxlib-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/maxlib/0-0extended/maxlib-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="mediasettings">
+    <Package ID="bWVkaWFzZXR0aW5nc18wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjI2OjQxX3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2015-12-10 14:26:41" Description="mediasettings-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/mediasettings/0-0extended/mediasettings-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="soundtouch~">
+    <Package ID="c291bmR0b3VjaH5fMC45XzIwMjEtMDEtMjggMDI6MTI6NTJfcG9ycmVz"
+             Author="porres" Timestamp="2021-01-28 02:12:52" Description="soundtouch~[v0.9](Darwin-i386-32)(Darwin-ppc-32).dek"
+             Version="0.9" URL="http://puredata.info/Members/porres/software/soundtouch~/0.9/soundtouch~[v0.9](Darwin-i386-32)(Darwin-ppc-32).dek">
+      <Objects>
+        <Object Name="soundtouch~"/>
+      </Objects>
+    </Package>
+    <Package ID="c291bmR0b3VjaH5fMC45XzIwMjEtMDEtMjggMDI6MDk6MzZfcG9ycmVz"
+             Author="porres" Timestamp="2021-01-28 02:09:36" Description="soundtouch~[v0.9](Darwin-i386-32)(Darwin-ppc-32)(Linux-i386-32)(Windows-i386-32)(Sources).dek"
+             Version="0.9" URL="http://puredata.info/Members/porres/software/soundtouch~/0.9/soundtouch~[v0.9](Darwin-i386-32)(Darwin-ppc-32)(Linux-i386-32)(Windows-i386-32)(Sources).dek">
+      <Objects>
+        <Object Name="soundtouch~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="windowing">
+    <Package ID="d2luZG93aW5nXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MzU6NDVfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:35:45" Description="windowing-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/windowing/0-0extended/windowing-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="iem16">
+    <Package ID="aWVtMTZfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoyMDo1NF96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:20:54" Description="iem16-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/iem16/0-0extended/iem16-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="moocow">
+    <Package ID="bW9vY293XzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6Mjc6MTVfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:27:15" Description="moocow-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/moocow/0-0extended/moocow-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="motex">
+    <Package ID="bW90ZXhfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoyNzo1OV96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:27:59" Description="motex-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/motex/0-0extended/motex-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="mrpeach">
+    <Package ID="bXJwZWFjaF8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjI4OjE2X3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2015-12-10 14:28:16" Description="mrpeach-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/mrpeach/0-0extended/mrpeach-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="pix_mano">
+    <Package ID="cGl4X21hbm9fMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDozMjowNl96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:32:06" Description="pix_mano-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/pix_mano/0-0extended/pix_mano-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="mjlib">
+    <Package ID="bWpsaWJfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoyNjo1N196bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:26:57" Description="mjlib-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/mjlib/0-0extended/mjlib-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="osc">
+    <Package ID="b3NjXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6Mjg6NTdfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:28:57" Description="osc-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/osc/0-0extended/osc-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="comport">
+    <Package ID="Y29tcG9ydF8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjE1OjU4X3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2015-12-10 14:15:58" Description="comport-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/comport/0-0extended/comport-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+</Darwin-ppc-32>

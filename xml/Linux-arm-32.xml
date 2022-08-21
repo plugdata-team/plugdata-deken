@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Linux-arm-32>
+  <Packages Name="windowing">
+    <Package ID="d2luZG93aW5nXzAuMi4wXzIwMTktMTItMjggMjE6MjI6NDRfZmprcmFhbg=="
+             Author="fjkraan" Timestamp="2019-12-28 21:22:44" Description="windowing[v0.2.0](Linux-arm-32)(Sources).dek"
+             Version="0.2.0" URL="http://puredata.info/Members/fjkraan/software/windowing/0.2.0/windowing[v0.2.0](Linux-arm-32)(Sources).dek">
+      <Objects>
+        <Object Name="bartlett"/>
+        <Object Name="blackman"/>
+        <Object Name="connes"/>
+        <Object Name="cosine"/>
+        <Object Name="gaussian"/>
+        <Object Name="hamming"/>
+        <Object Name="hanning"/>
+        <Object Name="kaiser"/>
+        <Object Name="lanczos"/>
+        <Object Name="welch"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="maxlib">
+    <Package ID="bWF4bGliXzEuNS44XzIwMTktMTItMjAgMTc6MTk6MjJfZmprcmFhbg=="
+             Author="fjkraan" Timestamp="2019-12-20 17:19:22" Description="maxlib[v1.5.8](Linux-arm-32)(Sources).dek"
+             Version="1.5.8" URL="http://puredata.info/Members/fjkraan/software/maxlib/1.5.8/maxlib[v1.5.8](Linux-arm-32)(Sources).dek">
+      <Objects>
+        <Object Name="allow"/>
+        <Object Name="arbran"/>
+        <Object Name="arraycopy"/>
+        <Object Name="average"/>
+        <Object Name="beat"/>
+        <Object Name="beta"/>
+        <Object Name="bilex"/>
+        <Object Name="borax"/>
+        <Object Name="cauchy"/>
+        <Object Name="chord"/>
+        <Object Name="delta"/>
+        <Object Name="deny"/>
+        <Object Name="dist"/>
+        <Object Name="divide"/>
+        <Object Name="divmod"/>
+        <Object Name="edge"/>
+        <Object Name="expo"/>
+        <Object Name="fifo"/>
+        <Object Name="gauss"/>
+        <Object Name="gestalt"/>
+        <Object Name="history"/>
+        <Object Name="ignore"/>
+        <Object Name="iso"/>
+        <Object Name="lifo"/>
+        <Object Name="limit"/>
+        <Object Name="linear"/>
+        <Object Name="listfifo"/>
+        <Object Name="listfunnel"/>
+        <Object Name="match"/>
+        <Object Name="minus"/>
+        <Object Name="mlife"/>
+        <Object Name="multi"/>
+        <Object Name="nchange"/>
+        <Object Name="nroute"/>
+        <Object Name="pitch"/>
+        <Object Name="plus"/>
+        <Object Name="poisson"/>
+        <Object Name="pong"/>
+        <Object Name="pulse"/>
+        <Object Name="pwrap"/>
+        <Object Name="remote"/>
+        <Object Name="rewrap"/>
+        <Object Name="rhythm"/>
+        <Object Name="scale"/>
+        <Object Name="score"/>
+        <Object Name="speedlim"/>
+        <Object Name="split"/>
+        <Object Name="step"/>
+        <Object Name="subst"/>
+        <Object Name="sync"/>
+        <Object Name="temperature"/>
+        <Object Name="tilt"/>
+        <Object Name="timebang"/>
+        <Object Name="triang"/>
+        <Object Name="unroute"/>
+        <Object Name="urn"/>
+        <Object Name="velocity"/>
+        <Object Name="weibull"/>
+        <Object Name="wrap"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="tof">
+    <Package ID="dG9mXzAuMi40XzIwMjAtMDktMTQgMjA6NTE6MjBfZmprcmFhbg==" Author="fjkraan"
+             Timestamp="2020-09-14 20:51:20" Description="tof[v0.2.4](Linux-arm-32)(Sources).dek"
+             Version="0.2.4" URL="http://puredata.info/Members/fjkraan/software/tof/0.2.4/tof[v0.2.4](Linux-arm-32)(Sources).dek">
+      <Objects>
+        <Object Name="animate"/>
+        <Object Name="argument"/>
+        <Object Name="arguments"/>
+        <Object Name="breakpoints"/>
+        <Object Name="breakpoints~"/>
+        <Object Name="common~"/>
+        <Object Name="crossfade~"/>
+        <Object Name="folderpanel"/>
+        <Object Name="from_ascii_code"/>
+        <Object Name="gemwin+"/>
+        <Object Name="getdollarzero"/>
+        <Object Name="imagebang"/>
+        <Object Name="increment"/>
+        <Object Name="iterate"/>
+        <Object Name="list_accum"/>
+        <Object Name="list_unfold"/>
+        <Object Name="listUnfold"/>
+        <Object Name="menubutton"/>
+        <Object Name="onlyone"/>
+        <Object Name="open_help"/>
+        <Object Name="openHelp"/>
+        <Object Name="OSCToParam"/>
+        <Object Name="param"/>
+        <Object Name="path"/>
+        <Object Name="phasorshot~"/>
+        <Object Name="pix_film+"/>
+        <Object Name="pmenu"/>
+        <Object Name="sample"/>
+        <Object Name="sample_granule~"/>
+        <Object Name="sample_packel"/>
+        <Object Name="sample_play~"/>
+        <Object Name="sample_record~"/>
+        <Object Name="sample_shifft~"/>
+        <Object Name="sample_unpack"/>
+        <Object Name="streamMinMax"/>
+        <Object Name="to_ascii_code"/>
+      </Objects>
+    </Package>
+    <Package ID="dG9mXzAuMi4zXzIwMjAtMDktMTQgMjA6NDc6MDZfZmprcmFhbg==" Author="fjkraan"
+             Timestamp="2020-09-14 20:47:06" Description="tof[v0.2.3](Linux-arm-32)(Sources).dek"
+             Version="0.2.3" URL="http://puredata.info/Members/fjkraan/software/tof/0.2.3/tof[v0.2.3](Linux-arm-32)(Sources).dek">
+      <Objects>
+        <Object Name="animate"/>
+        <Object Name="argument"/>
+        <Object Name="arguments"/>
+        <Object Name="breakpoints"/>
+        <Object Name="breakpoints~"/>
+        <Object Name="common~"/>
+        <Object Name="crossfade~"/>
+        <Object Name="folderpanel"/>
+        <Object Name="from_ascii_code"/>
+        <Object Name="gemwin+"/>
+        <Object Name="getdollarzero"/>
+        <Object Name="imagebang"/>
+        <Object Name="increment"/>
+        <Object Name="iterate"/>
+        <Object Name="list_accum"/>
+        <Object Name="list_unfold"/>
+        <Object Name="listUnfold"/>
+        <Object Name="menubutton"/>
+        <Object Name="onlyone"/>
+        <Object Name="open_help"/>
+        <Object Name="openHelp"/>
+        <Object Name="OSCToParam"/>
+        <Object Name="param"/>
+        <Object Name="path"/>
+        <Object Name="phasorshot~"/>
+        <Object Name="pix_film+"/>
+        <Object Name="pmenu"/>
+        <Object Name="sample"/>
+        <Object Name="sample_granule~"/>
+        <Object Name="sample_packel"/>
+        <Object Name="sample_play~"/>
+        <Object Name="sample_record~"/>
+        <Object Name="sample_shifft~"/>
+        <Object Name="sample_unpack"/>
+        <Object Name="streamMinMax"/>
+        <Object Name="to_ascii_code"/>
+      </Objects>
+    </Package>
+    <Package ID="dG9mXzAuMi4yXzIwMTktMTItMjggMTI6MDg6MTdfZmprcmFhbg==" Author="fjkraan"
+             Timestamp="2019-12-28 12:08:17" Description="tof[v0.2.2](Linux-arm-32)(Sources).dek"
+             Version="0.2.2" URL="http://puredata.info/Members/fjkraan/software/tof/0.2.2/tof[v0.2.2](Linux-arm-32)(Sources).dek">
+      <Objects>
+        <Object Name="animate"/>
+        <Object Name="argument"/>
+        <Object Name="arguments"/>
+        <Object Name="breakpoints"/>
+        <Object Name="breakpoints~"/>
+        <Object Name="common~"/>
+        <Object Name="crossfade~"/>
+        <Object Name="folderpanel"/>
+        <Object Name="from_ascii_code"/>
+        <Object Name="gemwin+"/>
+        <Object Name="getdollarzero"/>
+        <Object Name="imagebang"/>
+        <Object Name="increment"/>
+        <Object Name="iterate"/>
+        <Object Name="list_accum"/>
+        <Object Name="list_unfold"/>
+        <Object Name="listUnfold"/>
+        <Object Name="menubutton"/>
+        <Object Name="onlyone"/>
+        <Object Name="open_help"/>
+        <Object Name="openHelp"/>
+        <Object Name="OSCToParam"/>
+        <Object Name="param"/>
+        <Object Name="path"/>
+        <Object Name="phasorshot~"/>
+        <Object Name="pix_film+"/>
+        <Object Name="pmenu"/>
+        <Object Name="sample"/>
+        <Object Name="sample_granule~"/>
+        <Object Name="sample_packel"/>
+        <Object Name="sample_play~"/>
+        <Object Name="sample_record~"/>
+        <Object Name="sample_shifft~"/>
+        <Object Name="sample_unpack"/>
+        <Object Name="streamMinMax"/>
+        <Object Name="to_ascii_code"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="gigaverb~">
+    <Package ID="Z2lnYXZlcmJ+XzAuNF8yMDIwLTAxLTA3IDE5OjA4OjQyX2Zqa3JhYW4="
+             Author="fjkraan" Timestamp="2020-01-07 19:08:42" Description="gigaverb~[v0.4](Linux-arm-32)(Sources).dek"
+             Version="0.4" URL="http://puredata.info/Members/fjkraan/software/gigaverb~/0.4/gigaverb~[v0.4](Linux-arm-32)(Sources).dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="sigpack">
+    <Package ID="c2lncGFja18wLjAuNDVfMjAxOS0xMS0yNiAyMDozNjo1OV9mamtyYWFu"
+             Author="fjkraan" Timestamp="2019-11-26 20:36:59" Description="sigpack[v0.0.45](Linux-arm-32)(Sources).dek"
+             Version="0.0.45" URL="http://puredata.info/Members/fjkraan/software/sigpack/0.0.45/sigpack[v0.0.45](Linux-arm-32)(Sources).dek">
+      <Objects>
+        <Object Name="chop~"/>
+        <Object Name="decimate~"/>
+        <Object Name="diode~"/>
+        <Object Name="foldback~"/>
+        <Object Name="foldover~"/>
+        <Object Name="freqdiv~"/>
+        <Object Name="freqshift~"/>
+        <Object Name="hardlimit~"/>
+        <Object Name="harmgen~"/>
+        <Object Name="impulse~"/>
+        <Object Name="rectify~"/>
+        <Object Name="round~"/>
+        <Object Name="saturate~"/>
+        <Object Name="shape~"/>
+        <Object Name="sieve~"/>
+        <Object Name="split~"/>
+        <Object Name="ustep~"/>
+        <Object Name="valverect~"/>
+        <Object Name="vowel~"/>
+        <Object Name="wavewrap~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="nilwind">
+    <Package ID="bmlsd2luZF8wLjIuMi1iZXRhNV8yMDE5LTEyLTIwIDIxOjEyOjA4X2Zqa3JhYW4="
+             Author="fjkraan" Timestamp="2019-12-20 21:12:08" Description="nilwind[v0.2.2-beta5](Linux-arm-32)(Sources).dek"
+             Version="0.2.2-beta5" URL="http://puredata.info/Members/fjkraan/software/nilwind/0.2.2-beta5/nilwind[v0.2.2-beta5](Linux-arm-32)(Sources).dek">
+      <Objects>
+        <Object Name="abs~"/>
+        <Object Name="accum"/>
+        <Object Name="acos"/>
+        <Object Name="acosh~"/>
+        <Object Name="acos~"/>
+        <Object Name="active"/>
+        <Object Name="allpass~"/>
+        <Object Name="anal"/>
+        <Object Name="Append"/>
+        <Object Name="asin"/>
+        <Object Name="asinh~"/>
+        <Object Name="asin~"/>
+        <Object Name="atan2~"/>
+        <Object Name="atanh~"/>
+        <Object Name="atan~"/>
+        <Object Name="average~"/>
+        <Object Name="avg~"/>
+        <Object Name="bangbang"/>
+        <Object Name="bitand~"/>
+        <Object Name="bitnot~"/>
+        <Object Name="bitor~"/>
+        <Object Name="bitshift~"/>
+        <Object Name="bitxor~"/>
+        <Object Name="bondo"/>
+        <Object Name="Borax"/>
+        <Object Name="Bucket"/>
+        <Object Name="buddy"/>
+        <Object Name="buffir~"/>
+        <Object Name="capture"/>
+        <Object Name="capture~"/>
+        <Object Name="cartopol"/>
+        <Object Name="cartopol~"/>
+        <Object Name="change~"/>
+        <Object Name="click~"/>
+        <Object Name="Clip"/>
+        <Object Name="Clip~"/>
+        <Object Name="coll"/>
+        <Object Name="comb~"/>
+        <Object Name="comment"/>
+        <Object Name="cosh"/>
+        <Object Name="cosh~"/>
+        <Object Name="cosx~"/>
+        <Object Name="counter"/>
+        <Object Name="count~"/>
+        <Object Name="curve~"/>
+        <Object Name="cycle"/>
+        <Object Name="cycle~"/>
+        <Object Name="decide"/>
+        <Object Name="Decode"/>
+        <Object Name="delay~"/>
+        <Object Name="deltaclip~"/>
+        <Object Name="delta~"/>
+        <Object Name="drunk"/>
+        <Object Name="edge~"/>
+        <Object Name="flush"/>
+        <Object Name="forward"/>
+        <Object Name="frameaccum~"/>
+        <Object Name="framedelta~"/>
+        <Object Name="fromsymbol"/>
+        <Object Name="funbuff"/>
+        <Object Name="funnel"/>
+        <Object Name="gate"/>
+        <Object Name="grab"/>
+        <Object Name="Histo"/>
+        <Object Name="index~"/>
+        <Object Name="iter"/>
+        <Object Name="kink~"/>
+        <Object Name="linedrive"/>
+        <Object Name="Line~"/>
+        <Object Name="log~"/>
+        <Object Name="lookup~"/>
+        <Object Name="lores~"/>
+        <Object Name="match"/>
+        <Object Name="matrix~"/>
+        <Object Name="maximum"/>
+        <Object Name="maximum~"/>
+        <Object Name="maxmode"/>
+        <Object Name="mean"/>
+        <Object Name="midiflush"/>
+        <Object Name="midiformat"/>
+        <Object Name="midiparse"/>
+        <Object Name="minimum"/>
+        <Object Name="minimum~"/>
+        <Object Name="minmax~"/>
+        <Object Name="mousefilter"/>
+        <Object Name="MouseState"/>
+        <Object Name="mstosamps~"/>
+        <Object Name="mtr"/>
+        <Object Name="nettles"/>
+        <Object Name="next"/>
+        <Object Name="offer"/>
+        <Object Name="onebang"/>
+        <Object Name="onepole~"/>
+        <Object Name="overdrive~"/>
+        <Object Name="past"/>
+        <Object Name="Peak"/>
+        <Object Name="peakamp~"/>
+        <Object Name="peek~"/>
+        <Object Name="phasewrap~"/>
+        <Object Name="pink~"/>
+        <Object Name="play~"/>
+        <Object Name="poke~"/>
+        <Object Name="poltocar"/>
+        <Object Name="poltocar~"/>
+        <Object Name="pong~"/>
+        <Object Name="pow~"/>
+        <Object Name="prepend"/>
+        <Object Name="prob"/>
+        <Object Name="pv"/>
+        <Object Name="rampsmooth~"/>
+        <Object Name="rand~"/>
+        <Object Name="record~"/>
+        <Object Name="reson~"/>
+        <Object Name="sah~"/>
+        <Object Name="sampstoms~"/>
+        <Object Name="Scope~"/>
+        <Object Name="seq"/>
+        <Object Name="sinh"/>
+        <Object Name="sinh~"/>
+        <Object Name="sinx~"/>
+        <Object Name="slide~"/>
+        <Object Name="Snapshot~"/>
+        <Object Name="speedlim"/>
+        <Object Name="spell"/>
+        <Object Name="spike~"/>
+        <Object Name="split"/>
+        <Object Name="spray"/>
+        <Object Name="sprintf"/>
+        <Object Name="substitute"/>
+        <Object Name="sustain"/>
+        <Object Name="svf~"/>
+        <Object Name="switch"/>
+        <Object Name="Table"/>
+        <Object Name="tanh"/>
+        <Object Name="tanh~"/>
+        <Object Name="tanx~"/>
+        <Object Name="teeth~"/>
+        <Object Name="testmess"/>
+        <Object Name="thresh"/>
+        <Object Name="TogEdge"/>
+        <Object Name="tosymbol"/>
+        <Object Name="train~"/>
+        <Object Name="trapezoid~"/>
+        <Object Name="triangle~"/>
+        <Object Name="Trough"/>
+        <Object Name="universal"/>
+        <Object Name="urn"/>
+        <Object Name="Uzi"/>
+        <Object Name="vectral~"/>
+        <Object Name="wave~"/>
+        <Object Name="xbendin"/>
+        <Object Name="xbendin2"/>
+        <Object Name="xbendout"/>
+        <Object Name="xbendout2"/>
+        <Object Name="xnotein"/>
+        <Object Name="xnoteout"/>
+        <Object Name="zerox~"/>
+        <Object Name="zl"/>
+      </Objects>
+    </Package>
+    <Package ID="bmlsd2luZF8wLjIuMV8yMDE5LTExLTIzIDIxOjMyOjU2X2Zqa3JhYW4="
+             Author="fjkraan" Timestamp="2019-11-23 21:32:56" Description="nilwind[v0.2.1](Linux-arm-32)(Sources).dek"
+             Version="0.2.1" URL="http://puredata.info/Members/fjkraan/software/nilwind/0.2.1/nilwind[v0.2.1](Linux-arm-32)(Sources).dek">
+      <Objects>
+        <Object Name="abs~"/>
+        <Object Name="accum"/>
+        <Object Name="acos"/>
+        <Object Name="acosh~"/>
+        <Object Name="acos~"/>
+        <Object Name="active"/>
+        <Object Name="allpass~"/>
+        <Object Name="anal"/>
+        <Object Name="Append"/>
+        <Object Name="asin"/>
+        <Object Name="asinh~"/>
+        <Object Name="asin~"/>
+        <Object Name="atan2~"/>
+        <Object Name="atanh~"/>
+        <Object Name="atan~"/>
+        <Object Name="average~"/>
+        <Object Name="avg~"/>
+        <Object Name="bangbang"/>
+        <Object Name="bitand~"/>
+        <Object Name="bitnot~"/>
+        <Object Name="bitor~"/>
+        <Object Name="bitshift~"/>
+        <Object Name="bitxor~"/>
+        <Object Name="bondo"/>
+        <Object Name="Borax"/>
+        <Object Name="Bucket"/>
+        <Object Name="buddy"/>
+        <Object Name="buffir~"/>
+        <Object Name="capture"/>
+        <Object Name="capture~"/>
+        <Object Name="cartopol"/>
+        <Object Name="cartopol~"/>
+        <Object Name="change~"/>
+        <Object Name="click~"/>
+        <Object Name="Clip"/>
+        <Object Name="Clip~"/>
+        <Object Name="coll"/>
+        <Object Name="comb~"/>
+        <Object Name="comment"/>
+        <Object Name="cosh"/>
+        <Object Name="cosh~"/>
+        <Object Name="cosx~"/>
+        <Object Name="counter"/>
+        <Object Name="count~"/>
+        <Object Name="curve~"/>
+        <Object Name="cycle"/>
+        <Object Name="cycle~"/>
+        <Object Name="decide"/>
+        <Object Name="Decode"/>
+        <Object Name="delay~"/>
+        <Object Name="deltaclip~"/>
+        <Object Name="delta~"/>
+        <Object Name="drunk"/>
+        <Object Name="edge~"/>
+        <Object Name="flush"/>
+        <Object Name="forward"/>
+        <Object Name="frameaccum~"/>
+        <Object Name="framedelta~"/>
+        <Object Name="fromsymbol"/>
+        <Object Name="funbuff"/>
+        <Object Name="funnel"/>
+        <Object Name="gate"/>
+        <Object Name="grab"/>
+        <Object Name="Histo"/>
+        <Object Name="index~"/>
+        <Object Name="iter"/>
+        <Object Name="kink~"/>
+        <Object Name="linedrive"/>
+        <Object Name="Line~"/>
+        <Object Name="log~"/>
+        <Object Name="lookup~"/>
+        <Object Name="lores~"/>
+        <Object Name="match"/>
+        <Object Name="matrix~"/>
+        <Object Name="maximum"/>
+        <Object Name="maximum~"/>
+        <Object Name="maxmode"/>
+        <Object Name="mean"/>
+        <Object Name="midiflush"/>
+        <Object Name="midiformat"/>
+        <Object Name="midiparse"/>
+        <Object Name="minimum"/>
+        <Object Name="minimum~"/>
+        <Object Name="minmax~"/>
+        <Object Name="mousefilter"/>
+        <Object Name="MouseState"/>
+        <Object Name="mstosamps~"/>
+        <Object Name="mtr"/>
+        <Object Name="nettles"/>
+        <Object Name="next"/>
+        <Object Name="offer"/>
+        <Object Name="onebang"/>
+        <Object Name="onepole~"/>
+        <Object Name="overdrive~"/>
+        <Object Name="past"/>
+        <Object Name="Peak"/>
+        <Object Name="peakamp~"/>
+        <Object Name="peek~"/>
+        <Object Name="phasewrap~"/>
+        <Object Name="pink~"/>
+        <Object Name="play~"/>
+        <Object Name="poke~"/>
+        <Object Name="poltocar"/>
+        <Object Name="poltocar~"/>
+        <Object Name="pong~"/>
+        <Object Name="pow~"/>
+        <Object Name="prepend"/>
+        <Object Name="prob"/>
+        <Object Name="pv"/>
+        <Object Name="rampsmooth~"/>
+        <Object Name="rand~"/>
+        <Object Name="record~"/>
+        <Object Name="reson~"/>
+        <Object Name="sah~"/>
+        <Object Name="sampstoms~"/>
+        <Object Name="Scope~"/>
+        <Object Name="seq"/>
+        <Object Name="sinh"/>
+        <Object Name="sinh~"/>
+        <Object Name="sinx~"/>
+        <Object Name="slide~"/>
+        <Object Name="Snapshot~"/>
+        <Object Name="speedlim"/>
+        <Object Name="spell"/>
+        <Object Name="spike~"/>
+        <Object Name="split"/>
+        <Object Name="spray"/>
+        <Object Name="sprintf"/>
+        <Object Name="substitute"/>
+        <Object Name="sustain"/>
+        <Object Name="svf~"/>
+        <Object Name="switch"/>
+        <Object Name="Table"/>
+        <Object Name="tanh"/>
+        <Object Name="tanh~"/>
+        <Object Name="tanx~"/>
+        <Object Name="teeth~"/>
+        <Object Name="testmess"/>
+        <Object Name="thresh"/>
+        <Object Name="TogEdge"/>
+        <Object Name="tosymbol"/>
+        <Object Name="train~"/>
+        <Object Name="trapezoid~"/>
+        <Object Name="triangle~"/>
+        <Object Name="Trough"/>
+        <Object Name="universal"/>
+        <Object Name="urn"/>
+        <Object Name="Uzi"/>
+        <Object Name="vectral~"/>
+        <Object Name="wave~"/>
+        <Object Name="xbendin"/>
+        <Object Name="xbendin2"/>
+        <Object Name="xbendout"/>
+        <Object Name="xbendout2"/>
+        <Object Name="xnotein"/>
+        <Object Name="xnoteout"/>
+        <Object Name="zerox~"/>
+        <Object Name="zl"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="mjlib">
+    <Package ID="bWpsaWJfMC4xLjNfMjAyMC0wMS0wNSAyMToyMjoyM19mamtyYWFu" Author="fjkraan"
+             Timestamp="2020-01-05 21:22:23" Description="mjlib[v0.1.3](Linux-arm-32)(Sources).dek"
+             Version="0.1.3" URL="http://puredata.info/Members/fjkraan/software/mjlib/0.1.3/mjlib[v0.1.3](Linux-arm-32)(Sources).dek">
+      <Objects>
+        <Object Name="about"/>
+        <Object Name="metroplus"/>
+        <Object Name="monorhythm"/>
+        <Object Name="morse"/>
+        <Object Name="n2m"/>
+        <Object Name="pin~"/>
+        <Object Name="prob"/>
+        <Object Name="synapseA~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="ossia">
+    <Package ID="b3NzaWFfMS4yLjVfMjAyMS0wMy0wOSAxOTozMjoyOF9vc3NpYQ==" Author="ossia"
+             Timestamp="2021-03-09 19:32:28" Description="ossia-v1.2.5-(Linux-arm-32)-externals.tar.gz"
+             Version="1.2.5" URL="http://puredata.info/Members/ossia/software/ossia/1.2.5/ossia-v1.2.5-(Linux-arm-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+    <Package ID="b3NzaWFfMS4yLjRfMjAyMS0wMi0yMSAxODowMDoxN19vc3NpYQ==" Author="ossia"
+             Timestamp="2021-02-21 18:00:17" Description="ossia-v1.2.4-(Linux-arm-32)-externals.tar.gz"
+             Version="1.2.4" URL="http://puredata.info/Members/ossia/software/ossia/1.2.4/ossia-v1.2.4-(Linux-arm-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+    <Package ID="b3NzaWFfXzIwMjEtMDItMTAgMTA6NDk6NTVfb3NzaWE=" Author="ossia"
+             Timestamp="2021-02-10 10:49:55" Description="ossia-v-(Linux-arm-32)-externals.tar.gz"
+             Version="" URL="http://puredata.info/Members/ossia/software/ossia/ossia-v-(Linux-arm-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+    <Package ID="b3NzaWFfMS4yLjNfMjAyMS0wMi0wMyAwMzowNjo0Ml9vc3NpYQ==" Author="ossia"
+             Timestamp="2021-02-03 03:06:42" Description="ossia-v1.2.3-(Linux-arm-32)-externals.tar.gz"
+             Version="1.2.3" URL="http://puredata.info/Members/ossia/software/ossia/1.2.3/ossia-v1.2.3-(Linux-arm-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+    <Package ID="b3NzaWFfMS4yLjJfMjAyMS0wMS0xNiAxNDoxODoxMV9vc3NpYQ==" Author="ossia"
+             Timestamp="2021-01-16 14:18:11" Description="ossia-v1.2.2-(Linux-arm-32)-externals.tar.gz"
+             Version="1.2.2" URL="http://puredata.info/Members/ossia/software/ossia/1.2.2/ossia-v1.2.2-(Linux-arm-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+    <Package ID="b3NzaWFfMS4yLjFfMjAyMS0wMS0xMyAwMTozOToyOF9vc3NpYQ==" Author="ossia"
+             Timestamp="2021-01-13 01:39:28" Description="ossia-v1.2.1-(Linux-arm-32)-externals.tar.gz"
+             Version="1.2.1" URL="http://puredata.info/Members/ossia/software/ossia/1.2.1/ossia-v1.2.1-(Linux-arm-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+    <Package ID="b3NzaWFfMS4yLjBfMjAyMC0xMi0yNyAyMzoyNzozMF9vc3NpYQ==" Author="ossia"
+             Timestamp="2020-12-27 23:27:30" Description="ossia-v1.2.0-(Linux-arm-32)-externals.tar.gz"
+             Version="1.2.0" URL="http://puredata.info/Members/ossia/software/ossia/1.2.0/ossia-v1.2.0-(Linux-arm-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+    <Package ID="b3NzaWFfMS4yLjAtcmMxXzIwMjAtMTItMjAgMjM6NDI6MTVfb3NzaWE="
+             Author="ossia" Timestamp="2020-12-20 23:42:15" Description="ossia-v1.2.0-rc1-(Linux-arm-32)-externals.tar.gz"
+             Version="1.2.0-rc1" URL="http://puredata.info/Members/ossia/software/ossia/1.2.0-rc1/ossia-v1.2.0-rc1-(Linux-arm-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+    <Package ID="b3NzaWFfMS4xLjAtYTRfMjAyMC0xMS0yNSAxMToxNToxOV9vc3NpYQ=="
+             Author="ossia" Timestamp="2020-11-25 11:15:19" Description="ossia-v1.1.0-a4-(Linux-arm-32)-externals.tar.gz"
+             Version="1.1.0-a4" URL="http://puredata.info/Members/ossia/software/ossia/1.1.0-a4/ossia-v1.1.0-a4-(Linux-arm-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+    <Package ID="b3NzaWFfMS4xLjAtYTJfMjAyMC0xMS0yMSAwNToyNToxNF9vc3NpYQ=="
+             Author="ossia" Timestamp="2020-11-21 05:25:14" Description="ossia-v1.1.0-a2-(Linux-arm-32)-externals.tar.gz"
+             Version="1.1.0-a2" URL="http://puredata.info/Members/ossia/software/ossia/1.1.0-a2/ossia-v1.1.0-a2-(Linux-arm-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+    <Package ID="b3NzaWFfMS4xLjAtYTFfMjAyMC0xMS0xOCAxOTo0MjowOF9vc3NpYQ=="
+             Author="ossia" Timestamp="2020-11-18 19:42:08" Description="ossia-v1.1.0-a1-(Linux-arm-32)-externals.tar.gz"
+             Version="1.1.0-a1" URL="http://puredata.info/Members/ossia/software/ossia/1.1.0-a1/ossia-v1.1.0-a1-(Linux-arm-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+    <Package ID="b3NzaWFfMS4wLjEwXzIwMjAtMTAtMDYgMDI6MzY6MTBfb3NzaWE=" Author="ossia"
+             Timestamp="2020-10-06 02:36:10" Description="ossia-v1.0.10-(Linux-arm-32)-externals.tar.gz"
+             Version="1.0.10" URL="http://puredata.info/Members/ossia/software/ossia/1.0.10/ossia-v1.0.10-(Linux-arm-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+    <Package ID="b3NzaWFfMS4wLjlfMjAyMC0xMC0wNSAwMDozNjoyNF9vc3NpYQ==" Author="ossia"
+             Timestamp="2020-10-05 00:36:24" Description="ossia-v1.0.9-(Linux-arm-32)-externals.tar.gz"
+             Version="1.0.9" URL="http://puredata.info/Members/ossia/software/ossia/1.0.9/ossia-v1.0.9-(Linux-arm-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+    <Package ID="b3NzaWFfMS4wLjhfMjAyMC0wOS0yMiAxMjoxMzozOV9vc3NpYQ==" Author="ossia"
+             Timestamp="2020-09-22 12:13:39" Description="ossia-v1.0.8-(Linux-arm-32)-externals.tar.gz"
+             Version="1.0.8" URL="http://puredata.info/Members/ossia/software/ossia/1.0.8/ossia-v1.0.8-(Linux-arm-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+    <Package ID="b3NzaWFfMS4wLjctMl8yMDIwLTA5LTIwIDE0OjA3OjMwX29zc2lh" Author="ossia"
+             Timestamp="2020-09-20 14:07:30" Description="ossia-v1.0.7-2-(Linux-arm-32)-externals.tar.gz"
+             Version="1.0.7-2" URL="http://puredata.info/Members/ossia/software/ossia/1.0.7-2/ossia-v1.0.7-2-(Linux-arm-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+    <Package ID="b3NzaWFfMS4wLjdfMjAyMC0wOS0yMCAwMDoyODo1N19vc3NpYQ==" Author="ossia"
+             Timestamp="2020-09-20 00:28:57" Description="ossia-v1.0.7-(Linux-arm-32)-externals.tar.gz"
+             Version="1.0.7" URL="http://puredata.info/Members/ossia/software/ossia/1.0.7/ossia-v1.0.7-(Linux-arm-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+</Linux-arm-32>

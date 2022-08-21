@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Windows-i386-64>
+  <Packages Name="jpcex">
+    <Package ID="anBjZXhfMC4xXzIwMTgtMDMtMDggMTg6MTg6NDFfanBjaW1h" Author="jpcima"
+             Timestamp="2018-03-08 18:18:41" Description="jpcex[v0.1](Windows-i386-64)(Sources).dek"
+             Version="0.1" URL="http://puredata.info/Members/jpcima/software/jpcex/0.1/jpcex[v0.1](Windows-i386-64)(Sources).dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="XXX-deken-test">
+    <Package ID="WFhYLWRla2VuLXRlc3RfMC45LjItOC1nN2EzZDkzY19vc3hfMjAyMi0wNi0xMyAxNDoyMTozM196bW9lbG5pZ2JvdA=="
+             Author="zmoelnigbot" Timestamp="2022-06-13 14:21:33" Description="XXX-deken-test[v0.9.2-8-g7a3d93c_osx](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
+             Version="0.9.2-8-g7a3d93c_osx" URL="http://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/9175/0.9.2-8-g7a3d93c_osx/XXX-deken-test[v0.9.2-8-g7a3d93c_osx](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
+      <Objects/>
+    </Package>
+    <Package ID="WFhYLWRla2VuLXRlc3RfMC45LjItOC1nN2EzZDkzY19kb2NrZXJfMjAyMi0wNi0xMyAxNDowODoyMV96bW9lbG5pZ2JvdA=="
+             Author="zmoelnigbot" Timestamp="2022-06-13 14:08:21" Description="XXX-deken-test[v0.9.2-8-g7a3d93c_docker](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
+             Version="0.9.2-8-g7a3d93c_docker" URL="http://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/9175/0.9.2-8-g7a3d93c_docker/XXX-deken-test[v0.9.2-8-g7a3d93c_docker](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
+      <Objects/>
+    </Package>
+    <Package ID="WFhYLWRla2VuLXRlc3RfMC45LjItNy1nZDQyMjk2ZV9kb2NrZXJfMjAyMi0wNi0xMyAxMzo1NDo1NV96bW9lbG5pZ2JvdA=="
+             Author="zmoelnigbot" Timestamp="2022-06-13 13:54:55" Description="XXX-deken-test[v0.9.2-7-gd42296e_docker](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
+             Version="0.9.2-7-gd42296e_docker" URL="http://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/9174/0.9.2-7-gd42296e_docker/XXX-deken-test[v0.9.2-7-gd42296e_docker](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="hotfix732-deadkeys-plugin">
+    <Package ID="aG90Zml4NzMyLWRlYWRrZXlzLXBsdWdpbl8wLjUwLjAuMV8yMDE5LTA5LTAyIDE3OjAzOjU1X3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2019-09-02 17:03:55" Description="hotfix732-deadkeys-plugin/0.50.0.1 (Hotfix#732 for non-functional DeadKeys (including '~') on Pd-0.50.0/Windows with spanish/portuguese/french/... keyboards)"
+             Version="0.50.0.1" URL="http://puredata.info/Members/zmoelnig/software/hotfix732-deadkeys-plugin/0.50.0.1/hotfix732-deadkeys-plugin[v0.50.0.1](Windows-amd64-32)(Windows-i386-32)(Windows-amd64-64)(Windows-i386-64).dek">
+      <Objects/>
+    </Package>
+  </Packages>
+</Windows-i386-64>

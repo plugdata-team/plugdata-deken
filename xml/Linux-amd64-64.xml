@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Linux-amd64-64>
+  <Packages Name="vasp">
+    <Package ID="dmFzcF8wLjEuNF8yMDIwLTAzLTE4IDAyOjM2OjAxX3Rob21hcw==" Author="thomas"
+             Timestamp="2020-03-18 02:36:01" Description="vasp[v0.1.4](Linux-amd64-64).dek"
+             Version="0.1.4" URL="http://puredata.info/Members/thomas/software/vasp/0.1.4/vasp[v0.1.4](Linux-amd64-64).dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="pool">
+    <Package ID="cG9vbF8wLjIuMl8yMDIyLTA3LTEwIDE1OjU5OjAwX3Rob21hcw==" Author="thomas"
+             Timestamp="2022-07-10 15:59:00" Description="pool[v0.2.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek"
+             Version="0.2.2" URL="http://puredata.info/Members/thomas/software/pool/0.2.2/pool[v0.2.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek">
+      <Objects>
+        <Object Name="pool"/>
+      </Objects>
+    </Package>
+    <Package ID="cG9vbF8wLjIuMl8yMDIwLTAzLTA0IDIzOjM0OjM2X3Rob21hcw==" Author="thomas"
+             Timestamp="2020-03-04 23:34:36" Description="pool[v0.2.2](Linux-amd64-64).dek"
+             Version="0.2.2" URL="http://puredata.info/Members/thomas/software/pool/0.2.2/pool[v0.2.2](Linux-amd64-64).dek">
+      <Objects>
+        <Object Name="pool"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="jpcex">
+    <Package ID="anBjZXhfMC4xXzIwMTgtMDMtMDggMTg6MTY6MDhfanBjaW1h" Author="jpcima"
+             Timestamp="2018-03-08 18:16:08" Description="jpcex[v0.1](Linux-amd64-64)(Sources).dek"
+             Version="0.1" URL="http://puredata.info/Members/jpcima/software/jpcex/0.1/jpcex[v0.1](Linux-amd64-64)(Sources).dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="xsample">
+    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIyLTA3LTEwIDAxOjE0OjQ2X3Rob21hcw=="
+             Author="thomas" Timestamp="2022-07-10 01:14:46" Description="xsample[v0.3.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek"
+             Version="0.3.2" URL="http://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek">
+      <Objects>
+        <Object Name="xgroove~"/>
+        <Object Name="xplay~"/>
+        <Object Name="xrecord~"/>
+      </Objects>
+    </Package>
+    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIwLTAzLTA0IDIzOjI5OjEyX3Rob21hcw=="
+             Author="thomas" Timestamp="2020-03-04 23:29:12" Description="xsample[v0.3.2](Linux-amd64-64).dek"
+             Version="0.3.2" URL="http://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Linux-amd64-64).dek">
+      <Objects>
+        <Object Name="xgroove~"/>
+        <Object Name="xplay~"/>
+        <Object Name="xrecord~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="py">
+    <Package ID="cHlfMC4yLjJfMjAyMC0wMy0wNCAyMzozMTowN190aG9tYXM=" Author="thomas"
+             Timestamp="2020-03-04 23:31:07" Description="py[v0.2.2](Linux-amd64-64).dek"
+             Version="0.2.2" URL="http://puredata.info/Members/thomas/software/py/0.2.2/py[v0.2.2](Linux-amd64-64).dek">
+      <Objects/>
+    </Package>
+  </Packages>
+</Linux-amd64-64>

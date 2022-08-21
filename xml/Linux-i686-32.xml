@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Linux-i686-32>
+  <Packages Name="freeverb~">
+    <Package ID="ZnJlZXZlcmJ+XzEuMi4zXzIwMTYtMDctMjkgMTY6NDE6MzVfZmprcmFhbg=="
+             Author="fjkraan" Timestamp="2016-07-29 16:41:35" Description="freeverb~-v1.2.3-(Linux-i686-32)(Sources)-externals.tgz"
+             Version="1.2.3" URL="http://puredata.info/Members/fjkraan/software/freeverb~/1.2.3/freeverb~-v1.2.3-(Linux-i686-32)(Sources)-externals.tgz">
+      <Objects>
+        <Object Name="freeverb~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="maxlib">
+    <Package ID="bWF4bGliXzEuNS42XzIwMTYtMDQtMDQgMjE6MTM6MTBfZmprcmFhbg=="
+             Author="fjkraan" Timestamp="2016-04-04 21:13:10" Description="maxlib-v1.5.6-(Linux-i686-32)(Sources)-externals.tgz"
+             Version="1.5.6" URL="http://puredata.info/Members/fjkraan/software/maxlib/1.5.6/maxlib-v1.5.6-(Linux-i686-32)(Sources)-externals.tgz">
+      <Objects>
+        <Object Name="allow"/>
+        <Object Name="arbran"/>
+        <Object Name="arraycopy"/>
+        <Object Name="average"/>
+        <Object Name="beat"/>
+        <Object Name="beta"/>
+        <Object Name="bilex"/>
+        <Object Name="borax"/>
+        <Object Name="cauchy"/>
+        <Object Name="chord"/>
+        <Object Name="delta"/>
+        <Object Name="deny"/>
+        <Object Name="dist"/>
+        <Object Name="divide"/>
+        <Object Name="divmod"/>
+        <Object Name="edge"/>
+        <Object Name="expo"/>
+        <Object Name="fifo"/>
+        <Object Name="gauss"/>
+        <Object Name="gestalt"/>
+        <Object Name="history"/>
+        <Object Name="ignore"/>
+        <Object Name="iso"/>
+        <Object Name="lifo"/>
+        <Object Name="limit"/>
+        <Object Name="linear"/>
+        <Object Name="listfifo"/>
+        <Object Name="listfunnel"/>
+        <Object Name="match"/>
+        <Object Name="minus"/>
+        <Object Name="mlife"/>
+        <Object Name="multi"/>
+        <Object Name="nchange"/>
+        <Object Name="nroute"/>
+        <Object Name="pitch"/>
+        <Object Name="plus"/>
+        <Object Name="poisson"/>
+        <Object Name="pong"/>
+        <Object Name="pulse"/>
+        <Object Name="pwrap"/>
+        <Object Name="remote"/>
+        <Object Name="rewrap"/>
+        <Object Name="rhythm"/>
+        <Object Name="scale"/>
+        <Object Name="score"/>
+        <Object Name="speedlim"/>
+        <Object Name="split"/>
+        <Object Name="step"/>
+        <Object Name="subst"/>
+        <Object Name="sync"/>
+        <Object Name="temperature"/>
+        <Object Name="tilt"/>
+        <Object Name="timebang"/>
+        <Object Name="triang"/>
+        <Object Name="unroute"/>
+        <Object Name="urn"/>
+        <Object Name="velocity"/>
+        <Object Name="weibull"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="tof">
+    <Package ID="dG9mXzAuMi4xXzIwMTYtMTEtMDIgMjA6MDg6MzBfZmprcmFhbg==" Author="fjkraan"
+             Timestamp="2016-11-02 20:08:30" Description="tof-v0.2.1-(Linux-i686-32)(Sources)-externals.tgz"
+             Version="0.2.1" URL="http://puredata.info/Members/fjkraan/software/tof/0.2.1/tof-v0.2.1-(Linux-i686-32)(Sources)-externals.tgz">
+      <Objects>
+        <Object Name="animate"/>
+        <Object Name="argument"/>
+        <Object Name="arguments"/>
+        <Object Name="breakpoints"/>
+        <Object Name="breakpoints~"/>
+        <Object Name="common~"/>
+        <Object Name="crossfade~"/>
+        <Object Name="folderpanel"/>
+        <Object Name="from_ascii_code"/>
+        <Object Name="gemwin+"/>
+        <Object Name="getdollarzero"/>
+        <Object Name="imagebang"/>
+        <Object Name="increment"/>
+        <Object Name="iterate"/>
+        <Object Name="list_accum"/>
+        <Object Name="list_unfold"/>
+        <Object Name="listUnfold"/>
+        <Object Name="menubutton"/>
+        <Object Name="onlyone"/>
+        <Object Name="open_help"/>
+        <Object Name="openHelp"/>
+        <Object Name="OSCToParam"/>
+        <Object Name="param"/>
+        <Object Name="path"/>
+        <Object Name="phasorshot~"/>
+        <Object Name="pix_film+"/>
+        <Object Name="pmenu"/>
+        <Object Name="sample"/>
+        <Object Name="sample_granule~"/>
+        <Object Name="sample_packel"/>
+        <Object Name="sample_play~"/>
+        <Object Name="sample_record~"/>
+        <Object Name="sample_shifft~"/>
+        <Object Name="sample_unpack"/>
+        <Object Name="streamMinMax"/>
+        <Object Name="to_ascii_code"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="sigpack">
+    <Package ID="c2lncGFja18wLjA0NF8yMDE2LTA1LTA2IDE1OjQ4OjUxX2Zqa3JhYW4="
+             Author="fjkraan" Timestamp="2016-05-06 15:48:51" Description="sigpack-v0.044-(Linux-i686-32)(Sources)-externals.tgz"
+             Version="0.044" URL="http://puredata.info/Members/fjkraan/software/sigpack/0.044/sigpack-v0.044-(Linux-i686-32)(Sources)-externals.tgz">
+      <Objects>
+        <Object Name="chop~"/>
+        <Object Name="decimate~"/>
+        <Object Name="diode~"/>
+        <Object Name="foldback~"/>
+        <Object Name="foldover~"/>
+        <Object Name="freqdiv~"/>
+        <Object Name="freqshift~"/>
+        <Object Name="hardlimit~"/>
+        <Object Name="harmgen~"/>
+        <Object Name="impulse~"/>
+        <Object Name="rectify~"/>
+        <Object Name="round~"/>
+        <Object Name="saturate~"/>
+        <Object Name="shape~"/>
+        <Object Name="sieve~"/>
+        <Object Name="split~"/>
+        <Object Name="transient~"/>
+        <Object Name="ustep~"/>
+        <Object Name="valverect~"/>
+        <Object Name="vowel~"/>
+        <Object Name="wavewrap~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="smlib">
+    <Package ID="c21saWJfMC4xMi4zXzIwMTYtMDktMTYgMTE6MDA6MTFfZmprcmFhbg=="
+             Author="fjkraan" Timestamp="2016-09-16 11:00:11" Description="smlib-v0.12.3-(Linux-i686-32)(Sources)-externals.tgz"
+             Version="0.12.3" URL="http://puredata.info/Members/fjkraan/software/smlib/0.12.3/smlib-v0.12.3-(Linux-i686-32)(Sources)-externals.tgz">
+      <Objects>
+        <Object Name="bp"/>
+        <Object Name="decimator"/>
+        <Object Name="deltas"/>
+        <Object Name="hip"/>
+        <Object Name="hist"/>
+        <Object Name="itov"/>
+        <Object Name="lavg"/>
+        <Object Name="lhist"/>
+        <Object Name="lhisti"/>
+        <Object Name="linspace"/>
+        <Object Name="lmax"/>
+        <Object Name="lmin"/>
+        <Object Name="lrange"/>
+        <Object Name="lstd"/>
+        <Object Name="prevl"/>
+        <Object Name="threshold"/>
+        <Object Name="vclip"/>
+        <Object Name="vcog"/>
+        <Object Name="vdbtorms"/>
+        <Object Name="vdelta"/>
+        <Object Name="vfmod"/>
+        <Object Name="vftom"/>
+        <Object Name="vlavg"/>
+        <Object Name="vlmax"/>
+        <Object Name="vlmin"/>
+        <Object Name="vlrange"/>
+        <Object Name="vmax"/>
+        <Object Name="vmin"/>
+        <Object Name="vmtof"/>
+        <Object Name="vpow"/>
+        <Object Name="vrms"/>
+        <Object Name="vrmstodb"/>
+        <Object Name="vstd"/>
+        <Object Name="vsum"/>
+        <Object Name="vthreshold"/>
+        <Object Name="vv+"/>
+        <Object Name="vv-"/>
+        <Object Name="vvconv"/>
+      </Objects>
+    </Package>
+  </Packages>
+</Linux-i686-32>

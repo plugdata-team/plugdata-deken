@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Linux-aarch64-32>
+  <Packages Name="tof">
+    <Package ID="dG9mXzAuMi4xXzIwMTYtMTEtMDUgMTU6MzU6MDFfZmprcmFhbg==" Author="fjkraan"
+             Timestamp="2016-11-05 15:35:01" Description="tof-v0.2.1-(Linux-aarch64-64)(Sources)-externals.tgz"
+             Version="0.2.1" URL="http://puredata.info/Members/fjkraan/software/tof/0.2.1/tof-v0.2.1-(Linux-aarch64-64)(Sources)-externals.tgz">
+      <Objects>
+        <Object Name="animate"/>
+        <Object Name="argument"/>
+        <Object Name="arguments"/>
+        <Object Name="breakpoints"/>
+        <Object Name="breakpoints~"/>
+        <Object Name="common~"/>
+        <Object Name="crossfade~"/>
+        <Object Name="folderpanel"/>
+        <Object Name="from_ascii_code"/>
+        <Object Name="gemwin+"/>
+        <Object Name="getdollarzero"/>
+        <Object Name="imagebang"/>
+        <Object Name="increment"/>
+        <Object Name="iterate"/>
+        <Object Name="list_accum"/>
+        <Object Name="list_unfold"/>
+        <Object Name="listUnfold"/>
+        <Object Name="menubutton"/>
+        <Object Name="onlyone"/>
+        <Object Name="open_help"/>
+        <Object Name="openHelp"/>
+        <Object Name="OSCToParam"/>
+        <Object Name="param"/>
+        <Object Name="path"/>
+        <Object Name="phasorshot~"/>
+        <Object Name="pix_film+"/>
+        <Object Name="pmenu"/>
+        <Object Name="sample"/>
+        <Object Name="sample_granule~"/>
+        <Object Name="sample_packel"/>
+        <Object Name="sample_play~"/>
+        <Object Name="sample_record~"/>
+        <Object Name="sample_shifft~"/>
+        <Object Name="sample_unpack"/>
+        <Object Name="streamMinMax"/>
+        <Object Name="to_ascii_code"/>
+      </Objects>
+    </Package>
+  </Packages>
+</Linux-aarch64-32>
