@@ -109,11 +109,11 @@ int main (int argc, char* argv[])
                     
                     for(const auto& [aliases, targetArchs] : architectureMap)
                     {
-                        if(!aliases.contains(targetArchs)) continue;
+                        if(!aliases.contains(arch)) continue;
                         for(const auto& target : targetArchs)
                         {
                             // Add option
-                            packages[targetArch][name].add({ name, author, timestamp, url, description, version, objects });
+                            packages[target][name].add({ name, author, timestamp, url, description, version, objects });
                         }
 
                     }
