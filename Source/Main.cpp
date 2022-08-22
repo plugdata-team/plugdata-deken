@@ -1,6 +1,16 @@
 #include <JuceHeader.h>
 #include "JSON.h"
 
+std::vector<std::pair<StringArray, StringArray>> architectureMap =
+{
+    {{"amd64", "x86_64"}        , {"amd64"}},
+    {{"i386","i686", "i586"}    , {"i386"}},
+    {{"ppc", "PowerPC"}         , {"ppc"}},
+    {{"arm64"}                  , {"arm64"}},
+    {{"arm", "armv6", "armv6l"} , {"armv6", "armv7"}},
+    {{"armv7l", "armv7"}        , {"armv7"}},
+};
+
 // Struct with info about the deken package
 struct PackageInfo {
     PackageInfo(String name, String author, String timestamp, String url, String description, String version, StringArray objects)
@@ -97,6 +107,16 @@ int main (int argc, char* argv[])
                     
                     StringArray objects = getObjectInfo(url);
                     
+                    for(const auto& [aliases, targetArchs] : architectureMap)
+                    {
+                        if(!aliases.contains(targetArchs)) continue;
+                        for(const auto& target : targetArchs)
+                        {
+                            // Add option
+                            packages[targetArch][name].add({ name, author, timestamp, url, description, version, objects });
+                        }
+
+                    }
                     // Add valid option
                     packages[arch][name].add({ name, author, timestamp, url, description, version, objects });
                 }
@@ -167,7 +187,7 @@ int main (int argc, char* argv[])
         platformTree.writeToStream(stream);
         stream.flush();
         
-    }    
+    }
      
     // ..your code goes here!
     
