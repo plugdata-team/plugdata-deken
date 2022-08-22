@@ -11,6 +11,35 @@ std::vector<std::pair<StringArray, StringArray>> architectureMap =
     {{"armv7l", "armv7"}        , {"armv7"}},
 };
 
+static StringArray getCompatibleArchitectures(String platform)
+{
+    if(platform == "null" || platform.isEmpty()) return {};
+    
+    auto os = platform.upToFirstOccurrenceOf("-", false, false);
+    platform = platform.fromFirstOccurrenceOf("-", false, false);
+    
+    auto arch = platform.upToFirstOccurrenceOf("-", false, false);
+    platform = platform.fromFirstOccurrenceOf("-", false, false);
+    
+    auto floatsize = platform.upToFirstOccurrenceOf("-", false, false);
+    platform = platform.fromFirstOccurrenceOf("-", false, false);
+    
+    // Some report "none", we can't use that
+    if(floatsize != "32" && floatsize != "64") return {};
+    
+    StringArray compatibleArchitectures;
+    for(const auto& [aliases, targetArchs] : architectureMap)
+    {
+        if(!aliases.contains(arch)) continue;
+        for(const auto& target : targetArchs)
+        {
+            compatibleArchitectures.add(os + "-" + target + "-" + floatsize);
+        }
+    }
+    
+    return compatibleArchitectures;
+}
+
 // Struct with info about the deken package
 struct PackageInfo {
     PackageInfo(String name, String author, String timestamp, String url, String description, String version, StringArray objects)
@@ -107,18 +136,10 @@ int main (int argc, char* argv[])
                     
                     StringArray objects = getObjectInfo(url);
                     
-                    for(const auto& [aliases, targetArchs] : architectureMap)
+                    for(const auto& target : getCompatibleArchitectures(arch))
                     {
-                        if(!aliases.contains(arch)) continue;
-                        for(const auto& target : targetArchs)
-                        {
-                            // Add option
-                            packages[target][name].add({ name, author, timestamp, url, description, version, objects });
-                        }
-
+                        packages[target][name].add({ name, author, timestamp, url, description, version, objects });
                     }
-                    // Add valid option
-                    packages[arch][name].add({ name, author, timestamp, url, description, version, objects });
                 }
             }
         }
