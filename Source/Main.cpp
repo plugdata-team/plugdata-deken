@@ -8,7 +8,7 @@ std::vector<std::pair<StringArray, StringArray>> architectureMap =
     {{"ppc", "PowerPC"}         , {"ppc"}},
     {{"arm64"}                  , {"arm64"}},
     {{"arm", "armv6", "armv6l"} , {"armv6", "armv7"}},
-    {{"armv7l", "armv7"}        , {"armv7"}},
+    {{"armv7", "armv7l"}        , {"armv7"}},
 };
 
 static StringArray getCompatibleArchitectures(String platform)
@@ -31,6 +31,7 @@ static StringArray getCompatibleArchitectures(String platform)
     for(const auto& [aliases, targetArchs] : architectureMap)
     {
         if(!aliases.contains(arch)) continue;
+        
         for(const auto& target : targetArchs)
         {
             compatibleArchitectures.add(os + "-" + target + "-" + floatsize);
@@ -74,12 +75,20 @@ StringArray getObjectInfo(String const& objectUrl)
     webstream = std::make_unique<WebInputStream>(URL("https://deken.puredata.info/info.json?url=" + objectUrl), false);
     webstream->connect(nullptr);
     
-    // Read json result
-    auto json = webstream->readString();
-    
-    
-    // Parse outer JSON layer
-    auto parsedJson = json::parse(json.toStdString());
+    json parsedJson;
+    try
+    {
+        // Read json result
+        auto json = webstream->readString();
+        
+        
+        // Parse outer JSON layer
+        parsedJson = json::parse(json.toStdString());
+    }
+    catch (...)
+    {
+        std::cout << "Error when downloading and parsing json" << std::endl;
+    }
     
     // Read json
     auto objects = (*((*(parsedJson["result"]["libraries"].begin())).begin())).at(0)["objects"];
@@ -136,8 +145,11 @@ int main (int argc, char* argv[])
                     
                     StringArray objects = getObjectInfo(url);
                     
+                    // TODO: this will work, but on armv7, it will arbitrarily pick between v6 and v7
+                    // This works fine but is not optimal
                     for(const auto& target : getCompatibleArchitectures(arch))
                     {
+                        
                         packages[target][name].add({ name, author, timestamp, url, description, version, objects });
                     }
                 }
