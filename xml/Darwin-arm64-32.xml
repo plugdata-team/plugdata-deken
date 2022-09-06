@@ -2782,6 +2782,68 @@
     </Package>
   </Packages>
   <Packages Name="lyonpotpourri">
+    <Package ID="bHlvbnBvdHBvdXJyaV8zLjAxXzIwMjItMDktMDYgMDA6NDY6MDNfZXJpY2x5b24="
+             Author="ericlyon" Timestamp="2022-09-06 00:46:03" Description="lyonpotpourri[v3.01](Darwin-arm64-32).dek"
+             Version="3.01" URL="http://puredata.info/Members/ericlyon/software/lyonpotpourri/3.01/lyonpotpourri[v3.01](Darwin-arm64-32).dek">
+      <Objects>
+        <Object Name="adsr~"/>
+        <Object Name="arrayfilt~"/>
+        <Object Name="bashfest~"/>
+        <Object Name="buffet~"/>
+        <Object Name="bvplay~"/>
+        <Object Name="cartopol~"/>
+        <Object Name="chameleon~"/>
+        <Object Name="channel~"/>
+        <Object Name="chopper~"/>
+        <Object Name="clean_selector~"/>
+        <Object Name="click2bang~"/>
+        <Object Name="click2float~"/>
+        <Object Name="clickhold~"/>
+        <Object Name="click~"/>
+        <Object Name="convolver~"/>
+        <Object Name="counter~"/>
+        <Object Name="distortion~"/>
+        <Object Name="dmach~"/>
+        <Object Name="dynss~"/>
+        <Object Name="epluribus~"/>
+        <Object Name="expflam~"/>
+        <Object Name="flanjah~"/>
+        <Object Name="function~"/>
+        <Object Name="granola~"/>
+        <Object Name="granulesf~"/>
+        <Object Name="granule~"/>
+        <Object Name="kbuffer~"/>
+        <Object Name="killdc~"/>
+        <Object Name="latch~"/>
+        <Object Name="magfreq_analysis~"/>
+        <Object Name="markov~"/>
+        <Object Name="mask~"/>
+        <Object Name="npan~"/>
+        <Object Name="oscil~"/>
+        <Object Name="phasemod~"/>
+        <Object Name="player~"/>
+        <Object Name="poltocar~"/>
+        <Object Name="pulser~"/>
+        <Object Name="quadpan~"/>
+        <Object Name="rotapan~"/>
+        <Object Name="rtrig~"/>
+        <Object Name="samm~"/>
+        <Object Name="sarec~"/>
+        <Object Name="sel~"/>
+        <Object Name="shoehorn~"/>
+        <Object Name="sigseq~"/>
+        <Object Name="smap"/>
+        <Object Name="splitbank~"/>
+        <Object Name="splitspec~"/>
+        <Object Name="squash~"/>
+        <Object Name="stutter~"/>
+        <Object Name="vdb~"/>
+        <Object Name="vdp~"/>
+        <Object Name="vecdex~"/>
+        <Object Name="waveshape~"/>
+        <Object Name="windowvec~"/>
+      </Objects>
+    </Package>
     <Package ID="bHlvbnBvdHBvdXJyaV8zLjAxXzIwMjItMDgtMTYgMjI6Mzg6MjBfZXJpY2x5b24="
              Author="ericlyon" Timestamp="2022-08-16 22:38:20" Description="lyonpotpourri[v3.01](Darwin-arm64-32)(Sources).dek"
              Version="3.01" URL="http://puredata.info/Members/ericlyon/software/lyonpotpourri/3.01/lyonpotpourri[v3.01](Darwin-arm64-32)(Sources).dek">
