@@ -8,12 +8,32 @@ std::vector<std::pair<StringArray, StringArray>> architectureMap =
     {{"ppc", "PowerPC"}         , {"ppc"}},
     {{"arm64"}                  , {"arm64"}},
     {{"arm", "armv6", "armv6l"} , {"armv6", "armv7"}},
-    {{"armv7", "armv7l"}        , {"armv7"}},
+    {{"armv7", "armv7l"}        , {"armv7"}}
 };
 
 static StringArray getCompatibleArchitectures(String platform)
 {
-    if(platform == "null" || platform.isEmpty()) return {};
+    if(platform.isEmpty()) return {};
+    
+    StringArray compatibleArchitectures;
+    
+    if(platform == "any_arch") {
+        for(const auto& [aliases, targets] : architectureMap)
+        {
+            for(const auto floatsize : {"32", "64"})
+            {
+                for(const auto os : {"Windows", "Mac", "Linux"})
+                {
+                    for(const auto& target : targets)
+                    {
+                        compatibleArchitectures.add(String(os) + "-" + target + "-" + floatsize);
+                    }
+                }
+            }
+        }
+        
+        return compatibleArchitectures;
+    }
     
     auto os = platform.upToFirstOccurrenceOf("-", false, false);
     platform = platform.fromFirstOccurrenceOf("-", false, false);
@@ -27,7 +47,7 @@ static StringArray getCompatibleArchitectures(String platform)
     // Some report "none", we can't use that
     if(floatsize != "32" && floatsize != "64") return {};
     
-    StringArray compatibleArchitectures;
+  
     for(const auto& [aliases, targetArchs] : architectureMap)
     {
         if(!aliases.contains(arch)) continue;
@@ -132,7 +152,7 @@ int main (int argc, char* argv[])
                 
                 for (auto architecture : platform["archs"]) {
                     // Extract platform
-                    String arch = architecture.is_null() ? "null" : architecture;
+                    String arch = architecture.is_null() ? "any_arch" : architecture;
                     
                     // Extract info
                     if(name.isEmpty()) name = platform["name"];
@@ -146,7 +166,7 @@ int main (int argc, char* argv[])
                     StringArray objects = getObjectInfo(url);
                     
                     // TODO: this will work, but on armv7, it will arbitrarily pick between v6 and v7
-                    // This works fine but is not optimal
+                    // This works fine but is not optimale
                     for(const auto& target : getCompatibleArchitectures(arch))
                     {
                         
