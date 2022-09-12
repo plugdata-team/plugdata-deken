@@ -1,0 +1,1298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Windows-arm64-64>
+  <Packages Name="unicode">
+    <Package ID="dW5pY29kZV8wLjEuMF8yMDIxLTAzLTIyIDE2OjQxOjA4X3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2021-03-22 16:41:08" Description="unicode[v0.1.0].dek"
+             Version="0.1.0" URL="http://puredata.info/Members/zmoelnigbot/software/unicode/0.1.0/unicode[v0.1.0].dek">
+      <Objects>
+        <Object Name="codenumber2utf8"/>
+        <Object Name="utf82codenumber"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="tune~">
+    <Package ID="dHVuZX5fMC4yXzIwMjEtMDUtMTcgMTk6MjA6NTRfd21icmVudA==" Author="wmbrent"
+             Timestamp="2021-05-17 19:20:54" Description="tune~[v0.2].dek"
+             Version="0.2" URL="http://puredata.info/Members/wmbrent/software/tune~/0.2/tune~[v0.2].dek">
+      <Objects>
+        <Object Name="tune~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="timeStretch~">
+    <Package ID="dGltZVN0cmV0Y2h+XzAuMi4xXzIwMTktMDctMDYgMTk6NTM6MjZfd21icmVudA=="
+             Author="wmbrent" Timestamp="2019-07-06 19:53:26" Description="timeStretch~[v0.2.1].dek"
+             Version="0.2.1" URL="http://puredata.info/Members/wmbrent/software/timeStretch~/0.2.1/timeStretch~[v0.2.1].dek">
+      <Objects>
+        <Object Name="timeStretch~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="testtools">
+    <Package ID="dGVzdHRvb2xzXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjE4OjI5X2NocjE1bQ=="
+             Author="chr15m" Timestamp="2015-08-07 14:18:29" Description="testtools-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/testtools/testtools-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="tclprompt-plugin">
+    <Package ID="dGNscHJvbXB0LXBsdWdpbl8wLjFfMjAxNi0wNy0yMSAxMzo0NDo0OV96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2016-07-21 13:44:49" Description="tclprompt-plugin-v0.1--externals.zip"
+             Version="0.1" URL="http://puredata.info/Members/zmoelnig/software/tclprompt-plugin/0.1/tclprompt-plugin-v0.1--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="spect_scaled">
+    <Package ID="c3BlY3Rfc2NhbGVkXzAuMC4xXzIwMjAtMDMtMDQgMDE6MDM6MThfdGhvbWFz"
+             Author="thomas" Timestamp="2020-03-04 01:03:18" Description="spect_scaled[v0.0.1].dek"
+             Version="0.0.1" URL="http://puredata.info/Members/thomas/software/spect_scaled/0.0.1/spect_scaled[v0.0.1].dek">
+      <Objects>
+        <Object Name="spect_scaled"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="sfruit">
+    <Package ID="c2ZydWl0XzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjMzOjM5X2NocjE1bQ=="
+             Author="chr15m" Timestamp="2015-08-07 14:33:39" Description="sfruit-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/sfruit/sfruit-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="rtc">
+    <Package ID="cnRjXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjUzOjEzX2NocjE1bQ=="
+             Author="chr15m" Timestamp="2015-08-07 14:53:13" Description="rtc-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/rtc/rtc-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="queryresponse">
+    <Package ID="cXVlcnlyZXNwb25zZV8wLjFfMjAyMS0wOC0zMSAxMToyNToyN19pZW1ib3Q="
+             Author="iembot" Timestamp="2021-08-31 11:25:27" Description="queryresponse[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/iembot/software/queryresponse/0.1/queryresponse[v0.1].dek">
+      <Objects>
+        <Object Name="query"/>
+        <Object Name="response"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="puremapping">
+    <Package ID="cHVyZW1hcHBpbmdfMC4wXzIwMTctMDMtMTMgMjM6MDM6MDRfYXZpbGxlcmV0"
+             Author="avilleret" Timestamp="2017-03-13 23:03:04" Description="puremapping-v0.0--externals.zip"
+             Version="0.0" URL="http://puredata.info/Members/avilleret/software/puremapping/0.0/puremapping-v0.0--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="pix_artoolkit">
+    <Package ID="cGl4X2FydG9vbGtpdF8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNTowNjo0Nl9jaHIxNW0="
+             Author="chr15m" Timestamp="2015-08-07 15:06:46" Description="pix_artoolkit-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/pix_artoolkit/pix_artoolkit-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="piloslib">
+    <Package ID="cGlsb3NsaWJfMS4wLjJfMjAyMi0wOC0yMyAyMDo0MzoxNl9ha3VudWxs"
+             Author="akunull" Timestamp="2022-08-23 20:43:16" Description="piloslib[v1.0.2].dek"
+             Version="1.0.2" URL="http://puredata.info/Members/akunull/software/piloslib/1.0.2/piloslib[v1.0.2].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="pduino">
+    <Package ID="cGR1aW5vXzAuOF8yMDIxLTAzLTI0IDE5OjU5OjIxX3Jkeg==" Author="rdz"
+             Timestamp="2021-03-24 19:59:21" Description="pduino[v0.8].dek"
+             Version="0.8" URL="http://puredata.info/Members/rdz/software/pduino/0.8/pduino[v0.8].dek">
+      <Objects>
+        <Object Name="arduino"/>
+        <Object Name="arduino-gui"/>
+      </Objects>
+    </Package>
+    <Package ID="cGR1aW5vXzAuN18yMDIxLTAxLTA0IDIyOjAxOjMyX3Jkeg==" Author="rdz"
+             Timestamp="2021-01-04 22:01:32" Description="pduino[v0.7].dek"
+             Version="0.7" URL="http://puredata.info/Members/rdz/software/pduino/0.7/pduino[v0.7].dek">
+      <Objects>
+        <Object Name="arduino"/>
+        <Object Name="arduino-gui"/>
+      </Objects>
+    </Package>
+    <Package ID="cGR1aW5vXzAuNl8yMDE5LTA1LTA2IDEzOjQ4OjIzX3Jkeg==" Author="rdz"
+             Timestamp="2019-05-06 13:48:23" Description="pduino[v0.6].dek"
+             Version="0.6" URL="http://puredata.info/Members/rdz/software/pduino/0.6/pduino[v0.6].dek">
+      <Objects>
+        <Object Name="arduino"/>
+        <Object Name="arduino-gui"/>
+      </Objects>
+    </Package>
+    <Package ID="cGR1aW5vXzAuNS4xLTIwMTUwNTI5aWVtXzIwMTYtMDgtMzAgMTQ6NDA6MTRfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2016-08-30 14:40:14" Description="pduino-v0.5.1-20150529iem--externals.zip"
+             Version="0.5.1-20150529iem" URL="http://puredata.info/Members/zmoelnig/software/iem/20150529.2247/pduino-v0.5.1-20150529iem--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="cGR1aW5vXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE1OjA3OjM5X2NocjE1bQ=="
+             Author="chr15m" Timestamp="2015-08-07 15:07:39" Description="pduino-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/pduino/pduino-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="pdpp">
+    <Package ID="cGRwcF8xLjBfMjAxOC0wMy0xOSAxNDowNTo1N19yaXRzY2g=" Author="ritsch"
+             Timestamp="2018-03-19 14:05:57" Description="pdpp-v1.0--externals.zip"
+             Version="1.0" URL="http://puredata.info/Members/ritsch/software/pdpp/1.0/pdpp-v1.0--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="pdmus">
+    <Package ID="cGRtdXNfMC4xXzIwMTYtMDMtMTAgMjA6MDc6MTFfYW5nZWxmYXJhbGRv"
+             Author="angelfaraldo" Timestamp="2016-03-10 20:07:11" Description="pdmus-v0.1--externals.zip"
+             Version="0.1" URL="http://puredata.info/downloads/pdmus/releases/0.1/pdmus-v0.1--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="pde">
+    <Package ID="cGRlXzEuMF8yMDE4LTAzLTE5IDE0OjExOjE5X3JpdHNjaA==" Author="ritsch"
+             Timestamp="2018-03-19 14:11:19" Description="pde-v1.0--externals.zip"
+             Version="1.0" URL="http://puredata.info/Members/ritsch/software/pde/1.0/pde-v1.0--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="ws">
+    <Package ID="d3NfMC4xXzIwMTgtMDMtMTkgMDQ6NTI6MTJfY2hyMTVt" Author="chr15m"
+             Timestamp="2018-03-19 04:52:12" Description="ws[v0.1].dek" Version="0.1"
+             URL="http://puredata.info/Members/chr15m/software/ws/0.1/ws[v0.1].dek">
+      <Objects>
+        <Object Name="websocket-server"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="streamStretch~">
+    <Package ID="c3RyZWFtU3RyZXRjaH5fMC41LjNfMjAxOS0wNy0wNiAxOTo1MDo0Nl93bWJyZW50"
+             Author="wmbrent" Timestamp="2019-07-06 19:50:46" Description="streamStretch~[v0.5.3].dek"
+             Version="0.5.3" URL="http://puredata.info/Members/wmbrent/software/streamStretch~/0.5.3/streamStretch~[v0.5.3].dek">
+      <Objects>
+        <Object Name="streamStretch~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="pd-wavelet">
+    <Package ID="cGQtd2F2ZWxldF8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNDo1ODo1OV9jaHIxNW0="
+             Author="chr15m" Timestamp="2015-08-07 14:58:59" Description="pd-wavelet-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/pd-wavelet/pd-wavelet-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="pd-push-and-hold">
+    <Package ID="cGQtcHVzaC1hbmQtaG9sZF8wLjJfMjAxOS0wMy0xNyAxNDoyMTowMV9jaHIxNW0="
+             Author="chr15m" Timestamp="2019-03-17 14:21:01" Description="pd-push-and-hold[v0.2].dek"
+             Version="0.2" URL="http://puredata.info/Members/chr15m/software/pd-push-and-hold/0.2/pd-push-and-hold[v0.2].dek">
+      <Objects>
+        <Object Name="push-and-hold"/>
+      </Objects>
+    </Package>
+    <Package ID="cGQtcHVzaC1hbmQtaG9sZF8wLjFfMjAxOS0wMy0xNyAxMzoxNjo0M19jaHIxNW0="
+             Author="chr15m" Timestamp="2019-03-17 13:16:43" Description="pd-push-and-hold[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/chr15m/software/pd-push-and-hold/0.1/pd-push-and-hold[v0.1].dek">
+      <Objects>
+        <Object Name="push-and-hold"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="patch2svg-plugin">
+    <Package ID="cGF0Y2gyc3ZnLXBsdWdpbl8wLjFfMjAxNi0wMy0yMiAxNjoyOToyNV96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2016-03-22 16:29:25" Description="patch2svg-plugin-v0.1--externals.zip"
+             Version="0.1" URL="http://puredata.info/downloads/patch2svg-plugin/releases/0.1/patch2svg-plugin-v0.1--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="pan">
+    <Package ID="cGFuXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjMyOjU3X2NocjE1bQ=="
+             Author="chr15m" Timestamp="2015-08-07 14:32:57" Description="pan-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/pan/pan-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="AutoPreset">
+    <Package ID="QXV0b1ByZXNldF8wLjEwXzIwMTYtMTEtMDcgMjM6MDc6MjRfYW50MXI="
+             Author="ant1r" Timestamp="2016-11-07 23:07:24" Description="AutoPreset-v0.10--externals.zip"
+             Version="0.10" URL="http://puredata.info/Members/ant1r/software/AutoPreset/0.10/AutoPreset-v0.10--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="QXV0b1ByZXNldF8wLjlfMjAxNS0xMi0xOCAwMDowNjoxOF9hbnQxcg=="
+             Author="ant1r" Timestamp="2015-12-18 00:06:18" Description="AutoPreset-v0.9--externals.zip"
+             Version="0.9" URL="http://puredata.info/Members/ant1r/software/AutoPreset/0.9/AutoPreset-v0.9--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="ezaoo">
+    <Package ID="ZXphb29fMS4yXzIwMjAtMDgtMDkgMTc6NDA6NTVfZmRjaA==" Author="fdch"
+             Timestamp="2020-08-09 17:40:55" Description="ezaoo[v1.2].dek"
+             Version="1.2" URL="http://puredata.info/Members/fdch/software/ezaoo/1.2/ezaoo[v1.2].dek">
+      <Objects>
+        <Object Name="ezaoo"/>
+      </Objects>
+    </Package>
+    <Package ID="ZXphb29fMS4xXzIwMjAtMDgtMDkgMTc6Mzk6NDlfZmRjaA==" Author="fdch"
+             Timestamp="2020-08-09 17:39:49" Description="ezaoo[v1.1].dek"
+             Version="1.1" URL="http://puredata.info/Members/fdch/software/ezaoo/1.1/ezaoo[v1.1].dek">
+      <Objects>
+        <Object Name="ezaoo"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="mkmr">
+    <Package ID="bWttcl8wLjFfMjAxOS0xMC0yMyAyMzo0ODoyNV9NaWtlTW9yZW5vQXVkaW8="
+             Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="easyflow">
+    <Package ID="ZWFzeWZsb3dfMC4zLjBfMjAxOS0wOS0yNyAwNjoyODo0NV9IZW5yaQ=="
+             Author="Henri" Timestamp="2019-09-27 06:28:45" Description="easyflow[v0.3.0].dek"
+             Version="0.3.0" URL="http://puredata.info/Members/Henri/software/easyflow/0.3.0/easyflow[v0.3.0].dek">
+      <Objects>
+        <Object Name="++v"/>
+        <Object Name="++value"/>
+        <Object Name="--v"/>
+        <Object Name="--value"/>
+        <Object Name="addList"/>
+        <Object Name="addNoise"/>
+        <Object Name="alternate"/>
+        <Object Name="any"/>
+        <Object Name="arrayList"/>
+        <Object Name="callMethod"/>
+        <Object Name="chanceBang"/>
+        <Object Name="colorCirc"/>
+        <Object Name="colorCircF"/>
+        <Object Name="colorCnv"/>
+        <Object Name="colorCnvF"/>
+        <Object Name="colorDef"/>
+        <Object Name="colorHighlighting"/>
+        <Object Name="colorNames"/>
+        <Object Name="colorSyntax"/>
+        <Object Name="colorTri"/>
+        <Object Name="colorTriF"/>
+        <Object Name="compare"/>
+        <Object Name="copyList"/>
+        <Object Name="counter"/>
+        <Object Name="curves"/>
+        <Object Name="curvesmap"/>
+        <Object Name="curvesmap~"/>
+        <Object Name="curves~"/>
+        <Object Name="dbg"/>
+        <Object Name="deleteScalar"/>
+        <Object Name="dictionary"/>
+        <Object Name="digitCount"/>
+        <Object Name="doubleClick"/>
+        <Object Name="easyflow-info"/>
+        <Object Name="error"/>
+        <Object Name="for"/>
+        <Object Name="funnel"/>
+        <Object Name="gateCounter"/>
+        <Object Name="getAllScalars"/>
+        <Object Name="getFile"/>
+        <Object Name="getFolder"/>
+        <Object Name="getMember"/>
+        <Object Name="getNofScalars"/>
+        <Object Name="getNthScalar"/>
+        <Object Name="gopTool"/>
+        <Object Name="hexCharToDec"/>
+        <Object Name="hexColor"/>
+        <Object Name="hold"/>
+        <Object Name="hsb"/>
+        <Object Name="hsl"/>
+        <Object Name="hueSaturationBrightness"/>
+        <Object Name="hueSaturationLuminosity"/>
+        <Object Name="ifValue"/>
+        <Object Name="iterator"/>
+        <Object Name="keepMax"/>
+        <Object Name="keepMin"/>
+        <Object Name="keyChange"/>
+        <Object Name="l2r"/>
+        <Object Name="labelCnv"/>
+        <Object Name="labelCnvF"/>
+        <Object Name="left2right"/>
+        <Object Name="listCollect"/>
+        <Object Name="listCompare"/>
+        <Object Name="listConcatenate"/>
+        <Object Name="listIntersection"/>
+        <Object Name="listMax"/>
+        <Object Name="listMin"/>
+        <Object Name="listMoses"/>
+        <Object Name="listOperator"/>
+        <Object Name="listPick"/>
+        <Object Name="listRandom"/>
+        <Object Name="listRemove"/>
+        <Object Name="listReplace"/>
+        <Object Name="listReplaceAtIndex"/>
+        <Object Name="listReverse"/>
+        <Object Name="listSearch"/>
+        <Object Name="listSearchAndRemove"/>
+        <Object Name="listSearchIterator"/>
+        <Object Name="listShuffle"/>
+        <Object Name="listsOfLength"/>
+        <Object Name="listSplitOnChar"/>
+        <Object Name="listToSymbol"/>
+        <Object Name="listUniques"/>
+        <Object Name="lowerCase"/>
+        <Object Name="map"/>
+        <Object Name="map~"/>
+        <Object Name="member"/>
+        <Object Name="method"/>
+        <Object Name="methodInput"/>
+        <Object Name="methodOutput"/>
+        <Object Name="metrosnap~"/>
+        <Object Name="mixAB"/>
+        <Object Name="mixAB~"/>
+        <Object Name="nearest"/>
+        <Object Name="numbersBetween"/>
+        <Object Name="numberSymbol"/>
+        <Object Name="objAccess"/>
+        <Object Name="passNthElement"/>
+        <Object Name="passPair"/>
+        <Object Name="popLastN"/>
+        <Object Name="printHere"/>
+        <Object Name="private"/>
+        <Object Name="public"/>
+        <Object Name="r2l"/>
+        <Object Name="randomList"/>
+        <Object Name="redGreenBlue"/>
+        <Object Name="repeat"/>
+        <Object Name="rgb"/>
+        <Object Name="right2left"/>
+        <Object Name="roundIfVeryClose"/>
+        <Object Name="sample~"/>
+        <Object Name="scope~"/>
+        <Object Name="searchIncomingLists"/>
+        <Object Name="searchIncomingStrings"/>
+        <Object Name="setMember"/>
+        <Object Name="spigot~"/>
+        <Object Name="stringLength"/>
+        <Object Name="stringReplace"/>
+        <Object Name="stringSearch"/>
+        <Object Name="sublist"/>
+        <Object Name="sublistIterator"/>
+        <Object Name="substring"/>
+        <Object Name="switch2"/>
+        <Object Name="switch2~"/>
+        <Object Name="switch3"/>
+        <Object Name="switch3~"/>
+        <Object Name="switch4"/>
+        <Object Name="switch4~"/>
+        <Object Name="switch5"/>
+        <Object Name="switch5~"/>
+        <Object Name="switch6"/>
+        <Object Name="switch6~"/>
+        <Object Name="switch7"/>
+        <Object Name="switch7~"/>
+        <Object Name="symbolize"/>
+        <Object Name="symbolSplit"/>
+        <Object Name="symbolToFloat"/>
+        <Object Name="tabCopy"/>
+        <Object Name="tabReverse"/>
+        <Object Name="tabReverseCopy"/>
+        <Object Name="unitTesting"/>
+        <Object Name="upperCase"/>
+        <Object Name="v++"/>
+        <Object Name="v--"/>
+        <Object Name="value++"/>
+        <Object Name="value--"/>
+        <Object Name="valueOp"/>
+        <Object Name="valueOpSet"/>
+        <Object Name="var"/>
+        <Object Name="weightedRandom"/>
+      </Objects>
+    </Package>
+    <Package ID="ZWFzeWZsb3dfMC4yLjBfMjAxOC0wOC0xMiAwNzoxNjozN19IZW5yaQ=="
+             Author="Henri" Timestamp="2018-08-12 07:16:37" Description="easyflow[v0.2.0].dek"
+             Version="0.2.0" URL="http://puredata.info/Members/Henri/software/easyflow/0.2.0/easyflow[v0.2.0].dek">
+      <Objects>
+        <Object Name="addList"/>
+        <Object Name="alternate"/>
+        <Object Name="any"/>
+        <Object Name="arrayList"/>
+        <Object Name="audioSpigot~"/>
+        <Object Name="colorCirc"/>
+        <Object Name="colorCircF"/>
+        <Object Name="colorCnv"/>
+        <Object Name="colorCnvF"/>
+        <Object Name="colorDef"/>
+        <Object Name="colorHighlighting"/>
+        <Object Name="colorNames"/>
+        <Object Name="colorSyntax"/>
+        <Object Name="colorTri"/>
+        <Object Name="colorTriF"/>
+        <Object Name="compare"/>
+        <Object Name="copyList"/>
+        <Object Name="counter"/>
+        <Object Name="curves"/>
+        <Object Name="curvesmap"/>
+        <Object Name="curvesmap~"/>
+        <Object Name="curves~"/>
+        <Object Name="deleteScalar"/>
+        <Object Name="doubleClick"/>
+        <Object Name="easyflow-info"/>
+        <Object Name="for"/>
+        <Object Name="funnel"/>
+        <Object Name="getAllScalars"/>
+        <Object Name="getFile"/>
+        <Object Name="getFolder"/>
+        <Object Name="getNofScalars"/>
+        <Object Name="getNthScalar"/>
+        <Object Name="GOPTool"/>
+        <Object Name="hexCharToDec"/>
+        <Object Name="hexColor"/>
+        <Object Name="hold"/>
+        <Object Name="hsb"/>
+        <Object Name="hsl"/>
+        <Object Name="huesaturationbrightness"/>
+        <Object Name="huesaturationluminosity"/>
+        <Object Name="keepMax"/>
+        <Object Name="keepMin"/>
+        <Object Name="keychange"/>
+        <Object Name="l2r"/>
+        <Object Name="labelCnv"/>
+        <Object Name="labelCnvF"/>
+        <Object Name="left2right"/>
+        <Object Name="listCompare"/>
+        <Object Name="listConcatenate"/>
+        <Object Name="listPick"/>
+        <Object Name="listPickPair"/>
+        <Object Name="listPlus"/>
+        <Object Name="listReplace"/>
+        <Object Name="listReplaceAtIndex"/>
+        <Object Name="listsOfLength"/>
+        <Object Name="listSplit"/>
+        <Object Name="listToSymbol"/>
+        <Object Name="lowerCase"/>
+        <Object Name="map"/>
+        <Object Name="map~"/>
+        <Object Name="metrosnap~"/>
+        <Object Name="mixAB"/>
+        <Object Name="mixAB~"/>
+        <Object Name="nearest"/>
+        <Object Name="numbersbetween"/>
+        <Object Name="numberSymbol"/>
+        <Object Name="passNthElement"/>
+        <Object Name="passPair"/>
+        <Object Name="popLastN"/>
+        <Object Name="printHere"/>
+        <Object Name="r2l"/>
+        <Object Name="redGreenBlue"/>
+        <Object Name="rgb"/>
+        <Object Name="right2left"/>
+        <Object Name="roundIfVeryClose"/>
+        <Object Name="sample~"/>
+        <Object Name="scope~"/>
+        <Object Name="searchElem"/>
+        <Object Name="spigot~"/>
+        <Object Name="stringLength"/>
+        <Object Name="stringReplace"/>
+        <Object Name="sublist"/>
+        <Object Name="substring"/>
+        <Object Name="substringFromStart"/>
+        <Object Name="switch2"/>
+        <Object Name="switch2~"/>
+        <Object Name="switch3"/>
+        <Object Name="switch3~"/>
+        <Object Name="switch4"/>
+        <Object Name="switch4~"/>
+        <Object Name="switch5"/>
+        <Object Name="switch5~"/>
+        <Object Name="switch6"/>
+        <Object Name="switch6~"/>
+        <Object Name="switch7"/>
+        <Object Name="switch7~"/>
+        <Object Name="symbolize"/>
+        <Object Name="symbolSplit"/>
+        <Object Name="tabCopy"/>
+        <Object Name="tabReverse"/>
+        <Object Name="tabReverseCopy"/>
+        <Object Name="upperCase"/>
+        <Object Name="var"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="search-plugin">
+    <Package ID="c2VhcmNoLXBsdWdpbl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNTowMzoyNV9jaHIxNW0="
+             Author="chr15m" Timestamp="2015-08-07 15:03:25" Description="search-plugin-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/search-plugin/search-plugin-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="purepd">
+    <Package ID="cHVyZXBkXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE1OjA2OjEyX2NocjE1bQ=="
+             Author="chr15m" Timestamp="2015-08-07 15:06:12" Description="purepd-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/purepd/purepd-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="DRFX">
+    <Package ID="RFJGWF8wLjUuMV8yMDE4LTAzLTI2IDA0OjI2OjA3X3dtYnJlbnQ=" Author="wmbrent"
+             Timestamp="2018-03-26 04:26:07" Description="DRFX[v0.5.1].dek"
+             Version="0.5.1" URL="http://puredata.info/Members/wmbrent/software/DRFX/0.5.1/DRFX[v0.5.1].dek">
+      <Objects>
+        <Object Name="DRFX"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="audiolab">
+    <Package ID="YXVkaW9sYWJfMC40MV8yMDIxLTA0LTMwIDEzOjI4OjMyX3NvbGlwZA=="
+             Author="solipd" Timestamp="2021-04-30 13:28:32" Description="audiolab[v0.41].dek"
+             Version="0.41" URL="http://puredata.info/Members/solipd/software/audiolab/0.41/audiolab[v0.41].dek">
+      <Objects>
+        <Object Name="pp.butterkreuz3-st~"/>
+        <Object Name="pp.butterkreuz3~"/>
+        <Object Name="pp.clop-st~"/>
+        <Object Name="pp.clop~"/>
+        <Object Name="pp.dopplerxy~"/>
+        <Object Name="pp.doppler~"/>
+        <Object Name="pp.dynamics-st~"/>
+        <Object Name="pp.dynamics~"/>
+        <Object Name="pp.echo~"/>
+        <Object Name="pp.env-st~"/>
+        <Object Name="pp.env~"/>
+        <Object Name="pp.eqfilter-st~"/>
+        <Object Name="pp.eqfilter~"/>
+        <Object Name="pp.fft-block-st~"/>
+        <Object Name="pp.fft-block~"/>
+        <Object Name="pp.fft-freeze-st~"/>
+        <Object Name="pp.fft-freeze~"/>
+        <Object Name="pp.fft-gate-st~"/>
+        <Object Name="pp.fft-gate~"/>
+        <Object Name="pp.fft-partconv-st~"/>
+        <Object Name="pp.fft-partconv~"/>
+        <Object Name="pp.fft-pitchshift-st~"/>
+        <Object Name="pp.fft-pitchshift~"/>
+        <Object Name="pp.fft-split-st~"/>
+        <Object Name="pp.fft-split~"/>
+        <Object Name="pp.fft-stretch~"/>
+        <Object Name="pp.fft-timbre-st~"/>
+        <Object Name="pp.fft-timbre~"/>
+        <Object Name="pp.freqshift-st~"/>
+        <Object Name="pp.freqshift~"/>
+        <Object Name="pp.graindelay~"/>
+        <Object Name="pp.grainer~"/>
+        <Object Name="pp.in~"/>
+        <Object Name="pp.ladder-st~"/>
+        <Object Name="pp.ladder~"/>
+        <Object Name="pp.lfnoise~"/>
+        <Object Name="pp.midside~"/>
+        <Object Name="pp.out-8~"/>
+        <Object Name="pp.out~"/>
+        <Object Name="pp.pan~"/>
+        <Object Name="pp.parameq-st~"/>
+        <Object Name="pp.parameq~"/>
+        <Object Name="pp.pitchshift-st~"/>
+        <Object Name="pp.pitchshift~"/>
+        <Object Name="pp.rev~"/>
+        <Object Name="pp.sdel-st~"/>
+        <Object Name="pp.sdel~"/>
+        <Object Name="pp.sfplayer~"/>
+        <Object Name="pp.shepphaser-st~"/>
+        <Object Name="pp.shepphaser~"/>
+        <Object Name="pp.spacer~"/>
+        <Object Name="pp.spat8~"/>
+        <Object Name="pp.spectrum~"/>
+        <Object Name="pp.twisted-delays2-st~"/>
+        <Object Name="pp.twisted-delays2~"/>
+        <Object Name="pp.twisted-delays~"/>
+        <Object Name="pp.vcfilter-st~"/>
+        <Object Name="pp.vcfilter~"/>
+        <Object Name="pp.waveform"/>
+        <Object Name="pp.xycurve"/>
+      </Objects>
+    </Package>
+    <Package ID="YXVkaW9sYWJfMC40XzIwMjEtMDMtMjkgMTA6NDc6NTFfc29saXBk" Author="solipd"
+             Timestamp="2021-03-29 10:47:51" Description="audiolab[v0.4].dek"
+             Version="0.4" URL="http://puredata.info/Members/solipd/software/audiolab/0.4/audiolab[v0.4].dek">
+      <Objects>
+        <Object Name="pp.butterkreuz3-st~"/>
+        <Object Name="pp.butterkreuz3~"/>
+        <Object Name="pp.clop-st~"/>
+        <Object Name="pp.clop~"/>
+        <Object Name="pp.dopplerxy~"/>
+        <Object Name="pp.doppler~"/>
+        <Object Name="pp.dynamics-st~"/>
+        <Object Name="pp.dynamics~"/>
+        <Object Name="pp.echo~"/>
+        <Object Name="pp.env-st~"/>
+        <Object Name="pp.env~"/>
+        <Object Name="pp.eqfilter-st~"/>
+        <Object Name="pp.eqfilter~"/>
+        <Object Name="pp.fft-block-st~"/>
+        <Object Name="pp.fft-block~"/>
+        <Object Name="pp.fft-freeze-st~"/>
+        <Object Name="pp.fft-freeze~"/>
+        <Object Name="pp.fft-gate-st~"/>
+        <Object Name="pp.fft-gate~"/>
+        <Object Name="pp.fft-partconv-st~"/>
+        <Object Name="pp.fft-partconv~"/>
+        <Object Name="pp.fft-pitchshift-st~"/>
+        <Object Name="pp.fft-pitchshift~"/>
+        <Object Name="pp.fft-split-st~"/>
+        <Object Name="pp.fft-split~"/>
+        <Object Name="pp.fft-stretch~"/>
+        <Object Name="pp.fft-timbre-st~"/>
+        <Object Name="pp.fft-timbre~"/>
+        <Object Name="pp.freqshift-st~"/>
+        <Object Name="pp.freqshift~"/>
+        <Object Name="pp.graindelay~"/>
+        <Object Name="pp.grainer~"/>
+        <Object Name="pp.in~"/>
+        <Object Name="pp.ladder-st~"/>
+        <Object Name="pp.ladder~"/>
+        <Object Name="pp.lfnoise~"/>
+        <Object Name="pp.midside~"/>
+        <Object Name="pp.out-8~"/>
+        <Object Name="pp.out~"/>
+        <Object Name="pp.pan~"/>
+        <Object Name="pp.parameq-st~"/>
+        <Object Name="pp.parameq~"/>
+        <Object Name="pp.pitchshift-st~"/>
+        <Object Name="pp.pitchshift~"/>
+        <Object Name="pp.rev~"/>
+        <Object Name="pp.sdel-st~"/>
+        <Object Name="pp.sdel~"/>
+        <Object Name="pp.sfplayer~"/>
+        <Object Name="pp.shepphaser-st~"/>
+        <Object Name="pp.shepphaser~"/>
+        <Object Name="pp.spacer~"/>
+        <Object Name="pp.spat8~"/>
+        <Object Name="pp.spectrum~"/>
+        <Object Name="pp.twisted-delays2-st~"/>
+        <Object Name="pp.twisted-delays2~"/>
+        <Object Name="pp.twisted-delays~"/>
+        <Object Name="pp.vcfilter-st~"/>
+        <Object Name="pp.vcfilter~"/>
+        <Object Name="pp.waveform"/>
+        <Object Name="pp.xycurve"/>
+      </Objects>
+    </Package>
+    <Package ID="YXVkaW9sYWJfMC4zXzIwMjAtMDktMTEgMTc6NDk6NTFfc29saXBk" Author="solipd"
+             Timestamp="2020-09-11 17:49:51" Description="audiolab[v0.3].dek"
+             Version="0.3" URL="http://puredata.info/Members/solipd/software/audiolab/0.3/audiolab[v0.3].dek">
+      <Objects>
+        <Object Name="pp.clop-st~"/>
+        <Object Name="pp.clop~"/>
+        <Object Name="pp.dopplerxy~"/>
+        <Object Name="pp.doppler~"/>
+        <Object Name="pp.dynamics-st~"/>
+        <Object Name="pp.dynamics~"/>
+        <Object Name="pp.echo~"/>
+        <Object Name="pp.env-st~"/>
+        <Object Name="pp.env~"/>
+        <Object Name="pp.eqfilter-st~"/>
+        <Object Name="pp.eqfilter~"/>
+        <Object Name="pp.fft-block-st~"/>
+        <Object Name="pp.fft-block~"/>
+        <Object Name="pp.fft-freeze-st~"/>
+        <Object Name="pp.fft-freeze~"/>
+        <Object Name="pp.fft-gate-st~"/>
+        <Object Name="pp.fft-gate~"/>
+        <Object Name="pp.fft-partconv-st~"/>
+        <Object Name="pp.fft-partconv~"/>
+        <Object Name="pp.fft-pitchshift-st~"/>
+        <Object Name="pp.fft-pitchshift~"/>
+        <Object Name="pp.fft-split-st~"/>
+        <Object Name="pp.fft-split~"/>
+        <Object Name="pp.fft-stretch~"/>
+        <Object Name="pp.fft-timbre-st~"/>
+        <Object Name="pp.fft-timbre~"/>
+        <Object Name="pp.freqshift-st~"/>
+        <Object Name="pp.freqshift~"/>
+        <Object Name="pp.graindelay~"/>
+        <Object Name="pp.grainer~"/>
+        <Object Name="pp.in~"/>
+        <Object Name="pp.ladder-st~"/>
+        <Object Name="pp.ladder~"/>
+        <Object Name="pp.lfnoise~"/>
+        <Object Name="pp.midside~"/>
+        <Object Name="pp.out-8~"/>
+        <Object Name="pp.out~"/>
+        <Object Name="pp.pan~"/>
+        <Object Name="pp.pitchshift-st~"/>
+        <Object Name="pp.pitchshift~"/>
+        <Object Name="pp.rev~"/>
+        <Object Name="pp.sdel-st~"/>
+        <Object Name="pp.sdel~"/>
+        <Object Name="pp.sfplayer~"/>
+        <Object Name="pp.shepphaser-st~"/>
+        <Object Name="pp.shepphaser~"/>
+        <Object Name="pp.spacer~"/>
+        <Object Name="pp.spat8~"/>
+        <Object Name="pp.spectrum~"/>
+        <Object Name="pp.twisted-delays2-st~"/>
+        <Object Name="pp.twisted-delays2~"/>
+        <Object Name="pp.twisted-delays~"/>
+        <Object Name="pp.vcfilter-st~"/>
+        <Object Name="pp.vcfilter~"/>
+        <Object Name="pp.waveform"/>
+        <Object Name="pp.xycurve"/>
+      </Objects>
+    </Package>
+    <Package ID="YXVkaW9sYWJfMC4yXzIwMTktMTEtMjIgMTA6MzU6NTFfc29saXBk" Author="solipd"
+             Timestamp="2019-11-22 10:35:51" Description="audiolab[v0.2].dek"
+             Version="0.2" URL="http://puredata.info/Members/solipd/software/audiolab/0.2/audiolab[v0.2].dek">
+      <Objects>
+        <Object Name="pp.clop-st~"/>
+        <Object Name="pp.clop~"/>
+        <Object Name="pp.dopplerxy~"/>
+        <Object Name="pp.doppler~"/>
+        <Object Name="pp.dynamics-st~"/>
+        <Object Name="pp.dynamics~"/>
+        <Object Name="pp.env-st~"/>
+        <Object Name="pp.env~"/>
+        <Object Name="pp.eqfilter-st~"/>
+        <Object Name="pp.eqfilter~"/>
+        <Object Name="pp.fft-block-st~"/>
+        <Object Name="pp.fft-block~"/>
+        <Object Name="pp.fft-gate-st~"/>
+        <Object Name="pp.fft-gate~"/>
+        <Object Name="pp.fft-partconv-st~"/>
+        <Object Name="pp.fft-partconv~"/>
+        <Object Name="pp.fft-pitchshift-st~"/>
+        <Object Name="pp.fft-pitchshift~"/>
+        <Object Name="pp.fft-split-st~"/>
+        <Object Name="pp.fft-split~"/>
+        <Object Name="pp.fft-stretch~"/>
+        <Object Name="pp.fft-timbre-st~"/>
+        <Object Name="pp.fft-timbre~"/>
+        <Object Name="pp.freqshift-st~"/>
+        <Object Name="pp.freqshift~"/>
+        <Object Name="pp.graindelay~"/>
+        <Object Name="pp.grainer~"/>
+        <Object Name="pp.in~"/>
+        <Object Name="pp.lfnoise~"/>
+        <Object Name="pp.midside~"/>
+        <Object Name="pp.out-8~"/>
+        <Object Name="pp.out~"/>
+        <Object Name="pp.pan~"/>
+        <Object Name="pp.pitchshift-st~"/>
+        <Object Name="pp.pitchshift~"/>
+        <Object Name="pp.rev~"/>
+        <Object Name="pp.sdel-st~"/>
+        <Object Name="pp.sdel~"/>
+        <Object Name="pp.sfplayer~"/>
+        <Object Name="pp.shepphaser-st~"/>
+        <Object Name="pp.shepphaser~"/>
+        <Object Name="pp.spacer~"/>
+        <Object Name="pp.spat8~"/>
+        <Object Name="pp.spectrum~"/>
+        <Object Name="pp.twisted-delays2~"/>
+        <Object Name="pp.twisted-delays~"/>
+        <Object Name="pp.vcfilter-st~"/>
+        <Object Name="pp.vcfilter~"/>
+        <Object Name="pp.waveform"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="completion-plugin">
+    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40Ny4xXzIwMTktMDktMTggMTM6Mzc6MjdfSGVucmk="
+             Author="Henri" Timestamp="2019-09-18 13:37:27" Description="completion-plugin[v0.47.1].dek"
+             Version="0.47.1" URL="http://puredata.info/Members/Henri/software/completion-plugin/0.47.1/completion-plugin[v0.47.1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40Ny4wXzIwMTktMDktMDggMDE6MTM6NDFfSGVucmk="
+             Author="Henri" Timestamp="2019-09-08 01:13:41" Description="completion-plugin[v0.47.0].dek"
+             Version="0.47.0" URL="http://puredata.info/Members/Henri/software/completion-plugin/0.47.0/completion-plugin[v0.47.0].dek">
+      <Objects/>
+    </Package>
+    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40Ni4xXzIwMTgtMDktMTIgMjI6MDU6NDdfSGVucmk="
+             Author="Henri" Timestamp="2018-09-12 22:05:47" Description="completion-plugin[v0.46.1].dek"
+             Version="0.46.1" URL="http://puredata.info/Members/Henri/software/completion-plugin/0.46.1/completion-plugin[v0.46.1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="mc">
+    <Package ID="bWNfMC4wLjFfMjAyMS0xMi0wNiAwMDowNzoxMV90aG9tYXM=" Author="thomas"
+             Timestamp="2021-12-06 00:07:11" Description="mc[v0.0.1].dek"
+             Version="0.0.1" URL="http://puredata.info/Members/thomas/software/mc/0.0.1/mc[v0.0.1].dek">
+      <Objects>
+        <Object Name="mc"/>
+        <Object Name="mc._dsp"/>
+        <Object Name="mc.concat"/>
+        <Object Name="mc.dist~"/>
+        <Object Name="mc.effect"/>
+        <Object Name="mc.index"/>
+        <Object Name="mc.map"/>
+        <Object Name="mc.op"/>
+        <Object Name="mc.sink"/>
+        <Object Name="mc.slice"/>
+        <Object Name="mc.source"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="missive~">
+    <Package ID="bWlzc2l2ZX5fMC40XzIwMjEtMTItMjggMTc6MjQ6MDVfd21icmVudA=="
+             Author="wmbrent" Timestamp="2021-12-28 17:24:05" Description="missive~[v0.4].dek"
+             Version="0.4" URL="http://puredata.info/Members/wmbrent/software/missive~/0.4/missive~[v0.4].dek">
+      <Objects>
+        <Object Name="missive~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="spring22">
+    <Package ID="c3ByaW5nMjJfMC4yMDIyMDYxN18yMDIyLTA2LTE3IDE1OjAwOjIxX3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2022-06-17 15:00:21" Description="spring22[v0.20220617].dek"
+             Version="0.20220617" URL="http://puredata.info/Members/zmoelnig/software/spring22/0.20220617/spring22[v0.20220617].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="chair">
+    <Package ID="Y2hhaXJfMC44MV8yMDIwLTAyLTE0IDIwOjQxOjMwX0NIQUlS" Author="CHAIR"
+             Timestamp="2020-02-14 20:41:30" Description="chair[v0.81].dek"
+             Version="0.81" URL="http://puredata.info/Members/CHAIR/software/chair/0.81/chair[v0.81].dek">
+      <Objects>
+        <Object Name="chair.14bit-ctlin"/>
+        <Object Name="chair.angle"/>
+        <Object Name="chair.chrismoore-reverb~"/>
+        <Object Name="chair.dc-offset~"/>
+        <Object Name="chair.distance"/>
+        <Object Name="chair.dynamics~"/>
+        <Object Name="chair.encoders"/>
+        <Object Name="chair.feedback-cancellation~"/>
+        <Object Name="chair.gain~"/>
+        <Object Name="chair.gesture"/>
+        <Object Name="chair.hex-hold"/>
+        <Object Name="chair.hex-mapping"/>
+        <Object Name="chair.hex-tuning"/>
+        <Object Name="chair.increment"/>
+        <Object Name="chair.mtocv~"/>
+        <Object Name="chair.peak-env~"/>
+        <Object Name="chair.rotary-limit-range"/>
+        <Object Name="chair.rotary-relative"/>
+        <Object Name="chair.singleton"/>
+        <Object Name="chair.speed"/>
+        <Object Name="chair.stereogain~"/>
+        <Object Name="chair.touchgate~"/>
+        <Object Name="chair.transpose-oct"/>
+        <Object Name="chair.vfreeverb~"/>
+      </Objects>
+    </Package>
+    <Package ID="Y2hhaXJfMC44MF8yMDE5LTEwLTI4IDAwOjEyOjEyX0NIQUlS" Author="CHAIR"
+             Timestamp="2019-10-28 00:12:12" Description="chair[v0.80].dek"
+             Version="0.80" URL="http://puredata.info/Members/CHAIR/software/chair/0.80/chair[v0.80].dek">
+      <Objects>
+        <Object Name="chair.angle"/>
+        <Object Name="chair.capsense"/>
+        <Object Name="chair.chrismoore-reverb~"/>
+        <Object Name="chair.cleanposdata"/>
+        <Object Name="chair.dc-offset~"/>
+        <Object Name="chair.distance"/>
+        <Object Name="chair.dynamics~"/>
+        <Object Name="chair.encoders"/>
+        <Object Name="chair.feedback-cancellation~"/>
+        <Object Name="chair.gain~"/>
+        <Object Name="chair.gesture"/>
+        <Object Name="chair.hex-hold"/>
+        <Object Name="chair.hex-mapping"/>
+        <Object Name="chair.hex-tuning"/>
+        <Object Name="chair.modifier"/>
+        <Object Name="chair.mtocv~"/>
+        <Object Name="chair.peak-env~"/>
+        <Object Name="chair.rotary-limit-range"/>
+        <Object Name="chair.singleton"/>
+        <Object Name="chair.speed"/>
+        <Object Name="chair.stereogain~"/>
+        <Object Name="chair.touchgate~"/>
+        <Object Name="chair.transpose-oct"/>
+        <Object Name="chair.vfreeverb~"/>
+      </Objects>
+    </Package>
+    <Package ID="Y2hhaXJfMC43M18yMDE5LTA2LTE1IDAwOjUyOjI3X0NIQUlS" Author="CHAIR"
+             Timestamp="2019-06-15 00:52:27" Description="chair[v0.73].dek"
+             Version="0.73" URL="http://puredata.info/Members/CHAIR/software/chair/0.73/chair[v0.73].dek">
+      <Objects>
+        <Object Name="cair.modifier"/>
+        <Object Name="chair.angle"/>
+        <Object Name="chair.capsense"/>
+        <Object Name="chair.chrismoore-reverb~"/>
+        <Object Name="chair.cleanposdata"/>
+        <Object Name="chair.dc-offset~"/>
+        <Object Name="chair.distance"/>
+        <Object Name="chair.dynamics~"/>
+        <Object Name="chair.feedback-cancellation~"/>
+        <Object Name="chair.gain~"/>
+        <Object Name="chair.gesture"/>
+        <Object Name="chair.hex-mapping"/>
+        <Object Name="chair.hex-tuning"/>
+        <Object Name="chair.mtocv~"/>
+        <Object Name="chair.peak-env~"/>
+        <Object Name="chair.rotary-limit-range"/>
+        <Object Name="chair.singleton"/>
+        <Object Name="chair.speed"/>
+        <Object Name="chair.stereogain~"/>
+        <Object Name="chair.touchgate~"/>
+        <Object Name="chair.transpose-oct"/>
+        <Object Name="chair.vfreeverb~"/>
+        <Object Name="tickle~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="art_net">
+    <Package ID="YXJ0X25ldF8yMDE5XzIwMTktMDQtMDMgMTY6NTQ6MzNfY2hucnk=" Author="chnry"
+             Timestamp="2019-04-03 16:54:33" Description="art_net[v2019].dek"
+             Version="2019" URL="http://puredata.info/Members/chnry/software/art_net/2019/art_net[v2019].dek">
+      <Objects>
+        <Object Name="art_net"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="Fraise">
+    <Package ID="RnJhaXNlXzAuMS4xXzIwMjEtMDMtMjUgMTU6Mzk6MjlfYW50MXI=" Author="ant1r"
+             Timestamp="2021-03-25 15:39:29" Description="Fraise[v0.1.1].dek"
+             Version="0.1.1" URL="http://puredata.info/Members/ant1r/software/Fraise/0.1.1/Fraise[v0.1.1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMS4wXzIwMjEtMDEtMDcgMTI6MzI6MzVfYW50MXI=" Author="ant1r"
+             Timestamp="2021-01-07 12:32:35" Description="Fraise[v0.1.0].dek"
+             Version="0.1.0" URL="http://puredata.info/Members/ant1r/software/Fraise/0.1.0/Fraise[v0.1.0].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="iempluginOSC">
+    <Package ID="aWVtcGx1Z2luT1NDXzAuMV8yMDE5LTA0LTEyIDEyOjQzOjU1X3NwYWNlY2hpbGQx"
+             Author="spacechild1" Timestamp="2019-04-12 12:43:55" Description="iempluginOSC[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/spacechild1/software/iempluginOSC/0.1/iempluginOSC[v0.1].dek">
+      <Objects>
+        <Object Name="iempluginOSC"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="timestretch">
+    <Package ID="dGltZXN0cmV0Y2hfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mjc6MTZfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-08-07 14:27:16" Description="timestretch-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/timestretch/timestretch-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="shotnoise">
+    <Package ID="c2hvdG5vaXNlXzAuOS4xXzIwMTYtMDctMzAgMjM6NTA6NDFfc2F0dXJubw=="
+             Author="saturno" Timestamp="2016-07-30 23:50:41" Description="shotnoise-v0.9.1--externals.zip"
+             Version="0.9.1" URL="http://puredata.info/Members/saturno/software/shotnoise/0.9.1/shotnoise-v0.9.1--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="nGui">
+    <Package ID="bkd1aV8wLjFfMjAyMC0wNS0yOCAyMzozOTowMV9tYXJpb19idW9uaW5mYW50ZQ=="
+             Author="mario_buoninfante" Timestamp="2020-05-28 23:39:01" Description="nGui[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/mario_buoninfante/software/nGui/0.1/nGui[v0.1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="bf-pd">
+    <Package ID="YmYtcGRfMS4wXzIwMjEtMDgtMDMgMTI6MTQ6MTZfZmJlcnRoYXV0" Author="fberthaut"
+             Timestamp="2021-08-03 12:14:16" Description="bf-pd[v1.0].dek"
+             Version="1.0" URL="http://puredata.info/Members/fberthaut/software/bf-pd/1.0/bf-pd[v1.0].dek">
+      <Objects>
+        <Object Name="bf-clock"/>
+        <Object Name="bf-instrument"/>
+        <Object Name="bf-output"/>
+        <Object Name="bf-param"/>
+        <Object Name="boeuf"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="acre">
+    <Package ID="YWNyZV8xLjAzXzIwMjAtMTItMDMgMDk6MzE6MzJfcml0c2No" Author="ritsch"
+             Timestamp="2020-12-03 09:31:32" Description="acre[v1.03].dek"
+             Version="1.03" URL="http://puredata.info/Members/ritsch/software/acre/1.0/acre[v1.03].dek">
+      <Objects/>
+    </Package>
+    <Package ID="YWNyZV8xLjAxXzIwMTYtMTAtMjEgMjM6Mzk6MzJfcml0c2No" Author="ritsch"
+             Timestamp="2016-10-21 23:39:32" Description="acre-v1.01--externals.zip"
+             Version="1.01" URL="http://puredata.info/Members/ritsch/software/acre/1.0/acre-v1.01--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="YWNyZV8xLjBfMjAxNi0wNy0xMSAwMDo0OToxNV9yaXRzY2g=" Author="ritsch"
+             Timestamp="2016-07-11 00:49:15" Description="acre-v1.0--externals.zip"
+             Version="1.0" URL="http://puredata.info/Members/ritsch/software/acre/1.0/acre-v1.0--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="YWNyZV8wLjY5XzIwMTYtMDUtMDggMjI6NDU6NThfcml0c2No" Author="ritsch"
+             Timestamp="2016-05-08 22:45:58" Description="acre-v0.69--externals.zip"
+             Version="0.69" URL="http://puredata.info/Members/ritsch/software/acre/0.69/acre-v0.69--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="planifolia">
+    <Package ID="cGxhbmlmb2xpYV8wLjJfMjAyMi0wNy0xMSAyMjo0ODowOV96ZXBhZG92YW5p"
+             Author="zepadovani" Timestamp="2022-07-11 22:48:09" Description="planifolia[v0.2].dek"
+             Version="0.2" URL="http://puredata.info/Members/zepadovani/software/planifolia/0.2/planifolia[v0.2].dek">
+      <Objects>
+        <Object Name="any.=="/>
+        <Object Name="array.binop"/>
+        <Object Name="array.rand"/>
+        <Object Name="array.unop"/>
+        <Object Name="ls.binop"/>
+        <Object Name="ls.butlast"/>
+        <Object Name="ls.choose"/>
+        <Object Name="ls.circgroup"/>
+        <Object Name="ls.getRotate"/>
+        <Object Name="ls.group"/>
+        <Object Name="ls.iter"/>
+        <Object Name="ls.last"/>
+        <Object Name="ls.max"/>
+        <Object Name="ls.mean"/>
+        <Object Name="ls.min"/>
+        <Object Name="ls.mode"/>
+        <Object Name="ls.quicksort"/>
+        <Object Name="ls.removeAt"/>
+        <Object Name="ls.rotate"/>
+        <Object Name="ls.scramble"/>
+        <Object Name="ls.ser.arithm"/>
+        <Object Name="ls.splice"/>
+        <Object Name="ls.unop"/>
+        <Object Name="mtxgui"/>
+        <Object Name="mtxstep"/>
+        <Object Name="slash.oscformat"/>
+        <Object Name="slash.oscroute"/>
+        <Object Name="symbol.=="/>
+        <Object Name="symbol.split"/>
+      </Objects>
+    </Package>
+    <Package ID="cGxhbmlmb2xpYV8wLjFfMjAyMS0wOS0xNSAxNDowMzo0MF96ZXBhZG92YW5p"
+             Author="zepadovani" Timestamp="2021-09-15 14:03:40" Description="planifolia[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/zepadovani/software/planifolia/0.1/planifolia[v0.1].dek">
+      <Objects>
+        <Object Name="any.=="/>
+        <Object Name="array.binop"/>
+        <Object Name="array.rand"/>
+        <Object Name="array.unop"/>
+        <Object Name="ls.binop"/>
+        <Object Name="ls.butlast"/>
+        <Object Name="ls.choose"/>
+        <Object Name="ls.getRotate"/>
+        <Object Name="ls.group"/>
+        <Object Name="ls.iter"/>
+        <Object Name="ls.last"/>
+        <Object Name="ls.max"/>
+        <Object Name="ls.mean"/>
+        <Object Name="ls.min"/>
+        <Object Name="ls.mode"/>
+        <Object Name="ls.quicksort"/>
+        <Object Name="ls.removeAt"/>
+        <Object Name="ls.rotate"/>
+        <Object Name="ls.scramble"/>
+        <Object Name="ls.ser.arithm"/>
+        <Object Name="ls.splice"/>
+        <Object Name="ls.unop"/>
+        <Object Name="mtxgui"/>
+        <Object Name="mtxstep"/>
+        <Object Name="slash.oscformat"/>
+        <Object Name="slash.oscroute"/>
+        <Object Name="symbol.=="/>
+        <Object Name="symbol.split"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="jmmmp">
+    <Package ID="am1tbXBfMC42MV8yMDIxLTA1LTI2IDIzOjE4OjI5X2ptbW1w" Author="jmmmp"
+             Timestamp="2021-05-26 23:18:29" Description="jmmmp library - v0.61"
+             Version="0.61" URL="http://puredata.info/downloads/jmmmp/releases/0.61/jmmmp-v0.61--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="am1tbXBfMC42MF8yMDIwLTA4LTMwIDAwOjM1OjUyX2ptbW1w" Author="jmmmp"
+             Timestamp="2020-08-30 00:35:52" Description="jmmmp library - v0.60"
+             Version="0.60" URL="http://puredata.info/downloads/jmmmp/releases/0.60/jmmmp-v0.60--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="am1tbXBfMC41OV8yMDIwLTA4LTAxIDE4OjU3OjMzX2ptbW1w" Author="jmmmp"
+             Timestamp="2020-08-01 18:57:33" Description="jmmmp library - v0.59"
+             Version="0.59" URL="http://puredata.info/downloads/jmmmp/releases/0.59/jmmmp-v0.59--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="am1tbXBfMC41OC5leHRlbmRlZF8yMDIwLTAxLTExIDE2OjI3OjUxX2ptbW1w"
+             Author="jmmmp" Timestamp="2020-01-11 16:27:51" Description="jmmmp/0.58.extended (jmmmp library - v0.58)"
+             Version="0.58.extended" URL="http://puredata.info/downloads/jmmmp/releases/0.58/jmmmp-v0.58.extended--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="am1tbXBfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6MjM6MjNfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-08-07 14:23:23" Description="jmmmp-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/jmmmp/jmmmp-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="list-abs">
+    <Package ID="bGlzdC1hYnNfMC4xLTIwMTUwNTI5aWVtXzIwMTYtMDgtMzAgMTQ6Mzk6NDNfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2016-08-30 14:39:43" Description="list-abs-v0.1-20150529iem--externals.zip"
+             Version="0.1-20150529iem" URL="http://puredata.info/Members/zmoelnig/software/iem/20150529.2247/list-abs-v0.1-20150529iem--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="bGlzdC1hYnNfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6MDg6MDdfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-08-07 14:08:07" Description="list-abs-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/list-abs/list-abs-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="vabs">
+    <Package ID="dmFic18wLjFfMjAxNi0wMy0xMCAxOTozNDo0OV9hbmdlbGZhcmFsZG8="
+             Author="angelfaraldo" Timestamp="2016-03-10 19:34:49" Description="vabs-v0.1--externals.zip"
+             Version="0.1" URL="http://puredata.info/downloads/vabs/releases/0.1/vabs-v0.1--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="upp">
+    <Package ID="dXBwXzAuMi4wXzIwMjItMDgtMjEgMDA6MDA6MTVfdGhvbWFz" Author="thomas"
+             Timestamp="2022-08-21 00:00:15" Description="upp[v0.2.0].dek"
+             Version="0.2.0" URL="http://puredata.info/Members/thomas/software/upp/0.2.0/upp[v0.2.0].dek">
+      <Objects>
+        <Object Name="upp.delay"/>
+        <Object Name="upp.delay~"/>
+        <Object Name="upp.dirac~"/>
+        <Object Name="upp.dspintv"/>
+        <Object Name="upp.ramp~"/>
+        <Object Name="upp.schedule"/>
+        <Object Name="upp.tabread2~"/>
+        <Object Name="upp.tabread4~"/>
+        <Object Name="upp.vline~"/>
+        <Object Name="upp.xfade~"/>
+      </Objects>
+    </Package>
+    <Package ID="dXBwXzAuMS4wXzIwMjItMDItMTUgMjI6NTY6NTBfdGhvbWFz" Author="thomas"
+             Timestamp="2022-02-15 22:56:50" Description="upp[v0.1.0].dek"
+             Version="0.1.0" URL="http://puredata.info/Members/thomas/software/upp/0.1.0/upp[v0.1.0].dek">
+      <Objects>
+        <Object Name="upp.delay"/>
+        <Object Name="upp.delay~"/>
+        <Object Name="upp.dirac~"/>
+        <Object Name="upp.dspintv"/>
+        <Object Name="upp.ramp~"/>
+        <Object Name="upp.schedule"/>
+        <Object Name="upp.tabread2~"/>
+        <Object Name="upp.tabread4~"/>
+        <Object Name="upp.vline~"/>
+        <Object Name="upp.xfade~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="martha~">
+    <Package ID="bWFydGhhfl8wLjZfMjAxOC0wMy0yNCAxOTo0Njo0OV93bWJyZW50" Author="wmbrent"
+             Timestamp="2018-03-24 19:46:49" Description="martha~[v0.6].dek"
+             Version="0.6" URL="http://puredata.info/Members/wmbrent/software/martha~/0.6/martha~[v0.6].dek">
+      <Objects>
+        <Object Name="martha~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="iem_vanilla">
+    <Package ID="aWVtX3ZhbmlsbGFfMS4wMF8yMDIwLTEwLTMwIDE1OjM5OjI5X211c2ls"
+             Author="musil" Timestamp="2020-10-30 15:39:29" Description="iem_vanilla[v1.00].dek"
+             Version="1.00" URL="http://puredata.info/Members/musil/software/iem_vanilla/iem_vanilla[v1.00].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="lolPd">
+    <Package ID="bG9sUGRfMC4zXzIwMTYtMTItMDIgMDU6MTI6NTlfY2hyMTVt" Author="chr15m"
+             Timestamp="2016-12-02 05:12:59" Description="lolPd-v0.3--externals.zip"
+             Version="0.3" URL="http://puredata.info/Members/chr15m/software/lolPd/0.3/lolPd-v0.3--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="bG9sUGRfMC4yXzIwMTYtMTEtMTcgMTc6MDU6NDVfY2hyMTVt" Author="chr15m"
+             Timestamp="2016-11-17 17:05:45" Description="lolPd-v0.2--externals.zip"
+             Version="0.2" URL="http://puredata.info/Members/chr15m/software/lolPd/0.2/lolPd-v0.2--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="bG9sUGRfMC4xXzIwMTYtMDctMTAgMTU6MTU6NTJfY2hyMTVt" Author="chr15m"
+             Timestamp="2016-07-10 15:15:52" Description="lolPd-v0.1--externals.zip"
+             Version="0.1" URL="http://puredata.info/Members/chr15m/software/lolPd/0.1/lolPd-v0.1--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="la-kitchen">
+    <Package ID="bGEta2l0Y2hlbl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNDo1MjozNF9jaHIxNW0="
+             Author="chr15m" Timestamp="2015-08-07 14:52:34" Description="la-kitchen-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/la-kitchen/la-kitchen-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="kiosk-plugin">
+    <Package ID="a2lvc2stcGx1Z2luXzAuNF8yMDIxLTA1LTAzIDA4OjU5OjQ2X2llbWJvdA=="
+             Author="iembot" Timestamp="2021-05-03 08:59:46" Description="kiosk-plugin[v0.4].dek"
+             Version="0.4" URL="http://puredata.info/Members/iembot/software/kiosk-plugin/0.4/kiosk-plugin[v0.4].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="mapping">
+    <Package ID="bWFwcGluZ18wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNDo0NToxMV9jaHIxNW0="
+             Author="chr15m" Timestamp="2015-08-07 14:45:11" Description="mapping-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/mapping/mapping-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="deken-plugin">
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS40XzIwMjItMDktMDIgMjM6MTA6NDBfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2022-09-02 23:10:40" Description="deken-plugin[v0.9.4].dek"
+             Version="0.9.4" URL="http://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.4/deken-plugin[v0.9.4].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4yXzIwMjItMDYtMDEgMTE6NTQ6MjFfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2022-06-01 11:54:21" Description="deken-plugin[v0.9.2].dek"
+             Version="0.9.2" URL="http://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.2/deken-plugin[v0.9.2].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOV8yMDIyLTA1LTIxIDE2OjE4OjMzX3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2022-05-21 16:18:33" Description="deken-plugin[v0.9].dek"
+             Version="0.9" URL="http://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9/deken-plugin[v0.9].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOC4wXzIwMjEtMDYtMTYgMjI6MDE6MzZfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2021-06-16 22:01:36" Description="deken-plugin[v0.8.0].dek"
+             Version="0.8.0" URL="http://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.8.0/deken-plugin[v0.8.0].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuNy44XzIwMjEtMDMtMjIgMTU6MjA6MjVfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2021-03-22 15:20:25" Description="deken-plugin[v0.7.8].dek"
+             Version="0.7.8" URL="http://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.7.8/deken-plugin[v0.7.8].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuNy42XzIwMjEtMDMtMTAgMTI6MTQ6MDJfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2021-03-10 12:14:02" Description="deken-plugin[v0.7.6].dek"
+             Version="0.7.6" URL="http://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.7.6/deken-plugin[v0.7.6].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuNy40XzIwMjEtMDMtMDkgMjM6NDE6MzZfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2021-03-09 23:41:36" Description="deken-plugin[v0.7.4].dek"
+             Version="0.7.4" URL="http://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.7.4/deken-plugin[v0.7.4].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuNy4yXzIwMjEtMDMtMDUgMTY6NTA6MzFfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2021-03-05 16:50:31" Description="deken-plugin[v0.7.2].dek"
+             Version="0.7.2" URL="http://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.7.2/deken-plugin[v0.7.2].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuNy4xXzIwMjEtMDMtMDMgMTg6MzI6NDJfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2021-03-03 18:32:42" Description="deken-plugin[v0.7.1].dek"
+             Version="0.7.1" URL="http://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.7.1/deken-plugin[v0.7.1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuNS4wXzIwMTgtMDYtMDUgMjE6Mzg6MTBfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2018-06-05 21:38:10" Description="deken-plugin/0.5.0 (Deken externals downloader)"
+             Version="0.5.0" URL="http://puredata.info/downloads/deken/releases/0.5.0/deken-plugin-v0.5.0--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuMy4xXzIwMTgtMDQtMDUgMTI6MDA6MjZfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2018-04-05 12:00:26" Description="deken-plugin/0.3.1 (Deken externals downloader - MINIMUM VERSION REQUIRED FOR NEW PACKAGES)"
+             Version="0.3.1" URL="http://puredata.info/downloads/deken/releases/0.3.1/deken-plugin-v0.3.1--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuNC4xXzIwMTgtMDQtMDUgMTE6NTk6NTlfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2018-04-05 11:59:59" Description="deken-plugin/0.4.1 (Deken externals downloader)"
+             Version="0.4.1" URL="http://puredata.info/downloads/deken/releases/0.4.1/deken-plugin-v0.4.1--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="nsend">
+    <Package ID="bnNlbmRfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mzk6NTRfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-08-07 14:39:54" Description="nsend-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/nsend/nsend-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="scrollpage-plugin">
+    <Package ID="c2Nyb2xscGFnZS1wbHVnaW5fMC4xXzIwMjItMDctMTMgMjI6MTQ6MDNfaWVtYm90"
+             Author="iembot" Timestamp="2022-07-13 22:14:03" Description="scrollpage-plugin[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/iembot/software/scrollpage-plugin/0.1/scrollpage-plugin[v0.1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+</Windows-arm64-64>
