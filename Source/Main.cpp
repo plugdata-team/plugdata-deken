@@ -22,7 +22,7 @@ static StringArray getCompatibleArchitectures(String platform)
         {
             for(const auto floatsize : {"32", "64"})
             {
-                for(const auto os : {"Windows", "Mac", "Linux"})
+                for(const auto os : {"Windows", "Darwin", "Linux"})
                 {
                     for(const auto& target : targets)
                     {
