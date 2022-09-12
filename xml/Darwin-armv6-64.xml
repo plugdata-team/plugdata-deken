@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<Mac-ppc-32>
+<Darwin-armv6-64>
   <Packages Name="unicode">
     <Package ID="dW5pY29kZV8wLjEuMF8yMDIxLTAzLTIyIDE2OjQxOjA4X3ptb2VsbmlnYm90"
              Author="zmoelnigbot" Timestamp="2021-03-22 16:41:08" Description="unicode[v0.1.0].dek"
@@ -1295,4 +1295,4 @@
       <Objects/>
     </Package>
   </Packages>
-</Mac-ppc-32>
+</Darwin-armv6-64>
