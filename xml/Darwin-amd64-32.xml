@@ -936,6 +936,15 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="py4pd">
+    <Package ID="cHk0cGRfMC4wLjJfMjAyMi0xMC0wMyAyMDo0Nzo1MV9jaGFybGVzbmVpbW9n"
+             Author="charlesneimog" Timestamp="2022-10-03 20:47:51" Description="py4pd[v0.0.2](Darwin-amd64-32)(Sources).dek"
+             Version="0.0.2" URL="http://puredata.info/Members/charlesneimog/software/py4pd/0.0.2/py4pd[v0.0.2](Darwin-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="py4pd"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="puremapping">
     <Package ID="cHVyZW1hcHBpbmdfMC4wXzIwMTctMDMtMTMgMjM6MDM6MDRfYXZpbGxlcmV0"
              Author="avilleret" Timestamp="2017-03-13 23:03:04" Description="puremapping-v0.0--externals.zip"
