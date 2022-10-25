@@ -1269,6 +1269,43 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="nusmuk-audio">
+    <Package ID="bnVzbXVrLWF1ZGlvXzIwMTVfMjAxOS0wMy0xMyAxMDoxMToxMl9jaG5yeQ=="
+             Author="chnry" Timestamp="2019-03-13 10:11:12" Description="nusmuk-audio[v2015](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-i386-32)(Sources).dek"
+             Version="2015" URL="http://puredata.info/Members/chnry/software/nusmuk-audio/2015/nusmuk-audio[v2015](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-i386-32)(Sources).dek">
+      <Objects>
+        <Object Name="30_bands_stereo_eq"/>
+        <Object Name="ADSR"/>
+        <Object Name="bq_coef_bp"/>
+        <Object Name="bq_coef_highshelf"/>
+        <Object Name="bq_coef_hip"/>
+        <Object Name="bq_coef_lop"/>
+        <Object Name="bq_coef_lowshelf"/>
+        <Object Name="bq_coef_notch"/>
+        <Object Name="bq_coef_peak"/>
+        <Object Name="bq_coef_peak_BW"/>
+        <Object Name="bq_list~"/>
+        <Object Name="bq~"/>
+        <Object Name="compress_limit_sidechain~"/>
+        <Object Name="compress_limit~"/>
+        <Object Name="distortion2~"/>
+        <Object Name="distortion~"/>
+        <Object Name="echo~"/>
+        <Object Name="filter~"/>
+        <Object Name="granulator~"/>
+        <Object Name="median~"/>
+        <Object Name="oscillo~"/>
+        <Object Name="pwm~"/>
+        <Object Name="saw2~"/>
+        <Object Name="saw~"/>
+        <Object Name="spatialisation~"/>
+        <Object Name="tabosc4c~"/>
+        <Object Name="tabosci~"/>
+        <Object Name="tabread4c~"/>
+        <Object Name="triangle~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="jpcvisu">
     <Package ID="anBjdmlzdV8wLjFfMjAxOC0wMy0wMSAxMTozODowNV9qcGNpbWE=" Author="jpcima"
              Timestamp="2018-03-01 11:38:05" Description="jpcvisu-v0.1-(Sources)(Windows-i386-32)-externals.zip"
@@ -12679,43 +12716,6 @@
              Version="0.0.0" URL="http://puredata.info/Members/lucarda/software/nicinfo/0.0.0/nicinfo[v0.0.0](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
       <Objects>
         <Object Name="nicinfo"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="nusmuk-audio">
-    <Package ID="bnVzbXVrLWF1ZGlvXzIwMTVfMjAxOS0wMy0xMyAxMDoxMToxMl9jaG5yeQ=="
-             Author="chnry" Timestamp="2019-03-13 10:11:12" Description="nusmuk-audio[v2015](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-i386-32)(Sources).dek"
-             Version="2015" URL="http://puredata.info/Members/chnry/software/nusmuk-audio/2015/nusmuk-audio[v2015](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-i386-32)(Sources).dek">
-      <Objects>
-        <Object Name="30_bands_stereo_eq"/>
-        <Object Name="ADSR"/>
-        <Object Name="bq_coef_bp"/>
-        <Object Name="bq_coef_highshelf"/>
-        <Object Name="bq_coef_hip"/>
-        <Object Name="bq_coef_lop"/>
-        <Object Name="bq_coef_lowshelf"/>
-        <Object Name="bq_coef_notch"/>
-        <Object Name="bq_coef_peak"/>
-        <Object Name="bq_coef_peak_BW"/>
-        <Object Name="bq_list~"/>
-        <Object Name="bq~"/>
-        <Object Name="compress_limit_sidechain~"/>
-        <Object Name="compress_limit~"/>
-        <Object Name="distortion2~"/>
-        <Object Name="distortion~"/>
-        <Object Name="echo~"/>
-        <Object Name="filter~"/>
-        <Object Name="granulator~"/>
-        <Object Name="median~"/>
-        <Object Name="oscillo~"/>
-        <Object Name="pwm~"/>
-        <Object Name="saw2~"/>
-        <Object Name="saw~"/>
-        <Object Name="spatialisation~"/>
-        <Object Name="tabosc4c~"/>
-        <Object Name="tabosci~"/>
-        <Object Name="tabread4c~"/>
-        <Object Name="triangle~"/>
       </Objects>
     </Package>
   </Packages>
