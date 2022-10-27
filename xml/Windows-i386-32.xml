@@ -1306,6 +1306,41 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="windowing">
+    <Package ID="d2luZG93aW5nXzAuMi4wXzIwMTktMTItMjggMjE6MjQ6MjhfZmprcmFhbg=="
+             Author="fjkraan" Timestamp="2019-12-28 21:24:28" Description="windowing[v0.2.0](Windows-i386-32)(Sources).dek"
+             Version="0.2.0" URL="http://puredata.info/Members/fjkraan/software/windowing/0.2.0/windowing[v0.2.0](Windows-i386-32)(Sources).dek">
+      <Objects>
+        <Object Name="bartlett"/>
+        <Object Name="blackman"/>
+        <Object Name="connes"/>
+        <Object Name="cosine"/>
+        <Object Name="gaussian"/>
+        <Object Name="hamming"/>
+        <Object Name="hanning"/>
+        <Object Name="kaiser"/>
+        <Object Name="lanczos"/>
+        <Object Name="welch"/>
+      </Objects>
+    </Package>
+    <Package ID="d2luZG93aW5nXzAuMS4xLTIwMTUwNTI5aWVtXzIwMTYtMDgtMzAgMTQ6NTE6NTlfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2016-08-30 14:51:59" Description="windowing-v0.1.1-20150529iem-(Windows-i386-32)-externals.zip"
+             Version="0.1.1-20150529iem" URL="http://puredata.info/Members/zmoelnig/software/iem/20150529.2247/windowing-v0.1.1-20150529iem-(Windows-i386-32)-externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="d2luZG93aW5nXzAuMC5leHRlbmRlZF8yMDE1LTA3LTMwIDE0OjUxOjQ1X2NocjE1bQ=="
+             Author="chr15m" Timestamp="2015-07-30 14:51:45" Description="windowing-v0.0.extended-(Windows-i386-32)-externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/windowing/windowing-v0.0.extended-(Windows-i386-32)-externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="nsend">
+    <Package ID="bnNlbmRfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mzk6NTRfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-08-07 14:39:54" Description="nsend-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/nsend/nsend-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="jpcvisu">
     <Package ID="anBjdmlzdV8wLjFfMjAxOC0wMy0wMSAxMTozODowNV9qcGNpbWE=" Author="jpcima"
              Timestamp="2018-03-01 11:38:05" Description="jpcvisu-v0.1-(Sources)(Windows-i386-32)-externals.zip"
@@ -1351,15 +1386,6 @@
              Author="chr15m" Timestamp="2015-07-30 15:15:12" Description="cxc-v0.0.extended-(Windows-i386-32)-externals.zip"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/cxc/cxc-v0.0.extended-(Windows-i386-32)-externals.zip">
       <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="absattr">
-    <Package ID="YWJzYXR0cl8wLjIuM18yMDIwLTAzLTA0IDEzOjM2OjIwX3Rob21hcw=="
-             Author="thomas" Timestamp="2020-03-04 13:36:20" Description="absattr[v0.2.3](Windows-i386-32).dek"
-             Version="0.2.3" URL="http://puredata.info/Members/thomas/software/absattr/0.2.3/absattr[v0.2.3](Windows-i386-32).dek">
-      <Objects>
-        <Object Name="absattr"/>
-      </Objects>
     </Package>
   </Packages>
   <Packages Name="creb">
@@ -4423,6 +4449,13 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="chaos">
+    <Package ID="Y2hhb3NfMC4wLmV4dGVuZGVkXzIwMTUtMDctMzAgMTU6MjU6NTJfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-07-30 15:25:52" Description="chaos-v0.0.extended-(Windows-i386-32)-externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/chaos/chaos-v0.0.extended-(Windows-i386-32)-externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="pix_drum">
     <Package ID="cGl4X2RydW1fMC4wLmV4dGVuZGVkXzIwMTUtMDctMzAgMTU6MjA6MjdfY2hyMTVt"
              Author="chr15m" Timestamp="2015-07-30 15:20:27" Description="pix_drum-v0.0.extended-(Windows-i386-32)-externals.zip"
@@ -4437,11 +4470,13 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="chaos">
-    <Package ID="Y2hhb3NfMC4wLmV4dGVuZGVkXzIwMTUtMDctMzAgMTU6MjU6NTJfY2hyMTVt"
-             Author="chr15m" Timestamp="2015-07-30 15:25:52" Description="chaos-v0.0.extended-(Windows-i386-32)-externals.zip"
-             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/chaos/chaos-v0.0.extended-(Windows-i386-32)-externals.zip">
-      <Objects/>
+  <Packages Name="absattr">
+    <Package ID="YWJzYXR0cl8wLjIuM18yMDIwLTAzLTA0IDEzOjM2OjIwX3Rob21hcw=="
+             Author="thomas" Timestamp="2020-03-04 13:36:20" Description="absattr[v0.2.3](Windows-i386-32).dek"
+             Version="0.2.3" URL="http://puredata.info/Members/thomas/software/absattr/0.2.3/absattr[v0.2.3](Windows-i386-32).dek">
+      <Objects>
+        <Object Name="absattr"/>
+      </Objects>
     </Package>
   </Packages>
   <Packages Name="Gem">
@@ -8867,6 +8902,58 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="array-abs">
+    <Package ID="YXJyYXktYWJzXzAuMC4wXzIwMjItMTAtMjYgMTU6NTY6NDNfd21icmVudA=="
+             Author="wmbrent" Timestamp="2022-10-26 15:56:43" Description="array-abs[v0.0.0].dek"
+             Version="0.0.0" URL="http://puredata.info/Members/wmbrent/software/array-abs/0.0.0/array-abs[v0.0.0].dek">
+      <Objects>
+        <Object Name="array-abs-val"/>
+        <Object Name="array-append"/>
+        <Object Name="array-between"/>
+        <Object Name="array-bintofreq"/>
+        <Object Name="array-ceil"/>
+        <Object Name="array-clip"/>
+        <Object Name="array-copy"/>
+        <Object Name="array-copy-range"/>
+        <Object Name="array-dbtorms"/>
+        <Object Name="array-delete"/>
+        <Object Name="array-drip"/>
+        <Object Name="array-equals"/>
+        <Object Name="array-floor"/>
+        <Object Name="array-freqtobin"/>
+        <Object Name="array-ftom"/>
+        <Object Name="array-geomean"/>
+        <Object Name="array-greater"/>
+        <Object Name="array-insert"/>
+        <Object Name="array-lesser"/>
+        <Object Name="array-maxk"/>
+        <Object Name="array-mean"/>
+        <Object Name="array-median"/>
+        <Object Name="array-mink"/>
+        <Object Name="array-mode"/>
+        <Object Name="array-mtof"/>
+        <Object Name="array-nearest"/>
+        <Object Name="array-offset"/>
+        <Object Name="array-pow"/>
+        <Object Name="array-prepend"/>
+        <Object Name="array-rand-fill"/>
+        <Object Name="array-random-walk"/>
+        <Object Name="array-range"/>
+        <Object Name="array-reverse"/>
+        <Object Name="array-rmstodb"/>
+        <Object Name="array-round"/>
+        <Object Name="array-scale"/>
+        <Object Name="array-scramble"/>
+        <Object Name="array-series"/>
+        <Object Name="array-shift"/>
+        <Object Name="array-shift0"/>
+        <Object Name="array-sort"/>
+        <Object Name="array-std"/>
+        <Object Name="array-unique"/>
+        <Object Name="array-window"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="purepd">
     <Package ID="cHVyZXBkXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE1OjA2OjEyX2NocjE1bQ=="
              Author="chr15m" Timestamp="2015-08-07 15:06:12" Description="purepd-v0.0.extended--externals.zip"
@@ -9639,6 +9726,26 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="Jamoma">
+    <Package ID="SmFtb21hXzEuMC1iZXRhM18yMDE2LTAzLTE1IDEwOjQ2OjQ4X2F2aWxsZXJldA=="
+             Author="avilleret" Timestamp="2016-03-15 10:46:48" Description="Jamoma-v1.0-beta3-(Windows-i386-32)-externals.zip"
+             Version="1.0-beta3" URL="http://puredata.info/Members/avilleret/software/Jamoma/1.0-beta3/Jamoma-v1.0-beta3-(Windows-i386-32)-externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="bf-pd">
+    <Package ID="YmYtcGRfMS4wXzIwMjEtMDgtMDMgMTI6MTQ6MTZfZmJlcnRoYXV0" Author="fberthaut"
+             Timestamp="2021-08-03 12:14:16" Description="bf-pd[v1.0].dek"
+             Version="1.0" URL="http://puredata.info/Members/fberthaut/software/bf-pd/1.0/bf-pd[v1.0].dek">
+      <Objects>
+        <Object Name="bf-clock"/>
+        <Object Name="bf-instrument"/>
+        <Object Name="bf-output"/>
+        <Object Name="bf-param"/>
+        <Object Name="boeuf"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="art_net">
     <Package ID="YXJ0X25ldF8yMDE5XzIwMTktMDQtMDMgMTY6NTQ6MzNfY2hucnk=" Author="chnry"
              Timestamp="2019-04-03 16:54:33" Description="art_net[v2019].dek"
@@ -10147,26 +10254,6 @@
         <Object Name="xnoteout"/>
         <Object Name="zerox~"/>
         <Object Name="zl"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="Jamoma">
-    <Package ID="SmFtb21hXzEuMC1iZXRhM18yMDE2LTAzLTE1IDEwOjQ2OjQ4X2F2aWxsZXJldA=="
-             Author="avilleret" Timestamp="2016-03-15 10:46:48" Description="Jamoma-v1.0-beta3-(Windows-i386-32)-externals.zip"
-             Version="1.0-beta3" URL="http://puredata.info/Members/avilleret/software/Jamoma/1.0-beta3/Jamoma-v1.0-beta3-(Windows-i386-32)-externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="bf-pd">
-    <Package ID="YmYtcGRfMS4wXzIwMjEtMDgtMDMgMTI6MTQ6MTZfZmJlcnRoYXV0" Author="fberthaut"
-             Timestamp="2021-08-03 12:14:16" Description="bf-pd[v1.0].dek"
-             Version="1.0" URL="http://puredata.info/Members/fberthaut/software/bf-pd/1.0/bf-pd[v1.0].dek">
-      <Objects>
-        <Object Name="bf-clock"/>
-        <Object Name="bf-instrument"/>
-        <Object Name="bf-output"/>
-        <Object Name="bf-param"/>
-        <Object Name="boeuf"/>
       </Objects>
     </Package>
   </Packages>
@@ -12602,41 +12689,6 @@
       <Objects>
         <Object Name="midifile"/>
       </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="windowing">
-    <Package ID="d2luZG93aW5nXzAuMi4wXzIwMTktMTItMjggMjE6MjQ6MjhfZmprcmFhbg=="
-             Author="fjkraan" Timestamp="2019-12-28 21:24:28" Description="windowing[v0.2.0](Windows-i386-32)(Sources).dek"
-             Version="0.2.0" URL="http://puredata.info/Members/fjkraan/software/windowing/0.2.0/windowing[v0.2.0](Windows-i386-32)(Sources).dek">
-      <Objects>
-        <Object Name="bartlett"/>
-        <Object Name="blackman"/>
-        <Object Name="connes"/>
-        <Object Name="cosine"/>
-        <Object Name="gaussian"/>
-        <Object Name="hamming"/>
-        <Object Name="hanning"/>
-        <Object Name="kaiser"/>
-        <Object Name="lanczos"/>
-        <Object Name="welch"/>
-      </Objects>
-    </Package>
-    <Package ID="d2luZG93aW5nXzAuMS4xLTIwMTUwNTI5aWVtXzIwMTYtMDgtMzAgMTQ6NTE6NTlfem1vZWxuaWc="
-             Author="zmoelnig" Timestamp="2016-08-30 14:51:59" Description="windowing-v0.1.1-20150529iem-(Windows-i386-32)-externals.zip"
-             Version="0.1.1-20150529iem" URL="http://puredata.info/Members/zmoelnig/software/iem/20150529.2247/windowing-v0.1.1-20150529iem-(Windows-i386-32)-externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="d2luZG93aW5nXzAuMC5leHRlbmRlZF8yMDE1LTA3LTMwIDE0OjUxOjQ1X2NocjE1bQ=="
-             Author="chr15m" Timestamp="2015-07-30 14:51:45" Description="windowing-v0.0.extended-(Windows-i386-32)-externals.zip"
-             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/windowing/windowing-v0.0.extended-(Windows-i386-32)-externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="nsend">
-    <Package ID="bnNlbmRfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mzk6NTRfY2hyMTVt"
-             Author="chr15m" Timestamp="2015-08-07 14:39:54" Description="nsend-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/nsend/nsend-v0.0.extended--externals.zip">
-      <Objects/>
     </Package>
   </Packages>
   <Packages Name="scrollpage-plugin">

@@ -2471,6 +2471,41 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="windowing">
+    <Package ID="d2luZG93aW5nXzAuMi4wXzIwMTktMTItMjggMjE6MjE6MjNfZmprcmFhbg=="
+             Author="fjkraan" Timestamp="2019-12-28 21:21:23" Description="windowing[v0.2.0](Darwin-amd64-32)(Darwin-i386-32)(Sources).dek"
+             Version="0.2.0" URL="http://puredata.info/Members/fjkraan/software/windowing/0.2.0/windowing[v0.2.0](Darwin-amd64-32)(Darwin-i386-32)(Sources).dek">
+      <Objects>
+        <Object Name="bartlett"/>
+        <Object Name="blackman"/>
+        <Object Name="connes"/>
+        <Object Name="cosine"/>
+        <Object Name="gaussian"/>
+        <Object Name="hamming"/>
+        <Object Name="hanning"/>
+        <Object Name="kaiser"/>
+        <Object Name="lanczos"/>
+        <Object Name="welch"/>
+      </Objects>
+    </Package>
+    <Package ID="d2luZG93aW5nXzAuMS4xLTIwMTUwNTI5aWVtXzIwMTYtMDgtMzAgMTQ6Mzc6MzJfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2016-08-30 14:37:32" Description="windowing-v0.1.1-20150529iem-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0.1.1-20150529iem" URL="http://puredata.info/Members/zmoelnig/software/iem/20150529.2247/windowing-v0.1.1-20150529iem-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+    <Package ID="d2luZG93aW5nXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MzU6NDVfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:35:45" Description="windowing-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/windowing/0-0extended/windowing-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="nsend">
+    <Package ID="bnNlbmRfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mzk6NTRfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-08-07 14:39:54" Description="nsend-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/nsend/nsend-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="faustgen~">
     <Package ID="ZmF1c3RnZW5+XzAuMS4yXzIwMjAtMDgtMDMgMTc6Mzg6MjVfcGllcnJlZ2x0"
              Author="pierreglt" Timestamp="2020-08-03 17:38:25" Description="faustgen~[v0.1.2](Darwin-amd64-32)(Sources).dek"
@@ -2545,27 +2580,6 @@
     <Package ID="Y3hjXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MTY6NDFfem1vZWxuaWc="
              Author="zmoelnig" Timestamp="2015-12-10 14:16:41" Description="cxc-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/cxc/0-0extended/cxc-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="absattr">
-    <Package ID="YWJzYXR0cl8wLjIuM18yMDIyLTAyLTE2IDE4OjU1OjM4X3Rob21hcw=="
-             Author="thomas" Timestamp="2022-02-16 18:55:38" Description="absattr[v0.2.3](Darwin-amd64-32)(Darwin-arm64-32).dek"
-             Version="0.2.3" URL="http://puredata.info/Members/thomas/software/absattr/0.2.3/absattr[v0.2.3](Darwin-amd64-32)(Darwin-arm64-32).dek">
-      <Objects>
-        <Object Name="absattr"/>
-      </Objects>
-    </Package>
-    <Package ID="YWJzYXR0cl8wLjIuM18yMDIwLTAzLTA0IDAwOjUzOjAwX3Rob21hcw=="
-             Author="thomas" Timestamp="2020-03-04 00:53:00" Description="absattr[v0.2.3](Darwin-amd64-32)(Darwin-i386-32).dek"
-             Version="0.2.3" URL="http://puredata.info/Members/thomas/software/absattr/0.2.3/absattr[v0.2.3](Darwin-amd64-32)(Darwin-i386-32).dek">
-      <Objects>
-        <Object Name="absattr"/>
-      </Objects>
-    </Package>
-    <Package ID="YWJzYXR0cl8wLjIuMV8yMDE3LTA1LTA5IDExOjAzOjA2X3Rob21hcw=="
-             Author="thomas" Timestamp="2017-05-09 11:03:06" Description="absattr-v0.2.1-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0.2.1" URL="http://puredata.info/Members/thomas/software/absattr/0.2.1/absattr-v0.2.1-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz">
       <Objects/>
     </Package>
   </Packages>
@@ -9991,6 +10005,13 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="chaos">
+    <Package ID="Y2hhb3NfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxNTozNF96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:15:34" Description="chaos-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/chaos/0-0extended/chaos-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="pix_drum">
     <Package ID="cGl4X2RydW1fMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDozMToyM196bW9lbG5pZw=="
              Author="zmoelnig" Timestamp="2015-12-10 14:31:23" Description="pix_drum-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
@@ -10005,10 +10026,24 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="chaos">
-    <Package ID="Y2hhb3NfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxNTozNF96bW9lbG5pZw=="
-             Author="zmoelnig" Timestamp="2015-12-10 14:15:34" Description="chaos-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/chaos/0-0extended/chaos-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+  <Packages Name="absattr">
+    <Package ID="YWJzYXR0cl8wLjIuM18yMDIyLTAyLTE2IDE4OjU1OjM4X3Rob21hcw=="
+             Author="thomas" Timestamp="2022-02-16 18:55:38" Description="absattr[v0.2.3](Darwin-amd64-32)(Darwin-arm64-32).dek"
+             Version="0.2.3" URL="http://puredata.info/Members/thomas/software/absattr/0.2.3/absattr[v0.2.3](Darwin-amd64-32)(Darwin-arm64-32).dek">
+      <Objects>
+        <Object Name="absattr"/>
+      </Objects>
+    </Package>
+    <Package ID="YWJzYXR0cl8wLjIuM18yMDIwLTAzLTA0IDAwOjUzOjAwX3Rob21hcw=="
+             Author="thomas" Timestamp="2020-03-04 00:53:00" Description="absattr[v0.2.3](Darwin-amd64-32)(Darwin-i386-32).dek"
+             Version="0.2.3" URL="http://puredata.info/Members/thomas/software/absattr/0.2.3/absattr[v0.2.3](Darwin-amd64-32)(Darwin-i386-32).dek">
+      <Objects>
+        <Object Name="absattr"/>
+      </Objects>
+    </Package>
+    <Package ID="YWJzYXR0cl8wLjIuMV8yMDE3LTA1LTA5IDExOjAzOjA2X3Rob21hcw=="
+             Author="thomas" Timestamp="2017-05-09 11:03:06" Description="absattr-v0.2.1-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0.2.1" URL="http://puredata.info/Members/thomas/software/absattr/0.2.1/absattr-v0.2.1-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz">
       <Objects/>
     </Package>
   </Packages>
@@ -16363,6 +16398,58 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="array-abs">
+    <Package ID="YXJyYXktYWJzXzAuMC4wXzIwMjItMTAtMjYgMTU6NTY6NDNfd21icmVudA=="
+             Author="wmbrent" Timestamp="2022-10-26 15:56:43" Description="array-abs[v0.0.0].dek"
+             Version="0.0.0" URL="http://puredata.info/Members/wmbrent/software/array-abs/0.0.0/array-abs[v0.0.0].dek">
+      <Objects>
+        <Object Name="array-abs-val"/>
+        <Object Name="array-append"/>
+        <Object Name="array-between"/>
+        <Object Name="array-bintofreq"/>
+        <Object Name="array-ceil"/>
+        <Object Name="array-clip"/>
+        <Object Name="array-copy"/>
+        <Object Name="array-copy-range"/>
+        <Object Name="array-dbtorms"/>
+        <Object Name="array-delete"/>
+        <Object Name="array-drip"/>
+        <Object Name="array-equals"/>
+        <Object Name="array-floor"/>
+        <Object Name="array-freqtobin"/>
+        <Object Name="array-ftom"/>
+        <Object Name="array-geomean"/>
+        <Object Name="array-greater"/>
+        <Object Name="array-insert"/>
+        <Object Name="array-lesser"/>
+        <Object Name="array-maxk"/>
+        <Object Name="array-mean"/>
+        <Object Name="array-median"/>
+        <Object Name="array-mink"/>
+        <Object Name="array-mode"/>
+        <Object Name="array-mtof"/>
+        <Object Name="array-nearest"/>
+        <Object Name="array-offset"/>
+        <Object Name="array-pow"/>
+        <Object Name="array-prepend"/>
+        <Object Name="array-rand-fill"/>
+        <Object Name="array-random-walk"/>
+        <Object Name="array-range"/>
+        <Object Name="array-reverse"/>
+        <Object Name="array-rmstodb"/>
+        <Object Name="array-round"/>
+        <Object Name="array-scale"/>
+        <Object Name="array-scramble"/>
+        <Object Name="array-series"/>
+        <Object Name="array-shift"/>
+        <Object Name="array-shift0"/>
+        <Object Name="array-sort"/>
+        <Object Name="array-std"/>
+        <Object Name="array-unique"/>
+        <Object Name="array-window"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="purepd">
     <Package ID="cHVyZXBkXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE1OjA2OjEyX2NocjE1bQ=="
              Author="chr15m" Timestamp="2015-08-07 15:06:12" Description="purepd-v0.0.extended--externals.zip"
@@ -17489,6 +17576,19 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="bf-pd">
+    <Package ID="YmYtcGRfMS4wXzIwMjEtMDgtMDMgMTI6MTQ6MTZfZmJlcnRoYXV0" Author="fberthaut"
+             Timestamp="2021-08-03 12:14:16" Description="bf-pd[v1.0].dek"
+             Version="1.0" URL="http://puredata.info/Members/fberthaut/software/bf-pd/1.0/bf-pd[v1.0].dek">
+      <Objects>
+        <Object Name="bf-clock"/>
+        <Object Name="bf-instrument"/>
+        <Object Name="bf-output"/>
+        <Object Name="bf-param"/>
+        <Object Name="boeuf"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="art_net">
     <Package ID="YXJ0X25ldF8yMDE5XzIwMTktMDQtMDMgMTY6NTQ6MzNfY2hucnk=" Author="chnry"
              Timestamp="2019-04-03 16:54:33" Description="art_net[v2019].dek"
@@ -18005,19 +18105,6 @@
         <Object Name="xnoteout"/>
         <Object Name="zerox~"/>
         <Object Name="zl"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="bf-pd">
-    <Package ID="YmYtcGRfMS4wXzIwMjEtMDgtMDMgMTI6MTQ6MTZfZmJlcnRoYXV0" Author="fberthaut"
-             Timestamp="2021-08-03 12:14:16" Description="bf-pd[v1.0].dek"
-             Version="1.0" URL="http://puredata.info/Members/fberthaut/software/bf-pd/1.0/bf-pd[v1.0].dek">
-      <Objects>
-        <Object Name="bf-clock"/>
-        <Object Name="bf-instrument"/>
-        <Object Name="bf-output"/>
-        <Object Name="bf-param"/>
-        <Object Name="boeuf"/>
       </Objects>
     </Package>
   </Packages>
@@ -20736,41 +20823,6 @@
       <Objects>
         <Object Name="midifile"/>
       </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="windowing">
-    <Package ID="d2luZG93aW5nXzAuMi4wXzIwMTktMTItMjggMjE6MjE6MjNfZmprcmFhbg=="
-             Author="fjkraan" Timestamp="2019-12-28 21:21:23" Description="windowing[v0.2.0](Darwin-amd64-32)(Darwin-i386-32)(Sources).dek"
-             Version="0.2.0" URL="http://puredata.info/Members/fjkraan/software/windowing/0.2.0/windowing[v0.2.0](Darwin-amd64-32)(Darwin-i386-32)(Sources).dek">
-      <Objects>
-        <Object Name="bartlett"/>
-        <Object Name="blackman"/>
-        <Object Name="connes"/>
-        <Object Name="cosine"/>
-        <Object Name="gaussian"/>
-        <Object Name="hamming"/>
-        <Object Name="hanning"/>
-        <Object Name="kaiser"/>
-        <Object Name="lanczos"/>
-        <Object Name="welch"/>
-      </Objects>
-    </Package>
-    <Package ID="d2luZG93aW5nXzAuMS4xLTIwMTUwNTI5aWVtXzIwMTYtMDgtMzAgMTQ6Mzc6MzJfem1vZWxuaWc="
-             Author="zmoelnig" Timestamp="2016-08-30 14:37:32" Description="windowing-v0.1.1-20150529iem-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0.1.1-20150529iem" URL="http://puredata.info/Members/zmoelnig/software/iem/20150529.2247/windowing-v0.1.1-20150529iem-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-    <Package ID="d2luZG93aW5nXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MzU6NDVfem1vZWxuaWc="
-             Author="zmoelnig" Timestamp="2015-12-10 14:35:45" Description="windowing-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/windowing/0-0extended/windowing-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="nsend">
-    <Package ID="bnNlbmRfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mzk6NTRfY2hyMTVt"
-             Author="chr15m" Timestamp="2015-08-07 14:39:54" Description="nsend-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/nsend/nsend-v0.0.extended--externals.zip">
-      <Objects/>
     </Package>
   </Packages>
   <Packages Name="scrollpage-plugin">
