@@ -1219,6 +1219,13 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="scrollpage-plugin">
+    <Package ID="c2Nyb2xscGFnZS1wbHVnaW5fMC4xXzIwMjItMDctMTMgMjI6MTQ6MDNfaWVtYm90"
+             Author="iembot" Timestamp="2022-07-13 22:14:03" Description="scrollpage-plugin[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/iembot/software/scrollpage-plugin/0.1/scrollpage-plugin[v0.1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="vabs">
     <Package ID="dmFic18wLjFfMjAxNi0wMy0xMCAxOTozNDo0OV9hbmdlbGZhcmFsZG8="
              Author="angelfaraldo" Timestamp="2016-03-10 19:34:49" Description="vabs-v0.1--externals.zip"
@@ -1373,13 +1380,6 @@
     <Package ID="ZGVrZW4tcGx1Z2luXzAuNC4xXzIwMTgtMDQtMDUgMTE6NTk6NTlfem1vZWxuaWc="
              Author="zmoelnig" Timestamp="2018-04-05 11:59:59" Description="deken-plugin/0.4.1 (Deken externals downloader)"
              Version="0.4.1" URL="http://puredata.info/downloads/deken/releases/0.4.1/deken-plugin-v0.4.1--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="scrollpage-plugin">
-    <Package ID="c2Nyb2xscGFnZS1wbHVnaW5fMC4xXzIwMjItMDctMTMgMjI6MTQ6MDNfaWVtYm90"
-             Author="iembot" Timestamp="2022-07-13 22:14:03" Description="scrollpage-plugin[v0.1].dek"
-             Version="0.1" URL="http://puredata.info/Members/iembot/software/scrollpage-plugin/0.1/scrollpage-plugin[v0.1].dek">
       <Objects/>
     </Package>
   </Packages>

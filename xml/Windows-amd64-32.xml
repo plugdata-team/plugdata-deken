@@ -1529,50 +1529,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="pdjs">
-    <Package ID="cGRqc18xLjIuNzRfMjAyMS0wMS0yNyAxNToxOTo1Nl9tZ2Fuc3M=" Author="mganss"
-             Timestamp="2021-01-27 15:19:56" Description="pdjs[v1.2.74](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv8-32)(Windows-amd64-32).dek"
-             Version="1.2.74" URL="http://puredata.info/Members/mganss/software/pdjs/1.2.74/pdjs[v1.2.74](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv8-32)(Windows-amd64-32).dek">
-      <Objects>
-        <Object Name="js"/>
-      </Objects>
-    </Package>
-    <Package ID="cGRqc18xLjIuNzFfMjAyMS0wMS0wOCAxNzo1NDo1N19tZ2Fuc3M=" Author="mganss"
-             Timestamp="2021-01-08 17:54:57" Description="pdjs[v1.2.71](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Windows-amd64-32).dek"
-             Version="1.2.71" URL="http://puredata.info/Members/mganss/software/pdjs/1.2.71/pdjs[v1.2.71](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Windows-amd64-32).dek">
-      <Objects>
-        <Object Name="js"/>
-      </Objects>
-    </Package>
-    <Package ID="cGRqc18xLjIuNjhfMjAyMC0xMi0zMCAxODo0NzowOV9tZ2Fuc3M=" Author="mganss"
-             Timestamp="2020-12-30 18:47:09" Description="pdjs[v1.2.68](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Windows-amd64-32).dek"
-             Version="1.2.68" URL="http://puredata.info/Members/mganss/software/pdjs/1.2.68/pdjs[v1.2.68](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Windows-amd64-32).dek">
-      <Objects>
-        <Object Name="js"/>
-      </Objects>
-    </Package>
-    <Package ID="cGRqc18xLjIuNjZfMjAyMC0xMi0yOCAxNjo1MToyM19tZ2Fuc3M=" Author="mganss"
-             Timestamp="2020-12-28 16:51:23" Description="pdjs[v1.2.66](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Windows-amd64-32).dek"
-             Version="1.2.66" URL="http://puredata.info/Members/mganss/software/pdjs/1.2.66/pdjs[v1.2.66](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Windows-amd64-32).dek">
-      <Objects>
-        <Object Name="js"/>
-      </Objects>
-    </Package>
-    <Package ID="cGRqc18xLjIuNjNfMjAyMC0xMS0xNiAxOTowMzoyM19tZ2Fuc3M=" Author="mganss"
-             Timestamp="2020-11-16 19:03:23" Description="pdjs[v1.2.63](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Windows-amd64-32).dek"
-             Version="1.2.63" URL="http://puredata.info/Members/mganss/software/pdjs/1.2.63/pdjs[v1.2.63](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Windows-amd64-32).dek">
-      <Objects>
-        <Object Name="js"/>
-      </Objects>
-    </Package>
-    <Package ID="cGRqc18xLjIuNTdfMjAyMC0xMS0xMiAxNjo0MTo0OV9tZ2Fuc3M=" Author="mganss"
-             Timestamp="2020-11-12 16:41:49" Description="pdjs[v1.2.57](Linux-amd64-32)(Linux-arm64-32)(Windows-amd64-32).dek"
-             Version="1.2.57" URL="http://puredata.info/Members/mganss/software/pdjs/1.2.57/pdjs[v1.2.57](Linux-amd64-32)(Linux-arm64-32)(Windows-amd64-32).dek">
-      <Objects>
-        <Object Name="js"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="pde">
     <Package ID="cGRlXzEuMF8yMDE4LTAzLTE5IDE0OjExOjE5X3JpdHNjaA==" Author="ritsch"
              Timestamp="2018-03-19 14:11:19" Description="pde-v1.0--externals.zip"
@@ -1870,6 +1826,15 @@
              Author="chr15m" Timestamp="2015-08-07 14:39:54" Description="nsend-v0.0.extended--externals.zip"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/nsend/nsend-v0.0.extended--externals.zip">
       <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="notesLib">
+    <Package ID="bm90ZXNMaWJfMC4yXzIwMjItMTAtMjQgMTY6NTE6NDVfamFpb2xp" Author="jaioli"
+             Timestamp="2022-10-24 16:51:45" Description="notesLib[v0.2](Windows-amd64-32).dek"
+             Version="0.2" URL="http://puredata.info/Members/jaioli/software/notesLib/0.2/notesLib[v0.2](Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="notes"/>
+      </Objects>
     </Package>
   </Packages>
   <Packages Name="faustgen~">
@@ -7870,15 +7835,6 @@
              Timestamp="2016-10-25 22:51:45" Description="lerdahl-v0.1-(Linux-x86_64-64)(Windows-x86_64-64)(Darwin-i386-32)(Darwin-x86_64)(Sources)-externals"
              Version="0.1" URL="http://puredata.info/Members/ricky/lerdahl-v0.1-(Linux-x86_64-64)(Windows-x86_64-64)(Darwin-i386-32)(Darwin-x86_64)(Sources)-externals.zip">
       <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="notesLib">
-    <Package ID="bm90ZXNMaWJfMC4yXzIwMjItMTAtMjQgMTY6NTE6NDVfamFpb2xp" Author="jaioli"
-             Timestamp="2022-10-24 16:51:45" Description="notesLib[v0.2](Windows-amd64-32).dek"
-             Version="0.2" URL="http://puredata.info/Members/jaioli/software/notesLib/0.2/notesLib[v0.2](Windows-amd64-32).dek">
-      <Objects>
-        <Object Name="notes"/>
-      </Objects>
     </Package>
   </Packages>
   <Packages Name="cicmtools">
@@ -14706,6 +14662,95 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="pdjs">
+    <Package ID="cGRqc18xLjIuNzRfMjAyMS0wMS0yNyAxNToxOTo1Nl9tZ2Fuc3M=" Author="mganss"
+             Timestamp="2021-01-27 15:19:56" Description="pdjs[v1.2.74](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv8-32)(Windows-amd64-32).dek"
+             Version="1.2.74" URL="http://puredata.info/Members/mganss/software/pdjs/1.2.74/pdjs[v1.2.74](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv8-32)(Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="js"/>
+      </Objects>
+    </Package>
+    <Package ID="cGRqc18xLjIuNzFfMjAyMS0wMS0wOCAxNzo1NDo1N19tZ2Fuc3M=" Author="mganss"
+             Timestamp="2021-01-08 17:54:57" Description="pdjs[v1.2.71](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Windows-amd64-32).dek"
+             Version="1.2.71" URL="http://puredata.info/Members/mganss/software/pdjs/1.2.71/pdjs[v1.2.71](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="js"/>
+      </Objects>
+    </Package>
+    <Package ID="cGRqc18xLjIuNjhfMjAyMC0xMi0zMCAxODo0NzowOV9tZ2Fuc3M=" Author="mganss"
+             Timestamp="2020-12-30 18:47:09" Description="pdjs[v1.2.68](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Windows-amd64-32).dek"
+             Version="1.2.68" URL="http://puredata.info/Members/mganss/software/pdjs/1.2.68/pdjs[v1.2.68](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="js"/>
+      </Objects>
+    </Package>
+    <Package ID="cGRqc18xLjIuNjZfMjAyMC0xMi0yOCAxNjo1MToyM19tZ2Fuc3M=" Author="mganss"
+             Timestamp="2020-12-28 16:51:23" Description="pdjs[v1.2.66](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Windows-amd64-32).dek"
+             Version="1.2.66" URL="http://puredata.info/Members/mganss/software/pdjs/1.2.66/pdjs[v1.2.66](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="js"/>
+      </Objects>
+    </Package>
+    <Package ID="cGRqc18xLjIuNjNfMjAyMC0xMS0xNiAxOTowMzoyM19tZ2Fuc3M=" Author="mganss"
+             Timestamp="2020-11-16 19:03:23" Description="pdjs[v1.2.63](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Windows-amd64-32).dek"
+             Version="1.2.63" URL="http://puredata.info/Members/mganss/software/pdjs/1.2.63/pdjs[v1.2.63](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="js"/>
+      </Objects>
+    </Package>
+    <Package ID="cGRqc18xLjIuNTdfMjAyMC0xMS0xMiAxNjo0MTo0OV9tZ2Fuc3M=" Author="mganss"
+             Timestamp="2020-11-12 16:41:49" Description="pdjs[v1.2.57](Linux-amd64-32)(Linux-arm64-32)(Windows-amd64-32).dek"
+             Version="1.2.57" URL="http://puredata.info/Members/mganss/software/pdjs/1.2.57/pdjs[v1.2.57](Linux-amd64-32)(Linux-arm64-32)(Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="js"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="scrollpage-plugin">
+    <Package ID="c2Nyb2xscGFnZS1wbHVnaW5fMC4xXzIwMjItMDctMTMgMjI6MTQ6MDNfaWVtYm90"
+             Author="iembot" Timestamp="2022-07-13 22:14:03" Description="scrollpage-plugin[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/iembot/software/scrollpage-plugin/0.1/scrollpage-plugin[v0.1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="iem16">
+    <Package ID="aWVtMTZfMS4yXzIwMjEtMDktMjQgMTE6Mjc6MDNfaWVtYm90" Author="iembot"
+             Timestamp="2021-09-24 11:27:03" Description="iem16[v1.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="1.2" URL="http://puredata.info/Members/iembot/software/iem16/1.2/iem16[v1.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="del16read~"/>
+        <Object Name="del16write~"/>
+        <Object Name="tab16play~"/>
+        <Object Name="tab16read"/>
+        <Object Name="tab16read4~"/>
+        <Object Name="tab16receive~"/>
+        <Object Name="tab16send~"/>
+        <Object Name="tab16write"/>
+        <Object Name="tab16write~"/>
+        <Object Name="table16"/>
+        <Object Name="vd16~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="moocow">
+    <Package ID="bW9vY293XzAuMC5leHRlbmRlZC1ub3QtYWxsLW9iamVjdHNfMjAxOS0xMS0yMSAwNDo1MToxMl9sdWNhcmRh"
+             Author="lucarda" Timestamp="2019-11-21 04:51:12" Description="moocow[v0.0.extended-not-all-objects](Windows-amd64-32)(Sources).dek"
+             Version="0.0.extended-not-all-objects" URL="http://puredata.info/Members/lucarda/software/moocow[v0.0.extended-not-all-objects](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="any2bytes"/>
+        <Object Name="bytes2any"/>
+        <Object Name="bytes2wchars"/>
+        <Object Name="deque"/>
+        <Object Name="pdstring"/>
+        <Object Name="printbytes"/>
+        <Object Name="printwchars"/>
+        <Object Name="readdir"/>
+        <Object Name="sprinkler"/>
+        <Object Name="wchars2bytes"/>
+        <Object Name="weightmap"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="vabs">
     <Package ID="dmFic18wLjFfMjAxNi0wMy0xMCAxOTozNDo0OV9hbmdlbGZhcmFsZG8="
              Author="angelfaraldo" Timestamp="2016-03-10 19:34:49" Description="vabs-v0.1--externals.zip"
@@ -16785,51 +16830,6 @@
              Version="0.20200312" URL="http://puredata.info/Members/martinrp/software/midifile/0.20200312/midifile[v0.20200312](Windows-amd64-32)(Sources).dek">
       <Objects>
         <Object Name="midifile"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="scrollpage-plugin">
-    <Package ID="c2Nyb2xscGFnZS1wbHVnaW5fMC4xXzIwMjItMDctMTMgMjI6MTQ6MDNfaWVtYm90"
-             Author="iembot" Timestamp="2022-07-13 22:14:03" Description="scrollpage-plugin[v0.1].dek"
-             Version="0.1" URL="http://puredata.info/Members/iembot/software/scrollpage-plugin/0.1/scrollpage-plugin[v0.1].dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="iem16">
-    <Package ID="aWVtMTZfMS4yXzIwMjEtMDktMjQgMTE6Mjc6MDNfaWVtYm90" Author="iembot"
-             Timestamp="2021-09-24 11:27:03" Description="iem16[v1.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="1.2" URL="http://puredata.info/Members/iembot/software/iem16/1.2/iem16[v1.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects>
-        <Object Name="del16read~"/>
-        <Object Name="del16write~"/>
-        <Object Name="tab16play~"/>
-        <Object Name="tab16read"/>
-        <Object Name="tab16read4~"/>
-        <Object Name="tab16receive~"/>
-        <Object Name="tab16send~"/>
-        <Object Name="tab16write"/>
-        <Object Name="tab16write~"/>
-        <Object Name="table16"/>
-        <Object Name="vd16~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="moocow">
-    <Package ID="bW9vY293XzAuMC5leHRlbmRlZC1ub3QtYWxsLW9iamVjdHNfMjAxOS0xMS0yMSAwNDo1MToxMl9sdWNhcmRh"
-             Author="lucarda" Timestamp="2019-11-21 04:51:12" Description="moocow[v0.0.extended-not-all-objects](Windows-amd64-32)(Sources).dek"
-             Version="0.0.extended-not-all-objects" URL="http://puredata.info/Members/lucarda/software/moocow[v0.0.extended-not-all-objects](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="any2bytes"/>
-        <Object Name="bytes2any"/>
-        <Object Name="bytes2wchars"/>
-        <Object Name="deque"/>
-        <Object Name="pdstring"/>
-        <Object Name="printbytes"/>
-        <Object Name="printwchars"/>
-        <Object Name="readdir"/>
-        <Object Name="sprinkler"/>
-        <Object Name="wchars2bytes"/>
-        <Object Name="weightmap"/>
       </Objects>
     </Package>
   </Packages>
