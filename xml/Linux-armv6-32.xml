@@ -3173,8 +3173,8 @@
     </Package>
   </Packages>
   <Packages Name="array-abs">
-    <Package ID="YXJyYXktYWJzXzAuMC4wXzIwMjItMTAtMjYgMTU6NTY6NDNfd21icmVudA=="
-             Author="wmbrent" Timestamp="2022-10-26 15:56:43" Description="array-abs[v0.0.0].dek"
+    <Package ID="YXJyYXktYWJzXzAuMC4wXzIwMjItMTEtMDUgMjA6NTg6NDZfd21icmVudA=="
+             Author="wmbrent" Timestamp="2022-11-05 20:58:46" Description="array-abs[v0.0.0].dek"
              Version="0.0.0" URL="http://puredata.info/Members/wmbrent/software/array-abs/0.0.0/array-abs[v0.0.0].dek">
       <Objects>
         <Object Name="array-abs-val"/>
