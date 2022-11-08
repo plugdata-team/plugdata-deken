@@ -519,13 +519,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="chaos">
-    <Package ID="Y2hhb3NfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxNTozNF96bW9lbG5pZw=="
-             Author="zmoelnig" Timestamp="2015-12-10 14:15:34" Description="chaos-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/chaos/0-0extended/chaos-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="pix_drum">
     <Package ID="cGl4X2RydW1fMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDozMToyM196bW9lbG5pZw=="
              Author="zmoelnig" Timestamp="2015-12-10 14:31:23" Description="pix_drum-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
@@ -537,6 +530,13 @@
     <Package ID="ZmxhdGd1aV8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjE5OjAxX3ptb2Vsbmln"
              Author="zmoelnig" Timestamp="2015-12-10 14:19:01" Description="flatgui-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/flatgui/0-0extended/flatgui-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="chaos">
+    <Package ID="Y2hhb3NfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxNTozNF96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:15:34" Description="chaos-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/chaos/0-0extended/chaos-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
       <Objects/>
     </Package>
   </Packages>
@@ -1345,23 +1345,6 @@
     <Package ID="ZXh0cmFfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxODozNl96bW9lbG5pZw=="
              Author="zmoelnig" Timestamp="2015-12-10 14:18:36" Description="extra-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/extra/0-0extended/extra-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="XXX-deken-test">
-    <Package ID="WFhYLWRla2VuLXRlc3RfMC45LjItOC1nN2EzZDkzY19vc3hfMjAyMi0wNi0xMyAxNDoyMTozM196bW9lbG5pZ2JvdA=="
-             Author="zmoelnigbot" Timestamp="2022-06-13 14:21:33" Description="XXX-deken-test[v0.9.2-8-g7a3d93c_osx](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
-             Version="0.9.2-8-g7a3d93c_osx" URL="http://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/9175/0.9.2-8-g7a3d93c_osx/XXX-deken-test[v0.9.2-8-g7a3d93c_osx](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
-      <Objects/>
-    </Package>
-    <Package ID="WFhYLWRla2VuLXRlc3RfMC45LjItOC1nN2EzZDkzY19kb2NrZXJfMjAyMi0wNi0xMyAxNDowODoyMV96bW9lbG5pZ2JvdA=="
-             Author="zmoelnigbot" Timestamp="2022-06-13 14:08:21" Description="XXX-deken-test[v0.9.2-8-g7a3d93c_docker](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
-             Version="0.9.2-8-g7a3d93c_docker" URL="http://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/9175/0.9.2-8-g7a3d93c_docker/XXX-deken-test[v0.9.2-8-g7a3d93c_docker](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
-      <Objects/>
-    </Package>
-    <Package ID="WFhYLWRla2VuLXRlc3RfMC45LjItNy1nZDQyMjk2ZV9kb2NrZXJfMjAyMi0wNi0xMyAxMzo1NDo1NV96bW9lbG5pZ2JvdA=="
-             Author="zmoelnigbot" Timestamp="2022-06-13 13:54:55" Description="XXX-deken-test[v0.9.2-7-gd42296e_docker](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
-             Version="0.9.2-7-gd42296e_docker" URL="http://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/9174/0.9.2-7-gd42296e_docker/XXX-deken-test[v0.9.2-7-gd42296e_docker](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
       <Objects/>
     </Package>
   </Packages>

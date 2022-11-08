@@ -522,6 +522,15 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="abl_link~">
+    <Package ID="YWJsX2xpbmt+XzAuNV8yMDIyLTExLTA3IDIwOjI3OjMzX2NyaXRhcGVj"
+             Author="critapec" Timestamp="2022-11-07 20:27:33" Description="abl_link~[v0.5](Darwin-arm64-32).dek"
+             Version="0.5" URL="http://puredata.info/Members/critapec/software/abl_link~/0.5/abl_link~[v0.5](Darwin-arm64-32).dek">
+      <Objects>
+        <Object Name="abl_link~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="cyclone">
     <Package ID="Y3ljbG9uZV8wLjYtMV8yMDIyLTA2LTA4IDA1OjEwOjU2X3BvcnJlcw=="
              Author="porres" Timestamp="2022-06-08 05:10:56" Description="cyclone[v0.6-1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-armv6-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
@@ -3505,6 +3514,17 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="purest_json">
+    <Package ID="cHVyZXN0X2pzb25fMS40LjNfMjAyMi0xMS0wNyAyMToxMDo0MF9jcml0YXBlYw=="
+             Author="critapec" Timestamp="2022-11-07 21:10:40" Description="purest_json[v1.4.3](Darwin-arm64-32).dek"
+             Version="1.4.3" URL="http://puredata.info/Members/critapec/software/purest_json/1.4.3/purest_json[v1.4.3](Darwin-arm64-32).dek">
+      <Objects>
+        <Object Name="json"/>
+        <Object Name="rest"/>
+        <Object Name="urlparams"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="clk">
     <Package ID="Y2xrXzAuMi4xXzIwMjItMDItMTYgMTg6NTY6MjRfdGhvbWFz" Author="thomas"
              Timestamp="2022-02-16 18:56:24" Description="clk[v0.2.1](Darwin-amd64-32)(Darwin-arm64-32).dek"
@@ -3519,6 +3539,24 @@
              Author="mario_buoninfante" Timestamp="2020-05-28 23:39:01" Description="nGui[v0.1].dek"
              Version="0.1" URL="http://puredata.info/Members/mario_buoninfante/software/nGui/0.1/nGui[v0.1].dek">
       <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="bassemu~">
+    <Package ID="YmFzc2VtdX5fMC4zXzIwMjItMTEtMDcgMjA6NTc6MDJfY3JpdGFwZWM="
+             Author="critapec" Timestamp="2022-11-07 20:57:02" Description="bassemu~[v0.3](Darwin-arm64-32).dek"
+             Version="0.3" URL="http://puredata.info/Members/critapec/software/bassemu~/0.3/bassemu~[v0.3](Darwin-arm64-32).dek">
+      <Objects>
+        <Object Name="bassemu~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="freeverb~">
+    <Package ID="ZnJlZXZlcmJ+XzEuMl8yMDIyLTExLTA3IDIxOjMyOjE1X2NyaXRhcGVj"
+             Author="critapec" Timestamp="2022-11-07 21:32:15" Description="freeverb~[v1.2](Darwin-arm64-32).dek"
+             Version="1.2" URL="http://puredata.info/Members/critapec/software/freeverb~/1.2/freeverb~[v1.2](Darwin-arm64-32).dek">
+      <Objects>
+        <Object Name="freeverb~"/>
+      </Objects>
     </Package>
   </Packages>
   <Packages Name="iemguts">
@@ -3777,6 +3815,15 @@
              Author="angelfaraldo" Timestamp="2016-03-10 19:34:49" Description="vabs-v0.1--externals.zip"
              Version="0.1" URL="http://puredata.info/downloads/vabs/releases/0.1/vabs-v0.1--externals.zip">
       <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="flite">
+    <Package ID="ZmxpdGVfMC4zLjJfMjAyMi0xMS0wNyAxOTo1NToxOV9jcml0YXBlYw=="
+             Author="critapec" Timestamp="2022-11-07 19:55:19" Description="flite[v0.3.2](Darwin-arm64-32).dek"
+             Version="0.3.2" URL="http://puredata.info/Members/critapec/software/flite/0.3.2/flite[v0.3.2](Darwin-arm64-32).dek">
+      <Objects>
+        <Object Name="flite"/>
+      </Objects>
     </Package>
   </Packages>
   <Packages Name="upp">
