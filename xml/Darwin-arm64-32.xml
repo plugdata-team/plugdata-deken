@@ -3665,6 +3665,13 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="hid">
+    <Package ID="aGlkXzAuMS4wXzIwMjItMTEtMDkgMDA6MzI6MjhfY3JpdGFwZWM=" Author="critapec"
+             Timestamp="2022-11-09 00:32:28" Description="hid[v0.1.0](Darwin-arm64-32).dek"
+             Version="0.1.0" URL="http://puredata.info/Members/critapec/software/hid/0.1.0/hid[v0.1.0](Darwin-arm64-32).dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="planifolia">
     <Package ID="cGxhbmlmb2xpYV8wLjJfMjAyMi0wNy0xMSAyMjo0ODowOV96ZXBhZG92YW5p"
              Author="zepadovani" Timestamp="2022-07-11 22:48:09" Description="planifolia[v0.2].dek"
