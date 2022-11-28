@@ -9883,6 +9883,11 @@
     </Package>
   </Packages>
   <Packages Name="purest_json">
+    <Package ID="cHVyZXN0X2pzb25fMi4wLjBfMjAyMi0xMS0yNyAyMTo1NjoxMl9yZXNpZHV1bQ=="
+             Author="residuum" Timestamp="2022-11-27 21:56:12" Description="purest_json[v2.0.0](Windows-i386-32).dek"
+             Version="2.0.0" URL="http://puredata.info/Members/residuum/software/purest_json/2.0.0/purest_json[v2.0.0](Windows-i386-32).dek">
+      <Objects/>
+    </Package>
     <Package ID="cHVyZXN0X2pzb25fMS40LjNfMjAxOS0xMS0wOCAwMToxMToyMl9yZXNpZHV1bQ=="
              Author="residuum" Timestamp="2019-11-08 01:11:22" Description="purest_json[v1.4.3](Windows-i386-32).dek"
              Version="1.4.3" URL="http://puredata.info/Members/residuum/software/purest_json/1.4.3/purest_json[v1.4.3](Windows-i386-32).dek">
