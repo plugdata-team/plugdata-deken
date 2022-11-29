@@ -16955,6 +16955,18 @@
     </Package>
   </Packages>
   <Packages Name="bsaylor">
+    <Package ID="YnNheWxvcl8wLjEuNV8yMDIyLTExLTI4IDE3OjQ5OjQ0X2llbWJvdA=="
+             Author="iembot" Timestamp="2022-11-28 17:49:44" Description="bsaylor[v0.1.5](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.1.5" URL="http://puredata.info/Members/iembot/software/bsaylor/0.1.5/bsaylor[v0.1.5](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="aenv~"/>
+        <Object Name="partconv~"/>
+        <Object Name="pvoc~"/>
+        <Object Name="susloop~"/>
+        <Object Name="svf~"/>
+        <Object Name="zhzxh~"/>
+      </Objects>
+    </Package>
     <Package ID="YnNheWxvcl8wLjEuMS0yMDE1MDUyOWllbV8yMDE2LTA4LTMwIDE0OjMwOjQxX3ptb2Vsbmln"
              Author="zmoelnig" Timestamp="2016-08-30 14:30:41" Description="bsaylor-v0.1.1-20150529iem-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0.1.1-20150529iem" URL="http://puredata.info/Members/zmoelnig/software/iem/20150529.2247/bsaylor-v0.1.1-20150529iem-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz">
