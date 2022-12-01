@@ -9072,6 +9072,76 @@
     </Package>
   </Packages>
   <Packages Name="planifolia">
+    <Package ID="cGxhbmlmb2xpYV8wLjIxXzIwMjItMTEtMzAgMjE6MTI6MTNfemVwYWRvdmFuaQ=="
+             Author="zepadovani" Timestamp="2022-11-30 21:12:13" Description="planifolia[v0.21].dek"
+             Version="0.21" URL="http://puredata.info/Members/zepadovani/software/planifolia/0.21/planifolia[v0.21].dek">
+      <Objects>
+        <Object Name="any.=="/>
+        <Object Name="array.binop"/>
+        <Object Name="array.rand"/>
+        <Object Name="array.unop"/>
+        <Object Name="ls.binop"/>
+        <Object Name="ls.butlast"/>
+        <Object Name="ls.choose"/>
+        <Object Name="ls.circgroup"/>
+        <Object Name="ls.getRotate"/>
+        <Object Name="ls.group"/>
+        <Object Name="ls.iter"/>
+        <Object Name="ls.last"/>
+        <Object Name="ls.max"/>
+        <Object Name="ls.mean"/>
+        <Object Name="ls.min"/>
+        <Object Name="ls.mode"/>
+        <Object Name="ls.quicksort"/>
+        <Object Name="ls.removeAt"/>
+        <Object Name="ls.rotate"/>
+        <Object Name="ls.scramble"/>
+        <Object Name="ls.ser.arithm"/>
+        <Object Name="ls.splice"/>
+        <Object Name="ls.unop"/>
+        <Object Name="mtxgui"/>
+        <Object Name="mtxstep"/>
+        <Object Name="slash.oscformat"/>
+        <Object Name="slash.oscroute"/>
+        <Object Name="symbol.=="/>
+        <Object Name="symbol.split"/>
+      </Objects>
+    </Package>
+    <Package ID="cGxhbmlmb2xpYV8wLjIxXzIwMjItMTEtMzAgMjE6MTI6MTNfemVwYWRvdmFuaQ=="
+             Author="zepadovani" Timestamp="2022-11-30 21:12:13" Description="planifolia[v0.21].dek"
+             Version="0.21" URL="http://puredata.info/Members/zepadovani/software/planifolia/0.21/planifolia[v0.21].dek">
+      <Objects>
+        <Object Name="any.=="/>
+        <Object Name="array.binop"/>
+        <Object Name="array.rand"/>
+        <Object Name="array.unop"/>
+        <Object Name="ls.binop"/>
+        <Object Name="ls.butlast"/>
+        <Object Name="ls.choose"/>
+        <Object Name="ls.circgroup"/>
+        <Object Name="ls.getRotate"/>
+        <Object Name="ls.group"/>
+        <Object Name="ls.iter"/>
+        <Object Name="ls.last"/>
+        <Object Name="ls.max"/>
+        <Object Name="ls.mean"/>
+        <Object Name="ls.min"/>
+        <Object Name="ls.mode"/>
+        <Object Name="ls.quicksort"/>
+        <Object Name="ls.removeAt"/>
+        <Object Name="ls.rotate"/>
+        <Object Name="ls.scramble"/>
+        <Object Name="ls.ser.arithm"/>
+        <Object Name="ls.splice"/>
+        <Object Name="ls.unop"/>
+        <Object Name="mtxgui"/>
+        <Object Name="mtxstep"/>
+        <Object Name="slash.oscformat"/>
+        <Object Name="slash.oscroute"/>
+        <Object Name="symbol.=="/>
+        <Object Name="symbol.split"/>
+      </Objects>
+    </Package>
     <Package ID="cGxhbmlmb2xpYV8wLjJfMjAyMi0wNy0xMSAyMjo0ODowOV96ZXBhZG92YW5p"
              Author="zepadovani" Timestamp="2022-07-11 22:48:09" Description="planifolia[v0.2].dek"
              Version="0.2" URL="http://puredata.info/Members/zepadovani/software/planifolia/0.2/planifolia[v0.2].dek">
