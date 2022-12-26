@@ -916,6 +916,40 @@
     </Package>
   </Packages>
   <Packages Name="quilt">
+    <Package ID="cXVpbHRfMC44LjNfMjAyMi0xMi0yNSAyMToyOTo0MF9teVF3aWw=" Author="myQwil"
+             Timestamp="2022-12-25 21:29:40" Description="quilt[v0.8.3](Linux-amd64-32).dek"
+             Version="0.8.3" URL="http://puredata.info/Members/myQwil/software/quilt/0.8.3/quilt[v0.8.3](Linux-amd64-32).dek">
+      <Objects>
+        <Object Name="adsr"/>
+        <Object Name="chrd"/>
+        <Object Name="chrono"/>
+        <Object Name="cupq"/>
+        <Object Name="cupqb"/>
+        <Object Name="delp"/>
+        <Object Name="ffplay~"/>
+        <Object Name="flenc"/>
+        <Object Name="gmes~"/>
+        <Object Name="gme~"/>
+        <Object Name="has"/>
+        <Object Name="hsv"/>
+        <Object Name="is"/>
+        <Object Name="linp"/>
+        <Object Name="linp~"/>
+        <Object Name="metro~"/>
+        <Object Name="muse"/>
+        <Object Name="paq"/>
+        <Object Name="radix"/>
+        <Object Name="rand"/>
+        <Object Name="rind"/>
+        <Object Name="rpaq"/>
+        <Object Name="same"/>
+        <Object Name="slope"/>
+        <Object Name="tabosc2~"/>
+        <Object Name="tabread2~"/>
+        <Object Name="tone"/>
+        <Object Name="vib~"/>
+      </Objects>
+    </Package>
     <Package ID="cXVpbHRfMC43LjlfMjAyMi0wMy0xNiAyMzowNjo0Ml9teVF3aWw=" Author="myQwil"
              Timestamp="2022-03-16 23:06:42" Description="quilt[v0.7.9](Linux-amd64-32).dek"
              Version="0.7.9" URL="http://puredata.info/Members/myQwil/software/quilt/0.7.9/quilt[v0.7.9](Linux-amd64-32).dek">
