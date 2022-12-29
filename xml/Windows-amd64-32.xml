@@ -2208,15 +2208,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="nicinfo">
-    <Package ID="bmljaW5mb18wLjAuMF8yMDIxLTA2LTAxIDEyOjU4OjUxX2x1Y2FyZGE="
-             Author="lucarda" Timestamp="2021-06-01 12:58:51" Description="nicinfo[v0.0.0](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="0.0.0" URL="http://puredata.info/Members/lucarda/software/nicinfo/0.0.0/nicinfo[v0.0.0](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects>
-        <Object Name="nicinfo"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="faustgen~">
     <Package ID="ZmF1c3RnZW5+XzAuMS4yXzIwMjAtMDgtMDMgMTc6NDY6MDBfcGllcnJlZ2x0"
              Author="pierreglt" Timestamp="2020-08-03 17:46:00" Description="faustgen~[v0.1.2](Windows-amd64-32)(Sources).dek"
@@ -17068,6 +17059,15 @@
              Author="zmoelnigbot" Timestamp="2018-05-29 17:22:50" Description="doublechord-plugin[v0.2.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"
              Version="0.2.1" URL="http://puredata.info/Members/zmoelnigbot/software/punish/v0.2.1/doublechord-plugin/doublechord-plugin[v0.2.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek">
       <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="nicinfo">
+    <Package ID="bmljaW5mb18wLjAuMF8yMDIxLTA2LTAxIDEyOjU4OjUxX2x1Y2FyZGE="
+             Author="lucarda" Timestamp="2021-06-01 12:58:51" Description="nicinfo[v0.0.0](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.0.0" URL="http://puredata.info/Members/lucarda/software/nicinfo/0.0.0/nicinfo[v0.0.0](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="nicinfo"/>
+      </Objects>
     </Package>
   </Packages>
 </Windows-amd64-32>
