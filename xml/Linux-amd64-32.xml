@@ -901,13 +901,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="rtcmix~">
-    <Package ID="cnRjbWl4fl8wLjRfMjAxNS0wNi0xNyAyMDoyMzoyNF9qd21hdHRoeXM="
-             Author="jwmatthys" Timestamp="2015-06-17 20:23:24" Description="rtcmix~-v0.4-(Linux-amd64-64)-externals.tar.gz"
-             Version="0.4" URL="http://puredata.info/Members/jwmatthys/rtcmix~-v0.4-(Linux-amd64-64)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="rtc">
     <Package ID="cnRjXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjUzOjEzX2NocjE1bQ=="
              Author="chr15m" Timestamp="2015-08-07 14:53:13" Description="rtc-v0.0.extended--externals.zip"
@@ -2339,6 +2332,15 @@
         <Object Name="xnoteout"/>
         <Object Name="zerox~"/>
         <Object Name="zl"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="nicinfo">
+    <Package ID="bmljaW5mb18wLjAuMF8yMDIxLTA2LTAxIDEyOjU4OjUxX2x1Y2FyZGE="
+             Author="lucarda" Timestamp="2021-06-01 12:58:51" Description="nicinfo[v0.0.0](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.0.0" URL="http://puredata.info/Members/lucarda/software/nicinfo/0.0.0/nicinfo[v0.0.0](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="nicinfo"/>
       </Objects>
     </Package>
   </Packages>
@@ -11247,6 +11249,22 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="rtcmix~">
+    <Package ID="cnRjbWl4fl8wLjRfMjAxNS0wNi0xNyAyMDoyMzoyNF9qd21hdHRoeXM="
+             Author="jwmatthys" Timestamp="2015-06-17 20:23:24" Description="rtcmix~-v0.4-(Linux-amd64-64)-externals.tar.gz"
+             Version="0.4" URL="http://puredata.info/Members/jwmatthys/rtcmix~-v0.4-(Linux-amd64-64)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="leapmotion">
+    <Package ID="bGVhcG1vdGlvbl8wLjIuMl8yMDIyLTEyLTI5IDE4OjEyOjA4X3dtYnJlbnQ="
+             Author="wmbrent" Timestamp="2022-12-29 18:12:08" Description="leapmotion[v0.2.2](Linux-amd64-32).dek"
+             Version="0.2.2" URL="http://puredata.info/Members/wmbrent/software/leapmotion/0.2.2/leapmotion[v0.2.2](Linux-amd64-32).dek">
+      <Objects>
+        <Object Name="leapmotion"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="libdir">
     <Package ID="bGliZGlyXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE1OjA0OjQzX2NocjE1bQ=="
              Author="chr15m" Timestamp="2015-08-07 15:04:43" Description="libdir-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
@@ -11742,15 +11760,6 @@
              Timestamp="2016-07-31 00:17:24" Description="muug-v1.0.0-(Darwin-i386-32)(Sources)(Darwin-x86_64-32)(Linux-amd64-64)(Windows-i386-32)-externals.zip"
              Version="1.0.0" URL="http://puredata.info/Members/saturno/software/muug/1.0.0/muug-v1.0.0-(Darwin-i386-32)(Sources)(Darwin-x86_64-32)(Linux-amd64-64)(Windows-i386-32)-externals.zip">
       <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="nicinfo">
-    <Package ID="bmljaW5mb18wLjAuMF8yMDIxLTA2LTAxIDEyOjU4OjUxX2x1Y2FyZGE="
-             Author="lucarda" Timestamp="2021-06-01 12:58:51" Description="nicinfo[v0.0.0](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="0.0.0" URL="http://puredata.info/Members/lucarda/software/nicinfo/0.0.0/nicinfo[v0.0.0](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects>
-        <Object Name="nicinfo"/>
-      </Objects>
     </Package>
   </Packages>
 </Linux-amd64-32>

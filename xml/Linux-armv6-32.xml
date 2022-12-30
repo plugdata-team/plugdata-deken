@@ -101,13 +101,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="rtcmix~">
-    <Package ID="cnRjbWl4fl8wLjRfMjAxNS0wNi0xNyAyMDoyODo0Nl9qd21hdHRoeXM="
-             Author="jwmatthys" Timestamp="2015-06-17 20:28:46" Description="rtcmix~-v0.4-(Linux-armv6-32)-externals.tar.gz"
-             Version="0.4" URL="http://puredata.info/Members/jwmatthys/rtcmix~-v0.4-(Linux-armv6-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="rtc">
     <Package ID="cnRjXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjUzOjEzX2NocjE1bQ=="
              Author="chr15m" Timestamp="2015-08-07 14:53:13" Description="rtc-v0.0.extended--externals.zip"
@@ -3768,6 +3761,13 @@
     <Package ID="a2lvc2stcGx1Z2luXzAuNF8yMDIxLTA1LTAzIDA4OjU5OjQ2X2llbWJvdA=="
              Author="iembot" Timestamp="2021-05-03 08:59:46" Description="kiosk-plugin[v0.4].dek"
              Version="0.4" URL="http://puredata.info/Members/iembot/software/kiosk-plugin/0.4/kiosk-plugin[v0.4].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="rtcmix~">
+    <Package ID="cnRjbWl4fl8wLjRfMjAxNS0wNi0xNyAyMDoyODo0Nl9qd21hdHRoeXM="
+             Author="jwmatthys" Timestamp="2015-06-17 20:28:46" Description="rtcmix~-v0.4-(Linux-armv6-32)-externals.tar.gz"
+             Version="0.4" URL="http://puredata.info/Members/jwmatthys/rtcmix~-v0.4-(Linux-armv6-32)-externals.tar.gz">
       <Objects/>
     </Package>
   </Packages>
