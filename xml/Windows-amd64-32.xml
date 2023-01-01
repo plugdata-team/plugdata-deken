@@ -1862,6 +1862,15 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="ultraleap">
+    <Package ID="dWx0cmFsZWFwXzAuMS4wXzIwMjItMTItMzEgMTY6MDI6MjZfd21icmVudA=="
+             Author="wmbrent" Timestamp="2022-12-31 16:02:26" Description="ultraleap[v0.1.0](Windows-amd64-32).dek"
+             Version="0.1.0" URL="http://puredata.info/Members/wmbrent/software/ultraleap/0.1.0/ultraleap[v0.1.0](Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="ultraleap"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="nsend">
     <Package ID="bnNlbmRfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mzk6NTRfY2hyMTVt"
              Author="chr15m" Timestamp="2015-08-07 14:39:54" Description="nsend-v0.0.extended--externals.zip"
