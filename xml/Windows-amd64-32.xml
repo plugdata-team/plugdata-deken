@@ -1863,8 +1863,8 @@
     </Package>
   </Packages>
   <Packages Name="ultraleap">
-    <Package ID="dWx0cmFsZWFwXzAuMS4wXzIwMjItMTItMzEgMTY6MDI6MjZfd21icmVudA=="
-             Author="wmbrent" Timestamp="2022-12-31 16:02:26" Description="ultraleap[v0.1.0](Windows-amd64-32).dek"
+    <Package ID="dWx0cmFsZWFwXzAuMS4wXzIwMjMtMDEtMDUgMTg6MDE6Mzdfd21icmVudA=="
+             Author="wmbrent" Timestamp="2023-01-05 18:01:37" Description="ultraleap[v0.1.0](Windows-amd64-32).dek"
              Version="0.1.0" URL="http://puredata.info/Members/wmbrent/software/ultraleap/0.1.0/ultraleap[v0.1.0](Windows-amd64-32).dek">
       <Objects>
         <Object Name="ultraleap"/>
@@ -16418,6 +16418,15 @@
              Author="iembot" Timestamp="2021-05-03 08:59:46" Description="kiosk-plugin[v0.4].dek"
              Version="0.4" URL="http://puredata.info/Members/iembot/software/kiosk-plugin/0.4/kiosk-plugin[v0.4].dek">
       <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="leapmotion">
+    <Package ID="bGVhcG1vdGlvbl8wLjIuM18yMDIzLTAxLTA1IDE3OjM4OjE2X3dtYnJlbnQ="
+             Author="wmbrent" Timestamp="2023-01-05 17:38:16" Description="leapmotion[v0.2.3](Windows-amd64-32).dek"
+             Version="0.2.3" URL="http://puredata.info/Members/wmbrent/software/leapmotion/0.2.3/leapmotion[v0.2.3](Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="leapmotion"/>
+      </Objects>
     </Package>
   </Packages>
   <Packages Name="log">

@@ -1990,8 +1990,8 @@
     </Package>
   </Packages>
   <Packages Name="ultraleap">
-    <Package ID="dWx0cmFsZWFwXzAuMS4wXzIwMjItMTItMzEgMTY6MDM6MThfd21icmVudA=="
-             Author="wmbrent" Timestamp="2022-12-31 16:03:18" Description="ultraleap[v0.1.0](Linux-amd64-32).dek"
+    <Package ID="dWx0cmFsZWFwXzAuMS4wXzIwMjMtMDEtMDUgMTg6MDA6MDFfd21icmVudA=="
+             Author="wmbrent" Timestamp="2023-01-05 18:00:01" Description="ultraleap[v0.1.0](Linux-amd64-32).dek"
              Version="0.1.0" URL="http://puredata.info/Members/wmbrent/software/ultraleap/0.1.0/ultraleap[v0.1.0](Linux-amd64-32).dek">
       <Objects>
         <Object Name="ultraleap"/>
@@ -11266,9 +11266,9 @@
     </Package>
   </Packages>
   <Packages Name="leapmotion">
-    <Package ID="bGVhcG1vdGlvbl8wLjIuMl8yMDIyLTEyLTI5IDE4OjEyOjA4X3dtYnJlbnQ="
-             Author="wmbrent" Timestamp="2022-12-29 18:12:08" Description="leapmotion[v0.2.2](Linux-amd64-32).dek"
-             Version="0.2.2" URL="http://puredata.info/Members/wmbrent/software/leapmotion/0.2.2/leapmotion[v0.2.2](Linux-amd64-32).dek">
+    <Package ID="bGVhcG1vdGlvbl8wLjIuM18yMDIzLTAxLTA1IDE3OjU5OjEyX3dtYnJlbnQ="
+             Author="wmbrent" Timestamp="2023-01-05 17:59:12" Description="leapmotion[v0.2.3](Linux-amd64-32).dek"
+             Version="0.2.3" URL="http://puredata.info/Members/wmbrent/software/leapmotion/0.2.3/leapmotion[v0.2.3](Linux-amd64-32).dek">
       <Objects>
         <Object Name="leapmotion"/>
       </Objects>

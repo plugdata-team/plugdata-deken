@@ -20700,9 +20700,9 @@
     </Package>
   </Packages>
   <Packages Name="leapmotion">
-    <Package ID="bGVhcG1vdGlvbl8wLjIuMl8yMDIyLTEyLTI5IDE4OjA4OjU4X3dtYnJlbnQ="
-             Author="wmbrent" Timestamp="2022-12-29 18:08:58" Description="leapmotion[v0.2.2](Darwin-amd64-32)(Darwin-i386-0).dek"
-             Version="0.2.2" URL="http://puredata.info/Members/wmbrent/software/leapmotion/0.2.2/leapmotion[v0.2.2](Darwin-amd64-32)(Darwin-i386-0).dek">
+    <Package ID="bGVhcG1vdGlvbl8wLjIuM18yMDIzLTAxLTA1IDE3OjQwOjM0X3dtYnJlbnQ="
+             Author="wmbrent" Timestamp="2023-01-05 17:40:34" Description="leapmotion[v0.2.3](Darwin-amd64-32)(Darwin-i386-0).dek"
+             Version="0.2.3" URL="http://puredata.info/Members/wmbrent/software/leapmotion/0.2.3/leapmotion[v0.2.3](Darwin-amd64-32)(Darwin-i386-0).dek">
       <Objects>
         <Object Name="leapmotion"/>
       </Objects>
