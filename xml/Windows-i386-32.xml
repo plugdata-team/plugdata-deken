@@ -1680,6 +1680,29 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="timestretch">
+    <Package ID="dGltZXN0cmV0Y2hfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mjc6MTZfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-08-07 14:27:16" Description="timestretch-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/timestretch/timestretch-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="shotnoise">
+    <Package ID="c2hvdG5vaXNlXzAuOS4xXzIwMTYtMDctMzAgMjM6NTA6NDFfc2F0dXJubw=="
+             Author="saturno" Timestamp="2016-07-30 23:50:41" Description="shotnoise-v0.9.1--externals.zip"
+             Version="0.9.1" URL="http://puredata.info/Members/saturno/software/shotnoise/0.9.1/shotnoise-v0.9.1--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="neuralnet">
+    <Package ID="bmV1cmFsbmV0XzAuMl8yMDIyLTA3LTAxIDIxOjIxOjIyX2FsZXhhbmRyb3M="
+             Author="alexandros" Timestamp="2022-07-01 21:21:22" Description="neuralnet[v0.2](Windows-amd64-32)(Windows-i386-32)(Sources).dek"
+             Version="0.2" URL="http://puredata.info/Members/alexandros/software/neuralnet/0.2/neuralnet[v0.2](Windows-amd64-32)(Windows-i386-32)(Sources).dek">
+      <Objects>
+        <Object Name="neuralnet"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="jpcvisu">
     <Package ID="anBjdmlzdV8wLjFfMjAxOC0wMy0wMSAxMTozODowNV9qcGNpbWE=" Author="jpcima"
              Timestamp="2018-03-01 11:38:05" Description="jpcvisu-v0.1-(Sources)(Windows-i386-32)-externals.zip"
@@ -9409,6 +9432,15 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="jackpatch">
+    <Package ID="amFja3BhdGNoXzAuMl8yMDIzLTAxLTA2IDE1OjM2OjE2X3Jkeg==" Author="rdz"
+             Timestamp="2023-01-06 15:36:16" Description="jackpatch[v0.2](Windows-i386-32).dek"
+             Version="0.2" URL="http://puredata.info/Members/rdz/software/jackpatch/0.2/jackpatch[v0.2](Windows-i386-32).dek">
+      <Objects>
+        <Object Name="jackpatch"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="completion-plugin">
     <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40Ny4xXzIwMTktMDktMTggMTM6Mzc6MjdfSGVucmk="
              Author="Henri" Timestamp="2019-09-18 13:37:27" Description="completion-plugin[v0.47.1].dek"
@@ -9617,6 +9649,13 @@
     </Package>
   </Packages>
   <Packages Name="mp3cast~">
+    <Package ID="bXAzY2FzdH5fMC42XzIwMjMtMDEtMDYgMTU6Mjc6NDhfcmR6" Author="rdz"
+             Timestamp="2023-01-06 15:27:48" Description="mp3cast~[v0.6](Windows-i386-32).dek"
+             Version="0.6" URL="http://puredata.info/Members/rdz/software/mp3cast~/0.6/mp3cast~[v0.6](Windows-i386-32).dek">
+      <Objects>
+        <Object Name="mp3cast~"/>
+      </Objects>
+    </Package>
     <Package ID="bXAzY2FzdH5fMC41XzIwMjItMDUtMTIgMjI6Mzc6MjNfcmR6" Author="rdz"
              Timestamp="2022-05-12 22:37:23" Description="mp3cast~[v0.5](Windows-i386-32).dek"
              Version="0.5" URL="http://puredata.info/Members/rdz/software/mp3cast~/0.5/mp3cast~[v0.5](Windows-i386-32).dek">
@@ -9756,29 +9795,6 @@
              Author="chr15m" Timestamp="2015-07-30 15:12:37" Description="net-v0.0.extended-(Windows-i386-32)-externals.zip"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/net/net-v0.0.extended-(Windows-i386-32)-externals.zip">
       <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="timestretch">
-    <Package ID="dGltZXN0cmV0Y2hfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mjc6MTZfY2hyMTVt"
-             Author="chr15m" Timestamp="2015-08-07 14:27:16" Description="timestretch-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/timestretch/timestretch-v0.0.extended--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="shotnoise">
-    <Package ID="c2hvdG5vaXNlXzAuOS4xXzIwMTYtMDctMzAgMjM6NTA6NDFfc2F0dXJubw=="
-             Author="saturno" Timestamp="2016-07-30 23:50:41" Description="shotnoise-v0.9.1--externals.zip"
-             Version="0.9.1" URL="http://puredata.info/Members/saturno/software/shotnoise/0.9.1/shotnoise-v0.9.1--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="neuralnet">
-    <Package ID="bmV1cmFsbmV0XzAuMl8yMDIyLTA3LTAxIDIxOjIxOjIyX2FsZXhhbmRyb3M="
-             Author="alexandros" Timestamp="2022-07-01 21:21:22" Description="neuralnet[v0.2](Windows-amd64-32)(Windows-i386-32)(Sources).dek"
-             Version="0.2" URL="http://puredata.info/Members/alexandros/software/neuralnet/0.2/neuralnet[v0.2](Windows-amd64-32)(Windows-i386-32)(Sources).dek">
-      <Objects>
-        <Object Name="neuralnet"/>
-      </Objects>
     </Package>
   </Packages>
   <Packages Name="purest_json">

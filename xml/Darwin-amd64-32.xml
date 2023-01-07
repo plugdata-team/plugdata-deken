@@ -2844,6 +2844,29 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="timestretch">
+    <Package ID="dGltZXN0cmV0Y2hfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mjc6MTZfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-08-07 14:27:16" Description="timestretch-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/timestretch/timestretch-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="shotnoise">
+    <Package ID="c2hvdG5vaXNlXzAuOS4xXzIwMTYtMDctMzAgMjM6NTA6NDFfc2F0dXJubw=="
+             Author="saturno" Timestamp="2016-07-30 23:50:41" Description="shotnoise-v0.9.1--externals.zip"
+             Version="0.9.1" URL="http://puredata.info/Members/saturno/software/shotnoise/0.9.1/shotnoise-v0.9.1--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="neuralnet">
+    <Package ID="bmV1cmFsbmV0XzAuMl8yMDIyLTA3LTA5IDE2OjUwOjMzX2FsZXhhbmRyb3M="
+             Author="alexandros" Timestamp="2022-07-09 16:50:33" Description="neuralnet[v0.2](Darwin-amd64-32)(Darwin-i386-32)(Sources).dek"
+             Version="0.2" URL="http://puredata.info/Members/alexandros/software/neuralnet/0.2/neuralnet[v0.2](Darwin-amd64-32)(Darwin-i386-32)(Sources).dek">
+      <Objects>
+        <Object Name="neuralnet"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="faustgen~">
     <Package ID="ZmF1c3RnZW5+XzAuMS4yXzIwMjAtMDgtMDMgMTc6Mzg6MjVfcGllcnJlZ2x0"
              Author="pierreglt" Timestamp="2020-08-03 17:38:25" Description="faustgen~[v0.1.2](Darwin-amd64-32)(Sources).dek"
@@ -17371,6 +17394,15 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="jackpatch">
+    <Package ID="amFja3BhdGNoXzAuMl8yMDIzLTAxLTA2IDE1OjM5OjQwX3Jkeg==" Author="rdz"
+             Timestamp="2023-01-06 15:39:40" Description="jackpatch[v0.2](Darwin-amd64-32).dek"
+             Version="0.2" URL="http://puredata.info/Members/rdz/software/jackpatch/0.2/jackpatch[v0.2](Darwin-amd64-32).dek">
+      <Objects>
+        <Object Name="jackpatch"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="completion-plugin">
     <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40Ny4xXzIwMTktMDktMTggMTM6Mzc6MjdfSGVucmk="
              Author="Henri" Timestamp="2019-09-18 13:37:27" Description="completion-plugin[v0.47.1].dek"
@@ -17929,6 +17961,13 @@
     </Package>
   </Packages>
   <Packages Name="mp3cast~">
+    <Package ID="bXAzY2FzdH5fMC42XzIwMjMtMDEtMDYgMTU6Mjk6NTdfcmR6" Author="rdz"
+             Timestamp="2023-01-06 15:29:57" Description="mp3cast~[v0.6](Darwin-amd64-32).dek"
+             Version="0.6" URL="http://puredata.info/Members/rdz/software/mp3cast~/0.6/mp3cast~[v0.6](Darwin-amd64-32).dek">
+      <Objects>
+        <Object Name="mp3cast~"/>
+      </Objects>
+    </Package>
     <Package ID="bXAzY2FzdH5fMC41XzIwMjItMDUtMTIgMjI6MzM6MzZfcmR6" Author="rdz"
              Timestamp="2022-05-12 22:33:36" Description="mp3cast~[v0.5](Darwin-amd64-32).dek"
              Version="0.5" URL="http://puredata.info/Members/rdz/software/mp3cast~/0.5/mp3cast~[v0.5](Darwin-amd64-32).dek">
@@ -18072,29 +18111,6 @@
              Author="zmoelnig" Timestamp="2015-12-10 14:28:33" Description="net-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/net/0-0extended/net-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
       <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="timestretch">
-    <Package ID="dGltZXN0cmV0Y2hfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mjc6MTZfY2hyMTVt"
-             Author="chr15m" Timestamp="2015-08-07 14:27:16" Description="timestretch-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/timestretch/timestretch-v0.0.extended--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="shotnoise">
-    <Package ID="c2hvdG5vaXNlXzAuOS4xXzIwMTYtMDctMzAgMjM6NTA6NDFfc2F0dXJubw=="
-             Author="saturno" Timestamp="2016-07-30 23:50:41" Description="shotnoise-v0.9.1--externals.zip"
-             Version="0.9.1" URL="http://puredata.info/Members/saturno/software/shotnoise/0.9.1/shotnoise-v0.9.1--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="neuralnet">
-    <Package ID="bmV1cmFsbmV0XzAuMl8yMDIyLTA3LTA5IDE2OjUwOjMzX2FsZXhhbmRyb3M="
-             Author="alexandros" Timestamp="2022-07-09 16:50:33" Description="neuralnet[v0.2](Darwin-amd64-32)(Darwin-i386-32)(Sources).dek"
-             Version="0.2" URL="http://puredata.info/Members/alexandros/software/neuralnet/0.2/neuralnet[v0.2](Darwin-amd64-32)(Darwin-i386-32)(Sources).dek">
-      <Objects>
-        <Object Name="neuralnet"/>
-      </Objects>
     </Package>
   </Packages>
   <Packages Name="purest_json">
@@ -19077,6 +19093,13 @@
     </Package>
   </Packages>
   <Packages Name="command">
+    <Package ID="Y29tbWFuZF8wLjRfMjAyMy0wMS0wNiAxNToyNToyMF9yZHo=" Author="rdz"
+             Timestamp="2023-01-06 15:25:20" Description="command[v0.4](Darwin-amd64-32).dek"
+             Version="0.4" URL="http://puredata.info/Members/rdz/software/command/0.4/command[v0.4](Darwin-amd64-32).dek">
+      <Objects>
+        <Object Name="command"/>
+      </Objects>
+    </Package>
     <Package ID="Y29tbWFuZF8wLjNfMjAyMi0wMi0wOCAyMjoxNDo0Ml9yZHo=" Author="rdz"
              Timestamp="2022-02-08 22:14:42" Description="command[v0.3](Darwin-amd64-32)(Darwin-i386-32).dek"
              Version="0.3" URL="http://puredata.info/Members/rdz/software/command/0.3/command[v0.3](Darwin-amd64-32)(Darwin-i386-32).dek">
@@ -20700,8 +20723,8 @@
     </Package>
   </Packages>
   <Packages Name="leapmotion">
-    <Package ID="bGVhcG1vdGlvbl8wLjIuM18yMDIzLTAxLTA1IDE3OjQwOjM0X3dtYnJlbnQ="
-             Author="wmbrent" Timestamp="2023-01-05 17:40:34" Description="leapmotion[v0.2.3](Darwin-amd64-32)(Darwin-i386-0).dek"
+    <Package ID="bGVhcG1vdGlvbl8wLjIuM18yMDIzLTAxLTA2IDE0OjQ3OjQ4X3dtYnJlbnQ="
+             Author="wmbrent" Timestamp="2023-01-06 14:47:48" Description="leapmotion[v0.2.3](Darwin-amd64-32)(Darwin-i386-0).dek"
              Version="0.2.3" URL="http://puredata.info/Members/wmbrent/software/leapmotion/0.2.3/leapmotion[v0.2.3](Darwin-amd64-32)(Darwin-i386-0).dek">
       <Objects>
         <Object Name="leapmotion"/>

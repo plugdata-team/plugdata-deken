@@ -1863,8 +1863,8 @@
     </Package>
   </Packages>
   <Packages Name="ultraleap">
-    <Package ID="dWx0cmFsZWFwXzAuMS4wXzIwMjMtMDEtMDUgMTg6MDE6Mzdfd21icmVudA=="
-             Author="wmbrent" Timestamp="2023-01-05 18:01:37" Description="ultraleap[v0.1.0](Windows-amd64-32).dek"
+    <Package ID="dWx0cmFsZWFwXzAuMS4wXzIwMjMtMDEtMDYgMTQ6NDU6Mzhfd21icmVudA=="
+             Author="wmbrent" Timestamp="2023-01-06 14:45:38" Description="ultraleap[v0.1.0](Windows-amd64-32).dek"
              Version="0.1.0" URL="http://puredata.info/Members/wmbrent/software/ultraleap/0.1.0/ultraleap[v0.1.0](Windows-amd64-32).dek">
       <Objects>
         <Object Name="ultraleap"/>
@@ -2223,6 +2223,29 @@
              Version="0.0.0" URL="http://puredata.info/Members/lucarda/software/nicinfo/0.0.0/nicinfo[v0.0.0](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
       <Objects>
         <Object Name="nicinfo"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="timestretch">
+    <Package ID="dGltZXN0cmV0Y2hfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mjc6MTZfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-08-07 14:27:16" Description="timestretch-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/timestretch/timestretch-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="shotnoise">
+    <Package ID="c2hvdG5vaXNlXzAuOS4xXzIwMTYtMDctMzAgMjM6NTA6NDFfc2F0dXJubw=="
+             Author="saturno" Timestamp="2016-07-30 23:50:41" Description="shotnoise-v0.9.1--externals.zip"
+             Version="0.9.1" URL="http://puredata.info/Members/saturno/software/shotnoise/0.9.1/shotnoise-v0.9.1--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="neuralnet">
+    <Package ID="bmV1cmFsbmV0XzAuMl8yMDIyLTA3LTAxIDIxOjIxOjIyX2FsZXhhbmRyb3M="
+             Author="alexandros" Timestamp="2022-07-01 21:21:22" Description="neuralnet[v0.2](Windows-amd64-32)(Windows-i386-32)(Sources).dek"
+             Version="0.2" URL="http://puredata.info/Members/alexandros/software/neuralnet/0.2/neuralnet[v0.2](Windows-amd64-32)(Windows-i386-32)(Sources).dek">
+      <Objects>
+        <Object Name="neuralnet"/>
       </Objects>
     </Package>
   </Packages>
@@ -13578,6 +13601,15 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="jackpatch">
+    <Package ID="amFja3BhdGNoXzAuMl8yMDIzLTAxLTA2IDE1OjM5OjAwX3Jkeg==" Author="rdz"
+             Timestamp="2023-01-06 15:39:00" Description="jackpatch[v0.2](Windows-amd64-32).dek"
+             Version="0.2" URL="http://puredata.info/Members/rdz/software/jackpatch/0.2/jackpatch[v0.2](Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="jackpatch"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="completion-plugin">
     <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40Ny4xXzIwMTktMDktMTggMTM6Mzc6MjdfSGVucmk="
              Author="Henri" Timestamp="2019-09-18 13:37:27" Description="completion-plugin[v0.47.1].dek"
@@ -14145,6 +14177,13 @@
     </Package>
   </Packages>
   <Packages Name="mp3cast~">
+    <Package ID="bXAzY2FzdH5fMC42XzIwMjMtMDEtMDYgMTU6Mjk6MjBfcmR6" Author="rdz"
+             Timestamp="2023-01-06 15:29:20" Description="mp3cast~[v0.6](Windows-amd64-32).dek"
+             Version="0.6" URL="http://puredata.info/Members/rdz/software/mp3cast~/0.6/mp3cast~[v0.6](Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="mp3cast~"/>
+      </Objects>
+    </Package>
     <Package ID="bXAzY2FzdH5fMC41XzIwMjItMDUtMTIgMjI6Mzg6MDFfcmR6" Author="rdz"
              Timestamp="2022-05-12 22:38:01" Description="mp3cast~[v0.5](Windows-amd64-32).dek"
              Version="0.5" URL="http://puredata.info/Members/rdz/software/mp3cast~/0.5/mp3cast~[v0.5](Windows-amd64-32).dek">
@@ -14229,29 +14268,6 @@
         <Object Name="xgroove~"/>
         <Object Name="xplay~"/>
         <Object Name="xrecord~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="timestretch">
-    <Package ID="dGltZXN0cmV0Y2hfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mjc6MTZfY2hyMTVt"
-             Author="chr15m" Timestamp="2015-08-07 14:27:16" Description="timestretch-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/timestretch/timestretch-v0.0.extended--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="shotnoise">
-    <Package ID="c2hvdG5vaXNlXzAuOS4xXzIwMTYtMDctMzAgMjM6NTA6NDFfc2F0dXJubw=="
-             Author="saturno" Timestamp="2016-07-30 23:50:41" Description="shotnoise-v0.9.1--externals.zip"
-             Version="0.9.1" URL="http://puredata.info/Members/saturno/software/shotnoise/0.9.1/shotnoise-v0.9.1--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="neuralnet">
-    <Package ID="bmV1cmFsbmV0XzAuMl8yMDIyLTA3LTAxIDIxOjIxOjIyX2FsZXhhbmRyb3M="
-             Author="alexandros" Timestamp="2022-07-01 21:21:22" Description="neuralnet[v0.2](Windows-amd64-32)(Windows-i386-32)(Sources).dek"
-             Version="0.2" URL="http://puredata.info/Members/alexandros/software/neuralnet/0.2/neuralnet[v0.2](Windows-amd64-32)(Windows-i386-32)(Sources).dek">
-      <Objects>
-        <Object Name="neuralnet"/>
       </Objects>
     </Package>
   </Packages>
@@ -16421,8 +16437,8 @@
     </Package>
   </Packages>
   <Packages Name="leapmotion">
-    <Package ID="bGVhcG1vdGlvbl8wLjIuM18yMDIzLTAxLTA1IDE3OjM4OjE2X3dtYnJlbnQ="
-             Author="wmbrent" Timestamp="2023-01-05 17:38:16" Description="leapmotion[v0.2.3](Windows-amd64-32).dek"
+    <Package ID="bGVhcG1vdGlvbl8wLjIuM18yMDIzLTAxLTA2IDE1OjI5OjEzX3dtYnJlbnQ="
+             Author="wmbrent" Timestamp="2023-01-06 15:29:13" Description="leapmotion[v0.2.3](Windows-amd64-32).dek"
              Version="0.2.3" URL="http://puredata.info/Members/wmbrent/software/leapmotion/0.2.3/leapmotion[v0.2.3](Windows-amd64-32).dek">
       <Objects>
         <Object Name="leapmotion"/>

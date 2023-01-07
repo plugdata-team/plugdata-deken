@@ -1243,6 +1243,20 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="timestretch">
+    <Package ID="dGltZXN0cmV0Y2hfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mjc6MTZfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-08-07 14:27:16" Description="timestretch-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/timestretch/timestretch-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="shotnoise">
+    <Package ID="c2hvdG5vaXNlXzAuOS4xXzIwMTYtMDctMzAgMjM6NTA6NDFfc2F0dXJubw=="
+             Author="saturno" Timestamp="2016-07-30 23:50:41" Description="shotnoise-v0.9.1--externals.zip"
+             Version="0.9.1" URL="http://puredata.info/Members/saturno/software/shotnoise/0.9.1/shotnoise-v0.9.1--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="AutoPreset">
     <Package ID="QXV0b1ByZXNldF8wLjEwXzIwMTYtMTEtMDcgMjM6MDc6MjRfYW50MXI="
              Author="ant1r" Timestamp="2016-11-07 23:07:24" Description="AutoPreset-v0.10--externals.zip"
@@ -5700,6 +5714,15 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="jackpatch">
+    <Package ID="amFja3BhdGNoXzAuMl8yMDIzLTAxLTA2IDE1OjM3OjI3X3Jkeg==" Author="rdz"
+             Timestamp="2023-01-06 15:37:27" Description="jackpatch[v0.2](Linux-i386-32).dek"
+             Version="0.2" URL="http://puredata.info/Members/rdz/software/jackpatch/0.2/jackpatch[v0.2](Linux-i386-32).dek">
+      <Objects>
+        <Object Name="jackpatch"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="completion-plugin">
     <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40Ny4xXzIwMTktMDktMTggMTM6Mzc6MjdfSGVucmk="
              Author="Henri" Timestamp="2019-09-18 13:37:27" Description="completion-plugin[v0.47.1].dek"
@@ -5903,6 +5926,13 @@
     </Package>
   </Packages>
   <Packages Name="mp3cast~">
+    <Package ID="bXAzY2FzdH5fMC42XzIwMjMtMDEtMDYgMTU6Mjg6MzBfcmR6" Author="rdz"
+             Timestamp="2023-01-06 15:28:30" Description="mp3cast~[v0.6](Linux-i386-32).dek"
+             Version="0.6" URL="http://puredata.info/Members/rdz/software/mp3cast~/0.6/mp3cast~[v0.6](Linux-i386-32).dek">
+      <Objects>
+        <Object Name="mp3cast~"/>
+      </Objects>
+    </Package>
     <Package ID="bXAzY2FzdH5fMC41LTFfMjAyMi0wNS0xNiAyMDo1ODoxMF9yZHo=" Author="rdz"
              Timestamp="2022-05-16 20:58:10" Description="mp3cast~[v0.5-1](Linux-i386-32).dek"
              Version="0.5-1" URL="http://puredata.info/Members/rdz/software/mp3cast~/0.5-1/mp3cast~[v0.5-1](Linux-i386-32).dek">
@@ -5989,20 +6019,6 @@
     <Package ID="bmV0XzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjM4OjMzX2NocjE1bQ=="
              Author="chr15m" Timestamp="2015-08-07 14:38:33" Description="net-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/net/net-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="timestretch">
-    <Package ID="dGltZXN0cmV0Y2hfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mjc6MTZfY2hyMTVt"
-             Author="chr15m" Timestamp="2015-08-07 14:27:16" Description="timestretch-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/timestretch/timestretch-v0.0.extended--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="shotnoise">
-    <Package ID="c2hvdG5vaXNlXzAuOS4xXzIwMTYtMDctMzAgMjM6NTA6NDFfc2F0dXJubw=="
-             Author="saturno" Timestamp="2016-07-30 23:50:41" Description="shotnoise-v0.9.1--externals.zip"
-             Version="0.9.1" URL="http://puredata.info/Members/saturno/software/shotnoise/0.9.1/shotnoise-v0.9.1--externals.zip">
       <Objects/>
     </Package>
   </Packages>
@@ -6388,6 +6404,13 @@
     </Package>
   </Packages>
   <Packages Name="command">
+    <Package ID="Y29tbWFuZF8wLjRfMjAyMy0wMS0wNiAxNToyNDoyNV9yZHo=" Author="rdz"
+             Timestamp="2023-01-06 15:24:25" Description="command[v0.4](Linux-i386-32).dek"
+             Version="0.4" URL="http://puredata.info/Members/rdz/software/command/0.4/command[v0.4](Linux-i386-32).dek">
+      <Objects>
+        <Object Name="command"/>
+      </Objects>
+    </Package>
     <Package ID="Y29tbWFuZF8wLjNfMjAyMi0wMi0wOCAyMjoxMzoyOV9yZHo=" Author="rdz"
              Timestamp="2022-02-08 22:13:29" Description="command[v0.3](Linux-i386-32).dek"
              Version="0.3" URL="http://puredata.info/Members/rdz/software/command/0.3/command[v0.3](Linux-i386-32).dek">
