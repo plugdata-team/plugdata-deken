@@ -1990,9 +1990,9 @@
     </Package>
   </Packages>
   <Packages Name="ultraleap">
-    <Package ID="dWx0cmFsZWFwXzAuMS4wXzIwMjMtMDEtMDYgMTU6MjQ6MzNfd21icmVudA=="
-             Author="wmbrent" Timestamp="2023-01-06 15:24:33" Description="ultraleap[v0.1.0](Linux-amd64-32).dek"
-             Version="0.1.0" URL="http://puredata.info/Members/wmbrent/software/ultraleap/0.1.0/ultraleap[v0.1.0](Linux-amd64-32).dek">
+    <Package ID="dWx0cmFsZWFwXzAuMS4xXzIwMjMtMDEtMDkgMTk6Mzg6MzFfd21icmVudA=="
+             Author="wmbrent" Timestamp="2023-01-09 19:38:31" Description="ultraleap[v0.1.1](Linux-amd64-32).dek"
+             Version="0.1.1" URL="http://puredata.info/Members/wmbrent/software/ultraleap/0.1.1/ultraleap[v0.1.1](Linux-amd64-32).dek">
       <Objects>
         <Object Name="ultraleap"/>
       </Objects>
