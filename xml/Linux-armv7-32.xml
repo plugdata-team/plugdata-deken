@@ -8850,6 +8850,24 @@
     </Package>
   </Packages>
   <Packages Name="iemgui">
+    <Package ID="aWVtZ3VpXzEuMjEtM18yMDIzLTAxLTExIDE1OjA5OjUxX2llbWJvdA=="
+             Author="iembot" Timestamp="2023-01-11 15:09:51" Description="iemgui[v1.21-3](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="1.21-3" URL="http://puredata.info/Members/iembot/software/iemgui/1.21-3/iemgui[v1.21-3](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="cube_sphere"/>
+        <Object Name="hfadl_scale"/>
+        <Object Name="hfadr_scale"/>
+        <Object Name="iem_event"/>
+        <Object Name="iem_image"/>
+        <Object Name="iem_vu"/>
+        <Object Name="nbxm"/>
+        <Object Name="numberbox_matrix"/>
+        <Object Name="room_sim_2d"/>
+        <Object Name="room_sim_3d"/>
+        <Object Name="sym_dial"/>
+        <Object Name="vfad_scale"/>
+      </Objects>
+    </Package>
     <Package ID="aWVtZ3VpXzEuMjEtMl8yMDIyLTA5LTEzIDIxOjQ3OjI1X2llbWJvdA=="
              Author="iembot" Timestamp="2022-09-13 21:47:25" Description="iemgui[v1.21-2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
              Version="1.21-2" URL="http://puredata.info/Members/iembot/software/iemgui/1.21-2/iemgui[v1.21-2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
