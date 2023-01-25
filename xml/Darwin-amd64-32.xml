@@ -1055,6 +1055,15 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="pofbeam">
+    <Package ID="cG9mYmVhbV8wLjEuMC0wLWdjYzJjXzIwMjMtMDEtMjQgMTA6NTQ6MThfYW50MXI="
+             Author="ant1r" Timestamp="2023-01-24 10:54:18" Description="pofbeam[v0.1.0-0-gcc2c](Darwin-amd64-32).dek"
+             Version="0.1.0-0-gcc2c" URL="http://puredata.info/Members/ant1r/software/pofbeam/0.1.0-0-gcc2c/pofbeam[v0.1.0-0-gcc2c](Darwin-amd64-32).dek">
+      <Objects>
+        <Object Name="pofbeam"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="tclpd">
     <Package ID="dGNscGRfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDozNDowOV96bW9lbG5pZw=="
              Author="zmoelnig" Timestamp="2015-12-10 14:34:09" Description="tclpd-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
@@ -11137,6 +11146,13 @@
     </Package>
   </Packages>
   <Packages Name="abl_link~">
+    <Package ID="YWJsX2xpbmt+XzAuNl8yMDIzLTAxLTI0IDExOjE1OjM2X2FudDFy" Author="ant1r"
+             Timestamp="2023-01-24 11:15:36" Description="abl_link~[v0.6](Darwin-amd64-32).dek"
+             Version="0.6" URL="http://puredata.info/Members/ant1r/software/abl_link~/0.6/abl_link~[v0.6](Darwin-amd64-32).dek">
+      <Objects>
+        <Object Name="abl_link~"/>
+      </Objects>
+    </Package>
     <Package ID="YWJsX2xpbmt+XzAuM18yMDIwLTEyLTIyIDE2OjIwOjA5X2FudDFy" Author="ant1r"
              Timestamp="2020-12-22 16:20:09" Description="abl_link~[v0.3](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32).dek"
              Version="0.3" URL="http://puredata.info/Members/ant1r/software/abl_link~/0.3/abl_link~[v0.3](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32).dek">
