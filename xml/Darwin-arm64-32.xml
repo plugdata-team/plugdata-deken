@@ -3806,6 +3806,15 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="jackpatch">
+    <Package ID="amFja3BhdGNoXzAuMl8yMDIzLTAxLTI2IDIxOjI0OjIwX3Jkeg==" Author="rdz"
+             Timestamp="2023-01-26 21:24:20" Description="jackpatch[v0.2](Darwin-arm64-32).dek"
+             Version="0.2" URL="http://puredata.info/Members/rdz/software/jackpatch/0.2/jackpatch[v0.2](Darwin-arm64-32).dek">
+      <Objects>
+        <Object Name="jackpatch"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="completion-plugin">
     <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40Ny4xXzIwMTktMDktMTggMTM6Mzc6MjdfSGVucmk="
              Author="Henri" Timestamp="2019-09-18 13:37:27" Description="completion-plugin[v0.47.1].dek"
@@ -3973,6 +3982,13 @@
     </Package>
   </Packages>
   <Packages Name="mp3cast~">
+    <Package ID="bXAzY2FzdH5fMC42XzIwMjMtMDEtMjYgMjE6NDk6NDZfcmR6" Author="rdz"
+             Timestamp="2023-01-26 21:49:46" Description="mp3cast~[v0.6](Darwin-arm64-32).dek"
+             Version="0.6" URL="http://puredata.info/Members/rdz/software/mp3cast~/0.6/mp3cast~[v0.6](Darwin-arm64-32).dek">
+      <Objects>
+        <Object Name="mp3cast~"/>
+      </Objects>
+    </Package>
     <Package ID="bXAzY2FzdH5fMC41XzIwMjItMDUtMTIgMjI6MzY6MzNfcmR6" Author="rdz"
              Timestamp="2022-05-12 22:36:33" Description="mp3cast~[v0.5](Darwin-arm64-32).dek"
              Version="0.5" URL="http://puredata.info/Members/rdz/software/mp3cast~/0.5/mp3cast~[v0.5](Darwin-arm64-32).dek">
@@ -4328,6 +4344,13 @@
     </Package>
   </Packages>
   <Packages Name="command">
+    <Package ID="Y29tbWFuZF8wLjRfMjAyMy0wMS0yNiAyMToyNTowMV9yZHo=" Author="rdz"
+             Timestamp="2023-01-26 21:25:01" Description="command[v0.4](Darwin-arm64-32).dek"
+             Version="0.4" URL="http://puredata.info/Members/rdz/software/command/0.4/command[v0.4](Darwin-arm64-32).dek">
+      <Objects>
+        <Object Name="command"/>
+      </Objects>
+    </Package>
     <Package ID="Y29tbWFuZF8wLjNfMjAyMi0wNC0zMCAxNToyNzoxNV9yZHo=" Author="rdz"
              Timestamp="2022-04-30 15:27:15" Description="command[v0.3](Darwin-arm64-32).dek"
              Version="0.3" URL="http://puredata.info/Members/rdz/software/command/0.3/command[v0.3](Darwin-arm64-32).dek">
