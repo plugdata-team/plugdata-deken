@@ -2240,29 +2240,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="timestretch">
-    <Package ID="dGltZXN0cmV0Y2hfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mjc6MTZfY2hyMTVt"
-             Author="chr15m" Timestamp="2015-08-07 14:27:16" Description="timestretch-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/timestretch/timestretch-v0.0.extended--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="shotnoise">
-    <Package ID="c2hvdG5vaXNlXzAuOS4xXzIwMTYtMDctMzAgMjM6NTA6NDFfc2F0dXJubw=="
-             Author="saturno" Timestamp="2016-07-30 23:50:41" Description="shotnoise-v0.9.1--externals.zip"
-             Version="0.9.1" URL="http://puredata.info/Members/saturno/software/shotnoise/0.9.1/shotnoise-v0.9.1--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="neuralnet">
-    <Package ID="bmV1cmFsbmV0XzAuMl8yMDIyLTA3LTAxIDIxOjIxOjIyX2FsZXhhbmRyb3M="
-             Author="alexandros" Timestamp="2022-07-01 21:21:22" Description="neuralnet[v0.2](Windows-amd64-32)(Windows-i386-32)(Sources).dek"
-             Version="0.2" URL="http://puredata.info/Members/alexandros/software/neuralnet/0.2/neuralnet[v0.2](Windows-amd64-32)(Windows-i386-32)(Sources).dek">
-      <Objects>
-        <Object Name="neuralnet"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="faustgen~">
     <Package ID="ZmF1c3RnZW5+XzAuMS4yXzIwMjAtMDgtMDMgMTc6NDY6MDBfcGllcnJlZ2x0"
              Author="pierreglt" Timestamp="2020-08-03 17:46:00" Description="faustgen~[v0.1.2](Windows-amd64-32)(Sources).dek"
@@ -16014,6 +15991,29 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="timestretch">
+    <Package ID="dGltZXN0cmV0Y2hfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mjc6MTZfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-08-07 14:27:16" Description="timestretch-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/timestretch/timestretch-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="shotnoise">
+    <Package ID="c2hvdG5vaXNlXzAuOS4xXzIwMTYtMDctMzAgMjM6NTA6NDFfc2F0dXJubw=="
+             Author="saturno" Timestamp="2016-07-30 23:50:41" Description="shotnoise-v0.9.1--externals.zip"
+             Version="0.9.1" URL="http://puredata.info/Members/saturno/software/shotnoise/0.9.1/shotnoise-v0.9.1--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="neuralnet">
+    <Package ID="bmV1cmFsbmV0XzAuMl8yMDIyLTA3LTAxIDIxOjIxOjIyX2FsZXhhbmRyb3M="
+             Author="alexandros" Timestamp="2022-07-01 21:21:22" Description="neuralnet[v0.2](Windows-amd64-32)(Windows-i386-32)(Sources).dek"
+             Version="0.2" URL="http://puredata.info/Members/alexandros/software/neuralnet/0.2/neuralnet[v0.2](Windows-amd64-32)(Windows-i386-32)(Sources).dek">
+      <Objects>
+        <Object Name="neuralnet"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="purest_json">
     <Package ID="cHVyZXN0X2pzb25fMi4wLjBfMjAyMi0xMS0yNyAyMTo1NDoxNl9yZXNpZHV1bQ=="
              Author="residuum" Timestamp="2022-11-27 21:54:16" Description="purest_json[v2.0.0](Windows-amd64-32).dek"
@@ -18501,6 +18501,11 @@
     </Package>
   </Packages>
   <Packages Name="deken-plugin">
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS42XzIwMjMtMDItMDYgMTM6MjU6MDFfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2023-02-06 13:25:01" Description="deken-plugin[v0.9.6].dek"
+             Version="0.9.6" URL="http://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.6/deken-plugin[v0.9.6].dek">
+      <Objects/>
+    </Package>
     <Package ID="ZGVrZW4tcGx1Z2luXzAuOS40XzIwMjItMDktMDIgMjM6MTA6NDBfem1vZWxuaWdib3Q="
              Author="zmoelnigbot" Timestamp="2022-09-02 23:10:40" Description="deken-plugin[v0.9.4].dek"
              Version="0.9.4" URL="http://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.4/deken-plugin[v0.9.4].dek">
