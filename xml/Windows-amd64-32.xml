@@ -993,6 +993,13 @@
     </Package>
   </Packages>
   <Packages Name="py4pd">
+    <Package ID="cHk0cGRfMC4wLjRfMjAyMy0wMi0wOCAxNDo1ODo1NF9jaGFybGVzbmVpbW9n"
+             Author="charlesneimog" Timestamp="2023-02-08 14:58:54" Description="py4pd[v0.0.4](Windows-amd64-32)(Sources).dek"
+             Version="0.0.4" URL="http://puredata.info/Members/charlesneimog/software/py4pd/0.0.4/py4pd[v0.0.4](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="py4pd"/>
+      </Objects>
+    </Package>
     <Package ID="cHk0cGRfMC4wLjNfMjAyMi0xMi0yNiAyMDo1NzoxNV9jaGFybGVzbmVpbW9n"
              Author="charlesneimog" Timestamp="2022-12-26 20:57:15" Description="py4pd[v0.0.3](Windows-amd64-32)(Sources).dek"
              Version="0.0.3" URL="http://puredata.info/Members/charlesneimog/software/py4pd/0.0.3/py4pd[v0.0.3](Windows-amd64-32)(Sources).dek">
@@ -15392,6 +15399,15 @@
              Author="zmoelnig" Timestamp="2022-06-17 15:00:21" Description="spring22[v0.20220617].dek"
              Version="0.20220617" URL="http://puredata.info/Members/zmoelnig/software/spring22/0.20220617/spring22[v0.20220617].dek">
       <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="pd-server">
+    <Package ID="cGQtc2VydmVyXzAuMS4wXzIwMjMtMDItMDggMTg6NTk6MzBfY2hhcmxlc25laW1vZw=="
+             Author="charlesneimog" Timestamp="2023-02-08 18:59:30" Description="pd-server[v0.1.0](Windows-amd64-32)(Sources).dek"
+             Version="0.1.0" URL="http://puredata.info/Members/charlesneimog/software/pd-server/0.1.0/pd-server[v0.1.0](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="server"/>
+      </Objects>
     </Package>
   </Packages>
   <Packages Name="chair">

@@ -978,6 +978,13 @@
     </Package>
   </Packages>
   <Packages Name="py4pd">
+    <Package ID="cHk0cGRfMC4wLjRfMjAyMy0wMi0wOCAxNDo0NTowNV9jaGFybGVzbmVpbW9n"
+             Author="charlesneimog" Timestamp="2023-02-08 14:45:05" Description="py4pd[v0.0.4](Darwin-amd64-32)(Linux-amd64-32)(Sources).dek"
+             Version="0.0.4" URL="http://puredata.info/Members/charlesneimog/software/py4pd/0.0.4/py4pd[v0.0.4](Darwin-amd64-32)(Linux-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="py4pd"/>
+      </Objects>
+    </Package>
     <Package ID="cHk0cGRfMC4wLjJfMjAyMi0xMC0wMyAyMDo0Nzo1MV9jaGFybGVzbmVpbW9n"
              Author="charlesneimog" Timestamp="2022-10-03 20:47:51" Description="py4pd[v0.0.2](Darwin-amd64-32)(Sources).dek"
              Version="0.0.2" URL="http://puredata.info/Members/charlesneimog/software/py4pd/0.0.2/py4pd[v0.0.2](Darwin-amd64-32)(Sources).dek">
@@ -20434,6 +20441,22 @@
              Author="zmoelnig" Timestamp="2022-06-17 15:00:21" Description="spring22[v0.20220617].dek"
              Version="0.20220617" URL="http://puredata.info/Members/zmoelnig/software/spring22/0.20220617/spring22[v0.20220617].dek">
       <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="pd-server">
+    <Package ID="cGQtc2VydmVyXzAuMS4xXzIwMjMtMDItMDggMjE6NDc6MDFfY2hhcmxlc25laW1vZw=="
+             Author="charlesneimog" Timestamp="2023-02-08 21:47:01" Description="pd-server[v0.1.1](Darwin-amd64-32)(Linux-amd64-32)(Sources).dek"
+             Version="0.1.1" URL="http://puredata.info/Members/charlesneimog/software/pd-server/0.1.1/pd-server[v0.1.1](Darwin-amd64-32)(Linux-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="server"/>
+      </Objects>
+    </Package>
+    <Package ID="cGQtc2VydmVyXzAuMS4wXzIwMjMtMDItMDggMTg6NDk6MDdfY2hhcmxlc25laW1vZw=="
+             Author="charlesneimog" Timestamp="2023-02-08 18:49:07" Description="pd-server[v0.1.0](Darwin-amd64-32)(Linux-amd64-32)(Sources).dek"
+             Version="0.1.0" URL="http://puredata.info/Members/charlesneimog/software/pd-server/0.1.0/pd-server[v0.1.0](Darwin-amd64-32)(Linux-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="server"/>
+      </Objects>
     </Package>
   </Packages>
   <Packages Name="chair">
