@@ -232,6 +232,20 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="timestretch">
+    <Package ID="dGltZXN0cmV0Y2hfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mjc6MTZfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-08-07 14:27:16" Description="timestretch-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/timestretch/timestretch-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="shotnoise">
+    <Package ID="c2hvdG5vaXNlXzAuOS4xXzIwMTYtMDctMzAgMjM6NTA6NDFfc2F0dXJubw=="
+             Author="saturno" Timestamp="2016-07-30 23:50:41" Description="shotnoise-v0.9.1--externals.zip"
+             Version="0.9.1" URL="http://puredata.info/Members/saturno/software/shotnoise/0.9.1/shotnoise-v0.9.1--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="AutoPreset">
     <Package ID="QXV0b1ByZXNldF8wLjEwXzIwMTYtMTEtMDcgMjM6MDc6MjRfYW50MXI="
              Author="ant1r" Timestamp="2016-11-07 23:07:24" Description="AutoPreset-v0.10--externals.zip"
@@ -6954,6 +6968,26 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="DEAPd">
+    <Package ID="REVBUGRfMC4xXzIwMjMtMDItMTQgMjE6MTk6MDJfY2FsYmFzc2lzdA=="
+             Author="calbassist" Timestamp="2023-02-14 21:19:02" Description="DEAPd[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/calbassist/software/DEAPd/0.1/DEAPd[v0.1].dek">
+      <Objects>
+        <Object Name="assign"/>
+        <Object Name="autopan"/>
+        <Object Name="DEAPkey"/>
+        <Object Name="DEAPlayer~"/>
+        <Object Name="DEAPlink"/>
+        <Object Name="DEAPloop~"/>
+        <Object Name="DEAPmidiin"/>
+        <Object Name="DEAPnote"/>
+        <Object Name="DEAPvst~"/>
+        <Object Name="master~"/>
+        <Object Name="quad~"/>
+        <Object Name="stereo~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="ezaoo">
     <Package ID="ZXphb29fMS4yXzIwMjAtMDgtMDkgMTc6NDA6NTVfZmRjaA==" Author="fdch"
              Timestamp="2020-08-09 17:40:55" Description="ezaoo[v1.2].dek"
@@ -7781,20 +7815,6 @@
         <Object Name="xplay~"/>
         <Object Name="xrecord~"/>
       </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="timestretch">
-    <Package ID="dGltZXN0cmV0Y2hfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mjc6MTZfY2hyMTVt"
-             Author="chr15m" Timestamp="2015-08-07 14:27:16" Description="timestretch-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/timestretch/timestretch-v0.0.extended--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="shotnoise">
-    <Package ID="c2hvdG5vaXNlXzAuOS4xXzIwMTYtMDctMzAgMjM6NTA6NDFfc2F0dXJubw=="
-             Author="saturno" Timestamp="2016-07-30 23:50:41" Description="shotnoise-v0.9.1--externals.zip"
-             Version="0.9.1" URL="http://puredata.info/Members/saturno/software/shotnoise/0.9.1/shotnoise-v0.9.1--externals.zip">
-      <Objects/>
     </Package>
   </Packages>
   <Packages Name="nGui">

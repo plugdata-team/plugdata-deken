@@ -2254,6 +2254,29 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="timestretch">
+    <Package ID="dGltZXN0cmV0Y2hfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mjc6MTZfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-08-07 14:27:16" Description="timestretch-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/timestretch/timestretch-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="shotnoise">
+    <Package ID="c2hvdG5vaXNlXzAuOS4xXzIwMTYtMDctMzAgMjM6NTA6NDFfc2F0dXJubw=="
+             Author="saturno" Timestamp="2016-07-30 23:50:41" Description="shotnoise-v0.9.1--externals.zip"
+             Version="0.9.1" URL="http://puredata.info/Members/saturno/software/shotnoise/0.9.1/shotnoise-v0.9.1--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="neuralnet">
+    <Package ID="bmV1cmFsbmV0XzAuMl8yMDIyLTA3LTAxIDIxOjIxOjIyX2FsZXhhbmRyb3M="
+             Author="alexandros" Timestamp="2022-07-01 21:21:22" Description="neuralnet[v0.2](Windows-amd64-32)(Windows-i386-32)(Sources).dek"
+             Version="0.2" URL="http://puredata.info/Members/alexandros/software/neuralnet/0.2/neuralnet[v0.2](Windows-amd64-32)(Windows-i386-32)(Sources).dek">
+      <Objects>
+        <Object Name="neuralnet"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="faustgen~">
     <Package ID="ZmF1c3RnZW5+XzAuMS4yXzIwMjAtMDgtMDMgMTc6NDY6MDBfcGllcnJlZ2x0"
              Author="pierreglt" Timestamp="2020-08-03 17:46:00" Description="faustgen~[v0.1.2](Windows-amd64-32)(Sources).dek"
@@ -8879,6 +8902,26 @@
              Author="anadjarov" Timestamp="2019-04-27 01:14:54" Description="ceammc[v0.7.1](Windows-amd64-32)(Windows-amd64-None).dek"
              Version="0.7.1" URL="http://puredata.info/Members/anadjarov/software/ceammc/0.7.1/ceammc[v0.7.1](Windows-amd64-32)(Windows-amd64-None).dek">
       <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="DEAPd">
+    <Package ID="REVBUGRfMC4xXzIwMjMtMDItMTQgMjE6MTk6MDJfY2FsYmFzc2lzdA=="
+             Author="calbassist" Timestamp="2023-02-14 21:19:02" Description="DEAPd[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/calbassist/software/DEAPd/0.1/DEAPd[v0.1].dek">
+      <Objects>
+        <Object Name="assign"/>
+        <Object Name="autopan"/>
+        <Object Name="DEAPkey"/>
+        <Object Name="DEAPlayer~"/>
+        <Object Name="DEAPlink"/>
+        <Object Name="DEAPloop~"/>
+        <Object Name="DEAPmidiin"/>
+        <Object Name="DEAPnote"/>
+        <Object Name="DEAPvst~"/>
+        <Object Name="master~"/>
+        <Object Name="quad~"/>
+        <Object Name="stereo~"/>
+      </Objects>
     </Package>
   </Packages>
   <Packages Name="ezaoo">
@@ -16011,29 +16054,6 @@
         <Object Name="xgroove~"/>
         <Object Name="xplay~"/>
         <Object Name="xrecord~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="timestretch">
-    <Package ID="dGltZXN0cmV0Y2hfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mjc6MTZfY2hyMTVt"
-             Author="chr15m" Timestamp="2015-08-07 14:27:16" Description="timestretch-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/timestretch/timestretch-v0.0.extended--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="shotnoise">
-    <Package ID="c2hvdG5vaXNlXzAuOS4xXzIwMTYtMDctMzAgMjM6NTA6NDFfc2F0dXJubw=="
-             Author="saturno" Timestamp="2016-07-30 23:50:41" Description="shotnoise-v0.9.1--externals.zip"
-             Version="0.9.1" URL="http://puredata.info/Members/saturno/software/shotnoise/0.9.1/shotnoise-v0.9.1--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="neuralnet">
-    <Package ID="bmV1cmFsbmV0XzAuMl8yMDIyLTA3LTAxIDIxOjIxOjIyX2FsZXhhbmRyb3M="
-             Author="alexandros" Timestamp="2022-07-01 21:21:22" Description="neuralnet[v0.2](Windows-amd64-32)(Windows-i386-32)(Sources).dek"
-             Version="0.2" URL="http://puredata.info/Members/alexandros/software/neuralnet/0.2/neuralnet[v0.2](Windows-amd64-32)(Windows-i386-32)(Sources).dek">
-      <Objects>
-        <Object Name="neuralnet"/>
       </Objects>
     </Package>
   </Packages>
