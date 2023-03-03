@@ -504,20 +504,23 @@
     </Package>
   </Packages>
   <Packages Name="DEAPd">
-    <Package ID="REVBUGRfMC4xXzIwMjMtMDItMTQgMjE6MTk6MDJfY2FsYmFzc2lzdA=="
-             Author="calbassist" Timestamp="2023-02-14 21:19:02" Description="DEAPd[v0.1].dek"
+    <Package ID="REVBUGRfMC4xXzIwMjMtMDMtMDIgMDc6NTg6NDRfY2FsYmFzc2lzdA=="
+             Author="calbassist" Timestamp="2023-03-02 07:58:44" Description="DEAPd[v0.1].dek"
              Version="0.1" URL="http://puredata.info/Members/calbassist/software/DEAPd/0.1/DEAPd[v0.1].dek">
       <Objects>
         <Object Name="assign"/>
         <Object Name="autopan"/>
+        <Object Name="catchall~"/>
         <Object Name="DEAPkey"/>
         <Object Name="DEAPlayer~"/>
         <Object Name="DEAPlink"/>
         <Object Name="DEAPloop~"/>
         <Object Name="DEAPmidiin"/>
         <Object Name="DEAPnote"/>
+        <Object Name="DEAPverb~"/>
         <Object Name="DEAPvst~"/>
         <Object Name="master~"/>
+        <Object Name="oct~"/>
         <Object Name="quad~"/>
         <Object Name="stereo~"/>
       </Objects>

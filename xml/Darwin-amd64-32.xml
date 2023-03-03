@@ -12735,20 +12735,23 @@
     </Package>
   </Packages>
   <Packages Name="DEAPd">
-    <Package ID="REVBUGRfMC4xXzIwMjMtMDItMTQgMjE6MTk6MDJfY2FsYmFzc2lzdA=="
-             Author="calbassist" Timestamp="2023-02-14 21:19:02" Description="DEAPd[v0.1].dek"
+    <Package ID="REVBUGRfMC4xXzIwMjMtMDMtMDIgMDc6NTg6NDRfY2FsYmFzc2lzdA=="
+             Author="calbassist" Timestamp="2023-03-02 07:58:44" Description="DEAPd[v0.1].dek"
              Version="0.1" URL="http://puredata.info/Members/calbassist/software/DEAPd/0.1/DEAPd[v0.1].dek">
       <Objects>
         <Object Name="assign"/>
         <Object Name="autopan"/>
+        <Object Name="catchall~"/>
         <Object Name="DEAPkey"/>
         <Object Name="DEAPlayer~"/>
         <Object Name="DEAPlink"/>
         <Object Name="DEAPloop~"/>
         <Object Name="DEAPmidiin"/>
         <Object Name="DEAPnote"/>
+        <Object Name="DEAPverb~"/>
         <Object Name="DEAPvst~"/>
         <Object Name="master~"/>
+        <Object Name="oct~"/>
         <Object Name="quad~"/>
         <Object Name="stereo~"/>
       </Objects>
@@ -17536,8 +17539,8 @@
     </Package>
   </Packages>
   <Packages Name="else">
-    <Package ID="ZWxzZV8xLjAtMF9yYzctd2l0aF9saXZlX2VsZWN0cm9uaWNzX3R1dG9yaWFsXzIwMjMtMDMtMDIgMDU6MDM6MjhfcG9ycmVz"
-             Author="porres" Timestamp="2023-03-02 05:03:28" Description="else[v1.0-0_rc7-with_live_electronics_tutorial](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek"
+    <Package ID="ZWxzZV8xLjAtMF9yYzctd2l0aF9saXZlX2VsZWN0cm9uaWNzX3R1dG9yaWFsXzIwMjMtMDMtMDMgMDE6MTY6MzdfcG9ycmVz"
+             Author="porres" Timestamp="2023-03-03 01:16:37" Description="else[v1.0-0_rc7-with_live_electronics_tutorial](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek"
              Version="1.0-0_rc7-with_live_electronics_tutorial" URL="http://puredata.info/Members/porres/software/else/1.0-0_rc7-with_live_electronics_tutorial/else[v1.0-0_rc7-with_live_electronics_tutorial](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek">
       <Objects>
         <Object Name="above"/>
@@ -17597,6 +17600,7 @@
         <Object Name="canvas.file"/>
         <Object Name="canvas.gop"/>
         <Object Name="canvas.mouse"/>
+        <Object Name="canvas.name"/>
         <Object Name="canvas.pos"/>
         <Object Name="canvas.setname"/>
         <Object Name="canvas.vis"/>
