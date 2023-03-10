@@ -2388,6 +2388,13 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="object-browser-test-plugin">
+    <Package ID="b2JqZWN0LWJyb3dzZXItdGVzdC1wbHVnaW5fMC4wLjAtYXBsaGEtMF8yMDIzLTAzLTEwIDAyOjM0OjA2X3BvcnJlcw=="
+             Author="porres" Timestamp="2023-03-10 02:34:06" Description="object-browser-test-plugin[v0.0.0-aplha-0].dek"
+             Version="0.0.0-aplha-0" URL="http://puredata.info/Members/porres/software/object-browser-test-plugin/0.0.0-aplha-0/object-browser-test-plugin[v0.0.0-aplha-0].dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="pddp">
     <Package ID="cGRkcF8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjI5OjQ5X3ptb2Vsbmln"
              Author="zmoelnig" Timestamp="2015-12-10 14:29:49" Description="pddp-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"

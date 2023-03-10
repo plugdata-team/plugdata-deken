@@ -601,6 +601,13 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="object-browser-test-plugin">
+    <Package ID="b2JqZWN0LWJyb3dzZXItdGVzdC1wbHVnaW5fMC4wLjAtYXBsaGEtMF8yMDIzLTAzLTEwIDAyOjM0OjA2X3BvcnJlcw=="
+             Author="porres" Timestamp="2023-03-10 02:34:06" Description="object-browser-test-plugin[v0.0.0-aplha-0].dek"
+             Version="0.0.0-aplha-0" URL="http://puredata.info/Members/porres/software/object-browser-test-plugin/0.0.0-aplha-0/object-browser-test-plugin[v0.0.0-aplha-0].dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="windowing">
     <Package ID="d2luZG93aW5nXzAuMi4wXzIwMTktMTItMjggMjE6MjM6MDNfZmprcmFhbg=="
              Author="fjkraan" Timestamp="2019-12-28 21:23:03" Description="windowing[v0.2.0](Linux-arm64-32)(Sources).dek"

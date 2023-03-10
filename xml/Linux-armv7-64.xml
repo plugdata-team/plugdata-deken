@@ -396,6 +396,18 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="object-browser-test-plugin">
+    <Package ID="b2JqZWN0LWJyb3dzZXItdGVzdC1wbHVnaW5fMC4wLjAtYXBsaGEtMF8yMDIzLTAzLTEwIDAyOjM0OjA2X3BvcnJlcw=="
+             Author="porres" Timestamp="2023-03-10 02:34:06" Description="object-browser-test-plugin[v0.0.0-aplha-0].dek"
+             Version="0.0.0-aplha-0" URL="http://puredata.info/Members/porres/software/object-browser-test-plugin/0.0.0-aplha-0/object-browser-test-plugin[v0.0.0-aplha-0].dek">
+      <Objects/>
+    </Package>
+    <Package ID="b2JqZWN0LWJyb3dzZXItdGVzdC1wbHVnaW5fMC4wLjAtYXBsaGEtMF8yMDIzLTAzLTEwIDAyOjM0OjA2X3BvcnJlcw=="
+             Author="porres" Timestamp="2023-03-10 02:34:06" Description="object-browser-test-plugin[v0.0.0-aplha-0].dek"
+             Version="0.0.0-aplha-0" URL="http://puredata.info/Members/porres/software/object-browser-test-plugin/0.0.0-aplha-0/object-browser-test-plugin[v0.0.0-aplha-0].dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="nsend">
     <Package ID="bnNlbmRfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mzk6NTRfY2hyMTVt"
              Author="chr15m" Timestamp="2015-08-07 14:39:54" Description="nsend-v0.0.extended--externals.zip"
