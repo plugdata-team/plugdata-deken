@@ -978,6 +978,13 @@
     </Package>
   </Packages>
   <Packages Name="py4pd">
+    <Package ID="cHk0cGRfMC42LjBfMjAyMy0wMy0xNSAxODoyNDoxNF9jaGFybGVzbmVpbW9n"
+             Author="charlesneimog" Timestamp="2023-03-15 18:24:14" Description="py4pd[v0.6.0](Darwin-amd64-32)(Sources).dek"
+             Version="0.6.0" URL="http://puredata.info/Members/charlesneimog/software/py4pd/0.6.0/py4pd[v0.6.0](Darwin-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="py4pd"/>
+      </Objects>
+    </Package>
     <Package ID="cHk0cGRfMC4wLjRfMjAyMy0wMi0wOCAxNDo0NTowNV9jaGFybGVzbmVpbW9n"
              Author="charlesneimog" Timestamp="2023-02-08 14:45:05" Description="py4pd[v0.0.4](Darwin-amd64-32)(Linux-amd64-32)(Sources).dek"
              Version="0.0.4" URL="http://puredata.info/Members/charlesneimog/software/py4pd/0.0.4/py4pd[v0.0.4](Darwin-amd64-32)(Linux-amd64-32)(Sources).dek">
@@ -20683,6 +20690,11 @@
     </Package>
   </Packages>
   <Packages Name="completion-plugin">
+    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40OS4wXzIwMjMtMDMtMTYgMDM6MzU6MDNfcG9ycmVz"
+             Author="porres" Timestamp="2023-03-16 03:35:03" Description="completion-plugin[v0.49.0].dek"
+             Version="0.49.0" URL="http://puredata.info/Members/porres/software/completion-plugin/0.49.0/completion-plugin[v0.49.0].dek">
+      <Objects/>
+    </Package>
     <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40OC4wXzIwMjMtMDMtMDcgMDI6Mzg6NDJfcG9ycmVz"
              Author="porres" Timestamp="2023-03-07 02:38:42" Description="completion-plugin[v0.48.0].dek"
              Version="0.48.0" URL="http://puredata.info/Members/porres/software/completion-plugin/0.48.0/completion-plugin[v0.48.0].dek">
