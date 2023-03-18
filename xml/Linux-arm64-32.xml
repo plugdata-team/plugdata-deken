@@ -4230,9 +4230,9 @@
     </Package>
   </Packages>
   <Packages Name="array-abs">
-    <Package ID="YXJyYXktYWJzXzAuMC4wXzIwMjItMTEtMDUgMjA6NTg6NDZfd21icmVudA=="
-             Author="wmbrent" Timestamp="2022-11-05 20:58:46" Description="array-abs[v0.0.0].dek"
-             Version="0.0.0" URL="http://puredata.info/Members/wmbrent/software/array-abs/0.0.0/array-abs[v0.0.0].dek">
+    <Package ID="YXJyYXktYWJzXzAuMS4wXzIwMjMtMDMtMTcgMjM6MjE6NTVfd21icmVudA=="
+             Author="wmbrent" Timestamp="2023-03-17 23:21:55" Description="array-abs[v0.1.0].dek"
+             Version="0.1.0" URL="http://puredata.info/Members/wmbrent/software/array-abs/0.1.0/array-abs[v0.1.0].dek">
       <Objects>
         <Object Name="array-abs-val"/>
         <Object Name="array-append"/>
@@ -4244,6 +4244,7 @@
         <Object Name="array-copy-range"/>
         <Object Name="array-dbtorms"/>
         <Object Name="array-delete"/>
+        <Object Name="array-differentiate"/>
         <Object Name="array-drip"/>
         <Object Name="array-equals"/>
         <Object Name="array-floor"/>
@@ -4252,6 +4253,7 @@
         <Object Name="array-geomean"/>
         <Object Name="array-greater"/>
         <Object Name="array-insert"/>
+        <Object Name="array-integrate"/>
         <Object Name="array-lesser"/>
         <Object Name="array-maxk"/>
         <Object Name="array-mean"/>
@@ -4266,6 +4268,7 @@
         <Object Name="array-rand-fill"/>
         <Object Name="array-random-walk"/>
         <Object Name="array-range"/>
+        <Object Name="array-rerange"/>
         <Object Name="array-reverse"/>
         <Object Name="array-rmstodb"/>
         <Object Name="array-round"/>

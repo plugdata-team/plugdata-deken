@@ -1038,16 +1038,16 @@
     </Package>
   </Packages>
   <Packages Name="py4pd">
-    <Package ID="cHk0cGRfMC41LjBfMjAyMy0wMy0xNiAyMjoxOToxOV9jaGFybGVzbmVpbW9n"
-             Author="charlesneimog" Timestamp="2023-03-16 22:19:19" Description="py4pd[v0.5.0](Linux-amd64-32)(Sources).dek"
-             Version="0.5.0" URL="http://puredata.info/Members/charlesneimog/software/py4pd/0.5.0/py4pd[v0.5.0](Linux-amd64-32)(Sources).dek">
+    <Package ID="cHk0cGRfMC42LjFfMjAyMy0wMy0xNyAxMjoxOTowOF9jaGFybGVzbmVpbW9n"
+             Author="charlesneimog" Timestamp="2023-03-17 12:19:08" Description="py4pd[v0.6.1](Linux-amd64-32)(Sources).dek"
+             Version="0.6.1" URL="http://puredata.info/Members/charlesneimog/software/py4pd/0.6.1/py4pd[v0.6.1](Linux-amd64-32)(Sources).dek">
       <Objects>
         <Object Name="py4pd"/>
       </Objects>
     </Package>
-    <Package ID="cHk0cGRfMC42LjFfMjAyMy0wMy0xNiAxNzozOTozMl9jaGFybGVzbmVpbW9n"
-             Author="charlesneimog" Timestamp="2023-03-16 17:39:32" Description="py4pd[v0.6.1](Linux-amd64-32)(Sources).dek"
-             Version="0.6.1" URL="http://puredata.info/Members/charlesneimog/software/py4pd/0.6.1/py4pd[v0.6.1](Linux-amd64-32)(Sources).dek">
+    <Package ID="cHk0cGRfMC41LjBfMjAyMy0wMy0xNiAyMjoxOToxOV9jaGFybGVzbmVpbW9n"
+             Author="charlesneimog" Timestamp="2023-03-16 22:19:19" Description="py4pd[v0.5.0](Linux-amd64-32)(Sources).dek"
+             Version="0.5.0" URL="http://puredata.info/Members/charlesneimog/software/py4pd/0.5.0/py4pd[v0.5.0](Linux-amd64-32)(Sources).dek">
       <Objects>
         <Object Name="py4pd"/>
       </Objects>
@@ -8407,9 +8407,9 @@
     </Package>
   </Packages>
   <Packages Name="array-abs">
-    <Package ID="YXJyYXktYWJzXzAuMC4wXzIwMjItMTEtMDUgMjA6NTg6NDZfd21icmVudA=="
-             Author="wmbrent" Timestamp="2022-11-05 20:58:46" Description="array-abs[v0.0.0].dek"
-             Version="0.0.0" URL="http://puredata.info/Members/wmbrent/software/array-abs/0.0.0/array-abs[v0.0.0].dek">
+    <Package ID="YXJyYXktYWJzXzAuMS4wXzIwMjMtMDMtMTcgMjM6MjE6NTVfd21icmVudA=="
+             Author="wmbrent" Timestamp="2023-03-17 23:21:55" Description="array-abs[v0.1.0].dek"
+             Version="0.1.0" URL="http://puredata.info/Members/wmbrent/software/array-abs/0.1.0/array-abs[v0.1.0].dek">
       <Objects>
         <Object Name="array-abs-val"/>
         <Object Name="array-append"/>
@@ -8421,6 +8421,7 @@
         <Object Name="array-copy-range"/>
         <Object Name="array-dbtorms"/>
         <Object Name="array-delete"/>
+        <Object Name="array-differentiate"/>
         <Object Name="array-drip"/>
         <Object Name="array-equals"/>
         <Object Name="array-floor"/>
@@ -8429,6 +8430,7 @@
         <Object Name="array-geomean"/>
         <Object Name="array-greater"/>
         <Object Name="array-insert"/>
+        <Object Name="array-integrate"/>
         <Object Name="array-lesser"/>
         <Object Name="array-maxk"/>
         <Object Name="array-mean"/>
@@ -8443,6 +8445,7 @@
         <Object Name="array-rand-fill"/>
         <Object Name="array-random-walk"/>
         <Object Name="array-range"/>
+        <Object Name="array-rerange"/>
         <Object Name="array-reverse"/>
         <Object Name="array-rmstodb"/>
         <Object Name="array-round"/>
