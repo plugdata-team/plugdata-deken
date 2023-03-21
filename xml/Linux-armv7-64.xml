@@ -1106,8 +1106,8 @@
     </Package>
   </Packages>
   <Packages Name="array-abs">
-    <Package ID="YXJyYXktYWJzXzAuMS4wXzIwMjMtMDMtMTcgMjM6MjE6NTVfd21icmVudA=="
-             Author="wmbrent" Timestamp="2023-03-17 23:21:55" Description="array-abs[v0.1.0].dek"
+    <Package ID="YXJyYXktYWJzXzAuMS4wXzIwMjMtMDMtMjAgMjM6NDE6NTNfd21icmVudA=="
+             Author="wmbrent" Timestamp="2023-03-20 23:41:53" Description="array-abs[v0.1.0].dek"
              Version="0.1.0" URL="http://puredata.info/Members/wmbrent/software/array-abs/0.1.0/array-abs[v0.1.0].dek">
       <Objects>
         <Object Name="array-abs-val"/>
@@ -1159,8 +1159,8 @@
         <Object Name="array-window"/>
       </Objects>
     </Package>
-    <Package ID="YXJyYXktYWJzXzAuMS4wXzIwMjMtMDMtMTcgMjM6MjE6NTVfd21icmVudA=="
-             Author="wmbrent" Timestamp="2023-03-17 23:21:55" Description="array-abs[v0.1.0].dek"
+    <Package ID="YXJyYXktYWJzXzAuMS4wXzIwMjMtMDMtMjAgMjM6NDE6NTNfd21icmVudA=="
+             Author="wmbrent" Timestamp="2023-03-20 23:41:53" Description="array-abs[v0.1.0].dek"
              Version="0.1.0" URL="http://puredata.info/Members/wmbrent/software/array-abs/0.1.0/array-abs[v0.1.0].dek">
       <Objects>
         <Object Name="array-abs-val"/>

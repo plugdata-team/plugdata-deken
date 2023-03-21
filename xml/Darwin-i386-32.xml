@@ -1330,6 +1330,18 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="net">
+    <Package ID="bmV0XzAuMS0yMDE1MDUyOWllbV8yMDE2LTA4LTMwIDE0OjM0OjQ4X3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2016-08-30 14:34:48" Description="net-v0.1-20150529iem-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0.1-20150529iem" URL="http://puredata.info/Members/zmoelnig/software/iem/20150529.2247/net-v0.1-20150529iem-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+    <Package ID="bmV0XzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6Mjg6MzNfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:28:33" Description="net-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/net/0-0extended/net-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="AutoPreset">
     <Package ID="QXV0b1ByZXNldF8wLjEwXzIwMTYtMTEtMDcgMjM6MDc6MjRfYW50MXI="
              Author="ant1r" Timestamp="2016-11-07 23:07:24" Description="AutoPreset-v0.10--externals.zip"
@@ -4291,8 +4303,8 @@
     </Package>
   </Packages>
   <Packages Name="array-abs">
-    <Package ID="YXJyYXktYWJzXzAuMS4wXzIwMjMtMDMtMTcgMjM6MjE6NTVfd21icmVudA=="
-             Author="wmbrent" Timestamp="2023-03-17 23:21:55" Description="array-abs[v0.1.0].dek"
+    <Package ID="YXJyYXktYWJzXzAuMS4wXzIwMjMtMDMtMjAgMjM6NDE6NTNfd21icmVudA=="
+             Author="wmbrent" Timestamp="2023-03-20 23:41:53" Description="array-abs[v0.1.0].dek"
              Version="0.1.0" URL="http://puredata.info/Members/wmbrent/software/array-abs/0.1.0/array-abs[v0.1.0].dek">
       <Objects>
         <Object Name="array-abs-val"/>
@@ -5554,18 +5566,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="net">
-    <Package ID="bmV0XzAuMS0yMDE1MDUyOWllbV8yMDE2LTA4LTMwIDE0OjM0OjQ4X3ptb2Vsbmln"
-             Author="zmoelnig" Timestamp="2016-08-30 14:34:48" Description="net-v0.1-20150529iem-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0.1-20150529iem" URL="http://puredata.info/Members/zmoelnig/software/iem/20150529.2247/net-v0.1-20150529iem-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-    <Package ID="bmV0XzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6Mjg6MzNfem1vZWxuaWc="
-             Author="zmoelnig" Timestamp="2015-12-10 14:28:33" Description="net-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/net/0-0extended/net-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="clk">
     <Package ID="Y2xrXzAuMi4xXzIwMjItMDItMTUgMjI6NTI6NDlfdGhvbWFz" Author="thomas"
              Timestamp="2022-02-15 22:52:49" Description="clk[v0.2.1](Darwin-amd64-32)(Darwin-i386-32).dek"
@@ -5779,6 +5779,13 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="dw_lib">
+    <Package ID="ZHdfbGliXzEuMTguMV8yMDIwLTExLTI3IDIzOjI1OjE3X211c2ls" Author="musil"
+             Timestamp="2020-11-27 23:25:17" Description="dw_lib[v1.18.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32)(Sources).dek"
+             Version="1.18.1" URL="http://puredata.info/Members/musil/software/dw_lib/dw_lib[v1.18.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32)(Sources).dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="filemtime">
     <Package ID="ZmlsZW10aW1lXzAuMC4wXzIwMjEtMDYtMTQgMjA6NTQ6MDNfbHVjYXJkYQ=="
              Author="lucarda" Timestamp="2021-06-14 20:54:03" Description="filemtime[v0.0.0](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
@@ -5786,13 +5793,6 @@
       <Objects>
         <Object Name="filemtime"/>
       </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="dw_lib">
-    <Package ID="ZHdfbGliXzEuMTguMV8yMDIwLTExLTI3IDIzOjI1OjE3X211c2ls" Author="musil"
-             Timestamp="2020-11-27 23:25:17" Description="dw_lib[v1.18.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32)(Sources).dek"
-             Version="1.18.1" URL="http://puredata.info/Members/musil/software/dw_lib/dw_lib[v1.18.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32)(Sources).dek">
-      <Objects/>
     </Package>
   </Packages>
   <Packages Name="hid">

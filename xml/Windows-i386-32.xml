@@ -1724,6 +1724,18 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="net">
+    <Package ID="bmV0XzAuMS0yMDE1MDUyOWllbV8yMDE2LTA4LTMwIDE0OjUwOjIxX3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2016-08-30 14:50:21" Description="net-v0.1-20150529iem-(Windows-i386-32)-externals.zip"
+             Version="0.1-20150529iem" URL="http://puredata.info/Members/zmoelnig/software/iem/20150529.2247/net-v0.1-20150529iem-(Windows-i386-32)-externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="bmV0XzAuMC5leHRlbmRlZF8yMDE1LTA3LTMwIDE1OjEyOjM3X2NocjE1bQ=="
+             Author="chr15m" Timestamp="2015-07-30 15:12:37" Description="net-v0.0.extended-(Windows-i386-32)-externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/net/net-v0.0.extended-(Windows-i386-32)-externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="jpcvisu">
     <Package ID="anBjdmlzdV8wLjFfMjAxOC0wMy0wMSAxMTozODowNV9qcGNpbWE=" Author="jpcima"
              Timestamp="2018-03-01 11:38:05" Description="jpcvisu-v0.1-(Sources)(Windows-i386-32)-externals.zip"
@@ -8403,8 +8415,8 @@
     </Package>
   </Packages>
   <Packages Name="array-abs">
-    <Package ID="YXJyYXktYWJzXzAuMS4wXzIwMjMtMDMtMTcgMjM6MjE6NTVfd21icmVudA=="
-             Author="wmbrent" Timestamp="2023-03-17 23:21:55" Description="array-abs[v0.1.0].dek"
+    <Package ID="YXJyYXktYWJzXzAuMS4wXzIwMjMtMDMtMjAgMjM6NDE6NTNfd21icmVudA=="
+             Author="wmbrent" Timestamp="2023-03-20 23:41:53" Description="array-abs[v0.1.0].dek"
              Version="0.1.0" URL="http://puredata.info/Members/wmbrent/software/array-abs/0.1.0/array-abs[v0.1.0].dek">
       <Objects>
         <Object Name="array-abs-val"/>
@@ -9413,18 +9425,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="net">
-    <Package ID="bmV0XzAuMS0yMDE1MDUyOWllbV8yMDE2LTA4LTMwIDE0OjUwOjIxX3ptb2Vsbmln"
-             Author="zmoelnig" Timestamp="2016-08-30 14:50:21" Description="net-v0.1-20150529iem-(Windows-i386-32)-externals.zip"
-             Version="0.1-20150529iem" URL="http://puredata.info/Members/zmoelnig/software/iem/20150529.2247/net-v0.1-20150529iem-(Windows-i386-32)-externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="bmV0XzAuMC5leHRlbmRlZF8yMDE1LTA3LTMwIDE1OjEyOjM3X2NocjE1bQ=="
-             Author="chr15m" Timestamp="2015-07-30 15:12:37" Description="net-v0.0.extended-(Windows-i386-32)-externals.zip"
-             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/net/net-v0.0.extended-(Windows-i386-32)-externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="purest_json">
     <Package ID="cHVyZXN0X2pzb25fMi4wLjBfMjAyMi0xMS0yNyAyMTo1NjoxMl9yZXNpZHV1bQ=="
              Author="residuum" Timestamp="2022-11-27 21:56:12" Description="purest_json[v2.0.0](Windows-i386-32).dek"
@@ -9660,6 +9660,20 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="artnetlib">
+    <Package ID="YXJ0bmV0bGliXzAuMS4wXzIwMjMtMDMtMjEgMDg6NTg6MTNfbHVjYXJkYQ=="
+             Author="lucarda" Timestamp="2023-03-21 08:58:13" Description="artnetlib[v0.1.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.1.0" URL="http://puredata.info/Members/lucarda/software/artnetlib/0.1.0/artnetlib[v0.1.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="artnetfromarray"/>
+        <Object Name="artnetlib"/>
+        <Object Name="artnetroute"/>
+        <Object Name="artnetsend"/>
+        <Object Name="artnettoarray"/>
+        <Object Name="artnetudp"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="acre">
     <Package ID="YWNyZV8xLjAzXzIwMjAtMTItMDMgMDk6MzE6MzJfcml0c2No" Author="ritsch"
              Timestamp="2020-12-03 09:31:32" Description="acre[v1.03].dek"
@@ -9689,6 +9703,13 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="dw_lib">
+    <Package ID="ZHdfbGliXzEuMTguMV8yMDIwLTExLTI3IDIzOjI1OjE3X211c2ls" Author="musil"
+             Timestamp="2020-11-27 23:25:17" Description="dw_lib[v1.18.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32)(Sources).dek"
+             Version="1.18.1" URL="http://puredata.info/Members/musil/software/dw_lib/dw_lib[v1.18.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32)(Sources).dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="filemtime">
     <Package ID="ZmlsZW10aW1lXzAuMC4wXzIwMjEtMDYtMTQgMjA6NTQ6MDNfbHVjYXJkYQ=="
              Author="lucarda" Timestamp="2021-06-14 20:54:03" Description="filemtime[v0.0.0](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
@@ -9696,13 +9717,6 @@
       <Objects>
         <Object Name="filemtime"/>
       </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="dw_lib">
-    <Package ID="ZHdfbGliXzEuMTguMV8yMDIwLTExLTI3IDIzOjI1OjE3X211c2ls" Author="musil"
-             Timestamp="2020-11-27 23:25:17" Description="dw_lib[v1.18.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32)(Sources).dek"
-             Version="1.18.1" URL="http://puredata.info/Members/musil/software/dw_lib/dw_lib[v1.18.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32)(Sources).dek">
-      <Objects/>
     </Package>
   </Packages>
   <Packages Name="iem_adaptfilt">

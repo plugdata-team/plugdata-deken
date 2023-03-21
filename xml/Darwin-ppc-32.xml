@@ -406,6 +406,13 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="net">
+    <Package ID="bmV0XzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6Mjg6MzNfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:28:33" Description="net-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/net/0-0extended/net-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="AutoPreset">
     <Package ID="QXV0b1ByZXNldF8wLjEwXzIwMTYtMTEtMDcgMjM6MDc6MjRfYW50MXI="
              Author="ant1r" Timestamp="2016-11-07 23:07:24" Description="AutoPreset-v0.10--externals.zip"
@@ -1304,8 +1311,8 @@
     </Package>
   </Packages>
   <Packages Name="array-abs">
-    <Package ID="YXJyYXktYWJzXzAuMS4wXzIwMjMtMDMtMTcgMjM6MjE6NTVfd21icmVudA=="
-             Author="wmbrent" Timestamp="2023-03-17 23:21:55" Description="array-abs[v0.1.0].dek"
+    <Package ID="YXJyYXktYWJzXzAuMS4wXzIwMjMtMDMtMjAgMjM6NDE6NTNfd21icmVudA=="
+             Author="wmbrent" Timestamp="2023-03-20 23:41:53" Description="array-abs[v0.1.0].dek"
              Version="0.1.0" URL="http://puredata.info/Members/wmbrent/software/array-abs/0.1.0/array-abs[v0.1.0].dek">
       <Objects>
         <Object Name="array-abs-val"/>
@@ -1910,13 +1917,6 @@
       <Objects>
         <Object Name="iempluginOSC"/>
       </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="net">
-    <Package ID="bmV0XzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6Mjg6MzNfem1vZWxuaWc="
-             Author="zmoelnig" Timestamp="2015-12-10 14:28:33" Description="net-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/net/0-0extended/net-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
     </Package>
   </Packages>
   <Packages Name="nGui">
