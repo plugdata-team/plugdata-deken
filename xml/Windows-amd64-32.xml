@@ -807,6 +807,13 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="smspd">
+    <Package ID="c21zcGRfMC45NV8yMDIzLTA0LTAxIDIyOjA3OjQ3X2NoYXJsZXNuZWltb2c="
+             Author="charlesneimog" Timestamp="2023-04-01 22:07:47" Description="smspd[v0.95](Windows-amd64-32)(Sources).dek"
+             Version="0.95" URL="http://puredata.info/Members/charlesneimog/software/smspd/0.95/smspd[v0.95](Windows-amd64-32)(Sources).dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="slip">
     <Package ID="c2xpcF8wLjF+Z2l0MjAxODEwMDZfMjAxOS0wNC0yOCAyMjozMTo1MV9yZHo="
              Author="rdz" Timestamp="2019-04-28 22:31:51" Description="slip[v0.1~git20181006](Windows-amd64-32).dek"
@@ -8958,6 +8965,13 @@
       <Objects>
         <Object Name="ezaoo"/>
       </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="pdsms">
+    <Package ID="cGRzbXNfMC45NV8yMDIzLTA0LTAyIDAyOjI5OjI5X2NoYXJsZXNuZWltb2c="
+             Author="charlesneimog" Timestamp="2023-04-02 02:29:29" Description="pdsms[v0.95](Windows-amd64-32)(Sources).dek"
+             Version="0.95" URL="http://puredata.info/Members/charlesneimog/software/pdsms/0.95/pdsms[v0.95](Windows-amd64-32)(Sources).dek">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="jl">

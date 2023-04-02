@@ -820,6 +820,19 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="smspd">
+    <Package ID="c21zcGRfMC45NV8yMDIzLTA0LTAyIDAxOjQ2OjU4X2NoYXJsZXNuZWltb2c="
+             Author="charlesneimog" Timestamp="2023-04-02 01:46:58" Description="smspd[v0.95](Linux-amd64-32)(Sources).dek"
+             Version="0.95" URL="http://puredata.info/Members/charlesneimog/software/smspd/0.95/smspd[v0.95](Linux-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="sms"/>
+        <Object Name="smsanal"/>
+        <Object Name="smsbuf"/>
+        <Object Name="smsedit"/>
+        <Object Name="smssynth~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="slip">
     <Package ID="c2xpcF8wLjF+Z2l0MjAxNTExMTdfMjAxNS0xMS0xOCAxMzozOTozNF9yZHo="
              Author="rdz" Timestamp="2015-11-18 13:39:34" Description="slip-v0.1~git20151117-(Linux-amd64-64)-externals.tar.gz"
