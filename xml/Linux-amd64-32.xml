@@ -821,8 +821,8 @@
     </Package>
   </Packages>
   <Packages Name="smspd">
-    <Package ID="c21zcGRfMC45NV8yMDIzLTA0LTAyIDAxOjQ2OjU4X2NoYXJsZXNuZWltb2c="
-             Author="charlesneimog" Timestamp="2023-04-02 01:46:58" Description="smspd[v0.95](Linux-amd64-32)(Sources).dek"
+    <Package ID="c21zcGRfMC45NV8yMDIzLTA0LTAyIDE5OjU5OjQxX2NoYXJsZXNuZWltb2c="
+             Author="charlesneimog" Timestamp="2023-04-02 19:59:41" Description="smspd[v0.95](Linux-amd64-32)(Sources).dek"
              Version="0.95" URL="http://puredata.info/Members/charlesneimog/software/smspd/0.95/smspd[v0.95](Linux-amd64-32)(Sources).dek">
       <Objects>
         <Object Name="sms"/>
