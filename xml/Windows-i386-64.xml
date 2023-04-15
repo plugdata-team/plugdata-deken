@@ -237,6 +237,112 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="planifolia">
+    <Package ID="cGxhbmlmb2xpYV8wLjIxXzIwMjItMTEtMzAgMjE6MTI6MTNfemVwYWRvdmFuaQ=="
+             Author="zepadovani" Timestamp="2022-11-30 21:12:13" Description="planifolia[v0.21].dek"
+             Version="0.21" URL="http://puredata.info/Members/zepadovani/software/planifolia/0.21/planifolia[v0.21].dek">
+      <Objects>
+        <Object Name="any.=="/>
+        <Object Name="array.binop"/>
+        <Object Name="array.rand"/>
+        <Object Name="array.unop"/>
+        <Object Name="ls.binop"/>
+        <Object Name="ls.butlast"/>
+        <Object Name="ls.choose"/>
+        <Object Name="ls.circgroup"/>
+        <Object Name="ls.getRotate"/>
+        <Object Name="ls.group"/>
+        <Object Name="ls.iter"/>
+        <Object Name="ls.last"/>
+        <Object Name="ls.max"/>
+        <Object Name="ls.mean"/>
+        <Object Name="ls.min"/>
+        <Object Name="ls.mode"/>
+        <Object Name="ls.quicksort"/>
+        <Object Name="ls.removeAt"/>
+        <Object Name="ls.rotate"/>
+        <Object Name="ls.scramble"/>
+        <Object Name="ls.ser.arithm"/>
+        <Object Name="ls.splice"/>
+        <Object Name="ls.unop"/>
+        <Object Name="mtxgui"/>
+        <Object Name="mtxstep"/>
+        <Object Name="slash.oscformat"/>
+        <Object Name="slash.oscroute"/>
+        <Object Name="symbol.=="/>
+        <Object Name="symbol.split"/>
+      </Objects>
+    </Package>
+    <Package ID="cGxhbmlmb2xpYV8wLjJfMjAyMi0wNy0xMSAyMjo0ODowOV96ZXBhZG92YW5p"
+             Author="zepadovani" Timestamp="2022-07-11 22:48:09" Description="planifolia[v0.2].dek"
+             Version="0.2" URL="http://puredata.info/Members/zepadovani/software/planifolia/0.2/planifolia[v0.2].dek">
+      <Objects>
+        <Object Name="any.=="/>
+        <Object Name="array.binop"/>
+        <Object Name="array.rand"/>
+        <Object Name="array.unop"/>
+        <Object Name="ls.binop"/>
+        <Object Name="ls.butlast"/>
+        <Object Name="ls.choose"/>
+        <Object Name="ls.circgroup"/>
+        <Object Name="ls.getRotate"/>
+        <Object Name="ls.group"/>
+        <Object Name="ls.iter"/>
+        <Object Name="ls.last"/>
+        <Object Name="ls.max"/>
+        <Object Name="ls.mean"/>
+        <Object Name="ls.min"/>
+        <Object Name="ls.mode"/>
+        <Object Name="ls.quicksort"/>
+        <Object Name="ls.removeAt"/>
+        <Object Name="ls.rotate"/>
+        <Object Name="ls.scramble"/>
+        <Object Name="ls.ser.arithm"/>
+        <Object Name="ls.splice"/>
+        <Object Name="ls.unop"/>
+        <Object Name="mtxgui"/>
+        <Object Name="mtxstep"/>
+        <Object Name="slash.oscformat"/>
+        <Object Name="slash.oscroute"/>
+        <Object Name="symbol.=="/>
+        <Object Name="symbol.split"/>
+      </Objects>
+    </Package>
+    <Package ID="cGxhbmlmb2xpYV8wLjFfMjAyMS0wOS0xNSAxNDowMzo0MF96ZXBhZG92YW5p"
+             Author="zepadovani" Timestamp="2021-09-15 14:03:40" Description="planifolia[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/zepadovani/software/planifolia/0.1/planifolia[v0.1].dek">
+      <Objects>
+        <Object Name="any.=="/>
+        <Object Name="array.binop"/>
+        <Object Name="array.rand"/>
+        <Object Name="array.unop"/>
+        <Object Name="ls.binop"/>
+        <Object Name="ls.butlast"/>
+        <Object Name="ls.choose"/>
+        <Object Name="ls.getRotate"/>
+        <Object Name="ls.group"/>
+        <Object Name="ls.iter"/>
+        <Object Name="ls.last"/>
+        <Object Name="ls.max"/>
+        <Object Name="ls.mean"/>
+        <Object Name="ls.min"/>
+        <Object Name="ls.mode"/>
+        <Object Name="ls.quicksort"/>
+        <Object Name="ls.removeAt"/>
+        <Object Name="ls.rotate"/>
+        <Object Name="ls.scramble"/>
+        <Object Name="ls.ser.arithm"/>
+        <Object Name="ls.splice"/>
+        <Object Name="ls.unop"/>
+        <Object Name="mtxgui"/>
+        <Object Name="mtxstep"/>
+        <Object Name="slash.oscformat"/>
+        <Object Name="slash.oscroute"/>
+        <Object Name="symbol.=="/>
+        <Object Name="symbol.split"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="AutoPreset">
     <Package ID="QXV0b1ByZXNldF8wLjEwXzIwMTYtMTEtMDcgMjM6MDc6MjRfYW50MXI="
              Author="ant1r" Timestamp="2016-11-07 23:07:24" Description="AutoPreset-v0.10--externals.zip"
@@ -631,13 +737,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="purepd">
-    <Package ID="cHVyZXBkXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE1OjA2OjEyX2NocjE1bQ=="
-             Author="chr15m" Timestamp="2015-08-07 15:06:12" Description="purepd-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/purepd/purepd-v0.0.extended--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="DRFX">
     <Package ID="RFJGWF8wLjUuMV8yMDE4LTAzLTI2IDA0OjI2OjA3X3dtYnJlbnQ=" Author="wmbrent"
              Timestamp="2018-03-26 04:26:07" Description="DRFX[v0.5.1].dek"
@@ -651,6 +750,28 @@
     <Package ID="anBjZXhfMC4xXzIwMTgtMDMtMDggMTg6MTg6NDFfanBjaW1h" Author="jpcima"
              Timestamp="2018-03-08 18:18:41" Description="jpcex[v0.1](Windows-i386-64)(Sources).dek"
              Version="0.1" URL="http://puredata.info/Members/jpcima/software/jpcex/0.1/jpcex[v0.1](Windows-i386-64)(Sources).dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="XXX-deken-test">
+    <Package ID="WFhYLWRla2VuLXRlc3RfMC45LjYtNS1nYjUzMGFjYV93aW5kb3dzXzIwMjMtMDQtMTUgMDA6NDI6MzRfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2023-04-15 00:42:34" Description="XXX-deken-test[v0.9.6-5-gb530aca_windows](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
+             Version="0.9.6-5-gb530aca_windows" URL="http://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/10887/0.9.6-5-gb530aca_windows/XXX-deken-test[v0.9.6-5-gb530aca_windows](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
+      <Objects/>
+    </Package>
+    <Package ID="WFhYLWRla2VuLXRlc3RfMC45LjYtNS1nYjUzMGFjYV9vc3hfMjAyMy0wNC0xNSAwMDo0MjozM196bW9lbG5pZ2JvdA=="
+             Author="zmoelnigbot" Timestamp="2023-04-15 00:42:33" Description="XXX-deken-test[v0.9.6-5-gb530aca_osx](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
+             Version="0.9.6-5-gb530aca_osx" URL="http://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/10887/0.9.6-5-gb530aca_osx/XXX-deken-test[v0.9.6-5-gb530aca_osx](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
+      <Objects/>
+    </Package>
+    <Package ID="WFhYLWRla2VuLXRlc3RfMC45LjYtNC1nYjE4N2UzM193aW5kb3dzXzIwMjMtMDQtMTUgMDA6MzY6MzBfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2023-04-15 00:36:30" Description="XXX-deken-test[v0.9.6-4-gb187e33_windows](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
+             Version="0.9.6-4-gb187e33_windows" URL="http://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/10886/0.9.6-4-gb187e33_windows/XXX-deken-test[v0.9.6-4-gb187e33_windows](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
+      <Objects/>
+    </Package>
+    <Package ID="WFhYLWRla2VuLXRlc3RfMC45LjYtNC1nYjE4N2UzM19vc3hfMjAyMy0wNC0xNSAwMDozNTo1NF96bW9lbG5pZ2JvdA=="
+             Author="zmoelnigbot" Timestamp="2023-04-15 00:35:54" Description="XXX-deken-test[v0.9.6-4-gb187e33_osx](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
+             Version="0.9.6-4-gb187e33_osx" URL="http://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/10886/0.9.6-4-gb187e33_osx/XXX-deken-test[v0.9.6-4-gb187e33_osx](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
       <Objects/>
     </Package>
   </Packages>
@@ -1115,6 +1236,13 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="purepd">
+    <Package ID="cHVyZXBkXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE1OjA2OjEyX2NocjE1bQ=="
+             Author="chr15m" Timestamp="2015-08-07 15:06:12" Description="purepd-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/purepd/purepd-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="acre">
     <Package ID="YWNyZV8xLjAzXzIwMjAtMTItMDMgMDk6MzE6MzJfcml0c2No" Author="ritsch"
              Timestamp="2020-12-03 09:31:32" Description="acre[v1.03].dek"
@@ -1135,112 +1263,6 @@
              Timestamp="2016-05-08 22:45:58" Description="acre-v0.69--externals.zip"
              Version="0.69" URL="http://puredata.info/Members/ritsch/software/acre/0.69/acre-v0.69--externals.zip">
       <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="planifolia">
-    <Package ID="cGxhbmlmb2xpYV8wLjIxXzIwMjItMTEtMzAgMjE6MTI6MTNfemVwYWRvdmFuaQ=="
-             Author="zepadovani" Timestamp="2022-11-30 21:12:13" Description="planifolia[v0.21].dek"
-             Version="0.21" URL="http://puredata.info/Members/zepadovani/software/planifolia/0.21/planifolia[v0.21].dek">
-      <Objects>
-        <Object Name="any.=="/>
-        <Object Name="array.binop"/>
-        <Object Name="array.rand"/>
-        <Object Name="array.unop"/>
-        <Object Name="ls.binop"/>
-        <Object Name="ls.butlast"/>
-        <Object Name="ls.choose"/>
-        <Object Name="ls.circgroup"/>
-        <Object Name="ls.getRotate"/>
-        <Object Name="ls.group"/>
-        <Object Name="ls.iter"/>
-        <Object Name="ls.last"/>
-        <Object Name="ls.max"/>
-        <Object Name="ls.mean"/>
-        <Object Name="ls.min"/>
-        <Object Name="ls.mode"/>
-        <Object Name="ls.quicksort"/>
-        <Object Name="ls.removeAt"/>
-        <Object Name="ls.rotate"/>
-        <Object Name="ls.scramble"/>
-        <Object Name="ls.ser.arithm"/>
-        <Object Name="ls.splice"/>
-        <Object Name="ls.unop"/>
-        <Object Name="mtxgui"/>
-        <Object Name="mtxstep"/>
-        <Object Name="slash.oscformat"/>
-        <Object Name="slash.oscroute"/>
-        <Object Name="symbol.=="/>
-        <Object Name="symbol.split"/>
-      </Objects>
-    </Package>
-    <Package ID="cGxhbmlmb2xpYV8wLjJfMjAyMi0wNy0xMSAyMjo0ODowOV96ZXBhZG92YW5p"
-             Author="zepadovani" Timestamp="2022-07-11 22:48:09" Description="planifolia[v0.2].dek"
-             Version="0.2" URL="http://puredata.info/Members/zepadovani/software/planifolia/0.2/planifolia[v0.2].dek">
-      <Objects>
-        <Object Name="any.=="/>
-        <Object Name="array.binop"/>
-        <Object Name="array.rand"/>
-        <Object Name="array.unop"/>
-        <Object Name="ls.binop"/>
-        <Object Name="ls.butlast"/>
-        <Object Name="ls.choose"/>
-        <Object Name="ls.circgroup"/>
-        <Object Name="ls.getRotate"/>
-        <Object Name="ls.group"/>
-        <Object Name="ls.iter"/>
-        <Object Name="ls.last"/>
-        <Object Name="ls.max"/>
-        <Object Name="ls.mean"/>
-        <Object Name="ls.min"/>
-        <Object Name="ls.mode"/>
-        <Object Name="ls.quicksort"/>
-        <Object Name="ls.removeAt"/>
-        <Object Name="ls.rotate"/>
-        <Object Name="ls.scramble"/>
-        <Object Name="ls.ser.arithm"/>
-        <Object Name="ls.splice"/>
-        <Object Name="ls.unop"/>
-        <Object Name="mtxgui"/>
-        <Object Name="mtxstep"/>
-        <Object Name="slash.oscformat"/>
-        <Object Name="slash.oscroute"/>
-        <Object Name="symbol.=="/>
-        <Object Name="symbol.split"/>
-      </Objects>
-    </Package>
-    <Package ID="cGxhbmlmb2xpYV8wLjFfMjAyMS0wOS0xNSAxNDowMzo0MF96ZXBhZG92YW5p"
-             Author="zepadovani" Timestamp="2021-09-15 14:03:40" Description="planifolia[v0.1].dek"
-             Version="0.1" URL="http://puredata.info/Members/zepadovani/software/planifolia/0.1/planifolia[v0.1].dek">
-      <Objects>
-        <Object Name="any.=="/>
-        <Object Name="array.binop"/>
-        <Object Name="array.rand"/>
-        <Object Name="array.unop"/>
-        <Object Name="ls.binop"/>
-        <Object Name="ls.butlast"/>
-        <Object Name="ls.choose"/>
-        <Object Name="ls.getRotate"/>
-        <Object Name="ls.group"/>
-        <Object Name="ls.iter"/>
-        <Object Name="ls.last"/>
-        <Object Name="ls.max"/>
-        <Object Name="ls.mean"/>
-        <Object Name="ls.min"/>
-        <Object Name="ls.mode"/>
-        <Object Name="ls.quicksort"/>
-        <Object Name="ls.removeAt"/>
-        <Object Name="ls.rotate"/>
-        <Object Name="ls.scramble"/>
-        <Object Name="ls.ser.arithm"/>
-        <Object Name="ls.splice"/>
-        <Object Name="ls.unop"/>
-        <Object Name="mtxgui"/>
-        <Object Name="mtxstep"/>
-        <Object Name="slash.oscformat"/>
-        <Object Name="slash.oscroute"/>
-        <Object Name="symbol.=="/>
-        <Object Name="symbol.split"/>
-      </Objects>
     </Package>
   </Packages>
   <Packages Name="jmmmp">

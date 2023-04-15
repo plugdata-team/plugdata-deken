@@ -2958,6 +2958,119 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="planifolia">
+    <Package ID="cGxhbmlmb2xpYV8wLjIxXzIwMjItMTEtMzAgMjE6MTI6MTNfemVwYWRvdmFuaQ=="
+             Author="zepadovani" Timestamp="2022-11-30 21:12:13" Description="planifolia[v0.21].dek"
+             Version="0.21" URL="http://puredata.info/Members/zepadovani/software/planifolia/0.21/planifolia[v0.21].dek">
+      <Objects>
+        <Object Name="any.=="/>
+        <Object Name="array.binop"/>
+        <Object Name="array.rand"/>
+        <Object Name="array.unop"/>
+        <Object Name="ls.binop"/>
+        <Object Name="ls.butlast"/>
+        <Object Name="ls.choose"/>
+        <Object Name="ls.circgroup"/>
+        <Object Name="ls.getRotate"/>
+        <Object Name="ls.group"/>
+        <Object Name="ls.iter"/>
+        <Object Name="ls.last"/>
+        <Object Name="ls.max"/>
+        <Object Name="ls.mean"/>
+        <Object Name="ls.min"/>
+        <Object Name="ls.mode"/>
+        <Object Name="ls.quicksort"/>
+        <Object Name="ls.removeAt"/>
+        <Object Name="ls.rotate"/>
+        <Object Name="ls.scramble"/>
+        <Object Name="ls.ser.arithm"/>
+        <Object Name="ls.splice"/>
+        <Object Name="ls.unop"/>
+        <Object Name="mtxgui"/>
+        <Object Name="mtxstep"/>
+        <Object Name="slash.oscformat"/>
+        <Object Name="slash.oscroute"/>
+        <Object Name="symbol.=="/>
+        <Object Name="symbol.split"/>
+      </Objects>
+    </Package>
+    <Package ID="cGxhbmlmb2xpYV8wLjJfMjAyMi0wNy0xMSAyMjo0ODowOV96ZXBhZG92YW5p"
+             Author="zepadovani" Timestamp="2022-07-11 22:48:09" Description="planifolia[v0.2].dek"
+             Version="0.2" URL="http://puredata.info/Members/zepadovani/software/planifolia/0.2/planifolia[v0.2].dek">
+      <Objects>
+        <Object Name="any.=="/>
+        <Object Name="array.binop"/>
+        <Object Name="array.rand"/>
+        <Object Name="array.unop"/>
+        <Object Name="ls.binop"/>
+        <Object Name="ls.butlast"/>
+        <Object Name="ls.choose"/>
+        <Object Name="ls.circgroup"/>
+        <Object Name="ls.getRotate"/>
+        <Object Name="ls.group"/>
+        <Object Name="ls.iter"/>
+        <Object Name="ls.last"/>
+        <Object Name="ls.max"/>
+        <Object Name="ls.mean"/>
+        <Object Name="ls.min"/>
+        <Object Name="ls.mode"/>
+        <Object Name="ls.quicksort"/>
+        <Object Name="ls.removeAt"/>
+        <Object Name="ls.rotate"/>
+        <Object Name="ls.scramble"/>
+        <Object Name="ls.ser.arithm"/>
+        <Object Name="ls.splice"/>
+        <Object Name="ls.unop"/>
+        <Object Name="mtxgui"/>
+        <Object Name="mtxstep"/>
+        <Object Name="slash.oscformat"/>
+        <Object Name="slash.oscroute"/>
+        <Object Name="symbol.=="/>
+        <Object Name="symbol.split"/>
+      </Objects>
+    </Package>
+    <Package ID="cGxhbmlmb2xpYV8wLjFfMjAyMS0wOS0xNSAxNDowMzo0MF96ZXBhZG92YW5p"
+             Author="zepadovani" Timestamp="2021-09-15 14:03:40" Description="planifolia[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/zepadovani/software/planifolia/0.1/planifolia[v0.1].dek">
+      <Objects>
+        <Object Name="any.=="/>
+        <Object Name="array.binop"/>
+        <Object Name="array.rand"/>
+        <Object Name="array.unop"/>
+        <Object Name="ls.binop"/>
+        <Object Name="ls.butlast"/>
+        <Object Name="ls.choose"/>
+        <Object Name="ls.getRotate"/>
+        <Object Name="ls.group"/>
+        <Object Name="ls.iter"/>
+        <Object Name="ls.last"/>
+        <Object Name="ls.max"/>
+        <Object Name="ls.mean"/>
+        <Object Name="ls.min"/>
+        <Object Name="ls.mode"/>
+        <Object Name="ls.quicksort"/>
+        <Object Name="ls.removeAt"/>
+        <Object Name="ls.rotate"/>
+        <Object Name="ls.scramble"/>
+        <Object Name="ls.ser.arithm"/>
+        <Object Name="ls.splice"/>
+        <Object Name="ls.unop"/>
+        <Object Name="mtxgui"/>
+        <Object Name="mtxstep"/>
+        <Object Name="slash.oscformat"/>
+        <Object Name="slash.oscroute"/>
+        <Object Name="symbol.=="/>
+        <Object Name="symbol.split"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="ndi">
+    <Package ID="bmRpXzAuMC4wXzIwMjAtMDYtMDcgMjE6NTk6NTRfYXZpbGxlcmV0" Author="avilleret"
+             Timestamp="2020-06-07 21:59:54" Description="ndi-v0.0.0-(Darwin-x86_64-64)-externals.tar.gz"
+             Version="0.0.0" URL="http://puredata.info/Members/avilleret/software/ndi/0.0.0/ndi-v0.0.0-(Darwin-x86_64-64)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="faustgen~">
     <Package ID="ZmF1c3RnZW5+XzAuMS4yXzIwMjAtMDgtMDMgMTc6Mzg6MjVfcGllcnJlZ2x0"
              Author="pierreglt" Timestamp="2020-08-03 17:38:25" Description="faustgen~[v0.1.2](Darwin-amd64-32)(Sources).dek"
@@ -20118,101 +20231,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="purepd">
-    <Package ID="cHVyZXBkXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE1OjA2OjEyX2NocjE1bQ=="
-             Author="chr15m" Timestamp="2015-08-07 15:06:12" Description="purepd-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/purepd/purepd-v0.0.extended--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="fftease">
-    <Package ID="ZmZ0ZWFzZV8zLjAuMV8yMDIxLTAzLTAxIDA0OjM1OjIzX2x1Y2FyZGE="
-             Author="lucarda" Timestamp="2021-03-01 04:35:23" Description="fftease[v3.0.1](Darwin-amd64-32)(Darwin-i386-32).dek"
-             Version="3.0.1" URL="http://puredata.info/Members/lucarda/software/fftease[v3.0.1](Darwin-amd64-32)(Darwin-i386-32).dek">
-      <Objects>
-        <Object Name="bthresher~"/>
-        <Object Name="burrow~"/>
-        <Object Name="cavoc27~"/>
-        <Object Name="cavoc~"/>
-        <Object Name="centerring~"/>
-        <Object Name="codepend~"/>
-        <Object Name="cross~"/>
-        <Object Name="dentist~"/>
-        <Object Name="disarrain~"/>
-        <Object Name="disarray~"/>
-        <Object Name="drown~"/>
-        <Object Name="enrich~"/>
-        <Object Name="ether~"/>
-        <Object Name="leaker~"/>
-        <Object Name="mindwarp~"/>
-        <Object Name="morphine~"/>
-        <Object Name="multyq~"/>
-        <Object Name="pileup~"/>
-        <Object Name="pvcompand~"/>
-        <Object Name="pvgrain~"/>
-        <Object Name="pvharm~"/>
-        <Object Name="pvoc~"/>
-        <Object Name="pvtuner~"/>
-        <Object Name="pvwarpb~"/>
-        <Object Name="pvwarp~"/>
-        <Object Name="reanimator~"/>
-        <Object Name="resent~"/>
-        <Object Name="residency_buffer~"/>
-        <Object Name="residency~"/>
-        <Object Name="schmear~"/>
-        <Object Name="scrape~"/>
-        <Object Name="shapee~"/>
-        <Object Name="swinger~"/>
-        <Object Name="taint~"/>
-        <Object Name="thresher~"/>
-        <Object Name="vacancy~"/>
-        <Object Name="xsyn~"/>
-      </Objects>
-    </Package>
-    <Package ID="ZmZ0ZWFzZV8zLjAuMF8yMDIxLTAyLTA2IDE1OjU4OjQ5X3BvcnJlcw=="
-             Author="porres" Timestamp="2021-02-06 15:58:49" Description="fftease[v3.0.0](Darwin-amd64-32)(Darwin-i386-32).dek"
-             Version="3.0.0" URL="http://puredata.info/Members/porres/software/fftease/3.0.0/fftease[v3.0.0](Darwin-amd64-32)(Darwin-i386-32).dek">
-      <Objects>
-        <Object Name="bthresher~"/>
-        <Object Name="burrow~"/>
-        <Object Name="cavoc27~"/>
-        <Object Name="cavoc~"/>
-        <Object Name="centerring~"/>
-        <Object Name="codepend~"/>
-        <Object Name="cross~"/>
-        <Object Name="dentist~"/>
-        <Object Name="disarrain~"/>
-        <Object Name="disarray~"/>
-        <Object Name="drown~"/>
-        <Object Name="enrich~"/>
-        <Object Name="ether~"/>
-        <Object Name="leaker~"/>
-        <Object Name="mindwarp~"/>
-        <Object Name="morphine~"/>
-        <Object Name="multyq~"/>
-        <Object Name="pileup~"/>
-        <Object Name="pvcompand~"/>
-        <Object Name="pvgrain~"/>
-        <Object Name="pvharm~"/>
-        <Object Name="pvoc~"/>
-        <Object Name="pvtuner~"/>
-        <Object Name="pvwarpb~"/>
-        <Object Name="pvwarp~"/>
-        <Object Name="reanimator~"/>
-        <Object Name="resent~"/>
-        <Object Name="residency_buffer~"/>
-        <Object Name="residency~"/>
-        <Object Name="schmear~"/>
-        <Object Name="scrape~"/>
-        <Object Name="shapee~"/>
-        <Object Name="swinger~"/>
-        <Object Name="taint~"/>
-        <Object Name="thresher~"/>
-        <Object Name="vacancy~"/>
-        <Object Name="xsyn~"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="DRFX">
     <Package ID="RFJGWF8wLjUuMV8yMDE4LTAzLTI2IDA0OjI2OjA3X3dtYnJlbnQ=" Author="wmbrent"
              Timestamp="2018-03-26 04:26:07" Description="DRFX[v0.5.1].dek"
@@ -20220,6 +20238,20 @@
       <Objects>
         <Object Name="DRFX"/>
       </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="jpcex">
+    <Package ID="anBjZXhfMC4xXzIwMTgtMDMtMDggMTg6MTQ6MzJfanBjaW1h" Author="jpcima"
+             Timestamp="2018-03-08 18:14:32" Description="jpcex[v0.1](Darwin-amd64-32)(Sources).dek"
+             Version="0.1" URL="http://puredata.info/Members/jpcima/software/jpcex/0.1/jpcex[v0.1](Darwin-amd64-32)(Sources).dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="extra">
+    <Package ID="ZXh0cmFfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxODozNl96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:18:36" Description="extra-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/extra/0-0extended/extra-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="ekext">
@@ -20278,20 +20310,6 @@
     <Package ID="aml0X2V4cHJfMC4xXzIwMTgtMDMtMTEgMDA6MjM6NDRfeDM3dg==" Author="x37v"
              Timestamp="2018-03-11 00:23:44" Description="jit_expr[v0.1](Darwin-amd64-32).dek"
              Version="0.1" URL="http://puredata.info/Members/x37v/software/jit_expr/0.1/jit_expr[v0.1](Darwin-amd64-32).dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="jpcex">
-    <Package ID="anBjZXhfMC4xXzIwMTgtMDMtMDggMTg6MTQ6MzJfanBjaW1h" Author="jpcima"
-             Timestamp="2018-03-08 18:14:32" Description="jpcex[v0.1](Darwin-amd64-32)(Sources).dek"
-             Version="0.1" URL="http://puredata.info/Members/jpcima/software/jpcex/0.1/jpcex[v0.1](Darwin-amd64-32)(Sources).dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="extra">
-    <Package ID="ZXh0cmFfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxODozNl96bW9lbG5pZw=="
-             Author="zmoelnig" Timestamp="2015-12-10 14:18:36" Description="extra-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/extra/0-0extended/extra-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
       <Objects/>
     </Package>
   </Packages>
@@ -21500,6 +21518,101 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="purepd">
+    <Package ID="cHVyZXBkXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE1OjA2OjEyX2NocjE1bQ=="
+             Author="chr15m" Timestamp="2015-08-07 15:06:12" Description="purepd-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/purepd/purepd-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="fftease">
+    <Package ID="ZmZ0ZWFzZV8zLjAuMV8yMDIxLTAzLTAxIDA0OjM1OjIzX2x1Y2FyZGE="
+             Author="lucarda" Timestamp="2021-03-01 04:35:23" Description="fftease[v3.0.1](Darwin-amd64-32)(Darwin-i386-32).dek"
+             Version="3.0.1" URL="http://puredata.info/Members/lucarda/software/fftease[v3.0.1](Darwin-amd64-32)(Darwin-i386-32).dek">
+      <Objects>
+        <Object Name="bthresher~"/>
+        <Object Name="burrow~"/>
+        <Object Name="cavoc27~"/>
+        <Object Name="cavoc~"/>
+        <Object Name="centerring~"/>
+        <Object Name="codepend~"/>
+        <Object Name="cross~"/>
+        <Object Name="dentist~"/>
+        <Object Name="disarrain~"/>
+        <Object Name="disarray~"/>
+        <Object Name="drown~"/>
+        <Object Name="enrich~"/>
+        <Object Name="ether~"/>
+        <Object Name="leaker~"/>
+        <Object Name="mindwarp~"/>
+        <Object Name="morphine~"/>
+        <Object Name="multyq~"/>
+        <Object Name="pileup~"/>
+        <Object Name="pvcompand~"/>
+        <Object Name="pvgrain~"/>
+        <Object Name="pvharm~"/>
+        <Object Name="pvoc~"/>
+        <Object Name="pvtuner~"/>
+        <Object Name="pvwarpb~"/>
+        <Object Name="pvwarp~"/>
+        <Object Name="reanimator~"/>
+        <Object Name="resent~"/>
+        <Object Name="residency_buffer~"/>
+        <Object Name="residency~"/>
+        <Object Name="schmear~"/>
+        <Object Name="scrape~"/>
+        <Object Name="shapee~"/>
+        <Object Name="swinger~"/>
+        <Object Name="taint~"/>
+        <Object Name="thresher~"/>
+        <Object Name="vacancy~"/>
+        <Object Name="xsyn~"/>
+      </Objects>
+    </Package>
+    <Package ID="ZmZ0ZWFzZV8zLjAuMF8yMDIxLTAyLTA2IDE1OjU4OjQ5X3BvcnJlcw=="
+             Author="porres" Timestamp="2021-02-06 15:58:49" Description="fftease[v3.0.0](Darwin-amd64-32)(Darwin-i386-32).dek"
+             Version="3.0.0" URL="http://puredata.info/Members/porres/software/fftease/3.0.0/fftease[v3.0.0](Darwin-amd64-32)(Darwin-i386-32).dek">
+      <Objects>
+        <Object Name="bthresher~"/>
+        <Object Name="burrow~"/>
+        <Object Name="cavoc27~"/>
+        <Object Name="cavoc~"/>
+        <Object Name="centerring~"/>
+        <Object Name="codepend~"/>
+        <Object Name="cross~"/>
+        <Object Name="dentist~"/>
+        <Object Name="disarrain~"/>
+        <Object Name="disarray~"/>
+        <Object Name="drown~"/>
+        <Object Name="enrich~"/>
+        <Object Name="ether~"/>
+        <Object Name="leaker~"/>
+        <Object Name="mindwarp~"/>
+        <Object Name="morphine~"/>
+        <Object Name="multyq~"/>
+        <Object Name="pileup~"/>
+        <Object Name="pvcompand~"/>
+        <Object Name="pvgrain~"/>
+        <Object Name="pvharm~"/>
+        <Object Name="pvoc~"/>
+        <Object Name="pvtuner~"/>
+        <Object Name="pvwarpb~"/>
+        <Object Name="pvwarp~"/>
+        <Object Name="reanimator~"/>
+        <Object Name="resent~"/>
+        <Object Name="residency_buffer~"/>
+        <Object Name="residency~"/>
+        <Object Name="schmear~"/>
+        <Object Name="scrape~"/>
+        <Object Name="shapee~"/>
+        <Object Name="swinger~"/>
+        <Object Name="taint~"/>
+        <Object Name="thresher~"/>
+        <Object Name="vacancy~"/>
+        <Object Name="xsyn~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="freeverb~">
     <Package ID="ZnJlZXZlcmJ+XzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MTk6Mjhfem1vZWxuaWc="
              Author="zmoelnig" Timestamp="2015-12-10 14:19:28" Description="freeverb~-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
@@ -21814,119 +21927,6 @@
     <Package ID="aWVtX2FkYXB0ZmlsdF8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjIxOjE2X3ptb2Vsbmln"
              Author="zmoelnig" Timestamp="2015-12-10 14:21:16" Description="iem_adaptfilt-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/iem_adaptfilt/0-0extended/iem_adaptfilt-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="planifolia">
-    <Package ID="cGxhbmlmb2xpYV8wLjIxXzIwMjItMTEtMzAgMjE6MTI6MTNfemVwYWRvdmFuaQ=="
-             Author="zepadovani" Timestamp="2022-11-30 21:12:13" Description="planifolia[v0.21].dek"
-             Version="0.21" URL="http://puredata.info/Members/zepadovani/software/planifolia/0.21/planifolia[v0.21].dek">
-      <Objects>
-        <Object Name="any.=="/>
-        <Object Name="array.binop"/>
-        <Object Name="array.rand"/>
-        <Object Name="array.unop"/>
-        <Object Name="ls.binop"/>
-        <Object Name="ls.butlast"/>
-        <Object Name="ls.choose"/>
-        <Object Name="ls.circgroup"/>
-        <Object Name="ls.getRotate"/>
-        <Object Name="ls.group"/>
-        <Object Name="ls.iter"/>
-        <Object Name="ls.last"/>
-        <Object Name="ls.max"/>
-        <Object Name="ls.mean"/>
-        <Object Name="ls.min"/>
-        <Object Name="ls.mode"/>
-        <Object Name="ls.quicksort"/>
-        <Object Name="ls.removeAt"/>
-        <Object Name="ls.rotate"/>
-        <Object Name="ls.scramble"/>
-        <Object Name="ls.ser.arithm"/>
-        <Object Name="ls.splice"/>
-        <Object Name="ls.unop"/>
-        <Object Name="mtxgui"/>
-        <Object Name="mtxstep"/>
-        <Object Name="slash.oscformat"/>
-        <Object Name="slash.oscroute"/>
-        <Object Name="symbol.=="/>
-        <Object Name="symbol.split"/>
-      </Objects>
-    </Package>
-    <Package ID="cGxhbmlmb2xpYV8wLjJfMjAyMi0wNy0xMSAyMjo0ODowOV96ZXBhZG92YW5p"
-             Author="zepadovani" Timestamp="2022-07-11 22:48:09" Description="planifolia[v0.2].dek"
-             Version="0.2" URL="http://puredata.info/Members/zepadovani/software/planifolia/0.2/planifolia[v0.2].dek">
-      <Objects>
-        <Object Name="any.=="/>
-        <Object Name="array.binop"/>
-        <Object Name="array.rand"/>
-        <Object Name="array.unop"/>
-        <Object Name="ls.binop"/>
-        <Object Name="ls.butlast"/>
-        <Object Name="ls.choose"/>
-        <Object Name="ls.circgroup"/>
-        <Object Name="ls.getRotate"/>
-        <Object Name="ls.group"/>
-        <Object Name="ls.iter"/>
-        <Object Name="ls.last"/>
-        <Object Name="ls.max"/>
-        <Object Name="ls.mean"/>
-        <Object Name="ls.min"/>
-        <Object Name="ls.mode"/>
-        <Object Name="ls.quicksort"/>
-        <Object Name="ls.removeAt"/>
-        <Object Name="ls.rotate"/>
-        <Object Name="ls.scramble"/>
-        <Object Name="ls.ser.arithm"/>
-        <Object Name="ls.splice"/>
-        <Object Name="ls.unop"/>
-        <Object Name="mtxgui"/>
-        <Object Name="mtxstep"/>
-        <Object Name="slash.oscformat"/>
-        <Object Name="slash.oscroute"/>
-        <Object Name="symbol.=="/>
-        <Object Name="symbol.split"/>
-      </Objects>
-    </Package>
-    <Package ID="cGxhbmlmb2xpYV8wLjFfMjAyMS0wOS0xNSAxNDowMzo0MF96ZXBhZG92YW5p"
-             Author="zepadovani" Timestamp="2021-09-15 14:03:40" Description="planifolia[v0.1].dek"
-             Version="0.1" URL="http://puredata.info/Members/zepadovani/software/planifolia/0.1/planifolia[v0.1].dek">
-      <Objects>
-        <Object Name="any.=="/>
-        <Object Name="array.binop"/>
-        <Object Name="array.rand"/>
-        <Object Name="array.unop"/>
-        <Object Name="ls.binop"/>
-        <Object Name="ls.butlast"/>
-        <Object Name="ls.choose"/>
-        <Object Name="ls.getRotate"/>
-        <Object Name="ls.group"/>
-        <Object Name="ls.iter"/>
-        <Object Name="ls.last"/>
-        <Object Name="ls.max"/>
-        <Object Name="ls.mean"/>
-        <Object Name="ls.min"/>
-        <Object Name="ls.mode"/>
-        <Object Name="ls.quicksort"/>
-        <Object Name="ls.removeAt"/>
-        <Object Name="ls.rotate"/>
-        <Object Name="ls.scramble"/>
-        <Object Name="ls.ser.arithm"/>
-        <Object Name="ls.splice"/>
-        <Object Name="ls.unop"/>
-        <Object Name="mtxgui"/>
-        <Object Name="mtxstep"/>
-        <Object Name="slash.oscformat"/>
-        <Object Name="slash.oscroute"/>
-        <Object Name="symbol.=="/>
-        <Object Name="symbol.split"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="ndi">
-    <Package ID="bmRpXzAuMC4wXzIwMjAtMDYtMDcgMjE6NTk6NTRfYXZpbGxlcmV0" Author="avilleret"
-             Timestamp="2020-06-07 21:59:54" Description="ndi-v0.0.0-(Darwin-x86_64-64)-externals.tar.gz"
-             Version="0.0.0" URL="http://puredata.info/Members/avilleret/software/ndi/0.0.0/ndi-v0.0.0-(Darwin-x86_64-64)-externals.tar.gz">
       <Objects/>
     </Package>
   </Packages>

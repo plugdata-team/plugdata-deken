@@ -1285,6 +1285,112 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="planifolia">
+    <Package ID="cGxhbmlmb2xpYV8wLjIxXzIwMjItMTEtMzAgMjE6MTI6MTNfemVwYWRvdmFuaQ=="
+             Author="zepadovani" Timestamp="2022-11-30 21:12:13" Description="planifolia[v0.21].dek"
+             Version="0.21" URL="http://puredata.info/Members/zepadovani/software/planifolia/0.21/planifolia[v0.21].dek">
+      <Objects>
+        <Object Name="any.=="/>
+        <Object Name="array.binop"/>
+        <Object Name="array.rand"/>
+        <Object Name="array.unop"/>
+        <Object Name="ls.binop"/>
+        <Object Name="ls.butlast"/>
+        <Object Name="ls.choose"/>
+        <Object Name="ls.circgroup"/>
+        <Object Name="ls.getRotate"/>
+        <Object Name="ls.group"/>
+        <Object Name="ls.iter"/>
+        <Object Name="ls.last"/>
+        <Object Name="ls.max"/>
+        <Object Name="ls.mean"/>
+        <Object Name="ls.min"/>
+        <Object Name="ls.mode"/>
+        <Object Name="ls.quicksort"/>
+        <Object Name="ls.removeAt"/>
+        <Object Name="ls.rotate"/>
+        <Object Name="ls.scramble"/>
+        <Object Name="ls.ser.arithm"/>
+        <Object Name="ls.splice"/>
+        <Object Name="ls.unop"/>
+        <Object Name="mtxgui"/>
+        <Object Name="mtxstep"/>
+        <Object Name="slash.oscformat"/>
+        <Object Name="slash.oscroute"/>
+        <Object Name="symbol.=="/>
+        <Object Name="symbol.split"/>
+      </Objects>
+    </Package>
+    <Package ID="cGxhbmlmb2xpYV8wLjJfMjAyMi0wNy0xMSAyMjo0ODowOV96ZXBhZG92YW5p"
+             Author="zepadovani" Timestamp="2022-07-11 22:48:09" Description="planifolia[v0.2].dek"
+             Version="0.2" URL="http://puredata.info/Members/zepadovani/software/planifolia/0.2/planifolia[v0.2].dek">
+      <Objects>
+        <Object Name="any.=="/>
+        <Object Name="array.binop"/>
+        <Object Name="array.rand"/>
+        <Object Name="array.unop"/>
+        <Object Name="ls.binop"/>
+        <Object Name="ls.butlast"/>
+        <Object Name="ls.choose"/>
+        <Object Name="ls.circgroup"/>
+        <Object Name="ls.getRotate"/>
+        <Object Name="ls.group"/>
+        <Object Name="ls.iter"/>
+        <Object Name="ls.last"/>
+        <Object Name="ls.max"/>
+        <Object Name="ls.mean"/>
+        <Object Name="ls.min"/>
+        <Object Name="ls.mode"/>
+        <Object Name="ls.quicksort"/>
+        <Object Name="ls.removeAt"/>
+        <Object Name="ls.rotate"/>
+        <Object Name="ls.scramble"/>
+        <Object Name="ls.ser.arithm"/>
+        <Object Name="ls.splice"/>
+        <Object Name="ls.unop"/>
+        <Object Name="mtxgui"/>
+        <Object Name="mtxstep"/>
+        <Object Name="slash.oscformat"/>
+        <Object Name="slash.oscroute"/>
+        <Object Name="symbol.=="/>
+        <Object Name="symbol.split"/>
+      </Objects>
+    </Package>
+    <Package ID="cGxhbmlmb2xpYV8wLjFfMjAyMS0wOS0xNSAxNDowMzo0MF96ZXBhZG92YW5p"
+             Author="zepadovani" Timestamp="2021-09-15 14:03:40" Description="planifolia[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/zepadovani/software/planifolia/0.1/planifolia[v0.1].dek">
+      <Objects>
+        <Object Name="any.=="/>
+        <Object Name="array.binop"/>
+        <Object Name="array.rand"/>
+        <Object Name="array.unop"/>
+        <Object Name="ls.binop"/>
+        <Object Name="ls.butlast"/>
+        <Object Name="ls.choose"/>
+        <Object Name="ls.getRotate"/>
+        <Object Name="ls.group"/>
+        <Object Name="ls.iter"/>
+        <Object Name="ls.last"/>
+        <Object Name="ls.max"/>
+        <Object Name="ls.mean"/>
+        <Object Name="ls.min"/>
+        <Object Name="ls.mode"/>
+        <Object Name="ls.quicksort"/>
+        <Object Name="ls.removeAt"/>
+        <Object Name="ls.rotate"/>
+        <Object Name="ls.scramble"/>
+        <Object Name="ls.ser.arithm"/>
+        <Object Name="ls.splice"/>
+        <Object Name="ls.unop"/>
+        <Object Name="mtxgui"/>
+        <Object Name="mtxstep"/>
+        <Object Name="slash.oscformat"/>
+        <Object Name="slash.oscroute"/>
+        <Object Name="symbol.=="/>
+        <Object Name="symbol.split"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="AutoPreset">
     <Package ID="QXV0b1ByZXNldF8wLjEwXzIwMTYtMTEtMDcgMjM6MDc6MjRfYW50MXI="
              Author="ant1r" Timestamp="2016-11-07 23:07:24" Description="AutoPreset-v0.10--externals.zip"
@@ -4842,101 +4948,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="purepd">
-    <Package ID="cHVyZXBkXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE1OjA2OjEyX2NocjE1bQ=="
-             Author="chr15m" Timestamp="2015-08-07 15:06:12" Description="purepd-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/purepd/purepd-v0.0.extended--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="fftease">
-    <Package ID="ZmZ0ZWFzZV8zLjAuMV8yMDIxLTAzLTAxIDAzOjQ5OjI0X2x1Y2FyZGE="
-             Author="lucarda" Timestamp="2021-03-01 03:49:24" Description="fftease[v3.0.1](Linux-i386-32).dek"
-             Version="3.0.1" URL="http://puredata.info/Members/lucarda/software/fftease[v3.0.1](Linux-i386-32).dek">
-      <Objects>
-        <Object Name="bthresher~"/>
-        <Object Name="burrow~"/>
-        <Object Name="cavoc27~"/>
-        <Object Name="cavoc~"/>
-        <Object Name="centerring~"/>
-        <Object Name="codepend~"/>
-        <Object Name="cross~"/>
-        <Object Name="dentist~"/>
-        <Object Name="disarrain~"/>
-        <Object Name="disarray~"/>
-        <Object Name="drown~"/>
-        <Object Name="enrich~"/>
-        <Object Name="ether~"/>
-        <Object Name="leaker~"/>
-        <Object Name="mindwarp~"/>
-        <Object Name="morphine~"/>
-        <Object Name="multyq~"/>
-        <Object Name="pileup~"/>
-        <Object Name="pvcompand~"/>
-        <Object Name="pvgrain~"/>
-        <Object Name="pvharm~"/>
-        <Object Name="pvoc~"/>
-        <Object Name="pvtuner~"/>
-        <Object Name="pvwarpb~"/>
-        <Object Name="pvwarp~"/>
-        <Object Name="reanimator~"/>
-        <Object Name="resent~"/>
-        <Object Name="residency_buffer~"/>
-        <Object Name="residency~"/>
-        <Object Name="schmear~"/>
-        <Object Name="scrape~"/>
-        <Object Name="shapee~"/>
-        <Object Name="swinger~"/>
-        <Object Name="taint~"/>
-        <Object Name="thresher~"/>
-        <Object Name="vacancy~"/>
-        <Object Name="xsyn~"/>
-      </Objects>
-    </Package>
-    <Package ID="ZmZ0ZWFzZV8zLjAuMF8yMDIxLTAyLTA3IDA0OjEwOjAzX2x1Y2FyZGE="
-             Author="lucarda" Timestamp="2021-02-07 04:10:03" Description="fftease[v3.0.0](Linux-i386-32).dek"
-             Version="3.0.0" URL="http://puredata.info/Members/lucarda/software/fftease[v3.0.0](Linux-i386-32).dek">
-      <Objects>
-        <Object Name="bthresher~"/>
-        <Object Name="burrow~"/>
-        <Object Name="cavoc27~"/>
-        <Object Name="cavoc~"/>
-        <Object Name="centerring~"/>
-        <Object Name="codepend~"/>
-        <Object Name="cross~"/>
-        <Object Name="dentist~"/>
-        <Object Name="disarrain~"/>
-        <Object Name="disarray~"/>
-        <Object Name="drown~"/>
-        <Object Name="enrich~"/>
-        <Object Name="ether~"/>
-        <Object Name="leaker~"/>
-        <Object Name="mindwarp~"/>
-        <Object Name="morphine~"/>
-        <Object Name="multyq~"/>
-        <Object Name="pileup~"/>
-        <Object Name="pvcompand~"/>
-        <Object Name="pvgrain~"/>
-        <Object Name="pvharm~"/>
-        <Object Name="pvoc~"/>
-        <Object Name="pvtuner~"/>
-        <Object Name="pvwarpb~"/>
-        <Object Name="pvwarp~"/>
-        <Object Name="reanimator~"/>
-        <Object Name="resent~"/>
-        <Object Name="residency_buffer~"/>
-        <Object Name="residency~"/>
-        <Object Name="schmear~"/>
-        <Object Name="scrape~"/>
-        <Object Name="shapee~"/>
-        <Object Name="swinger~"/>
-        <Object Name="taint~"/>
-        <Object Name="thresher~"/>
-        <Object Name="vacancy~"/>
-        <Object Name="xsyn~"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="DRFX">
     <Package ID="RFJGWF8wLjUuMV8yMDE4LTAzLTI2IDA0OjI2OjA3X3dtYnJlbnQ=" Author="wmbrent"
              Timestamp="2018-03-26 04:26:07" Description="DRFX[v0.5.1].dek"
@@ -4944,6 +4955,13 @@
       <Objects>
         <Object Name="DRFX"/>
       </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="extra">
+    <Package ID="ZXh0cmFfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mjk6MzhfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-08-07 14:29:38" Description="extra-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/extra/extra-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="ekext">
@@ -4988,13 +5006,6 @@
     <Package ID="ZWtleHRfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6NDA6NDdfY2hyMTVt"
              Author="chr15m" Timestamp="2015-08-07 14:40:47" Description="ekext-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/ekext/ekext-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="extra">
-    <Package ID="ZXh0cmFfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mjk6MzhfY2hyMTVt"
-             Author="chr15m" Timestamp="2015-08-07 14:29:38" Description="extra-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
-             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/extra/extra-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz">
       <Objects/>
     </Package>
   </Packages>
@@ -5691,6 +5702,101 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="purepd">
+    <Package ID="cHVyZXBkXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE1OjA2OjEyX2NocjE1bQ=="
+             Author="chr15m" Timestamp="2015-08-07 15:06:12" Description="purepd-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/purepd/purepd-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="fftease">
+    <Package ID="ZmZ0ZWFzZV8zLjAuMV8yMDIxLTAzLTAxIDAzOjQ5OjI0X2x1Y2FyZGE="
+             Author="lucarda" Timestamp="2021-03-01 03:49:24" Description="fftease[v3.0.1](Linux-i386-32).dek"
+             Version="3.0.1" URL="http://puredata.info/Members/lucarda/software/fftease[v3.0.1](Linux-i386-32).dek">
+      <Objects>
+        <Object Name="bthresher~"/>
+        <Object Name="burrow~"/>
+        <Object Name="cavoc27~"/>
+        <Object Name="cavoc~"/>
+        <Object Name="centerring~"/>
+        <Object Name="codepend~"/>
+        <Object Name="cross~"/>
+        <Object Name="dentist~"/>
+        <Object Name="disarrain~"/>
+        <Object Name="disarray~"/>
+        <Object Name="drown~"/>
+        <Object Name="enrich~"/>
+        <Object Name="ether~"/>
+        <Object Name="leaker~"/>
+        <Object Name="mindwarp~"/>
+        <Object Name="morphine~"/>
+        <Object Name="multyq~"/>
+        <Object Name="pileup~"/>
+        <Object Name="pvcompand~"/>
+        <Object Name="pvgrain~"/>
+        <Object Name="pvharm~"/>
+        <Object Name="pvoc~"/>
+        <Object Name="pvtuner~"/>
+        <Object Name="pvwarpb~"/>
+        <Object Name="pvwarp~"/>
+        <Object Name="reanimator~"/>
+        <Object Name="resent~"/>
+        <Object Name="residency_buffer~"/>
+        <Object Name="residency~"/>
+        <Object Name="schmear~"/>
+        <Object Name="scrape~"/>
+        <Object Name="shapee~"/>
+        <Object Name="swinger~"/>
+        <Object Name="taint~"/>
+        <Object Name="thresher~"/>
+        <Object Name="vacancy~"/>
+        <Object Name="xsyn~"/>
+      </Objects>
+    </Package>
+    <Package ID="ZmZ0ZWFzZV8zLjAuMF8yMDIxLTAyLTA3IDA0OjEwOjAzX2x1Y2FyZGE="
+             Author="lucarda" Timestamp="2021-02-07 04:10:03" Description="fftease[v3.0.0](Linux-i386-32).dek"
+             Version="3.0.0" URL="http://puredata.info/Members/lucarda/software/fftease[v3.0.0](Linux-i386-32).dek">
+      <Objects>
+        <Object Name="bthresher~"/>
+        <Object Name="burrow~"/>
+        <Object Name="cavoc27~"/>
+        <Object Name="cavoc~"/>
+        <Object Name="centerring~"/>
+        <Object Name="codepend~"/>
+        <Object Name="cross~"/>
+        <Object Name="dentist~"/>
+        <Object Name="disarrain~"/>
+        <Object Name="disarray~"/>
+        <Object Name="drown~"/>
+        <Object Name="enrich~"/>
+        <Object Name="ether~"/>
+        <Object Name="leaker~"/>
+        <Object Name="mindwarp~"/>
+        <Object Name="morphine~"/>
+        <Object Name="multyq~"/>
+        <Object Name="pileup~"/>
+        <Object Name="pvcompand~"/>
+        <Object Name="pvgrain~"/>
+        <Object Name="pvharm~"/>
+        <Object Name="pvoc~"/>
+        <Object Name="pvtuner~"/>
+        <Object Name="pvwarpb~"/>
+        <Object Name="pvwarp~"/>
+        <Object Name="reanimator~"/>
+        <Object Name="resent~"/>
+        <Object Name="residency_buffer~"/>
+        <Object Name="residency~"/>
+        <Object Name="schmear~"/>
+        <Object Name="scrape~"/>
+        <Object Name="shapee~"/>
+        <Object Name="swinger~"/>
+        <Object Name="taint~"/>
+        <Object Name="thresher~"/>
+        <Object Name="vacancy~"/>
+        <Object Name="xsyn~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="freeverb~">
     <Package ID="ZnJlZXZlcmJ+XzEuMi4zXzIwMTYtMDctMjkgMTY6NDE6MzVfZmprcmFhbg=="
              Author="fjkraan" Timestamp="2016-07-29 16:41:35" Description="freeverb~-v1.2.3-(Linux-i686-32)(Sources)-externals.tgz"
@@ -5875,112 +5981,6 @@
              Author="chr15m" Timestamp="2015-08-07 14:55:00" Description="iem_adaptfilt-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/iem_adaptfilt/iem_adaptfilt-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz">
       <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="planifolia">
-    <Package ID="cGxhbmlmb2xpYV8wLjIxXzIwMjItMTEtMzAgMjE6MTI6MTNfemVwYWRvdmFuaQ=="
-             Author="zepadovani" Timestamp="2022-11-30 21:12:13" Description="planifolia[v0.21].dek"
-             Version="0.21" URL="http://puredata.info/Members/zepadovani/software/planifolia/0.21/planifolia[v0.21].dek">
-      <Objects>
-        <Object Name="any.=="/>
-        <Object Name="array.binop"/>
-        <Object Name="array.rand"/>
-        <Object Name="array.unop"/>
-        <Object Name="ls.binop"/>
-        <Object Name="ls.butlast"/>
-        <Object Name="ls.choose"/>
-        <Object Name="ls.circgroup"/>
-        <Object Name="ls.getRotate"/>
-        <Object Name="ls.group"/>
-        <Object Name="ls.iter"/>
-        <Object Name="ls.last"/>
-        <Object Name="ls.max"/>
-        <Object Name="ls.mean"/>
-        <Object Name="ls.min"/>
-        <Object Name="ls.mode"/>
-        <Object Name="ls.quicksort"/>
-        <Object Name="ls.removeAt"/>
-        <Object Name="ls.rotate"/>
-        <Object Name="ls.scramble"/>
-        <Object Name="ls.ser.arithm"/>
-        <Object Name="ls.splice"/>
-        <Object Name="ls.unop"/>
-        <Object Name="mtxgui"/>
-        <Object Name="mtxstep"/>
-        <Object Name="slash.oscformat"/>
-        <Object Name="slash.oscroute"/>
-        <Object Name="symbol.=="/>
-        <Object Name="symbol.split"/>
-      </Objects>
-    </Package>
-    <Package ID="cGxhbmlmb2xpYV8wLjJfMjAyMi0wNy0xMSAyMjo0ODowOV96ZXBhZG92YW5p"
-             Author="zepadovani" Timestamp="2022-07-11 22:48:09" Description="planifolia[v0.2].dek"
-             Version="0.2" URL="http://puredata.info/Members/zepadovani/software/planifolia/0.2/planifolia[v0.2].dek">
-      <Objects>
-        <Object Name="any.=="/>
-        <Object Name="array.binop"/>
-        <Object Name="array.rand"/>
-        <Object Name="array.unop"/>
-        <Object Name="ls.binop"/>
-        <Object Name="ls.butlast"/>
-        <Object Name="ls.choose"/>
-        <Object Name="ls.circgroup"/>
-        <Object Name="ls.getRotate"/>
-        <Object Name="ls.group"/>
-        <Object Name="ls.iter"/>
-        <Object Name="ls.last"/>
-        <Object Name="ls.max"/>
-        <Object Name="ls.mean"/>
-        <Object Name="ls.min"/>
-        <Object Name="ls.mode"/>
-        <Object Name="ls.quicksort"/>
-        <Object Name="ls.removeAt"/>
-        <Object Name="ls.rotate"/>
-        <Object Name="ls.scramble"/>
-        <Object Name="ls.ser.arithm"/>
-        <Object Name="ls.splice"/>
-        <Object Name="ls.unop"/>
-        <Object Name="mtxgui"/>
-        <Object Name="mtxstep"/>
-        <Object Name="slash.oscformat"/>
-        <Object Name="slash.oscroute"/>
-        <Object Name="symbol.=="/>
-        <Object Name="symbol.split"/>
-      </Objects>
-    </Package>
-    <Package ID="cGxhbmlmb2xpYV8wLjFfMjAyMS0wOS0xNSAxNDowMzo0MF96ZXBhZG92YW5p"
-             Author="zepadovani" Timestamp="2021-09-15 14:03:40" Description="planifolia[v0.1].dek"
-             Version="0.1" URL="http://puredata.info/Members/zepadovani/software/planifolia/0.1/planifolia[v0.1].dek">
-      <Objects>
-        <Object Name="any.=="/>
-        <Object Name="array.binop"/>
-        <Object Name="array.rand"/>
-        <Object Name="array.unop"/>
-        <Object Name="ls.binop"/>
-        <Object Name="ls.butlast"/>
-        <Object Name="ls.choose"/>
-        <Object Name="ls.getRotate"/>
-        <Object Name="ls.group"/>
-        <Object Name="ls.iter"/>
-        <Object Name="ls.last"/>
-        <Object Name="ls.max"/>
-        <Object Name="ls.mean"/>
-        <Object Name="ls.min"/>
-        <Object Name="ls.mode"/>
-        <Object Name="ls.quicksort"/>
-        <Object Name="ls.removeAt"/>
-        <Object Name="ls.rotate"/>
-        <Object Name="ls.scramble"/>
-        <Object Name="ls.ser.arithm"/>
-        <Object Name="ls.splice"/>
-        <Object Name="ls.unop"/>
-        <Object Name="mtxgui"/>
-        <Object Name="mtxstep"/>
-        <Object Name="slash.oscformat"/>
-        <Object Name="slash.oscroute"/>
-        <Object Name="symbol.=="/>
-        <Object Name="symbol.split"/>
-      </Objects>
     </Package>
   </Packages>
   <Packages Name="webserver">
