@@ -364,6 +364,13 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="orchidea">
+    <Package ID="b3JjaGlkZWFfMC4xXzIwMjMtMDQtMTUgMTU6MzA6NTVfY2hhcmxlc25laW1vZw=="
+             Author="charlesneimog" Timestamp="2023-04-15 15:30:55" Description="orchidea[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/charlesneimog/software/orchidea/0.1/orchidea[v0.1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="object-browser-test-plugin">
     <Package ID="b2JqZWN0LWJyb3dzZXItdGVzdC1wbHVnaW5fMC4wLjAtYXBsaGEtMF8yMDIzLTAzLTEwIDAyOjM0OjA2X3BvcnJlcw=="
              Author="porres" Timestamp="2023-03-10 02:34:06" Description="object-browser-test-plugin[v0.0.0-aplha-0].dek"
@@ -1488,6 +1495,16 @@
     </Package>
   </Packages>
   <Packages Name="XXX-deken-test">
+    <Package ID="WFhYLWRla2VuLXRlc3RfMC45LjYtNS1nYjUzMGFjYV9vc3hfMjAyMy0wNC0xNSAxMjowODozNF96bW9lbG5pZ2JvdA=="
+             Author="zmoelnigbot" Timestamp="2023-04-15 12:08:34" Description="XXX-deken-test[v0.9.6-5-gb530aca_osx](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
+             Version="0.9.6-5-gb530aca_osx" URL="http://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/10888/0.9.6-5-gb530aca_osx/XXX-deken-test[v0.9.6-5-gb530aca_osx](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
+      <Objects/>
+    </Package>
+    <Package ID="WFhYLWRla2VuLXRlc3RfMC45LjYtNS1nYjUzMGFjYV93aW5kb3dzXzIwMjMtMDQtMTUgMTI6MDg6MDJfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2023-04-15 12:08:02" Description="XXX-deken-test[v0.9.6-5-gb530aca_windows](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
+             Version="0.9.6-5-gb530aca_windows" URL="http://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/10888/0.9.6-5-gb530aca_windows/XXX-deken-test[v0.9.6-5-gb530aca_windows](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
+      <Objects/>
+    </Package>
     <Package ID="WFhYLWRla2VuLXRlc3RfMC45LjYtNS1nYjUzMGFjYV93aW5kb3dzXzIwMjMtMDQtMTUgMDA6NDI6MzRfem1vZWxuaWdib3Q="
              Author="zmoelnigbot" Timestamp="2023-04-15 00:42:34" Description="XXX-deken-test[v0.9.6-5-gb530aca_windows](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
              Version="0.9.6-5-gb530aca_windows" URL="http://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/10887/0.9.6-5-gb530aca_windows/XXX-deken-test[v0.9.6-5-gb530aca_windows](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">

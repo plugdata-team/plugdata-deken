@@ -396,6 +396,18 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="orchidea">
+    <Package ID="b3JjaGlkZWFfMC4xXzIwMjMtMDQtMTUgMTU6MzA6NTVfY2hhcmxlc25laW1vZw=="
+             Author="charlesneimog" Timestamp="2023-04-15 15:30:55" Description="orchidea[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/charlesneimog/software/orchidea/0.1/orchidea[v0.1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="b3JjaGlkZWFfMC4xXzIwMjMtMDQtMTUgMTU6MzA6NTVfY2hhcmxlc25laW1vZw=="
+             Author="charlesneimog" Timestamp="2023-04-15 15:30:55" Description="orchidea[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/charlesneimog/software/orchidea/0.1/orchidea[v0.1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="object-browser-test-plugin">
     <Package ID="b2JqZWN0LWJyb3dzZXItdGVzdC1wbHVnaW5fMC4wLjAtYXBsaGEtMF8yMDIzLTAzLTEwIDAyOjM0OjA2X3BvcnJlcw=="
              Author="porres" Timestamp="2023-03-10 02:34:06" Description="object-browser-test-plugin[v0.0.0-aplha-0].dek"
