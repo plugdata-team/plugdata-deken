@@ -10294,6 +10294,50 @@
     </Package>
   </Packages>
   <Packages Name="pof">
+    <Package ID="cG9mXzAuNy0xOS1nMTU1YV8yMDIzLTA0LTE3IDEyOjU2OjM0X2FudDFy"
+             Author="ant1r" Timestamp="2023-04-17 12:56:34" Description="pof[v0.7-19-g155a](Linux-amd64-32).dek"
+             Version="0.7-19-g155a" URL="http://puredata.info/Members/ant1r/software/pof/0.7-19-g155a/pof[v0.7-19-g155a](Linux-amd64-32).dek">
+      <Objects>
+        <Object Name="pofaccel"/>
+        <Object Name="pofbang"/>
+        <Object Name="pofcirc"/>
+        <Object Name="pofcolor"/>
+        <Object Name="pofdepthtest"/>
+        <Object Name="poffbo"/>
+        <Object Name="poffill"/>
+        <Object Name="poffilm"/>
+        <Object Name="poffont"/>
+        <Object Name="poffonts"/>
+        <Object Name="pofgetmatrix"/>
+        <Object Name="pofhead"/>
+        <Object Name="pofimage"/>
+        <Object Name="pofjson"/>
+        <Object Name="pofkeyboard"/>
+        <Object Name="poflayer"/>
+        <Object Name="pofonce"/>
+        <Object Name="pofpath"/>
+        <Object Name="pofplane"/>
+        <Object Name="pofquad"/>
+        <Object Name="pofrect"/>
+        <Object Name="pofresetmatrix"/>
+        <Object Name="pofrotate"/>
+        <Object Name="pofscale"/>
+        <Object Name="pofscope"/>
+        <Object Name="pofshader"/>
+        <Object Name="pofsphere"/>
+        <Object Name="poftext"/>
+        <Object Name="poftextbox"/>
+        <Object Name="poftexts"/>
+        <Object Name="poftexture"/>
+        <Object Name="poftouch"/>
+        <Object Name="poftouchable"/>
+        <Object Name="poftranslate"/>
+        <Object Name="pofutil"/>
+        <Object Name="pofvisible"/>
+        <Object Name="pofwin"/>
+        <Object Name="pofxml"/>
+      </Objects>
+    </Package>
     <Package ID="cG9mXzAuNi0xLWcwMmE5XzIwMjEtMDMtMTMgMTY6MTM6MzZfYW50MXI="
              Author="ant1r" Timestamp="2021-03-13 16:13:36" Description="pof[v0.6-1-g02a9](Linux-amd64-32).dek"
              Version="0.6-1-g02a9" URL="http://puredata.info/Members/ant1r/software/pof/0.6-1-g02a9/pof[v0.6-1-g02a9](Linux-amd64-32).dek">
