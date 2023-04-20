@@ -9175,6 +9175,13 @@
     </Package>
   </Packages>
   <Packages Name="pd-server">
+    <Package ID="cGQtc2VydmVyXzAuMS4xXzIwMjMtMDQtMTkgMTg6MTU6MDZfY2hhcmxlc25laW1vZw=="
+             Author="charlesneimog" Timestamp="2023-04-19 18:15:06" Description="pd-server[v0.1.1](Darwin-amd64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
+             Version="0.1.1" URL="http://puredata.info/Members/charlesneimog/software/pd-server/0.1.1/pd-server[v0.1.1](Darwin-amd64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="server"/>
+      </Objects>
+    </Package>
     <Package ID="cGQtc2VydmVyXzAuMS4xXzIwMjMtMDItMDggMjE6NDc6MDFfY2hhcmxlc25laW1vZw=="
              Author="charlesneimog" Timestamp="2023-02-08 21:47:01" Description="pd-server[v0.1.1](Darwin-amd64-32)(Linux-amd64-32)(Sources).dek"
              Version="0.1.1" URL="http://puredata.info/Members/charlesneimog/software/pd-server/0.1.1/pd-server[v0.1.1](Darwin-amd64-32)(Linux-amd64-32)(Sources).dek">
