@@ -17846,6 +17846,32 @@
     </Package>
   </Packages>
   <Packages Name="moonlib">
+    <Package ID="bW9vbmxpYl8wLjdfMjAyMy0wNC0yMSAxNTowMjowMl9hbnQxcg==" Author="ant1r"
+             Timestamp="2023-04-21 15:02:02" Description="moonlib[v0.7](Windows-amd64-32).dek"
+             Version="0.7" URL="http://puredata.info/Members/ant1r/software/moonlib/0.7/moonlib[v0.7](Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="char2f"/>
+        <Object Name="comma"/>
+        <Object Name="dispatch"/>
+        <Object Name="dripchar"/>
+        <Object Name="f2char"/>
+        <Object Name="f2s"/>
+        <Object Name="gamme"/>
+        <Object Name="image"/>
+        <Object Name="mknob"/>
+        <Object Name="ndmetro"/>
+        <Object Name="panvol~"/>
+        <Object Name="s2f"/>
+        <Object Name="sarray"/>
+        <Object Name="slist"/>
+        <Object Name="ssaw~"/>
+        <Object Name="tabdump2"/>
+        <Object Name="tabenv"/>
+        <Object Name="tabreadl"/>
+        <Object Name="tabsort"/>
+        <Object Name="tabsort2"/>
+      </Objects>
+    </Package>
     <Package ID="bW9vbmxpYl8wLjQtNS1nYTUzOV8yMDIwLTEyLTA2IDE3OjIxOjQ1X2FudDFy"
              Author="ant1r" Timestamp="2020-12-06 17:21:45" Description="moonlib[v0.4-5-ga539](Windows-amd64-32).dek"
              Version="0.4-5-ga539" URL="http://puredata.info/Members/ant1r/software/moonlib/0.4-5-ga539/moonlib[v0.4-5-ga539](Windows-amd64-32).dek">
