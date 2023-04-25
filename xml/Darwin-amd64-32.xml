@@ -24093,9 +24093,9 @@
     </Package>
   </Packages>
   <Packages Name="leapmotion">
-    <Package ID="bGVhcG1vdGlvbl8wLjIuM18yMDIzLTAxLTA2IDE0OjQ3OjQ4X3dtYnJlbnQ="
-             Author="wmbrent" Timestamp="2023-01-06 14:47:48" Description="leapmotion[v0.2.3](Darwin-amd64-32)(Darwin-i386-0).dek"
-             Version="0.2.3" URL="http://puredata.info/Members/wmbrent/software/leapmotion/0.2.3/leapmotion[v0.2.3](Darwin-amd64-32)(Darwin-i386-0).dek">
+    <Package ID="bGVhcG1vdGlvbl8wLjIuNF8yMDIzLTA0LTI0IDIyOjMyOjE3X3dtYnJlbnQ="
+             Author="wmbrent" Timestamp="2023-04-24 22:32:17" Description="leapmotion[v0.2.4](Darwin-amd64-32)(Darwin-i386-0).dek"
+             Version="0.2.4" URL="http://puredata.info/Members/wmbrent/software/leapmotion/0.2.4/leapmotion[v0.2.4](Darwin-amd64-32)(Darwin-i386-0).dek">
       <Objects>
         <Object Name="leapmotion"/>
       </Objects>
