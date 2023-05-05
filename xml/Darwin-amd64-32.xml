@@ -646,9 +646,9 @@
     </Package>
   </Packages>
   <Packages Name="timbreIDLib">
-    <Package ID="dGltYnJlSURMaWJfMC45LjFfMjAyMi0wNy0xOCAyMjozMzoyNV93bWJyZW50"
-             Author="wmbrent" Timestamp="2022-07-18 22:33:25" Description="timbreIDLib[v0.9.1](Darwin-amd64-32)(Darwin-arm64-32).dek"
-             Version="0.9.1" URL="http://puredata.info/Members/wmbrent/software/timbreIDLib/0.9.1/timbreIDLib[v0.9.1](Darwin-amd64-32)(Darwin-arm64-32).dek">
+    <Package ID="dGltYnJlSURMaWJfMC45LjJfMjAyMy0wNS0wNCAyMzoyNjowM193bWJyZW50"
+             Author="wmbrent" Timestamp="2023-05-04 23:26:03" Description="timbreIDLib[v0.9.2](Darwin-amd64-32)(Darwin-arm64-32).dek"
+             Version="0.9.2" URL="http://puredata.info/Members/wmbrent/software/timbreIDLib/0.9.2/timbreIDLib[v0.9.2](Darwin-amd64-32)(Darwin-arm64-32).dek">
       <Objects>
         <Object Name="attackTime"/>
         <Object Name="attackTime~"/>

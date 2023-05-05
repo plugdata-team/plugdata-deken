@@ -672,9 +672,9 @@
     </Package>
   </Packages>
   <Packages Name="timbreIDLib">
-    <Package ID="dGltYnJlSURMaWJfMC45LjFfMjAyMi0wNy0xOCAyMjo0NTowNV93bWJyZW50"
-             Author="wmbrent" Timestamp="2022-07-18 22:45:05" Description="timbreIDLib[v0.9.1](Linux-amd64-32).dek"
-             Version="0.9.1" URL="http://puredata.info/Members/wmbrent/software/timbreIDLib/0.9.1/timbreIDLib[v0.9.1](Linux-amd64-32).dek">
+    <Package ID="dGltYnJlSURMaWJfMC45LjJfMjAyMy0wNS0wNCAyMzoyNTowMl93bWJyZW50"
+             Author="wmbrent" Timestamp="2023-05-04 23:25:02" Description="timbreIDLib[v0.9.2](Linux-amd64-32).dek"
+             Version="0.9.2" URL="http://puredata.info/Members/wmbrent/software/timbreIDLib/0.9.2/timbreIDLib[v0.9.2](Linux-amd64-32).dek">
       <Objects>
         <Object Name="attackTime"/>
         <Object Name="attackTime~"/>
