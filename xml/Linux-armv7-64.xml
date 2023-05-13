@@ -2261,6 +2261,18 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="automatonism">
+    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmUxXzIwMjMtMDUtMTIgMjI6Mzc6NTRfanln"
+             Author="jyg" Timestamp="2023-05-12 22:37:54" Description="automatonism[v0.4-pre1].dek"
+             Version="0.4-pre1" URL="http://puredata.info/Members/jyg/software/automatonism[v0.4-pre1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmUxXzIwMjMtMDUtMTIgMjI6Mzc6NTRfanln"
+             Author="jyg" Timestamp="2023-05-12 22:37:54" Description="automatonism[v0.4-pre1].dek"
+             Version="0.4-pre1" URL="http://puredata.info/Members/jyg/software/automatonism[v0.4-pre1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="bf-pd">
     <Package ID="YmYtcGRfMS4wXzIwMjEtMDgtMDMgMTI6MTQ6MTZfZmJlcnRoYXV0" Author="fberthaut"
              Timestamp="2021-08-03 12:14:16" Description="bf-pd[v1.0].dek"
@@ -2359,15 +2371,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="clk">
-    <Package ID="Y2xrXzAuMi4xXzIwMjAtMDMtMDQgMjM6MTU6MjBfdGhvbWFz" Author="thomas"
-             Timestamp="2020-03-04 23:15:20" Description="clk[v0.2.1](Linux-armv7-64).dek"
-             Version="0.2.1" URL="http://puredata.info/Members/thomas/software/clk/0.2.1/clk[v0.2.1](Linux-armv7-64).dek">
-      <Objects>
-        <Object Name="clk"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="nGui">
     <Package ID="bkd1aV8wLjFfMjAyMC0wNS0yOCAyMzozOTowMV9tYXJpb19idW9uaW5mYW50ZQ=="
              Author="mario_buoninfante" Timestamp="2020-05-28 23:39:01" Description="nGui[v0.1].dek"
@@ -2378,6 +2381,15 @@
              Author="mario_buoninfante" Timestamp="2020-05-28 23:39:01" Description="nGui[v0.1].dek"
              Version="0.1" URL="http://puredata.info/Members/mario_buoninfante/software/nGui/0.1/nGui[v0.1].dek">
       <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="clk">
+    <Package ID="Y2xrXzAuMi4xXzIwMjAtMDMtMDQgMjM6MTU6MjBfdGhvbWFz" Author="thomas"
+             Timestamp="2020-03-04 23:15:20" Description="clk[v0.2.1](Linux-armv7-64).dek"
+             Version="0.2.1" URL="http://puredata.info/Members/thomas/software/clk/0.2.1/clk[v0.2.1](Linux-armv7-64).dek">
+      <Objects>
+        <Object Name="clk"/>
+      </Objects>
     </Package>
   </Packages>
   <Packages Name="purepd">
