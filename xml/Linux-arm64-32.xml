@@ -597,6 +597,15 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="pd-ji">
+    <Package ID="cGQtamlfMC4xLjBfMjAyMy0wNi0xMyAxNTowNDoyNF9jaGFybGVzbmVpbW9n"
+             Author="charlesneimog" Timestamp="2023-06-13 15:04:24" Description="pd-ji[v0.1.0].dek"
+             Version="0.1.0" URL="http://puredata.info/Members/charlesneimog/software/pd-ji/0.1.0/pd-ji[v0.1.0].dek">
+      <Objects>
+        <Object Name="pd-ji"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="patch2svg-plugin">
     <Package ID="cGF0Y2gyc3ZnLXBsdWdpbl8wLjFfMjAxNi0wMy0yMiAxNjoyOToyNV96bW9lbG5pZw=="
              Author="zmoelnig" Timestamp="2016-03-22 16:29:25" Description="patch2svg-plugin-v0.1--externals.zip"
