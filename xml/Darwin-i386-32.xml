@@ -828,9 +828,19 @@
     </Package>
   </Packages>
   <Packages Name="orchidea">
-    <Package ID="b3JjaGlkZWFfMC4xXzIwMjMtMDQtMTUgMTU6MzA6NTVfY2hhcmxlc25laW1vZw=="
-             Author="charlesneimog" Timestamp="2023-04-15 15:30:55" Description="orchidea[v0.1].dek"
-             Version="0.1" URL="http://puredata.info/Members/charlesneimog/software/orchidea/0.1/orchidea[v0.1].dek">
+    <Package ID="b3JjaGlkZWFfMC4xLjNfMjAyMy0wNi0xNiAwMDowNToyOF9jaGFybGVzbmVpbW9n"
+             Author="charlesneimog" Timestamp="2023-06-16 00:05:28" Description="orchidea[v0.1.3].dek"
+             Version="0.1.3" URL="http://puredata.info/Members/charlesneimog/software/orchidea/0.1.3/orchidea[v0.1.3].dek">
+      <Objects/>
+    </Package>
+    <Package ID="b3JjaGlkZWFfMC4xLjJfMjAyMy0wNi0xNSAyMToxMTowNF9jaGFybGVzbmVpbW9n"
+             Author="charlesneimog" Timestamp="2023-06-15 21:11:04" Description="orchidea[v0.1.2].dek"
+             Version="0.1.2" URL="http://puredata.info/Members/charlesneimog/software/orchidea/0.1.2/orchidea[v0.1.2].dek">
+      <Objects/>
+    </Package>
+    <Package ID="b3JjaGlkZWFfMC4xLjFfMjAyMy0wNi0xNSAyMTowNToxOF9jaGFybGVzbmVpbW9n"
+             Author="charlesneimog" Timestamp="2023-06-15 21:05:18" Description="orchidea[v0.1.1].dek"
+             Version="0.1.1" URL="http://puredata.info/Members/charlesneimog/software/orchidea/0.1.1/orchidea[v0.1.1].dek">
       <Objects/>
     </Package>
   </Packages>
