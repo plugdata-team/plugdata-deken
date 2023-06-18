@@ -1775,8 +1775,8 @@
     </Package>
   </Packages>
   <Packages Name="orchidea">
-    <Package ID="b3JjaGlkZWFfMC4xLjRfMjAyMy0wNi0xNiAyMTo0OTo0MV9jaGFybGVzbmVpbW9n"
-             Author="charlesneimog" Timestamp="2023-06-16 21:49:41" Description="orchidea[v0.1.4].dek"
+    <Package ID="b3JjaGlkZWFfMC4xLjRfMjAyMy0wNi0xNyAwMDowMjo1MV9jaGFybGVzbmVpbW9n"
+             Author="charlesneimog" Timestamp="2023-06-17 00:02:51" Description="orchidea[v0.1.4].dek"
              Version="0.1.4" URL="http://puredata.info/Members/charlesneimog/software/orchidea/0.1.4/orchidea[v0.1.4].dek">
       <Objects/>
     </Package>
