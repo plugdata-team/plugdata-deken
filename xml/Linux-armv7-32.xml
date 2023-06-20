@@ -1079,13 +1079,13 @@
     </Package>
   </Packages>
   <Packages Name="orchidea">
-    <Package ID="b3JjaGlkZWFfMC4xLjRfMjAyMy0wNi0xNyAwMDowMjo1MV9jaGFybGVzbmVpbW9n"
-             Author="charlesneimog" Timestamp="2023-06-17 00:02:51" Description="orchidea[v0.1.4].dek"
+    <Package ID="b3JjaGlkZWFfMC4xLjRfMjAyMy0wNi0xOSAxNzoxMzo1Nl9jaGFybGVzbmVpbW9n"
+             Author="charlesneimog" Timestamp="2023-06-19 17:13:56" Description="orchidea[v0.1.4].dek"
              Version="0.1.4" URL="http://puredata.info/Members/charlesneimog/software/orchidea/0.1.4/orchidea[v0.1.4].dek">
       <Objects/>
     </Package>
-    <Package ID="b3JjaGlkZWFfMC4xLjRfMjAyMy0wNi0xNyAwMDowMjo1MV9jaGFybGVzbmVpbW9n"
-             Author="charlesneimog" Timestamp="2023-06-17 00:02:51" Description="orchidea[v0.1.4].dek"
+    <Package ID="b3JjaGlkZWFfMC4xLjRfMjAyMy0wNi0xOSAxNzoxMzo1Nl9jaGFybGVzbmVpbW9n"
+             Author="charlesneimog" Timestamp="2023-06-19 17:13:56" Description="orchidea[v0.1.4].dek"
              Version="0.1.4" URL="http://puredata.info/Members/charlesneimog/software/orchidea/0.1.4/orchidea[v0.1.4].dek">
       <Objects/>
     </Package>
@@ -1879,9 +1879,7 @@
     <Package ID="Y29udm9sdmV+XzAuMTMuMV8yMDIxLTA1LTE4IDE5OjA5OjI3X3dtYnJlbnQ="
              Author="wmbrent" Timestamp="2021-05-18 19:09:27" Description="convolve~[v0.13.1](Linux-armv7-32).dek"
              Version="0.13.1" URL="http://puredata.info/Members/wmbrent/software/convolve~/0.13.1/convolve~[v0.13.1](Linux-armv7-32).dek">
-      <Objects>
-        <Object Name="convolve~"/>
-      </Objects>
+      <Objects/>
     </Package>
     <Package ID="Y29udm9sdmV+XzAuOV8yMDE3LTA3LTEwIDIyOjI4OjQ4X3Jkeg==" Author="rdz"
              Timestamp="2017-07-10 22:28:48" Description="convolve~-v0.9-(Linux-armv7-32)-externals.tar.gz"
