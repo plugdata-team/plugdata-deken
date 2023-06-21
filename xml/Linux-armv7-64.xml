@@ -433,13 +433,13 @@
     </Package>
   </Packages>
   <Packages Name="orchidea">
-    <Package ID="b3JjaGlkZWFfMC4xLjRfMjAyMy0wNi0xOSAxNzoxMzo1Nl9jaGFybGVzbmVpbW9n"
-             Author="charlesneimog" Timestamp="2023-06-19 17:13:56" Description="orchidea[v0.1.4].dek"
+    <Package ID="b3JjaGlkZWFfMC4xLjRfMjAyMy0wNi0yMCAwMDoxOTozM19jaGFybGVzbmVpbW9n"
+             Author="charlesneimog" Timestamp="2023-06-20 00:19:33" Description="orchidea[v0.1.4].dek"
              Version="0.1.4" URL="http://puredata.info/Members/charlesneimog/software/orchidea/0.1.4/orchidea[v0.1.4].dek">
       <Objects/>
     </Package>
-    <Package ID="b3JjaGlkZWFfMC4xLjRfMjAyMy0wNi0xOSAxNzoxMzo1Nl9jaGFybGVzbmVpbW9n"
-             Author="charlesneimog" Timestamp="2023-06-19 17:13:56" Description="orchidea[v0.1.4].dek"
+    <Package ID="b3JjaGlkZWFfMC4xLjRfMjAyMy0wNi0yMCAwMDoxOTozM19jaGFybGVzbmVpbW9n"
+             Author="charlesneimog" Timestamp="2023-06-20 00:19:33" Description="orchidea[v0.1.4].dek"
              Version="0.1.4" URL="http://puredata.info/Members/charlesneimog/software/orchidea/0.1.4/orchidea[v0.1.4].dek">
       <Objects/>
     </Package>
@@ -2437,6 +2437,15 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="clk">
+    <Package ID="Y2xrXzAuMi4xXzIwMjAtMDMtMDQgMjM6MTU6MjBfdGhvbWFz" Author="thomas"
+             Timestamp="2020-03-04 23:15:20" Description="clk[v0.2.1](Linux-armv7-64).dek"
+             Version="0.2.1" URL="http://puredata.info/Members/thomas/software/clk/0.2.1/clk[v0.2.1](Linux-armv7-64).dek">
+      <Objects>
+        <Object Name="clk"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="nGui">
     <Package ID="bkd1aV8wLjFfMjAyMC0wNS0yOCAyMzozOTowMV9tYXJpb19idW9uaW5mYW50ZQ=="
              Author="mario_buoninfante" Timestamp="2020-05-28 23:39:01" Description="nGui[v0.1].dek"
@@ -2447,15 +2456,6 @@
              Author="mario_buoninfante" Timestamp="2020-05-28 23:39:01" Description="nGui[v0.1].dek"
              Version="0.1" URL="http://puredata.info/Members/mario_buoninfante/software/nGui/0.1/nGui[v0.1].dek">
       <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="clk">
-    <Package ID="Y2xrXzAuMi4xXzIwMjAtMDMtMDQgMjM6MTU6MjBfdGhvbWFz" Author="thomas"
-             Timestamp="2020-03-04 23:15:20" Description="clk[v0.2.1](Linux-armv7-64).dek"
-             Version="0.2.1" URL="http://puredata.info/Members/thomas/software/clk/0.2.1/clk[v0.2.1](Linux-armv7-64).dek">
-      <Objects>
-        <Object Name="clk"/>
-      </Objects>
     </Package>
   </Packages>
   <Packages Name="purepd">

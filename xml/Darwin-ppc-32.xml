@@ -384,8 +384,8 @@
     </Package>
   </Packages>
   <Packages Name="orchidea">
-    <Package ID="b3JjaGlkZWFfMC4xLjRfMjAyMy0wNi0xOSAxNzoxMzo1Nl9jaGFybGVzbmVpbW9n"
-             Author="charlesneimog" Timestamp="2023-06-19 17:13:56" Description="orchidea[v0.1.4].dek"
+    <Package ID="b3JjaGlkZWFfMC4xLjRfMjAyMy0wNi0yMCAwMDoxOTozM19jaGFybGVzbmVpbW9n"
+             Author="charlesneimog" Timestamp="2023-06-20 00:19:33" Description="orchidea[v0.1.4].dek"
              Version="0.1.4" URL="http://puredata.info/Members/charlesneimog/software/orchidea/0.1.4/orchidea[v0.1.4].dek">
       <Objects/>
     </Package>
@@ -707,13 +707,6 @@
     <Package ID="cGx1Z2lufl8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjMyOjMxX3ptb2Vsbmln"
              Author="zmoelnig" Timestamp="2015-12-10 14:32:31" Description="plugin~-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/plugin~/0-0extended/plugin~-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="apple">
-    <Package ID="YXBwbGVfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxMzo1NV96bW9lbG5pZw=="
-             Author="zmoelnig" Timestamp="2015-12-10 14:13:55" Description="apple-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/apple/0-0extended/apple-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
       <Objects/>
     </Package>
   </Packages>
@@ -1507,42 +1500,17 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="ekext">
+    <Package ID="ZWtleHRfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxNzo1Ml96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:17:52" Description="ekext-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/ekext/0-0extended/ekext-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="extra">
     <Package ID="ZXh0cmFfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxODozNl96bW9lbG5pZw=="
              Author="zmoelnig" Timestamp="2015-12-10 14:18:36" Description="extra-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/extra/0-0extended/extra-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="XXX-deken-test">
-    <Package ID="WFhYLWRla2VuLXRlc3RfMC45LjYtNS1nYjUzMGFjYV9vc3hfMjAyMy0wNC0xNSAxMjowODozNF96bW9lbG5pZ2JvdA=="
-             Author="zmoelnigbot" Timestamp="2023-04-15 12:08:34" Description="XXX-deken-test[v0.9.6-5-gb530aca_osx](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
-             Version="0.9.6-5-gb530aca_osx" URL="http://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/10888/0.9.6-5-gb530aca_osx/XXX-deken-test[v0.9.6-5-gb530aca_osx](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
-      <Objects/>
-    </Package>
-    <Package ID="WFhYLWRla2VuLXRlc3RfMC45LjYtNS1nYjUzMGFjYV93aW5kb3dzXzIwMjMtMDQtMTUgMTI6MDg6MDJfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2023-04-15 12:08:02" Description="XXX-deken-test[v0.9.6-5-gb530aca_windows](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
-             Version="0.9.6-5-gb530aca_windows" URL="http://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/10888/0.9.6-5-gb530aca_windows/XXX-deken-test[v0.9.6-5-gb530aca_windows](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
-      <Objects/>
-    </Package>
-    <Package ID="WFhYLWRla2VuLXRlc3RfMC45LjYtNS1nYjUzMGFjYV93aW5kb3dzXzIwMjMtMDQtMTUgMDA6NDI6MzRfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2023-04-15 00:42:34" Description="XXX-deken-test[v0.9.6-5-gb530aca_windows](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
-             Version="0.9.6-5-gb530aca_windows" URL="http://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/10887/0.9.6-5-gb530aca_windows/XXX-deken-test[v0.9.6-5-gb530aca_windows](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
-      <Objects/>
-    </Package>
-    <Package ID="WFhYLWRla2VuLXRlc3RfMC45LjYtNS1nYjUzMGFjYV9vc3hfMjAyMy0wNC0xNSAwMDo0MjozM196bW9lbG5pZ2JvdA=="
-             Author="zmoelnigbot" Timestamp="2023-04-15 00:42:33" Description="XXX-deken-test[v0.9.6-5-gb530aca_osx](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
-             Version="0.9.6-5-gb530aca_osx" URL="http://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/10887/0.9.6-5-gb530aca_osx/XXX-deken-test[v0.9.6-5-gb530aca_osx](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
-      <Objects/>
-    </Package>
-    <Package ID="WFhYLWRla2VuLXRlc3RfMC45LjYtNC1nYjE4N2UzM193aW5kb3dzXzIwMjMtMDQtMTUgMDA6MzY6MzBfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2023-04-15 00:36:30" Description="XXX-deken-test[v0.9.6-4-gb187e33_windows](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
-             Version="0.9.6-4-gb187e33_windows" URL="http://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/10886/0.9.6-4-gb187e33_windows/XXX-deken-test[v0.9.6-4-gb187e33_windows](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
-      <Objects/>
-    </Package>
-    <Package ID="WFhYLWRla2VuLXRlc3RfMC45LjYtNC1nYjE4N2UzM19vc3hfMjAyMy0wNC0xNSAwMDozNTo1NF96bW9lbG5pZ2JvdA=="
-             Author="zmoelnigbot" Timestamp="2023-04-15 00:35:54" Description="XXX-deken-test[v0.9.6-4-gb187e33_osx](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
-             Version="0.9.6-4-gb187e33_osx" URL="http://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/10886/0.9.6-4-gb187e33_osx/XXX-deken-test[v0.9.6-4-gb187e33_osx](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
       <Objects/>
     </Package>
   </Packages>
@@ -2013,6 +1981,13 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="apple">
+    <Package ID="YXBwbGVfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxMzo1NV96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:13:55" Description="apple-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/apple/0-0extended/apple-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="chaos">
     <Package ID="Y2hhb3NfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxNTozNF96bW9lbG5pZw=="
              Author="zmoelnig" Timestamp="2015-12-10 14:15:34" Description="chaos-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
@@ -2102,13 +2077,6 @@
     <Package ID="YmFzc2VtdX5fMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxNDoyOV96bW9lbG5pZw=="
              Author="zmoelnig" Timestamp="2015-12-10 14:14:29" Description="bassemu~-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/bassemu~/0-0extended/bassemu~-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="ekext">
-    <Package ID="ZWtleHRfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxNzo1Ml96bW9lbG5pZw=="
-             Author="zmoelnig" Timestamp="2015-12-10 14:17:52" Description="ekext-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/ekext/0-0extended/ekext-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
       <Objects/>
     </Package>
   </Packages>

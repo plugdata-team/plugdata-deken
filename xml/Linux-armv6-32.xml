@@ -408,8 +408,8 @@
     </Package>
   </Packages>
   <Packages Name="orchidea">
-    <Package ID="b3JjaGlkZWFfMC4xLjRfMjAyMy0wNi0xOSAxNzoxMzo1Nl9jaGFybGVzbmVpbW9n"
-             Author="charlesneimog" Timestamp="2023-06-19 17:13:56" Description="orchidea[v0.1.4].dek"
+    <Package ID="b3JjaGlkZWFfMC4xLjRfMjAyMy0wNi0yMCAwMDoxOTozM19jaGFybGVzbmVpbW9n"
+             Author="charlesneimog" Timestamp="2023-06-20 00:19:33" Description="orchidea[v0.1.4].dek"
              Version="0.1.4" URL="http://puredata.info/Members/charlesneimog/software/orchidea/0.1.4/orchidea[v0.1.4].dek">
       <Objects/>
     </Package>
@@ -991,13 +991,6 @@
       <Objects>
         <Object Name="constantq~"/>
       </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="binfile">
-    <Package ID="YmluZmlsZV8wLjF+Z2l0MjAxNTExMThfMjAxNS0xMS0xOCAxMzoyOTowOF9yZHo="
-             Author="rdz" Timestamp="2015-11-18 13:29:08" Description="binfile-v0.1~git20151118-(Linux-armv6-32)-externals.tar.gz"
-             Version="0.1~git20151118" URL="http://puredata.info/Members/rdz/software/binfile-v0.1~git20151118-(Linux-armv6-32)-externals.tar.gz">
-      <Objects/>
     </Package>
   </Packages>
   <Packages Name="absattr">
@@ -4088,6 +4081,13 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="binfile">
+    <Package ID="YmluZmlsZV8wLjF+Z2l0MjAxNTExMThfMjAxNS0xMS0xOCAxMzoyOTowOF9yZHo="
+             Author="rdz" Timestamp="2015-11-18 13:29:08" Description="binfile-v0.1~git20151118-(Linux-armv6-32)-externals.tar.gz"
+             Version="0.1~git20151118" URL="http://puredata.info/Members/rdz/software/binfile-v0.1~git20151118-(Linux-armv6-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="automatonism">
     <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmUxXzIwMjMtMDUtMTIgMjI6Mzc6NTRfanln"
              Author="jyg" Timestamp="2023-05-12 22:37:54" Description="automatonism[v0.4-pre1].dek"
@@ -4156,13 +4156,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="nGui">
-    <Package ID="bkd1aV8wLjFfMjAyMC0wNS0yOCAyMzozOTowMV9tYXJpb19idW9uaW5mYW50ZQ=="
-             Author="mario_buoninfante" Timestamp="2020-05-28 23:39:01" Description="nGui[v0.1].dek"
-             Version="0.1" URL="http://puredata.info/Members/mario_buoninfante/software/nGui/0.1/nGui[v0.1].dek">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="clk">
     <Package ID="Y2xrXzAuMi4xXzIwMjAtMDMtMDMgMDk6MjI6MjFfdGhvbWFz" Author="thomas"
              Timestamp="2020-03-03 09:22:21" Description="clk[v0.2.1](Linux-armv6-32).dek"
@@ -4170,6 +4163,13 @@
       <Objects>
         <Object Name="clk"/>
       </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="nGui">
+    <Package ID="bkd1aV8wLjFfMjAyMC0wNS0yOCAyMzozOTowMV9tYXJpb19idW9uaW5mYW50ZQ=="
+             Author="mario_buoninfante" Timestamp="2020-05-28 23:39:01" Description="nGui[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/mario_buoninfante/software/nGui/0.1/nGui[v0.1].dek">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="purepd">
