@@ -9653,6 +9653,17 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="piro">
+    <Package ID="cGlyb18wLjAuM18yMDIzLTA2LTI1IDE3OjAwOjA4X2Rpcw==" Author="dis"
+             Timestamp="2023-06-25 17:00:08" Description="piro[v0.0.3](Windows-i386-32)(Sources).dek"
+             Version="0.0.3" URL="http://puredata.info/Members/dis/software/piro/0.0.3/piro[v0.0.3](Windows-i386-32)(Sources).dek">
+      <Objects>
+        <Object Name="irmanip"/>
+        <Object Name="irmeasure~"/>
+        <Object Name="multiconvolve~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="iem_adaptfilt">
     <Package ID="aWVtX2FkYXB0ZmlsdF8xLjIxXzIwMTgtMTEtMjkgMTY6Mjc6MTFfbXVzaWw="
              Author="musil" Timestamp="2018-11-29 16:27:11" Description="iem_adaptfilt[v1.21](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32)(Sources).dek"
