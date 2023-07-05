@@ -1823,13 +1823,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="object-browser-test-plugin">
-    <Package ID="b2JqZWN0LWJyb3dzZXItdGVzdC1wbHVnaW5fMC4wLjAtYXBsaGEtMF8yMDIzLTAzLTEwIDAyOjM0OjA2X3BvcnJlcw=="
-             Author="porres" Timestamp="2023-03-10 02:34:06" Description="object-browser-test-plugin[v0.0.0-aplha-0].dek"
-             Version="0.0.0-aplha-0" URL="http://puredata.info/Members/porres/software/object-browser-test-plugin/0.0.0-aplha-0/object-browser-test-plugin[v0.0.0-aplha-0].dek">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="pddp">
     <Package ID="cGRkcF8wLjAuZXh0ZW5kZWRfMjAxOC0wOS0yNiAwMzo0OToyMV9sdWNhcmRh"
              Author="lucarda" Timestamp="2018-09-26 03:49:21" Description="pddp[v0.0.extended](Windows-amd64-32)(Sources).dek"
