@@ -986,13 +986,11 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="absattr">
-    <Package ID="YWJzYXR0cl8wLjIuM18yMDIwLTAzLTAzIDA5OjMyOjIwX3Rob21hcw=="
-             Author="thomas" Timestamp="2020-03-03 09:32:20" Description="absattr[v0.2.3](Linux-armv6-32).dek"
-             Version="0.2.3" URL="http://puredata.info/Members/thomas/software/absattr/0.2.3/absattr[v0.2.3](Linux-armv6-32).dek">
-      <Objects>
-        <Object Name="absattr"/>
-      </Objects>
+  <Packages Name="binfile">
+    <Package ID="YmluZmlsZV8wLjF+Z2l0MjAxNTExMThfMjAxNS0xMS0xOCAxMzoyOTowOF9yZHo="
+             Author="rdz" Timestamp="2015-11-18 13:29:08" Description="binfile-v0.1~git20151118-(Linux-armv6-32)-externals.tar.gz"
+             Version="0.1~git20151118" URL="http://puredata.info/Members/rdz/software/binfile-v0.1~git20151118-(Linux-armv6-32)-externals.tar.gz">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="Gem">
@@ -3640,6 +3638,15 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="absattr">
+    <Package ID="YWJzYXR0cl8wLjIuM18yMDIwLTAzLTAzIDA5OjMyOjIwX3Rob21hcw=="
+             Author="thomas" Timestamp="2020-03-03 09:32:20" Description="absattr[v0.2.3](Linux-armv6-32).dek"
+             Version="0.2.3" URL="http://puredata.info/Members/thomas/software/absattr/0.2.3/absattr[v0.2.3](Linux-armv6-32).dek">
+      <Objects>
+        <Object Name="absattr"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="audiolab">
     <Package ID="YXVkaW9sYWJfMC40MV8yMDIxLTA0LTMwIDEzOjI4OjMyX3NvbGlwZA=="
              Author="solipd" Timestamp="2021-04-30 13:28:32" Description="audiolab[v0.41].dek"
@@ -4074,13 +4081,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="binfile">
-    <Package ID="YmluZmlsZV8wLjF+Z2l0MjAxNTExMThfMjAxNS0xMS0xOCAxMzoyOTowOF9yZHo="
-             Author="rdz" Timestamp="2015-11-18 13:29:08" Description="binfile-v0.1~git20151118-(Linux-armv6-32)-externals.tar.gz"
-             Version="0.1~git20151118" URL="http://puredata.info/Members/rdz/software/binfile-v0.1~git20151118-(Linux-armv6-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="automatonism">
     <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmUxXzIwMjMtMDUtMTIgMjI6Mzc6NTRfanln"
              Author="jyg" Timestamp="2023-05-12 22:37:54" Description="automatonism[v0.4-pre1].dek"
@@ -4149,6 +4149,13 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="nGui">
+    <Package ID="bkd1aV8wLjFfMjAyMC0wNS0yOCAyMzozOTowMV9tYXJpb19idW9uaW5mYW50ZQ=="
+             Author="mario_buoninfante" Timestamp="2020-05-28 23:39:01" Description="nGui[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/mario_buoninfante/software/nGui/0.1/nGui[v0.1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="clk">
     <Package ID="Y2xrXzAuMi4xXzIwMjAtMDMtMDMgMDk6MjI6MjFfdGhvbWFz" Author="thomas"
              Timestamp="2020-03-03 09:22:21" Description="clk[v0.2.1](Linux-armv6-32).dek"
@@ -4156,13 +4163,6 @@
       <Objects>
         <Object Name="clk"/>
       </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="nGui">
-    <Package ID="bkd1aV8wLjFfMjAyMC0wNS0yOCAyMzozOTowMV9tYXJpb19idW9uaW5mYW50ZQ=="
-             Author="mario_buoninfante" Timestamp="2020-05-28 23:39:01" Description="nGui[v0.1].dek"
-             Version="0.1" URL="http://puredata.info/Members/mario_buoninfante/software/nGui/0.1/nGui[v0.1].dek">
-      <Objects/>
     </Package>
   </Packages>
   <Packages Name="purepd">
