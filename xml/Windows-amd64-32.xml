@@ -2586,6 +2586,36 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="faustgen~">
+    <Package ID="ZmF1c3RnZW5+XzAuMS4yXzIwMjAtMDgtMDMgMTc6NDY6MDBfcGllcnJlZ2x0"
+             Author="pierreglt" Timestamp="2020-08-03 17:46:00" Description="faustgen~[v0.1.2](Windows-amd64-32)(Sources).dek"
+             Version="0.1.2" URL="http://puredata.info/Members/pierreglt/software/faustgen~/0.1.2/faustgen~[v0.1.2](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="faustgen~"/>
+      </Objects>
+    </Package>
+    <Package ID="ZmF1c3RnZW5+XzAuMS4xXzIwMTgtMDgtMjggMTc6MzQ6MThfcGllcnJlZ2x0"
+             Author="pierreglt" Timestamp="2018-08-28 17:34:18" Description="faustgen~[v0.1.1](Windows-amd64-32)(Sources).dek"
+             Version="0.1.1" URL="http://puredata.info/Members/pierreglt/software/faustgen~/0.1.1/faustgen~[v0.1.1](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="faustgen~"/>
+      </Objects>
+    </Package>
+    <Package ID="ZmF1c3RnZW5+XzAuMS4wXzIwMTgtMDgtMjUgMTA6NTQ6NTNfcGllcnJlZ2x0"
+             Author="pierreglt" Timestamp="2018-08-25 10:54:53" Description="faustgen~[v0.1.0](Windows-amd64-32)(Sources).dek"
+             Version="0.1.0" URL="http://puredata.info/Members/pierreglt/software/faustgen~/0.1.0/faustgen~[v0.1.0](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="faustgen~"/>
+      </Objects>
+    </Package>
+    <Package ID="ZmF1c3RnZW5+XzAuMC41XzIwMTgtMDctMjcgMTQ6MTk6MjZfcGllcnJlZ2x0"
+             Author="pierreglt" Timestamp="2018-07-27 14:19:26" Description="faustgen~[v0.0.5](Windows-amd64-32)(Sources).dek"
+             Version="0.0.5" URL="http://puredata.info/Members/pierreglt/software/faustgen~/0.0.5/faustgen~[v0.0.5](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="faustgen~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="AutoPreset">
     <Package ID="QXV0b1ByZXNldF8wLjEwXzIwMTYtMTEtMDcgMjM6MDc6MjRfYW50MXI="
              Author="ant1r" Timestamp="2016-11-07 23:07:24" Description="AutoPreset-v0.10--externals.zip"
@@ -12880,18 +12910,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="doublechord-plugin">
-    <Package ID="ZG91YmxlY2hvcmQtcGx1Z2luXzAuMi4yXzIwMTgtMTAtMDEgMjE6MzY6MzZfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2018-10-01 21:36:36" Description="doublechord-plugin[v0.2.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="0.2.2" URL="http://puredata.info/Members/zmoelnigbot/software/punish/v0.2.2/doublechord-plugin/doublechord-plugin[v0.2.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZG91YmxlY2hvcmQtcGx1Z2luXzAuMi4xXzIwMTgtMDUtMjkgMTc6MjI6NTBfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2018-05-29 17:22:50" Description="doublechord-plugin[v0.2.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="0.2.1" URL="http://puredata.info/Members/zmoelnigbot/software/punish/v0.2.1/doublechord-plugin/doublechord-plugin[v0.2.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="else">
     <Package ID="ZWxzZV8xLjAtMF9yYzktd2l0aF9saXZlX2VsZWN0cm9uaWNzX3R1dG9yaWFsXzIwMjMtMDktMDQgMTk6MTk6MDRfcG9ycmVz"
              Author="porres" Timestamp="2023-09-04 19:19:04" Description="else[v1.0-0_rc9-with_live_electronics_tutorial](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-armv6-32)(Linux-armv7-32)(Windows-amd64-32).dek"
@@ -15048,19 +15066,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="bf-pd">
-    <Package ID="YmYtcGRfMS4wXzIwMjEtMDgtMDMgMTI6MTQ6MTZfZmJlcnRoYXV0" Author="fberthaut"
-             Timestamp="2021-08-03 12:14:16" Description="bf-pd[v1.0].dek"
-             Version="1.0" URL="http://puredata.info/Members/fberthaut/software/bf-pd/1.0/bf-pd[v1.0].dek">
-      <Objects>
-        <Object Name="bf-clock"/>
-        <Object Name="bf-instrument"/>
-        <Object Name="bf-output"/>
-        <Object Name="bf-param"/>
-        <Object Name="boeuf"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="adaptive">
     <Package ID="YWRhcHRpdmVfMC4wLmV4dGVuZGVkXzIwMTgtMDktMjUgMjM6MDM6NThfbHVjYXJkYQ=="
              Author="lucarda" Timestamp="2018-09-25 23:03:58" Description="adaptive[v0.0.extended](Windows-amd64-32)(Sources).dek"
@@ -15890,6 +15895,19 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="bf-pd">
+    <Package ID="YmYtcGRfMS4wXzIwMjEtMDgtMDMgMTI6MTQ6MTZfZmJlcnRoYXV0" Author="fberthaut"
+             Timestamp="2021-08-03 12:14:16" Description="bf-pd[v1.0].dek"
+             Version="1.0" URL="http://puredata.info/Members/fberthaut/software/bf-pd/1.0/bf-pd[v1.0].dek">
+      <Objects>
+        <Object Name="bf-clock"/>
+        <Object Name="bf-instrument"/>
+        <Object Name="bf-output"/>
+        <Object Name="bf-param"/>
+        <Object Name="boeuf"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="art_net">
     <Package ID="YXJ0X25ldF8yMDE5XzIwMTktMDQtMDMgMTY6NTQ6MzNfY2hucnk=" Author="chnry"
              Timestamp="2019-04-03 16:54:33" Description="art_net[v2019].dek"
@@ -15976,36 +15994,6 @@
              Version="0.2.1" URL="http://puredata.info/Members/thomas/software/clk/0.2.1/clk[v0.2.1](Windows-amd64-32).dek">
       <Objects>
         <Object Name="clk"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="faustgen~">
-    <Package ID="ZmF1c3RnZW5+XzAuMS4yXzIwMjAtMDgtMDMgMTc6NDY6MDBfcGllcnJlZ2x0"
-             Author="pierreglt" Timestamp="2020-08-03 17:46:00" Description="faustgen~[v0.1.2](Windows-amd64-32)(Sources).dek"
-             Version="0.1.2" URL="http://puredata.info/Members/pierreglt/software/faustgen~/0.1.2/faustgen~[v0.1.2](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="faustgen~"/>
-      </Objects>
-    </Package>
-    <Package ID="ZmF1c3RnZW5+XzAuMS4xXzIwMTgtMDgtMjggMTc6MzQ6MThfcGllcnJlZ2x0"
-             Author="pierreglt" Timestamp="2018-08-28 17:34:18" Description="faustgen~[v0.1.1](Windows-amd64-32)(Sources).dek"
-             Version="0.1.1" URL="http://puredata.info/Members/pierreglt/software/faustgen~/0.1.1/faustgen~[v0.1.1](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="faustgen~"/>
-      </Objects>
-    </Package>
-    <Package ID="ZmF1c3RnZW5+XzAuMS4wXzIwMTgtMDgtMjUgMTA6NTQ6NTNfcGllcnJlZ2x0"
-             Author="pierreglt" Timestamp="2018-08-25 10:54:53" Description="faustgen~[v0.1.0](Windows-amd64-32)(Sources).dek"
-             Version="0.1.0" URL="http://puredata.info/Members/pierreglt/software/faustgen~/0.1.0/faustgen~[v0.1.0](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="faustgen~"/>
-      </Objects>
-    </Package>
-    <Package ID="ZmF1c3RnZW5+XzAuMC41XzIwMTgtMDctMjcgMTQ6MTk6MjZfcGllcnJlZ2x0"
-             Author="pierreglt" Timestamp="2018-07-27 14:19:26" Description="faustgen~[v0.0.5](Windows-amd64-32)(Sources).dek"
-             Version="0.0.5" URL="http://puredata.info/Members/pierreglt/software/faustgen~/0.0.5/faustgen~[v0.0.5](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="faustgen~"/>
       </Objects>
     </Package>
   </Packages>
@@ -19336,6 +19324,16 @@
     </Package>
   </Packages>
   <Packages Name="deken-plugin">
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4xNF8yMDIzLTA5LTI1IDEyOjUwOjU3X3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2023-09-25 12:50:57" Description="deken-plugin[v0.9.14].dek"
+             Version="0.9.14" URL="http://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.14/deken-plugin[v0.9.14].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4xMl8yMDIzLTA5LTI1IDEwOjE1OjU0X3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2023-09-25 10:15:54" Description="deken-plugin[v0.9.12].dek"
+             Version="0.9.12" URL="http://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.12/deken-plugin[v0.9.12].dek">
+      <Objects/>
+    </Package>
     <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4xMF8yMDIzLTA3LTI3IDE0OjIzOjQ0X3ptb2VsbmlnYm90"
              Author="zmoelnigbot" Timestamp="2023-07-27 14:23:44" Description="deken-plugin[v0.9.10].dek"
              Version="0.9.10" URL="http://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.10/deken-plugin[v0.9.10].dek">
@@ -19683,6 +19681,18 @@
         <Object Name="unpackOSCstream"/>
         <Object Name="which"/>
       </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="doublechord-plugin">
+    <Package ID="ZG91YmxlY2hvcmQtcGx1Z2luXzAuMi4yXzIwMTgtMTAtMDEgMjE6MzY6MzZfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2018-10-01 21:36:36" Description="doublechord-plugin[v0.2.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.2.2" URL="http://puredata.info/Members/zmoelnigbot/software/punish/v0.2.2/doublechord-plugin/doublechord-plugin[v0.2.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZG91YmxlY2hvcmQtcGx1Z2luXzAuMi4xXzIwMTgtMDUtMjkgMTc6MjI6NTBfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2018-05-29 17:22:50" Description="doublechord-plugin[v0.2.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.2.1" URL="http://puredata.info/Members/zmoelnigbot/software/punish/v0.2.1/doublechord-plugin/doublechord-plugin[v0.2.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects/>
     </Package>
   </Packages>
 </Windows-amd64-32>
