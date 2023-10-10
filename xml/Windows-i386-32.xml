@@ -1989,17 +1989,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="jpcvisu">
-    <Package ID="anBjdmlzdV8wLjFfMjAxOC0wMy0wMSAxMTozODowNV9qcGNpbWE=" Author="jpcima"
-             Timestamp="2018-03-01 11:38:05" Description="jpcvisu-v0.1-(Sources)(Windows-i386-32)-externals.zip"
-             Version="0.1" URL="http://puredata.info/Members/jpcima/software/jpcvisu/0.1/jpcvisu-v0.1-(Sources)(Windows-i386-32)-externals.zip">
-      <Objects>
-        <Object Name="ogvisu~"/>
-        <Object Name="sgvisu~"/>
-        <Object Name="wfvisu~"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="AutoPreset">
     <Package ID="QXV0b1ByZXNldF8wLjEwXzIwMTYtMTEtMDcgMjM6MDc6MjRfYW50MXI="
              Author="ant1r" Timestamp="2016-11-07 23:07:24" Description="AutoPreset-v0.10--externals.zip"
@@ -4992,6 +4981,22 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="ezaoo">
+    <Package ID="ZXphb29fMS4yXzIwMjAtMDgtMDkgMTc6NDA6NTVfZmRjaA==" Author="fdch"
+             Timestamp="2020-08-09 17:40:55" Description="ezaoo[v1.2].dek"
+             Version="1.2" URL="http://puredata.info/Members/fdch/software/ezaoo/1.2/ezaoo[v1.2].dek">
+      <Objects>
+        <Object Name="ezaoo"/>
+      </Objects>
+    </Package>
+    <Package ID="ZXphb29fMS4xXzIwMjAtMDgtMDkgMTc6Mzk6NDlfZmRjaA==" Author="fdch"
+             Timestamp="2020-08-09 17:39:49" Description="ezaoo[v1.1].dek"
+             Version="1.1" URL="http://puredata.info/Members/fdch/software/ezaoo/1.1/ezaoo[v1.1].dek">
+      <Objects>
+        <Object Name="ezaoo"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="DEAPd">
     <Package ID="REVBUGRfMC4xXzIwMjMtMDMtMDIgMDc6NTg6NDRfY2FsYmFzc2lzdA=="
              Author="calbassist" Timestamp="2023-03-02 07:58:44" Description="DEAPd[v0.1].dek"
@@ -5012,22 +5017,6 @@
         <Object Name="oct~"/>
         <Object Name="quad~"/>
         <Object Name="stereo~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="ezaoo">
-    <Package ID="ZXphb29fMS4yXzIwMjAtMDgtMDkgMTc6NDA6NTVfZmRjaA==" Author="fdch"
-             Timestamp="2020-08-09 17:40:55" Description="ezaoo[v1.2].dek"
-             Version="1.2" URL="http://puredata.info/Members/fdch/software/ezaoo/1.2/ezaoo[v1.2].dek">
-      <Objects>
-        <Object Name="ezaoo"/>
-      </Objects>
-    </Package>
-    <Package ID="ZXphb29fMS4xXzIwMjAtMDgtMDkgMTc6Mzk6NDlfZmRjaA==" Author="fdch"
-             Timestamp="2020-08-09 17:39:49" Description="ezaoo[v1.1].dek"
-             Version="1.1" URL="http://puredata.info/Members/fdch/software/ezaoo/1.1/ezaoo[v1.1].dek">
-      <Objects>
-        <Object Name="ezaoo"/>
       </Objects>
     </Package>
   </Packages>
@@ -8105,6 +8094,102 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="search-plugin">
+    <Package ID="c2VhcmNoLXBsdWdpbl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNTowMzoyNV9jaHIxNW0="
+             Author="chr15m" Timestamp="2015-08-07 15:03:25" Description="search-plugin-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/search-plugin/search-plugin-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="echocurve~">
+    <Package ID="ZWNob2N1cnZlfl8wLjFfMjAxOC0wOC0wNyAyMjo0Mjo0Nl9qd21hdHRoeXM="
+             Author="jwmatthys" Timestamp="2018-08-07 22:42:46" Description="echocurve~[v0.1](Windows-i386-32)(Sources).dek"
+             Version="0.1" URL="http://puredata.info/Members/jwmatthys/software/echocurve~/0.1/echocurve~[v0.1](Windows-i386-32)(Sources).dek">
+      <Objects>
+        <Object Name="echocurve~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="arraysize">
+    <Package ID="YXJyYXlzaXplXzAuMC5leHRlbmRlZF8yMDE1LTA3LTMwIDE0OjQ4OjEwX2NocjE1bQ=="
+             Author="chr15m" Timestamp="2015-07-30 14:48:10" Description="arraysize-v0.0.extended-(Windows-i386-32)-externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/arraysize/arraysize-v0.0.extended-(Windows-i386-32)-externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="array-abs">
+    <Package ID="YXJyYXktYWJzXzAuMS4wXzIwMjMtMDMtMjAgMjM6NDE6NTNfd21icmVudA=="
+             Author="wmbrent" Timestamp="2023-03-20 23:41:53" Description="array-abs[v0.1.0].dek"
+             Version="0.1.0" URL="http://puredata.info/Members/wmbrent/software/array-abs/0.1.0/array-abs[v0.1.0].dek">
+      <Objects>
+        <Object Name="array-abs-val"/>
+        <Object Name="array-append"/>
+        <Object Name="array-between"/>
+        <Object Name="array-bintofreq"/>
+        <Object Name="array-ceil"/>
+        <Object Name="array-clip"/>
+        <Object Name="array-copy"/>
+        <Object Name="array-copy-range"/>
+        <Object Name="array-dbtorms"/>
+        <Object Name="array-delete"/>
+        <Object Name="array-differentiate"/>
+        <Object Name="array-drip"/>
+        <Object Name="array-equals"/>
+        <Object Name="array-floor"/>
+        <Object Name="array-freqtobin"/>
+        <Object Name="array-ftom"/>
+        <Object Name="array-geomean"/>
+        <Object Name="array-greater"/>
+        <Object Name="array-insert"/>
+        <Object Name="array-integrate"/>
+        <Object Name="array-lesser"/>
+        <Object Name="array-maxk"/>
+        <Object Name="array-mean"/>
+        <Object Name="array-median"/>
+        <Object Name="array-mink"/>
+        <Object Name="array-mode"/>
+        <Object Name="array-mtof"/>
+        <Object Name="array-nearest"/>
+        <Object Name="array-offset"/>
+        <Object Name="array-pow"/>
+        <Object Name="array-prepend"/>
+        <Object Name="array-rand-fill"/>
+        <Object Name="array-random-walk"/>
+        <Object Name="array-range"/>
+        <Object Name="array-rerange"/>
+        <Object Name="array-reverse"/>
+        <Object Name="array-rmstodb"/>
+        <Object Name="array-round"/>
+        <Object Name="array-scale"/>
+        <Object Name="array-scramble"/>
+        <Object Name="array-series"/>
+        <Object Name="array-shift"/>
+        <Object Name="array-shift0"/>
+        <Object Name="array-sort"/>
+        <Object Name="array-std"/>
+        <Object Name="array-unique"/>
+        <Object Name="array-window"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="DRFX">
+    <Package ID="RFJGWF8wLjUuMV8yMDE4LTAzLTI2IDA0OjI2OjA3X3dtYnJlbnQ=" Author="wmbrent"
+             Timestamp="2018-03-26 04:26:07" Description="DRFX[v0.5.1].dek"
+             Version="0.5.1" URL="http://puredata.info/Members/wmbrent/software/DRFX/0.5.1/DRFX[v0.5.1].dek">
+      <Objects>
+        <Object Name="DRFX"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="absattr">
+    <Package ID="YWJzYXR0cl8wLjIuM18yMDIwLTAzLTA0IDEzOjM2OjIwX3Rob21hcw=="
+             Author="thomas" Timestamp="2020-03-04 13:36:20" Description="absattr[v0.2.3](Windows-i386-32).dek"
+             Version="0.2.3" URL="http://puredata.info/Members/thomas/software/absattr/0.2.3/absattr[v0.2.3](Windows-i386-32).dek">
+      <Objects>
+        <Object Name="absattr"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="comport">
     <Package ID="Y29tcG9ydF8xLjJfMjAyMi0wMy0yMSAxMTo1MjoyN19pZW1ib3Q=" Author="iembot"
              Timestamp="2022-03-21 11:52:27" Description="comport[v1.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
@@ -8401,100 +8486,305 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="search-plugin">
-    <Package ID="c2VhcmNoLXBsdWdpbl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNTowMzoyNV9jaHIxNW0="
-             Author="chr15m" Timestamp="2015-08-07 15:03:25" Description="search-plugin-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/search-plugin/search-plugin-v0.0.extended--externals.zip">
+  <Packages Name="muug">
+    <Package ID="bXV1Z18xLjAuMF8yMDE2LTA3LTMxIDAwOjE3OjI0X3NhdHVybm8=" Author="saturno"
+             Timestamp="2016-07-31 00:17:24" Description="muug-v1.0.0-(Darwin-i386-32)(Sources)(Darwin-x86_64-32)(Linux-amd64-64)(Windows-i386-32)-externals.zip"
+             Version="1.0.0" URL="http://puredata.info/Members/saturno/software/muug/1.0.0/muug-v1.0.0-(Darwin-i386-32)(Sources)(Darwin-x86_64-32)(Linux-amd64-64)(Windows-i386-32)-externals.zip">
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="echocurve~">
-    <Package ID="ZWNob2N1cnZlfl8wLjFfMjAxOC0wOC0wNyAyMjo0Mjo0Nl9qd21hdHRoeXM="
-             Author="jwmatthys" Timestamp="2018-08-07 22:42:46" Description="echocurve~[v0.1](Windows-i386-32)(Sources).dek"
-             Version="0.1" URL="http://puredata.info/Members/jwmatthys/software/echocurve~/0.1/echocurve~[v0.1](Windows-i386-32)(Sources).dek">
-      <Objects>
-        <Object Name="echocurve~"/>
-      </Objects>
+  <Packages Name="doublechord-plugin">
+    <Package ID="ZG91YmxlY2hvcmQtcGx1Z2luXzAuMi4yXzIwMTgtMTAtMDEgMjE6MzY6MzZfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2018-10-01 21:36:36" Description="doublechord-plugin[v0.2.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.2.2" URL="http://puredata.info/Members/zmoelnigbot/software/punish/v0.2.2/doublechord-plugin/doublechord-plugin[v0.2.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects/>
     </Package>
-  </Packages>
-  <Packages Name="arraysize">
-    <Package ID="YXJyYXlzaXplXzAuMC5leHRlbmRlZF8yMDE1LTA3LTMwIDE0OjQ4OjEwX2NocjE1bQ=="
-             Author="chr15m" Timestamp="2015-07-30 14:48:10" Description="arraysize-v0.0.extended-(Windows-i386-32)-externals.zip"
-             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/arraysize/arraysize-v0.0.extended-(Windows-i386-32)-externals.zip">
+    <Package ID="ZG91YmxlY2hvcmQtcGx1Z2luXzAuMi4xXzIwMTgtMDUtMjkgMTc6MjI6NTBfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2018-05-29 17:22:50" Description="doublechord-plugin[v0.2.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.2.1" URL="http://puredata.info/Members/zmoelnigbot/software/punish/v0.2.1/doublechord-plugin/doublechord-plugin[v0.2.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZG91YmxlY2hvcmQtcGx1Z2luXzAuMl8yMDE4LTAzLTA5IDEwOjA4OjUxX3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2018-03-09 10:08:51" Description="doublechord-plugin[v0.2](Linux-amd64-32)(Windows-i386-32)(Sources).dek"
+             Version="0.2" URL="http://puredata.info/Members/zmoelnig/software/doublechord-plugin/0.2/doublechord-plugin[v0.2](Linux-amd64-32)(Windows-i386-32)(Sources).dek">
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="array-abs">
-    <Package ID="YXJyYXktYWJzXzAuMS4wXzIwMjMtMDMtMjAgMjM6NDE6NTNfd21icmVudA=="
-             Author="wmbrent" Timestamp="2023-03-20 23:41:53" Description="array-abs[v0.1.0].dek"
-             Version="0.1.0" URL="http://puredata.info/Members/wmbrent/software/array-abs/0.1.0/array-abs[v0.1.0].dek">
+  <Packages Name="bsaylor">
+    <Package ID="YnNheWxvcl8wLjEuNV8yMDIyLTExLTI4IDE3OjQ5OjQ0X2llbWJvdA=="
+             Author="iembot" Timestamp="2022-11-28 17:49:44" Description="bsaylor[v0.1.5](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.1.5" URL="http://puredata.info/Members/iembot/software/bsaylor/0.1.5/bsaylor[v0.1.5](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
       <Objects>
-        <Object Name="array-abs-val"/>
-        <Object Name="array-append"/>
-        <Object Name="array-between"/>
-        <Object Name="array-bintofreq"/>
-        <Object Name="array-ceil"/>
-        <Object Name="array-clip"/>
-        <Object Name="array-copy"/>
-        <Object Name="array-copy-range"/>
-        <Object Name="array-dbtorms"/>
-        <Object Name="array-delete"/>
-        <Object Name="array-differentiate"/>
-        <Object Name="array-drip"/>
-        <Object Name="array-equals"/>
-        <Object Name="array-floor"/>
-        <Object Name="array-freqtobin"/>
-        <Object Name="array-ftom"/>
-        <Object Name="array-geomean"/>
-        <Object Name="array-greater"/>
-        <Object Name="array-insert"/>
-        <Object Name="array-integrate"/>
-        <Object Name="array-lesser"/>
-        <Object Name="array-maxk"/>
-        <Object Name="array-mean"/>
-        <Object Name="array-median"/>
-        <Object Name="array-mink"/>
-        <Object Name="array-mode"/>
-        <Object Name="array-mtof"/>
-        <Object Name="array-nearest"/>
-        <Object Name="array-offset"/>
-        <Object Name="array-pow"/>
-        <Object Name="array-prepend"/>
-        <Object Name="array-rand-fill"/>
-        <Object Name="array-random-walk"/>
-        <Object Name="array-range"/>
-        <Object Name="array-rerange"/>
-        <Object Name="array-reverse"/>
-        <Object Name="array-rmstodb"/>
-        <Object Name="array-round"/>
-        <Object Name="array-scale"/>
-        <Object Name="array-scramble"/>
-        <Object Name="array-series"/>
-        <Object Name="array-shift"/>
-        <Object Name="array-shift0"/>
-        <Object Name="array-sort"/>
-        <Object Name="array-std"/>
-        <Object Name="array-unique"/>
-        <Object Name="array-window"/>
+        <Object Name="aenv~"/>
+        <Object Name="partconv~"/>
+        <Object Name="pvoc~"/>
+        <Object Name="susloop~"/>
+        <Object Name="svf~"/>
+        <Object Name="zhzxh~"/>
+      </Objects>
+    </Package>
+    <Package ID="YnNheWxvcl8wLjEuMS0yMDE1MDUyOWllbV8yMDE2LTA4LTMwIDE0OjQzOjA4X3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2016-08-30 14:43:08" Description="bsaylor-v0.1.1-20150529iem-(Windows-i386-32)-externals.zip"
+             Version="0.1.1-20150529iem" URL="http://puredata.info/Members/zmoelnig/software/iem/20150529.2247/bsaylor-v0.1.1-20150529iem-(Windows-i386-32)-externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="YnNheWxvcl8wLjAuZXh0ZW5kZWRfMjAxNS0wNy0zMCAxNTowNjo0MF9jaHIxNW0="
+             Author="chr15m" Timestamp="2015-07-30 15:06:40" Description="bsaylor-v0.0.extended-(Windows-i386-32)-externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/bsaylor/bsaylor-v0.0.extended-(Windows-i386-32)-externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="ext13">
+    <Package ID="ZXh0MTNfMC4wLmV4dGVuZGVkXzIwMTUtMDctMzAgMTU6MTk6MDBfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-07-30 15:19:00" Description="ext13-v0.0.extended-(Windows-i386-32)-externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/ext13/ext13-v0.0.extended-(Windows-i386-32)-externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="jackpatch">
+    <Package ID="amFja3BhdGNoXzAuMl8yMDIzLTAxLTA2IDE1OjM2OjE2X3Jkeg==" Author="rdz"
+             Timestamp="2023-01-06 15:36:16" Description="jackpatch[v0.2](Windows-i386-32).dek"
+             Version="0.2" URL="http://puredata.info/Members/rdz/software/jackpatch/0.2/jackpatch[v0.2](Windows-i386-32).dek">
+      <Objects>
+        <Object Name="jackpatch"/>
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="DRFX">
-    <Package ID="RFJGWF8wLjUuMV8yMDE4LTAzLTI2IDA0OjI2OjA3X3dtYnJlbnQ=" Author="wmbrent"
-             Timestamp="2018-03-26 04:26:07" Description="DRFX[v0.5.1].dek"
-             Version="0.5.1" URL="http://puredata.info/Members/wmbrent/software/DRFX/0.5.1/DRFX[v0.5.1].dek">
+  <Packages Name="completion-plugin">
+    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40OS4xXzIwMjMtMDMtMTggMjA6MzY6MzlfcG9ycmVz"
+             Author="porres" Timestamp="2023-03-18 20:36:39" Description="completion-plugin[v0.49.1].dek"
+             Version="0.49.1" URL="http://puredata.info/Members/porres/software/completion-plugin/0.49.1/completion-plugin[v0.49.1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40OS4wXzIwMjMtMDMtMTYgMDM6MzU6MDNfcG9ycmVz"
+             Author="porres" Timestamp="2023-03-16 03:35:03" Description="completion-plugin[v0.49.0].dek"
+             Version="0.49.0" URL="http://puredata.info/Members/porres/software/completion-plugin/0.49.0/completion-plugin[v0.49.0].dek">
+      <Objects/>
+    </Package>
+    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40OC4wXzIwMjMtMDMtMDcgMDI6Mzg6NDJfcG9ycmVz"
+             Author="porres" Timestamp="2023-03-07 02:38:42" Description="completion-plugin[v0.48.0].dek"
+             Version="0.48.0" URL="http://puredata.info/Members/porres/software/completion-plugin/0.48.0/completion-plugin[v0.48.0].dek">
       <Objects>
-        <Object Name="DRFX"/>
+        <Object Name="Completion"/>
+      </Objects>
+    </Package>
+    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40Ny4xXzIwMTktMDktMTggMTM6Mzc6MjdfSGVucmk="
+             Author="Henri" Timestamp="2019-09-18 13:37:27" Description="completion-plugin[v0.47.1].dek"
+             Version="0.47.1" URL="http://puredata.info/Members/Henri/software/completion-plugin/0.47.1/completion-plugin[v0.47.1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40Ny4wXzIwMTktMDktMDggMDE6MTM6NDFfSGVucmk="
+             Author="Henri" Timestamp="2019-09-08 01:13:41" Description="completion-plugin[v0.47.0].dek"
+             Version="0.47.0" URL="http://puredata.info/Members/Henri/software/completion-plugin/0.47.0/completion-plugin[v0.47.0].dek">
+      <Objects/>
+    </Package>
+    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40Ni4xXzIwMTgtMDktMTIgMjI6MDU6NDdfSGVucmk="
+             Author="Henri" Timestamp="2018-09-12 22:05:47" Description="completion-plugin[v0.46.1].dek"
+             Version="0.46.1" URL="http://puredata.info/Members/Henri/software/completion-plugin/0.46.1/completion-plugin[v0.46.1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="aoo">
+    <Package ID="YW9vXzIuMC1wcmUyXzIwMjAtMDYtMjAgMjE6MjY6MTVfc3BhY2VjaGlsZDE="
+             Author="spacechild1" Timestamp="2020-06-20 21:26:15" Description="aoo[v2.0-pre2](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="2.0-pre2" URL="http://puredata.info/Members/spacechild1/software/aoo/2.0-pre2/aoo[v2.0-pre2](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects/>
+    </Package>
+    <Package ID="YW9vXzIuMC1wcmUxXzIwMjAtMDQtMDMgMjM6NDM6NDhfc3BhY2VjaGlsZDE="
+             Author="spacechild1" Timestamp="2020-04-03 23:43:48" Description="aoo[v2.0-pre1](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="2.0-pre1" URL="http://puredata.info/Members/spacechild1/software/aoo/2.0-pre1/aoo[v2.0-pre1](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="mc">
+    <Package ID="bWNfMC4wLjFfMjAyMS0xMi0wNiAwMDowNzoxMV90aG9tYXM=" Author="thomas"
+             Timestamp="2021-12-06 00:07:11" Description="mc[v0.0.1].dek"
+             Version="0.0.1" URL="http://puredata.info/Members/thomas/software/mc/0.0.1/mc[v0.0.1].dek">
+      <Objects>
+        <Object Name="mc"/>
+        <Object Name="mc._dsp"/>
+        <Object Name="mc.concat"/>
+        <Object Name="mc.dist~"/>
+        <Object Name="mc.effect"/>
+        <Object Name="mc.index"/>
+        <Object Name="mc.map"/>
+        <Object Name="mc.op"/>
+        <Object Name="mc.sink"/>
+        <Object Name="mc.slice"/>
+        <Object Name="mc.source"/>
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="absattr">
-    <Package ID="YWJzYXR0cl8wLjIuM18yMDIwLTAzLTA0IDEzOjM2OjIwX3Rob21hcw=="
-             Author="thomas" Timestamp="2020-03-04 13:36:20" Description="absattr[v0.2.3](Windows-i386-32).dek"
-             Version="0.2.3" URL="http://puredata.info/Members/thomas/software/absattr/0.2.3/absattr[v0.2.3](Windows-i386-32).dek">
+  <Packages Name="missive~">
+    <Package ID="bWlzc2l2ZX5fMC40XzIwMjEtMTItMjggMTc6MjQ6MDVfd21icmVudA=="
+             Author="wmbrent" Timestamp="2021-12-28 17:24:05" Description="missive~[v0.4].dek"
+             Version="0.4" URL="http://puredata.info/Members/wmbrent/software/missive~/0.4/missive~[v0.4].dek">
       <Objects>
-        <Object Name="absattr"/>
+        <Object Name="missive~"/>
       </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="spring22">
+    <Package ID="c3ByaW5nMjJfMC4yMDIyMDYxN18yMDIyLTA2LTE3IDE1OjAwOjIxX3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2022-06-17 15:00:21" Description="spring22[v0.20220617].dek"
+             Version="0.20220617" URL="http://puredata.info/Members/zmoelnig/software/spring22/0.20220617/spring22[v0.20220617].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="chair">
+    <Package ID="Y2hhaXJfMC44MV8yMDIwLTAyLTE0IDIwOjQxOjMwX0NIQUlS" Author="CHAIR"
+             Timestamp="2020-02-14 20:41:30" Description="chair[v0.81].dek"
+             Version="0.81" URL="http://puredata.info/Members/CHAIR/software/chair/0.81/chair[v0.81].dek">
+      <Objects>
+        <Object Name="chair.14bit-ctlin"/>
+        <Object Name="chair.angle"/>
+        <Object Name="chair.chrismoore-reverb~"/>
+        <Object Name="chair.dc-offset~"/>
+        <Object Name="chair.distance"/>
+        <Object Name="chair.dynamics~"/>
+        <Object Name="chair.encoders"/>
+        <Object Name="chair.feedback-cancellation~"/>
+        <Object Name="chair.gain~"/>
+        <Object Name="chair.gesture"/>
+        <Object Name="chair.hex-hold"/>
+        <Object Name="chair.hex-mapping"/>
+        <Object Name="chair.hex-tuning"/>
+        <Object Name="chair.increment"/>
+        <Object Name="chair.mtocv~"/>
+        <Object Name="chair.peak-env~"/>
+        <Object Name="chair.rotary-limit-range"/>
+        <Object Name="chair.rotary-relative"/>
+        <Object Name="chair.singleton"/>
+        <Object Name="chair.speed"/>
+        <Object Name="chair.stereogain~"/>
+        <Object Name="chair.touchgate~"/>
+        <Object Name="chair.transpose-oct"/>
+        <Object Name="chair.vfreeverb~"/>
+      </Objects>
+    </Package>
+    <Package ID="Y2hhaXJfMC44MF8yMDE5LTEwLTI4IDAwOjEyOjEyX0NIQUlS" Author="CHAIR"
+             Timestamp="2019-10-28 00:12:12" Description="chair[v0.80].dek"
+             Version="0.80" URL="http://puredata.info/Members/CHAIR/software/chair/0.80/chair[v0.80].dek">
+      <Objects>
+        <Object Name="chair.angle"/>
+        <Object Name="chair.capsense"/>
+        <Object Name="chair.chrismoore-reverb~"/>
+        <Object Name="chair.cleanposdata"/>
+        <Object Name="chair.dc-offset~"/>
+        <Object Name="chair.distance"/>
+        <Object Name="chair.dynamics~"/>
+        <Object Name="chair.encoders"/>
+        <Object Name="chair.feedback-cancellation~"/>
+        <Object Name="chair.gain~"/>
+        <Object Name="chair.gesture"/>
+        <Object Name="chair.hex-hold"/>
+        <Object Name="chair.hex-mapping"/>
+        <Object Name="chair.hex-tuning"/>
+        <Object Name="chair.modifier"/>
+        <Object Name="chair.mtocv~"/>
+        <Object Name="chair.peak-env~"/>
+        <Object Name="chair.rotary-limit-range"/>
+        <Object Name="chair.singleton"/>
+        <Object Name="chair.speed"/>
+        <Object Name="chair.stereogain~"/>
+        <Object Name="chair.touchgate~"/>
+        <Object Name="chair.transpose-oct"/>
+        <Object Name="chair.vfreeverb~"/>
+      </Objects>
+    </Package>
+    <Package ID="Y2hhaXJfMC43M18yMDE5LTA2LTE1IDAwOjUyOjI3X0NIQUlS" Author="CHAIR"
+             Timestamp="2019-06-15 00:52:27" Description="chair[v0.73].dek"
+             Version="0.73" URL="http://puredata.info/Members/CHAIR/software/chair/0.73/chair[v0.73].dek">
+      <Objects>
+        <Object Name="cair.modifier"/>
+        <Object Name="chair.angle"/>
+        <Object Name="chair.capsense"/>
+        <Object Name="chair.chrismoore-reverb~"/>
+        <Object Name="chair.cleanposdata"/>
+        <Object Name="chair.dc-offset~"/>
+        <Object Name="chair.distance"/>
+        <Object Name="chair.dynamics~"/>
+        <Object Name="chair.feedback-cancellation~"/>
+        <Object Name="chair.gain~"/>
+        <Object Name="chair.gesture"/>
+        <Object Name="chair.hex-mapping"/>
+        <Object Name="chair.hex-tuning"/>
+        <Object Name="chair.mtocv~"/>
+        <Object Name="chair.peak-env~"/>
+        <Object Name="chair.rotary-limit-range"/>
+        <Object Name="chair.singleton"/>
+        <Object Name="chair.speed"/>
+        <Object Name="chair.stereogain~"/>
+        <Object Name="chair.touchgate~"/>
+        <Object Name="chair.transpose-oct"/>
+        <Object Name="chair.vfreeverb~"/>
+        <Object Name="tickle~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="pix_mano">
+    <Package ID="cGl4X21hbm9fMC4wLmV4dGVuZGVkXzIwMTUtMDctMzAgMTU6NDA6MDZfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-07-30 15:40:06" Description="pix_mano-v0.0.extended-(Windows-i386-32)-externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/pix_mano/pix_mano-v0.0.extended-(Windows-i386-32)-externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="osc">
+    <Package ID="b3NjXzAuMi0yMDE1MDUyOWllbV8yMDE2LTA4LTMwIDE0OjUxOjE3X3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2016-08-30 14:51:17" Description="osc-v0.2-20150529iem-(Windows-i386-32)-externals.zip"
+             Version="0.2-20150529iem" URL="http://puredata.info/Members/zmoelnig/software/iem/20150529.2247/osc-v0.2-20150529iem-(Windows-i386-32)-externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="b3NjXzAuMn5naXQyMDE1MTExN18yMDE1LTExLTE4IDEzOjM0OjMyX3Jkeg=="
+             Author="rdz" Timestamp="2015-11-18 13:34:32" Description="osc-v0.2~git20151117-(Windows-i386-32)-externals.zip"
+             Version="0.2~git20151117" URL="http://puredata.info/Members/rdz/software/osc-v0.2~git20151117-(Windows-i386-32)-externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="b3NjXzAuMC5leHRlbmRlZF8yMDE1LTA3LTMwIDE1OjIxOjQ4X2NocjE1bQ=="
+             Author="chr15m" Timestamp="2015-07-30 15:21:48" Description="osc-v0.0.extended-(Windows-i386-32)-externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/osc/osc-v0.0.extended-(Windows-i386-32)-externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="mjlib">
+    <Package ID="bWpsaWJfMC4xLjNfMjAyMC0wMS0wNSAyMToyMzo0M19mamtyYWFu" Author="fjkraan"
+             Timestamp="2020-01-05 21:23:43" Description="mjlib[v0.1.3](Windows-i386-32)(Sources).dek"
+             Version="0.1.3" URL="http://puredata.info/Members/fjkraan/software/mjlib/0.1.3/mjlib[v0.1.3](Windows-i386-32)(Sources).dek">
+      <Objects>
+        <Object Name="about"/>
+        <Object Name="metroplus"/>
+        <Object Name="monorhythm"/>
+        <Object Name="morse"/>
+        <Object Name="n2m"/>
+        <Object Name="pin~"/>
+        <Object Name="prob"/>
+        <Object Name="synapseA~"/>
+      </Objects>
+    </Package>
+    <Package ID="bWpsaWJfMC4wLmV4dGVuZGVkXzIwMTUtMDctMzAgMTU6MTc6MTFfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-07-30 15:17:11" Description="mjlib-v0.0.extended-(Windows-i386-32)-externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/mjlib/mjlib-v0.0.extended-(Windows-i386-32)-externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="bf-pd">
+    <Package ID="YmYtcGRfMS4wXzIwMjEtMDgtMDMgMTI6MTQ6MTZfZmJlcnRoYXV0" Author="fberthaut"
+             Timestamp="2021-08-03 12:14:16" Description="bf-pd[v1.0].dek"
+             Version="1.0" URL="http://puredata.info/Members/fberthaut/software/bf-pd/1.0/bf-pd[v1.0].dek">
+      <Objects>
+        <Object Name="bf-clock"/>
+        <Object Name="bf-instrument"/>
+        <Object Name="bf-output"/>
+        <Object Name="bf-param"/>
+        <Object Name="boeuf"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="Jamoma">
+    <Package ID="SmFtb21hXzEuMC1iZXRhM18yMDE2LTAzLTE1IDEwOjQ2OjQ4X2F2aWxsZXJldA=="
+             Author="avilleret" Timestamp="2016-03-15 10:46:48" Description="Jamoma-v1.0-beta3-(Windows-i386-32)-externals.zip"
+             Version="1.0-beta3" URL="http://puredata.info/Members/avilleret/software/Jamoma/1.0-beta3/Jamoma-v1.0-beta3-(Windows-i386-32)-externals.zip">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="jpcex">
@@ -8941,263 +9231,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="bsaylor">
-    <Package ID="YnNheWxvcl8wLjEuNV8yMDIyLTExLTI4IDE3OjQ5OjQ0X2llbWJvdA=="
-             Author="iembot" Timestamp="2022-11-28 17:49:44" Description="bsaylor[v0.1.5](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="0.1.5" URL="http://puredata.info/Members/iembot/software/bsaylor/0.1.5/bsaylor[v0.1.5](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects>
-        <Object Name="aenv~"/>
-        <Object Name="partconv~"/>
-        <Object Name="pvoc~"/>
-        <Object Name="susloop~"/>
-        <Object Name="svf~"/>
-        <Object Name="zhzxh~"/>
-      </Objects>
-    </Package>
-    <Package ID="YnNheWxvcl8wLjEuMS0yMDE1MDUyOWllbV8yMDE2LTA4LTMwIDE0OjQzOjA4X3ptb2Vsbmln"
-             Author="zmoelnig" Timestamp="2016-08-30 14:43:08" Description="bsaylor-v0.1.1-20150529iem-(Windows-i386-32)-externals.zip"
-             Version="0.1.1-20150529iem" URL="http://puredata.info/Members/zmoelnig/software/iem/20150529.2247/bsaylor-v0.1.1-20150529iem-(Windows-i386-32)-externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="YnNheWxvcl8wLjAuZXh0ZW5kZWRfMjAxNS0wNy0zMCAxNTowNjo0MF9jaHIxNW0="
-             Author="chr15m" Timestamp="2015-07-30 15:06:40" Description="bsaylor-v0.0.extended-(Windows-i386-32)-externals.zip"
-             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/bsaylor/bsaylor-v0.0.extended-(Windows-i386-32)-externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="ext13">
-    <Package ID="ZXh0MTNfMC4wLmV4dGVuZGVkXzIwMTUtMDctMzAgMTU6MTk6MDBfY2hyMTVt"
-             Author="chr15m" Timestamp="2015-07-30 15:19:00" Description="ext13-v0.0.extended-(Windows-i386-32)-externals.zip"
-             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/ext13/ext13-v0.0.extended-(Windows-i386-32)-externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="jackpatch">
-    <Package ID="amFja3BhdGNoXzAuMl8yMDIzLTAxLTA2IDE1OjM2OjE2X3Jkeg==" Author="rdz"
-             Timestamp="2023-01-06 15:36:16" Description="jackpatch[v0.2](Windows-i386-32).dek"
-             Version="0.2" URL="http://puredata.info/Members/rdz/software/jackpatch/0.2/jackpatch[v0.2](Windows-i386-32).dek">
-      <Objects>
-        <Object Name="jackpatch"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="completion-plugin">
-    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40OS4xXzIwMjMtMDMtMTggMjA6MzY6MzlfcG9ycmVz"
-             Author="porres" Timestamp="2023-03-18 20:36:39" Description="completion-plugin[v0.49.1].dek"
-             Version="0.49.1" URL="http://puredata.info/Members/porres/software/completion-plugin/0.49.1/completion-plugin[v0.49.1].dek">
-      <Objects/>
-    </Package>
-    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40OS4wXzIwMjMtMDMtMTYgMDM6MzU6MDNfcG9ycmVz"
-             Author="porres" Timestamp="2023-03-16 03:35:03" Description="completion-plugin[v0.49.0].dek"
-             Version="0.49.0" URL="http://puredata.info/Members/porres/software/completion-plugin/0.49.0/completion-plugin[v0.49.0].dek">
-      <Objects/>
-    </Package>
-    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40OC4wXzIwMjMtMDMtMDcgMDI6Mzg6NDJfcG9ycmVz"
-             Author="porres" Timestamp="2023-03-07 02:38:42" Description="completion-plugin[v0.48.0].dek"
-             Version="0.48.0" URL="http://puredata.info/Members/porres/software/completion-plugin/0.48.0/completion-plugin[v0.48.0].dek">
-      <Objects>
-        <Object Name="Completion"/>
-      </Objects>
-    </Package>
-    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40Ny4xXzIwMTktMDktMTggMTM6Mzc6MjdfSGVucmk="
-             Author="Henri" Timestamp="2019-09-18 13:37:27" Description="completion-plugin[v0.47.1].dek"
-             Version="0.47.1" URL="http://puredata.info/Members/Henri/software/completion-plugin/0.47.1/completion-plugin[v0.47.1].dek">
-      <Objects/>
-    </Package>
-    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40Ny4wXzIwMTktMDktMDggMDE6MTM6NDFfSGVucmk="
-             Author="Henri" Timestamp="2019-09-08 01:13:41" Description="completion-plugin[v0.47.0].dek"
-             Version="0.47.0" URL="http://puredata.info/Members/Henri/software/completion-plugin/0.47.0/completion-plugin[v0.47.0].dek">
-      <Objects/>
-    </Package>
-    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40Ni4xXzIwMTgtMDktMTIgMjI6MDU6NDdfSGVucmk="
-             Author="Henri" Timestamp="2018-09-12 22:05:47" Description="completion-plugin[v0.46.1].dek"
-             Version="0.46.1" URL="http://puredata.info/Members/Henri/software/completion-plugin/0.46.1/completion-plugin[v0.46.1].dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="aoo">
-    <Package ID="YW9vXzIuMC1wcmUyXzIwMjAtMDYtMjAgMjE6MjY6MTVfc3BhY2VjaGlsZDE="
-             Author="spacechild1" Timestamp="2020-06-20 21:26:15" Description="aoo[v2.0-pre2](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="2.0-pre2" URL="http://puredata.info/Members/spacechild1/software/aoo/2.0-pre2/aoo[v2.0-pre2](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects/>
-    </Package>
-    <Package ID="YW9vXzIuMC1wcmUxXzIwMjAtMDQtMDMgMjM6NDM6NDhfc3BhY2VjaGlsZDE="
-             Author="spacechild1" Timestamp="2020-04-03 23:43:48" Description="aoo[v2.0-pre1](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="2.0-pre1" URL="http://puredata.info/Members/spacechild1/software/aoo/2.0-pre1/aoo[v2.0-pre1](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="mc">
-    <Package ID="bWNfMC4wLjFfMjAyMS0xMi0wNiAwMDowNzoxMV90aG9tYXM=" Author="thomas"
-             Timestamp="2021-12-06 00:07:11" Description="mc[v0.0.1].dek"
-             Version="0.0.1" URL="http://puredata.info/Members/thomas/software/mc/0.0.1/mc[v0.0.1].dek">
-      <Objects>
-        <Object Name="mc"/>
-        <Object Name="mc._dsp"/>
-        <Object Name="mc.concat"/>
-        <Object Name="mc.dist~"/>
-        <Object Name="mc.effect"/>
-        <Object Name="mc.index"/>
-        <Object Name="mc.map"/>
-        <Object Name="mc.op"/>
-        <Object Name="mc.sink"/>
-        <Object Name="mc.slice"/>
-        <Object Name="mc.source"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="missive~">
-    <Package ID="bWlzc2l2ZX5fMC40XzIwMjEtMTItMjggMTc6MjQ6MDVfd21icmVudA=="
-             Author="wmbrent" Timestamp="2021-12-28 17:24:05" Description="missive~[v0.4].dek"
-             Version="0.4" URL="http://puredata.info/Members/wmbrent/software/missive~/0.4/missive~[v0.4].dek">
-      <Objects>
-        <Object Name="missive~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="spring22">
-    <Package ID="c3ByaW5nMjJfMC4yMDIyMDYxN18yMDIyLTA2LTE3IDE1OjAwOjIxX3ptb2Vsbmln"
-             Author="zmoelnig" Timestamp="2022-06-17 15:00:21" Description="spring22[v0.20220617].dek"
-             Version="0.20220617" URL="http://puredata.info/Members/zmoelnig/software/spring22/0.20220617/spring22[v0.20220617].dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="chair">
-    <Package ID="Y2hhaXJfMC44MV8yMDIwLTAyLTE0IDIwOjQxOjMwX0NIQUlS" Author="CHAIR"
-             Timestamp="2020-02-14 20:41:30" Description="chair[v0.81].dek"
-             Version="0.81" URL="http://puredata.info/Members/CHAIR/software/chair/0.81/chair[v0.81].dek">
-      <Objects>
-        <Object Name="chair.14bit-ctlin"/>
-        <Object Name="chair.angle"/>
-        <Object Name="chair.chrismoore-reverb~"/>
-        <Object Name="chair.dc-offset~"/>
-        <Object Name="chair.distance"/>
-        <Object Name="chair.dynamics~"/>
-        <Object Name="chair.encoders"/>
-        <Object Name="chair.feedback-cancellation~"/>
-        <Object Name="chair.gain~"/>
-        <Object Name="chair.gesture"/>
-        <Object Name="chair.hex-hold"/>
-        <Object Name="chair.hex-mapping"/>
-        <Object Name="chair.hex-tuning"/>
-        <Object Name="chair.increment"/>
-        <Object Name="chair.mtocv~"/>
-        <Object Name="chair.peak-env~"/>
-        <Object Name="chair.rotary-limit-range"/>
-        <Object Name="chair.rotary-relative"/>
-        <Object Name="chair.singleton"/>
-        <Object Name="chair.speed"/>
-        <Object Name="chair.stereogain~"/>
-        <Object Name="chair.touchgate~"/>
-        <Object Name="chair.transpose-oct"/>
-        <Object Name="chair.vfreeverb~"/>
-      </Objects>
-    </Package>
-    <Package ID="Y2hhaXJfMC44MF8yMDE5LTEwLTI4IDAwOjEyOjEyX0NIQUlS" Author="CHAIR"
-             Timestamp="2019-10-28 00:12:12" Description="chair[v0.80].dek"
-             Version="0.80" URL="http://puredata.info/Members/CHAIR/software/chair/0.80/chair[v0.80].dek">
-      <Objects>
-        <Object Name="chair.angle"/>
-        <Object Name="chair.capsense"/>
-        <Object Name="chair.chrismoore-reverb~"/>
-        <Object Name="chair.cleanposdata"/>
-        <Object Name="chair.dc-offset~"/>
-        <Object Name="chair.distance"/>
-        <Object Name="chair.dynamics~"/>
-        <Object Name="chair.encoders"/>
-        <Object Name="chair.feedback-cancellation~"/>
-        <Object Name="chair.gain~"/>
-        <Object Name="chair.gesture"/>
-        <Object Name="chair.hex-hold"/>
-        <Object Name="chair.hex-mapping"/>
-        <Object Name="chair.hex-tuning"/>
-        <Object Name="chair.modifier"/>
-        <Object Name="chair.mtocv~"/>
-        <Object Name="chair.peak-env~"/>
-        <Object Name="chair.rotary-limit-range"/>
-        <Object Name="chair.singleton"/>
-        <Object Name="chair.speed"/>
-        <Object Name="chair.stereogain~"/>
-        <Object Name="chair.touchgate~"/>
-        <Object Name="chair.transpose-oct"/>
-        <Object Name="chair.vfreeverb~"/>
-      </Objects>
-    </Package>
-    <Package ID="Y2hhaXJfMC43M18yMDE5LTA2LTE1IDAwOjUyOjI3X0NIQUlS" Author="CHAIR"
-             Timestamp="2019-06-15 00:52:27" Description="chair[v0.73].dek"
-             Version="0.73" URL="http://puredata.info/Members/CHAIR/software/chair/0.73/chair[v0.73].dek">
-      <Objects>
-        <Object Name="cair.modifier"/>
-        <Object Name="chair.angle"/>
-        <Object Name="chair.capsense"/>
-        <Object Name="chair.chrismoore-reverb~"/>
-        <Object Name="chair.cleanposdata"/>
-        <Object Name="chair.dc-offset~"/>
-        <Object Name="chair.distance"/>
-        <Object Name="chair.dynamics~"/>
-        <Object Name="chair.feedback-cancellation~"/>
-        <Object Name="chair.gain~"/>
-        <Object Name="chair.gesture"/>
-        <Object Name="chair.hex-mapping"/>
-        <Object Name="chair.hex-tuning"/>
-        <Object Name="chair.mtocv~"/>
-        <Object Name="chair.peak-env~"/>
-        <Object Name="chair.rotary-limit-range"/>
-        <Object Name="chair.singleton"/>
-        <Object Name="chair.speed"/>
-        <Object Name="chair.stereogain~"/>
-        <Object Name="chair.touchgate~"/>
-        <Object Name="chair.transpose-oct"/>
-        <Object Name="chair.vfreeverb~"/>
-        <Object Name="tickle~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="pix_mano">
-    <Package ID="cGl4X21hbm9fMC4wLmV4dGVuZGVkXzIwMTUtMDctMzAgMTU6NDA6MDZfY2hyMTVt"
-             Author="chr15m" Timestamp="2015-07-30 15:40:06" Description="pix_mano-v0.0.extended-(Windows-i386-32)-externals.zip"
-             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/pix_mano/pix_mano-v0.0.extended-(Windows-i386-32)-externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="osc">
-    <Package ID="b3NjXzAuMi0yMDE1MDUyOWllbV8yMDE2LTA4LTMwIDE0OjUxOjE3X3ptb2Vsbmln"
-             Author="zmoelnig" Timestamp="2016-08-30 14:51:17" Description="osc-v0.2-20150529iem-(Windows-i386-32)-externals.zip"
-             Version="0.2-20150529iem" URL="http://puredata.info/Members/zmoelnig/software/iem/20150529.2247/osc-v0.2-20150529iem-(Windows-i386-32)-externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="b3NjXzAuMn5naXQyMDE1MTExN18yMDE1LTExLTE4IDEzOjM0OjMyX3Jkeg=="
-             Author="rdz" Timestamp="2015-11-18 13:34:32" Description="osc-v0.2~git20151117-(Windows-i386-32)-externals.zip"
-             Version="0.2~git20151117" URL="http://puredata.info/Members/rdz/software/osc-v0.2~git20151117-(Windows-i386-32)-externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="b3NjXzAuMC5leHRlbmRlZF8yMDE1LTA3LTMwIDE1OjIxOjQ4X2NocjE1bQ=="
-             Author="chr15m" Timestamp="2015-07-30 15:21:48" Description="osc-v0.0.extended-(Windows-i386-32)-externals.zip"
-             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/osc/osc-v0.0.extended-(Windows-i386-32)-externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="mjlib">
-    <Package ID="bWpsaWJfMC4xLjNfMjAyMC0wMS0wNSAyMToyMzo0M19mamtyYWFu" Author="fjkraan"
-             Timestamp="2020-01-05 21:23:43" Description="mjlib[v0.1.3](Windows-i386-32)(Sources).dek"
-             Version="0.1.3" URL="http://puredata.info/Members/fjkraan/software/mjlib/0.1.3/mjlib[v0.1.3](Windows-i386-32)(Sources).dek">
-      <Objects>
-        <Object Name="about"/>
-        <Object Name="metroplus"/>
-        <Object Name="monorhythm"/>
-        <Object Name="morse"/>
-        <Object Name="n2m"/>
-        <Object Name="pin~"/>
-        <Object Name="prob"/>
-        <Object Name="synapseA~"/>
-      </Objects>
-    </Package>
-    <Package ID="bWpsaWJfMC4wLmV4dGVuZGVkXzIwMTUtMDctMzAgMTU6MTc6MTFfY2hyMTVt"
-             Author="chr15m" Timestamp="2015-07-30 15:17:11" Description="mjlib-v0.0.extended-(Windows-i386-32)-externals.zip"
-             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/mjlib/mjlib-v0.0.extended-(Windows-i386-32)-externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="chaos">
     <Package ID="Y2hhb3NfMC4wLmV4dGVuZGVkXzIwMTUtMDctMzAgMTU6MjU6NTJfY2hyMTVt"
              Author="chr15m" Timestamp="2015-07-30 15:25:52" Description="chaos-v0.0.extended-(Windows-i386-32)-externals.zip"
@@ -9224,26 +9257,6 @@
              Author="jyg" Timestamp="2023-05-12 22:37:54" Description="automatonism[v0.4-pre1].dek"
              Version="0.4-pre1" URL="http://puredata.info/Members/jyg/software/automatonism[v0.4-pre1].dek">
       <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="Jamoma">
-    <Package ID="SmFtb21hXzEuMC1iZXRhM18yMDE2LTAzLTE1IDEwOjQ2OjQ4X2F2aWxsZXJldA=="
-             Author="avilleret" Timestamp="2016-03-15 10:46:48" Description="Jamoma-v1.0-beta3-(Windows-i386-32)-externals.zip"
-             Version="1.0-beta3" URL="http://puredata.info/Members/avilleret/software/Jamoma/1.0-beta3/Jamoma-v1.0-beta3-(Windows-i386-32)-externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="bf-pd">
-    <Package ID="YmYtcGRfMS4wXzIwMjEtMDgtMDMgMTI6MTQ6MTZfZmJlcnRoYXV0" Author="fberthaut"
-             Timestamp="2021-08-03 12:14:16" Description="bf-pd[v1.0].dek"
-             Version="1.0" URL="http://puredata.info/Members/fberthaut/software/bf-pd/1.0/bf-pd[v1.0].dek">
-      <Objects>
-        <Object Name="bf-clock"/>
-        <Object Name="bf-instrument"/>
-        <Object Name="bf-output"/>
-        <Object Name="bf-param"/>
-        <Object Name="boeuf"/>
-      </Objects>
     </Package>
   </Packages>
   <Packages Name="art_net">
@@ -9395,6 +9408,17 @@
              Author="chr15m" Timestamp="2015-07-30 15:02:36" Description="bassemu~-v0.0.extended-(Windows-i386-32)-externals.zip"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/bassemu~/bassemu~-v0.0.extended-(Windows-i386-32)-externals.zip">
       <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="jpcvisu">
+    <Package ID="anBjdmlzdV8wLjFfMjAxOC0wMy0wMSAxMTozODowNV9qcGNpbWE=" Author="jpcima"
+             Timestamp="2018-03-01 11:38:05" Description="jpcvisu-v0.1-(Sources)(Windows-i386-32)-externals.zip"
+             Version="0.1" URL="http://puredata.info/Members/jpcima/software/jpcvisu/0.1/jpcvisu-v0.1-(Sources)(Windows-i386-32)-externals.zip">
+      <Objects>
+        <Object Name="ogvisu~"/>
+        <Object Name="sgvisu~"/>
+        <Object Name="wfvisu~"/>
+      </Objects>
     </Package>
   </Packages>
   <Packages Name="mp3cast~">
@@ -12380,30 +12404,6 @@
     <Package ID="bXJwZWFjaF8wLjAuZXh0ZW5kZWRfMjAxNS0wNy0zMCAxNDo1MTowMF9jaHIxNW0="
              Author="chr15m" Timestamp="2015-07-30 14:51:00" Description="mrpeach-v0.0.extended-(Windows-i386-32)-externals.zip"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/mrpeach/mrpeach-v0.0.extended-(Windows-i386-32)-externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="doublechord-plugin">
-    <Package ID="ZG91YmxlY2hvcmQtcGx1Z2luXzAuMi4yXzIwMTgtMTAtMDEgMjE6MzY6MzZfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2018-10-01 21:36:36" Description="doublechord-plugin[v0.2.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="0.2.2" URL="http://puredata.info/Members/zmoelnigbot/software/punish/v0.2.2/doublechord-plugin/doublechord-plugin[v0.2.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZG91YmxlY2hvcmQtcGx1Z2luXzAuMi4xXzIwMTgtMDUtMjkgMTc6MjI6NTBfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2018-05-29 17:22:50" Description="doublechord-plugin[v0.2.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="0.2.1" URL="http://puredata.info/Members/zmoelnigbot/software/punish/v0.2.1/doublechord-plugin/doublechord-plugin[v0.2.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZG91YmxlY2hvcmQtcGx1Z2luXzAuMl8yMDE4LTAzLTA5IDEwOjA4OjUxX3ptb2Vsbmln"
-             Author="zmoelnig" Timestamp="2018-03-09 10:08:51" Description="doublechord-plugin[v0.2](Linux-amd64-32)(Windows-i386-32)(Sources).dek"
-             Version="0.2" URL="http://puredata.info/Members/zmoelnig/software/doublechord-plugin/0.2/doublechord-plugin[v0.2](Linux-amd64-32)(Windows-i386-32)(Sources).dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="muug">
-    <Package ID="bXV1Z18xLjAuMF8yMDE2LTA3LTMxIDAwOjE3OjI0X3NhdHVybm8=" Author="saturno"
-             Timestamp="2016-07-31 00:17:24" Description="muug-v1.0.0-(Darwin-i386-32)(Sources)(Darwin-x86_64-32)(Linux-amd64-64)(Windows-i386-32)-externals.zip"
-             Version="1.0.0" URL="http://puredata.info/Members/saturno/software/muug/1.0.0/muug-v1.0.0-(Darwin-i386-32)(Sources)(Darwin-x86_64-32)(Linux-amd64-64)(Windows-i386-32)-externals.zip">
       <Objects/>
     </Package>
   </Packages>

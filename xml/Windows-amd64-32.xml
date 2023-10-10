@@ -2586,36 +2586,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="faustgen~">
-    <Package ID="ZmF1c3RnZW5+XzAuMS4yXzIwMjAtMDgtMDMgMTc6NDY6MDBfcGllcnJlZ2x0"
-             Author="pierreglt" Timestamp="2020-08-03 17:46:00" Description="faustgen~[v0.1.2](Windows-amd64-32)(Sources).dek"
-             Version="0.1.2" URL="http://puredata.info/Members/pierreglt/software/faustgen~/0.1.2/faustgen~[v0.1.2](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="faustgen~"/>
-      </Objects>
-    </Package>
-    <Package ID="ZmF1c3RnZW5+XzAuMS4xXzIwMTgtMDgtMjggMTc6MzQ6MThfcGllcnJlZ2x0"
-             Author="pierreglt" Timestamp="2018-08-28 17:34:18" Description="faustgen~[v0.1.1](Windows-amd64-32)(Sources).dek"
-             Version="0.1.1" URL="http://puredata.info/Members/pierreglt/software/faustgen~/0.1.1/faustgen~[v0.1.1](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="faustgen~"/>
-      </Objects>
-    </Package>
-    <Package ID="ZmF1c3RnZW5+XzAuMS4wXzIwMTgtMDgtMjUgMTA6NTQ6NTNfcGllcnJlZ2x0"
-             Author="pierreglt" Timestamp="2018-08-25 10:54:53" Description="faustgen~[v0.1.0](Windows-amd64-32)(Sources).dek"
-             Version="0.1.0" URL="http://puredata.info/Members/pierreglt/software/faustgen~/0.1.0/faustgen~[v0.1.0](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="faustgen~"/>
-      </Objects>
-    </Package>
-    <Package ID="ZmF1c3RnZW5+XzAuMC41XzIwMTgtMDctMjcgMTQ6MTk6MjZfcGllcnJlZ2x0"
-             Author="pierreglt" Timestamp="2018-07-27 14:19:26" Description="faustgen~[v0.0.5](Windows-amd64-32)(Sources).dek"
-             Version="0.0.5" URL="http://puredata.info/Members/pierreglt/software/faustgen~/0.0.5/faustgen~[v0.0.5](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="faustgen~"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="AutoPreset">
     <Package ID="QXV0b1ByZXNldF8wLjEwXzIwMTYtMTEtMDcgMjM6MDc6MjRfYW50MXI="
              Author="ant1r" Timestamp="2016-11-07 23:07:24" Description="AutoPreset-v0.10--externals.zip"
@@ -9213,6 +9183,22 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="ezaoo">
+    <Package ID="ZXphb29fMS4yXzIwMjAtMDgtMDkgMTc6NDA6NTVfZmRjaA==" Author="fdch"
+             Timestamp="2020-08-09 17:40:55" Description="ezaoo[v1.2].dek"
+             Version="1.2" URL="http://puredata.info/Members/fdch/software/ezaoo/1.2/ezaoo[v1.2].dek">
+      <Objects>
+        <Object Name="ezaoo"/>
+      </Objects>
+    </Package>
+    <Package ID="ZXphb29fMS4xXzIwMjAtMDgtMDkgMTc6Mzk6NDlfZmRjaA==" Author="fdch"
+             Timestamp="2020-08-09 17:39:49" Description="ezaoo[v1.1].dek"
+             Version="1.1" URL="http://puredata.info/Members/fdch/software/ezaoo/1.1/ezaoo[v1.1].dek">
+      <Objects>
+        <Object Name="ezaoo"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="DEAPd">
     <Package ID="REVBUGRfMC4xXzIwMjMtMDMtMDIgMDc6NTg6NDRfY2FsYmFzc2lzdA=="
              Author="calbassist" Timestamp="2023-03-02 07:58:44" Description="DEAPd[v0.1].dek"
@@ -9233,22 +9219,6 @@
         <Object Name="oct~"/>
         <Object Name="quad~"/>
         <Object Name="stereo~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="ezaoo">
-    <Package ID="ZXphb29fMS4yXzIwMjAtMDgtMDkgMTc6NDA6NTVfZmRjaA==" Author="fdch"
-             Timestamp="2020-08-09 17:40:55" Description="ezaoo[v1.2].dek"
-             Version="1.2" URL="http://puredata.info/Members/fdch/software/ezaoo/1.2/ezaoo[v1.2].dek">
-      <Objects>
-        <Object Name="ezaoo"/>
-      </Objects>
-    </Package>
-    <Package ID="ZXphb29fMS4xXzIwMjAtMDgtMDkgMTc6Mzk6NDlfZmRjaA==" Author="fdch"
-             Timestamp="2020-08-09 17:39:49" Description="ezaoo[v1.1].dek"
-             Version="1.1" URL="http://puredata.info/Members/fdch/software/ezaoo/1.1/ezaoo[v1.1].dek">
-      <Objects>
-        <Object Name="ezaoo"/>
       </Objects>
     </Package>
   </Packages>
@@ -12618,298 +12588,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="comport">
-    <Package ID="Y29tcG9ydF8xLjJfMjAyMi0wMy0yMSAxMTo1MjoyN19pZW1ib3Q=" Author="iembot"
-             Timestamp="2022-03-21 11:52:27" Description="comport[v1.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="1.2" URL="http://puredata.info/Members/iembot/software/comport/1.2/comport[v1.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects>
-        <Object Name="comport"/>
-      </Objects>
-    </Package>
-    <Package ID="Y29tcG9ydF8xLjEuMV8yMDE5LTAzLTE2IDAxOjI5OjQzX2x1Y2FyZGE="
-             Author="lucarda" Timestamp="2019-03-16 01:29:43" Description="comport[v1.1.1](Windows-amd64-32)(Sources).dek"
-             Version="1.1.1" URL="http://puredata.info/Members/lucarda/software/comport[v1.1.1](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="bird"/>
-        <Object Name="comport"/>
-      </Objects>
-    </Package>
-    <Package ID="Y29tcG9ydF8xLjFfMjAxOS0wMy0xNSAyMjo0Nzo1NF9sdWNhcmRh" Author="lucarda"
-             Timestamp="2019-03-15 22:47:54" Description="comport[v1.1](Windows-amd64-32)(Sources).dek"
-             Version="1.1" URL="http://puredata.info/Members/lucarda/software/comport[v1.1](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="bird"/>
-        <Object Name="comport"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="easyflow">
-    <Package ID="ZWFzeWZsb3dfMC4zLjBfMjAxOS0wOS0yNyAwNjoyODo0NV9IZW5yaQ=="
-             Author="Henri" Timestamp="2019-09-27 06:28:45" Description="easyflow[v0.3.0].dek"
-             Version="0.3.0" URL="http://puredata.info/Members/Henri/software/easyflow/0.3.0/easyflow[v0.3.0].dek">
-      <Objects>
-        <Object Name="++v"/>
-        <Object Name="++value"/>
-        <Object Name="--v"/>
-        <Object Name="--value"/>
-        <Object Name="addList"/>
-        <Object Name="addNoise"/>
-        <Object Name="alternate"/>
-        <Object Name="any"/>
-        <Object Name="arrayList"/>
-        <Object Name="callMethod"/>
-        <Object Name="chanceBang"/>
-        <Object Name="colorCirc"/>
-        <Object Name="colorCircF"/>
-        <Object Name="colorCnv"/>
-        <Object Name="colorCnvF"/>
-        <Object Name="colorDef"/>
-        <Object Name="colorHighlighting"/>
-        <Object Name="colorNames"/>
-        <Object Name="colorSyntax"/>
-        <Object Name="colorTri"/>
-        <Object Name="colorTriF"/>
-        <Object Name="compare"/>
-        <Object Name="copyList"/>
-        <Object Name="counter"/>
-        <Object Name="curves"/>
-        <Object Name="curvesmap"/>
-        <Object Name="curvesmap~"/>
-        <Object Name="curves~"/>
-        <Object Name="dbg"/>
-        <Object Name="deleteScalar"/>
-        <Object Name="dictionary"/>
-        <Object Name="digitCount"/>
-        <Object Name="doubleClick"/>
-        <Object Name="easyflow-info"/>
-        <Object Name="error"/>
-        <Object Name="for"/>
-        <Object Name="funnel"/>
-        <Object Name="gateCounter"/>
-        <Object Name="getAllScalars"/>
-        <Object Name="getFile"/>
-        <Object Name="getFolder"/>
-        <Object Name="getMember"/>
-        <Object Name="getNofScalars"/>
-        <Object Name="getNthScalar"/>
-        <Object Name="gopTool"/>
-        <Object Name="hexCharToDec"/>
-        <Object Name="hexColor"/>
-        <Object Name="hold"/>
-        <Object Name="hsb"/>
-        <Object Name="hsl"/>
-        <Object Name="hueSaturationBrightness"/>
-        <Object Name="hueSaturationLuminosity"/>
-        <Object Name="ifValue"/>
-        <Object Name="iterator"/>
-        <Object Name="keepMax"/>
-        <Object Name="keepMin"/>
-        <Object Name="keyChange"/>
-        <Object Name="l2r"/>
-        <Object Name="labelCnv"/>
-        <Object Name="labelCnvF"/>
-        <Object Name="left2right"/>
-        <Object Name="listCollect"/>
-        <Object Name="listCompare"/>
-        <Object Name="listConcatenate"/>
-        <Object Name="listIntersection"/>
-        <Object Name="listMax"/>
-        <Object Name="listMin"/>
-        <Object Name="listMoses"/>
-        <Object Name="listOperator"/>
-        <Object Name="listPick"/>
-        <Object Name="listRandom"/>
-        <Object Name="listRemove"/>
-        <Object Name="listReplace"/>
-        <Object Name="listReplaceAtIndex"/>
-        <Object Name="listReverse"/>
-        <Object Name="listSearch"/>
-        <Object Name="listSearchAndRemove"/>
-        <Object Name="listSearchIterator"/>
-        <Object Name="listShuffle"/>
-        <Object Name="listsOfLength"/>
-        <Object Name="listSplitOnChar"/>
-        <Object Name="listToSymbol"/>
-        <Object Name="listUniques"/>
-        <Object Name="lowerCase"/>
-        <Object Name="map"/>
-        <Object Name="map~"/>
-        <Object Name="member"/>
-        <Object Name="method"/>
-        <Object Name="methodInput"/>
-        <Object Name="methodOutput"/>
-        <Object Name="metrosnap~"/>
-        <Object Name="mixAB"/>
-        <Object Name="mixAB~"/>
-        <Object Name="nearest"/>
-        <Object Name="numbersBetween"/>
-        <Object Name="numberSymbol"/>
-        <Object Name="objAccess"/>
-        <Object Name="passNthElement"/>
-        <Object Name="passPair"/>
-        <Object Name="popLastN"/>
-        <Object Name="printHere"/>
-        <Object Name="private"/>
-        <Object Name="public"/>
-        <Object Name="r2l"/>
-        <Object Name="randomList"/>
-        <Object Name="redGreenBlue"/>
-        <Object Name="repeat"/>
-        <Object Name="rgb"/>
-        <Object Name="right2left"/>
-        <Object Name="roundIfVeryClose"/>
-        <Object Name="sample~"/>
-        <Object Name="scope~"/>
-        <Object Name="searchIncomingLists"/>
-        <Object Name="searchIncomingStrings"/>
-        <Object Name="setMember"/>
-        <Object Name="spigot~"/>
-        <Object Name="stringLength"/>
-        <Object Name="stringReplace"/>
-        <Object Name="stringSearch"/>
-        <Object Name="sublist"/>
-        <Object Name="sublistIterator"/>
-        <Object Name="substring"/>
-        <Object Name="switch2"/>
-        <Object Name="switch2~"/>
-        <Object Name="switch3"/>
-        <Object Name="switch3~"/>
-        <Object Name="switch4"/>
-        <Object Name="switch4~"/>
-        <Object Name="switch5"/>
-        <Object Name="switch5~"/>
-        <Object Name="switch6"/>
-        <Object Name="switch6~"/>
-        <Object Name="switch7"/>
-        <Object Name="switch7~"/>
-        <Object Name="symbolize"/>
-        <Object Name="symbolSplit"/>
-        <Object Name="symbolToFloat"/>
-        <Object Name="tabCopy"/>
-        <Object Name="tabReverse"/>
-        <Object Name="tabReverseCopy"/>
-        <Object Name="unitTesting"/>
-        <Object Name="upperCase"/>
-        <Object Name="v++"/>
-        <Object Name="v--"/>
-        <Object Name="value++"/>
-        <Object Name="value--"/>
-        <Object Name="valueOp"/>
-        <Object Name="valueOpSet"/>
-        <Object Name="var"/>
-        <Object Name="weightedRandom"/>
-      </Objects>
-    </Package>
-    <Package ID="ZWFzeWZsb3dfMC4yLjBfMjAxOC0wOC0xMiAwNzoxNjozN19IZW5yaQ=="
-             Author="Henri" Timestamp="2018-08-12 07:16:37" Description="easyflow[v0.2.0].dek"
-             Version="0.2.0" URL="http://puredata.info/Members/Henri/software/easyflow/0.2.0/easyflow[v0.2.0].dek">
-      <Objects>
-        <Object Name="addList"/>
-        <Object Name="alternate"/>
-        <Object Name="any"/>
-        <Object Name="arrayList"/>
-        <Object Name="audioSpigot~"/>
-        <Object Name="colorCirc"/>
-        <Object Name="colorCircF"/>
-        <Object Name="colorCnv"/>
-        <Object Name="colorCnvF"/>
-        <Object Name="colorDef"/>
-        <Object Name="colorHighlighting"/>
-        <Object Name="colorNames"/>
-        <Object Name="colorSyntax"/>
-        <Object Name="colorTri"/>
-        <Object Name="colorTriF"/>
-        <Object Name="compare"/>
-        <Object Name="copyList"/>
-        <Object Name="counter"/>
-        <Object Name="curves"/>
-        <Object Name="curvesmap"/>
-        <Object Name="curvesmap~"/>
-        <Object Name="curves~"/>
-        <Object Name="deleteScalar"/>
-        <Object Name="doubleClick"/>
-        <Object Name="easyflow-info"/>
-        <Object Name="for"/>
-        <Object Name="funnel"/>
-        <Object Name="getAllScalars"/>
-        <Object Name="getFile"/>
-        <Object Name="getFolder"/>
-        <Object Name="getNofScalars"/>
-        <Object Name="getNthScalar"/>
-        <Object Name="GOPTool"/>
-        <Object Name="hexCharToDec"/>
-        <Object Name="hexColor"/>
-        <Object Name="hold"/>
-        <Object Name="hsb"/>
-        <Object Name="hsl"/>
-        <Object Name="huesaturationbrightness"/>
-        <Object Name="huesaturationluminosity"/>
-        <Object Name="keepMax"/>
-        <Object Name="keepMin"/>
-        <Object Name="keychange"/>
-        <Object Name="l2r"/>
-        <Object Name="labelCnv"/>
-        <Object Name="labelCnvF"/>
-        <Object Name="left2right"/>
-        <Object Name="listCompare"/>
-        <Object Name="listConcatenate"/>
-        <Object Name="listPick"/>
-        <Object Name="listPickPair"/>
-        <Object Name="listPlus"/>
-        <Object Name="listReplace"/>
-        <Object Name="listReplaceAtIndex"/>
-        <Object Name="listsOfLength"/>
-        <Object Name="listSplit"/>
-        <Object Name="listToSymbol"/>
-        <Object Name="lowerCase"/>
-        <Object Name="map"/>
-        <Object Name="map~"/>
-        <Object Name="metrosnap~"/>
-        <Object Name="mixAB"/>
-        <Object Name="mixAB~"/>
-        <Object Name="nearest"/>
-        <Object Name="numbersbetween"/>
-        <Object Name="numberSymbol"/>
-        <Object Name="passNthElement"/>
-        <Object Name="passPair"/>
-        <Object Name="popLastN"/>
-        <Object Name="printHere"/>
-        <Object Name="r2l"/>
-        <Object Name="redGreenBlue"/>
-        <Object Name="rgb"/>
-        <Object Name="right2left"/>
-        <Object Name="roundIfVeryClose"/>
-        <Object Name="sample~"/>
-        <Object Name="scope~"/>
-        <Object Name="searchElem"/>
-        <Object Name="spigot~"/>
-        <Object Name="stringLength"/>
-        <Object Name="stringReplace"/>
-        <Object Name="sublist"/>
-        <Object Name="substring"/>
-        <Object Name="substringFromStart"/>
-        <Object Name="switch2"/>
-        <Object Name="switch2~"/>
-        <Object Name="switch3"/>
-        <Object Name="switch3~"/>
-        <Object Name="switch4"/>
-        <Object Name="switch4~"/>
-        <Object Name="switch5"/>
-        <Object Name="switch5~"/>
-        <Object Name="switch6"/>
-        <Object Name="switch6~"/>
-        <Object Name="switch7"/>
-        <Object Name="switch7~"/>
-        <Object Name="symbolize"/>
-        <Object Name="symbolSplit"/>
-        <Object Name="tabCopy"/>
-        <Object Name="tabReverse"/>
-        <Object Name="tabReverseCopy"/>
-        <Object Name="upperCase"/>
-        <Object Name="var"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="else">
     <Package ID="ZWxzZV8xLjAtMF9yYzktd2l0aF9saXZlX2VsZWN0cm9uaWNzX3R1dG9yaWFsXzIwMjMtMDktMDQgMTk6MTk6MDRfcG9ycmVz"
              Author="porres" Timestamp="2023-09-04 19:19:04" Description="else[v1.0-0_rc9-with_live_electronics_tutorial](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-armv6-32)(Linux-armv7-32)(Windows-amd64-32).dek"
@@ -15066,6 +14744,700 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="comport">
+    <Package ID="Y29tcG9ydF8xLjJfMjAyMi0wMy0yMSAxMTo1MjoyN19pZW1ib3Q=" Author="iembot"
+             Timestamp="2022-03-21 11:52:27" Description="comport[v1.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="1.2" URL="http://puredata.info/Members/iembot/software/comport/1.2/comport[v1.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="comport"/>
+      </Objects>
+    </Package>
+    <Package ID="Y29tcG9ydF8xLjEuMV8yMDE5LTAzLTE2IDAxOjI5OjQzX2x1Y2FyZGE="
+             Author="lucarda" Timestamp="2019-03-16 01:29:43" Description="comport[v1.1.1](Windows-amd64-32)(Sources).dek"
+             Version="1.1.1" URL="http://puredata.info/Members/lucarda/software/comport[v1.1.1](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="bird"/>
+        <Object Name="comport"/>
+      </Objects>
+    </Package>
+    <Package ID="Y29tcG9ydF8xLjFfMjAxOS0wMy0xNSAyMjo0Nzo1NF9sdWNhcmRh" Author="lucarda"
+             Timestamp="2019-03-15 22:47:54" Description="comport[v1.1](Windows-amd64-32)(Sources).dek"
+             Version="1.1" URL="http://puredata.info/Members/lucarda/software/comport[v1.1](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="bird"/>
+        <Object Name="comport"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="easyflow">
+    <Package ID="ZWFzeWZsb3dfMC4zLjBfMjAxOS0wOS0yNyAwNjoyODo0NV9IZW5yaQ=="
+             Author="Henri" Timestamp="2019-09-27 06:28:45" Description="easyflow[v0.3.0].dek"
+             Version="0.3.0" URL="http://puredata.info/Members/Henri/software/easyflow/0.3.0/easyflow[v0.3.0].dek">
+      <Objects>
+        <Object Name="++v"/>
+        <Object Name="++value"/>
+        <Object Name="--v"/>
+        <Object Name="--value"/>
+        <Object Name="addList"/>
+        <Object Name="addNoise"/>
+        <Object Name="alternate"/>
+        <Object Name="any"/>
+        <Object Name="arrayList"/>
+        <Object Name="callMethod"/>
+        <Object Name="chanceBang"/>
+        <Object Name="colorCirc"/>
+        <Object Name="colorCircF"/>
+        <Object Name="colorCnv"/>
+        <Object Name="colorCnvF"/>
+        <Object Name="colorDef"/>
+        <Object Name="colorHighlighting"/>
+        <Object Name="colorNames"/>
+        <Object Name="colorSyntax"/>
+        <Object Name="colorTri"/>
+        <Object Name="colorTriF"/>
+        <Object Name="compare"/>
+        <Object Name="copyList"/>
+        <Object Name="counter"/>
+        <Object Name="curves"/>
+        <Object Name="curvesmap"/>
+        <Object Name="curvesmap~"/>
+        <Object Name="curves~"/>
+        <Object Name="dbg"/>
+        <Object Name="deleteScalar"/>
+        <Object Name="dictionary"/>
+        <Object Name="digitCount"/>
+        <Object Name="doubleClick"/>
+        <Object Name="easyflow-info"/>
+        <Object Name="error"/>
+        <Object Name="for"/>
+        <Object Name="funnel"/>
+        <Object Name="gateCounter"/>
+        <Object Name="getAllScalars"/>
+        <Object Name="getFile"/>
+        <Object Name="getFolder"/>
+        <Object Name="getMember"/>
+        <Object Name="getNofScalars"/>
+        <Object Name="getNthScalar"/>
+        <Object Name="gopTool"/>
+        <Object Name="hexCharToDec"/>
+        <Object Name="hexColor"/>
+        <Object Name="hold"/>
+        <Object Name="hsb"/>
+        <Object Name="hsl"/>
+        <Object Name="hueSaturationBrightness"/>
+        <Object Name="hueSaturationLuminosity"/>
+        <Object Name="ifValue"/>
+        <Object Name="iterator"/>
+        <Object Name="keepMax"/>
+        <Object Name="keepMin"/>
+        <Object Name="keyChange"/>
+        <Object Name="l2r"/>
+        <Object Name="labelCnv"/>
+        <Object Name="labelCnvF"/>
+        <Object Name="left2right"/>
+        <Object Name="listCollect"/>
+        <Object Name="listCompare"/>
+        <Object Name="listConcatenate"/>
+        <Object Name="listIntersection"/>
+        <Object Name="listMax"/>
+        <Object Name="listMin"/>
+        <Object Name="listMoses"/>
+        <Object Name="listOperator"/>
+        <Object Name="listPick"/>
+        <Object Name="listRandom"/>
+        <Object Name="listRemove"/>
+        <Object Name="listReplace"/>
+        <Object Name="listReplaceAtIndex"/>
+        <Object Name="listReverse"/>
+        <Object Name="listSearch"/>
+        <Object Name="listSearchAndRemove"/>
+        <Object Name="listSearchIterator"/>
+        <Object Name="listShuffle"/>
+        <Object Name="listsOfLength"/>
+        <Object Name="listSplitOnChar"/>
+        <Object Name="listToSymbol"/>
+        <Object Name="listUniques"/>
+        <Object Name="lowerCase"/>
+        <Object Name="map"/>
+        <Object Name="map~"/>
+        <Object Name="member"/>
+        <Object Name="method"/>
+        <Object Name="methodInput"/>
+        <Object Name="methodOutput"/>
+        <Object Name="metrosnap~"/>
+        <Object Name="mixAB"/>
+        <Object Name="mixAB~"/>
+        <Object Name="nearest"/>
+        <Object Name="numbersBetween"/>
+        <Object Name="numberSymbol"/>
+        <Object Name="objAccess"/>
+        <Object Name="passNthElement"/>
+        <Object Name="passPair"/>
+        <Object Name="popLastN"/>
+        <Object Name="printHere"/>
+        <Object Name="private"/>
+        <Object Name="public"/>
+        <Object Name="r2l"/>
+        <Object Name="randomList"/>
+        <Object Name="redGreenBlue"/>
+        <Object Name="repeat"/>
+        <Object Name="rgb"/>
+        <Object Name="right2left"/>
+        <Object Name="roundIfVeryClose"/>
+        <Object Name="sample~"/>
+        <Object Name="scope~"/>
+        <Object Name="searchIncomingLists"/>
+        <Object Name="searchIncomingStrings"/>
+        <Object Name="setMember"/>
+        <Object Name="spigot~"/>
+        <Object Name="stringLength"/>
+        <Object Name="stringReplace"/>
+        <Object Name="stringSearch"/>
+        <Object Name="sublist"/>
+        <Object Name="sublistIterator"/>
+        <Object Name="substring"/>
+        <Object Name="switch2"/>
+        <Object Name="switch2~"/>
+        <Object Name="switch3"/>
+        <Object Name="switch3~"/>
+        <Object Name="switch4"/>
+        <Object Name="switch4~"/>
+        <Object Name="switch5"/>
+        <Object Name="switch5~"/>
+        <Object Name="switch6"/>
+        <Object Name="switch6~"/>
+        <Object Name="switch7"/>
+        <Object Name="switch7~"/>
+        <Object Name="symbolize"/>
+        <Object Name="symbolSplit"/>
+        <Object Name="symbolToFloat"/>
+        <Object Name="tabCopy"/>
+        <Object Name="tabReverse"/>
+        <Object Name="tabReverseCopy"/>
+        <Object Name="unitTesting"/>
+        <Object Name="upperCase"/>
+        <Object Name="v++"/>
+        <Object Name="v--"/>
+        <Object Name="value++"/>
+        <Object Name="value--"/>
+        <Object Name="valueOp"/>
+        <Object Name="valueOpSet"/>
+        <Object Name="var"/>
+        <Object Name="weightedRandom"/>
+      </Objects>
+    </Package>
+    <Package ID="ZWFzeWZsb3dfMC4yLjBfMjAxOC0wOC0xMiAwNzoxNjozN19IZW5yaQ=="
+             Author="Henri" Timestamp="2018-08-12 07:16:37" Description="easyflow[v0.2.0].dek"
+             Version="0.2.0" URL="http://puredata.info/Members/Henri/software/easyflow/0.2.0/easyflow[v0.2.0].dek">
+      <Objects>
+        <Object Name="addList"/>
+        <Object Name="alternate"/>
+        <Object Name="any"/>
+        <Object Name="arrayList"/>
+        <Object Name="audioSpigot~"/>
+        <Object Name="colorCirc"/>
+        <Object Name="colorCircF"/>
+        <Object Name="colorCnv"/>
+        <Object Name="colorCnvF"/>
+        <Object Name="colorDef"/>
+        <Object Name="colorHighlighting"/>
+        <Object Name="colorNames"/>
+        <Object Name="colorSyntax"/>
+        <Object Name="colorTri"/>
+        <Object Name="colorTriF"/>
+        <Object Name="compare"/>
+        <Object Name="copyList"/>
+        <Object Name="counter"/>
+        <Object Name="curves"/>
+        <Object Name="curvesmap"/>
+        <Object Name="curvesmap~"/>
+        <Object Name="curves~"/>
+        <Object Name="deleteScalar"/>
+        <Object Name="doubleClick"/>
+        <Object Name="easyflow-info"/>
+        <Object Name="for"/>
+        <Object Name="funnel"/>
+        <Object Name="getAllScalars"/>
+        <Object Name="getFile"/>
+        <Object Name="getFolder"/>
+        <Object Name="getNofScalars"/>
+        <Object Name="getNthScalar"/>
+        <Object Name="GOPTool"/>
+        <Object Name="hexCharToDec"/>
+        <Object Name="hexColor"/>
+        <Object Name="hold"/>
+        <Object Name="hsb"/>
+        <Object Name="hsl"/>
+        <Object Name="huesaturationbrightness"/>
+        <Object Name="huesaturationluminosity"/>
+        <Object Name="keepMax"/>
+        <Object Name="keepMin"/>
+        <Object Name="keychange"/>
+        <Object Name="l2r"/>
+        <Object Name="labelCnv"/>
+        <Object Name="labelCnvF"/>
+        <Object Name="left2right"/>
+        <Object Name="listCompare"/>
+        <Object Name="listConcatenate"/>
+        <Object Name="listPick"/>
+        <Object Name="listPickPair"/>
+        <Object Name="listPlus"/>
+        <Object Name="listReplace"/>
+        <Object Name="listReplaceAtIndex"/>
+        <Object Name="listsOfLength"/>
+        <Object Name="listSplit"/>
+        <Object Name="listToSymbol"/>
+        <Object Name="lowerCase"/>
+        <Object Name="map"/>
+        <Object Name="map~"/>
+        <Object Name="metrosnap~"/>
+        <Object Name="mixAB"/>
+        <Object Name="mixAB~"/>
+        <Object Name="nearest"/>
+        <Object Name="numbersbetween"/>
+        <Object Name="numberSymbol"/>
+        <Object Name="passNthElement"/>
+        <Object Name="passPair"/>
+        <Object Name="popLastN"/>
+        <Object Name="printHere"/>
+        <Object Name="r2l"/>
+        <Object Name="redGreenBlue"/>
+        <Object Name="rgb"/>
+        <Object Name="right2left"/>
+        <Object Name="roundIfVeryClose"/>
+        <Object Name="sample~"/>
+        <Object Name="scope~"/>
+        <Object Name="searchElem"/>
+        <Object Name="spigot~"/>
+        <Object Name="stringLength"/>
+        <Object Name="stringReplace"/>
+        <Object Name="sublist"/>
+        <Object Name="substring"/>
+        <Object Name="substringFromStart"/>
+        <Object Name="switch2"/>
+        <Object Name="switch2~"/>
+        <Object Name="switch3"/>
+        <Object Name="switch3~"/>
+        <Object Name="switch4"/>
+        <Object Name="switch4~"/>
+        <Object Name="switch5"/>
+        <Object Name="switch5~"/>
+        <Object Name="switch6"/>
+        <Object Name="switch6~"/>
+        <Object Name="switch7"/>
+        <Object Name="switch7~"/>
+        <Object Name="symbolize"/>
+        <Object Name="symbolSplit"/>
+        <Object Name="tabCopy"/>
+        <Object Name="tabReverse"/>
+        <Object Name="tabReverseCopy"/>
+        <Object Name="upperCase"/>
+        <Object Name="var"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="doublechord-plugin">
+    <Package ID="ZG91YmxlY2hvcmQtcGx1Z2luXzAuMi4yXzIwMTgtMTAtMDEgMjE6MzY6MzZfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2018-10-01 21:36:36" Description="doublechord-plugin[v0.2.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.2.2" URL="http://puredata.info/Members/zmoelnigbot/software/punish/v0.2.2/doublechord-plugin/doublechord-plugin[v0.2.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZG91YmxlY2hvcmQtcGx1Z2luXzAuMi4xXzIwMTgtMDUtMjkgMTc6MjI6NTBfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2018-05-29 17:22:50" Description="doublechord-plugin[v0.2.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.2.1" URL="http://puredata.info/Members/zmoelnigbot/software/punish/v0.2.1/doublechord-plugin/doublechord-plugin[v0.2.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="SOFAlizer~">
+    <Package ID="U09GQWxpemVyfl8xLjAuMV8yMDIzLTEwLTEwIDAwOjUyOjM3X2NoYXJsZXNuZWltb2c="
+             Author="charlesneimog" Timestamp="2023-10-10 00:52:37" Description="SOFAlizer~[v1.0.1](Darwin-amd64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
+             Version="1.0.1" URL="http://puredata.info/Members/charlesneimog/software/SOFAlizer~/1.0.1/SOFAlizer~[v1.0.1](Darwin-amd64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="SOFAlizer~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="algo~">
+    <Package ID="YWxnb35fMS4wLjFfMjAyMC0wOS0xMSAxNToxMjozN193bWJyZW50" Author="wmbrent"
+             Timestamp="2020-09-11 15:12:37" Description="algo~[v1.0.1](Windows-amd64-32).dek"
+             Version="1.0.1" URL="http://puredata.info/Members/wmbrent/software/algo~/1.0.1/algo~[v1.0.1](Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="algo~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="bsaylor">
+    <Package ID="YnNheWxvcl8wLjEuNV8yMDIyLTExLTI4IDE3OjQ5OjQ0X2llbWJvdA=="
+             Author="iembot" Timestamp="2022-11-28 17:49:44" Description="bsaylor[v0.1.5](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.1.5" URL="http://puredata.info/Members/iembot/software/bsaylor/0.1.5/bsaylor[v0.1.5](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="aenv~"/>
+        <Object Name="partconv~"/>
+        <Object Name="pvoc~"/>
+        <Object Name="susloop~"/>
+        <Object Name="svf~"/>
+        <Object Name="zhzxh~"/>
+      </Objects>
+    </Package>
+    <Package ID="YnNheWxvcl8wLjEuNF8yMDE4LTA5LTI5IDExOjMzOjU0X2x1Y2FyZGE="
+             Author="lucarda" Timestamp="2018-09-29 11:33:54" Description="bsaylor[v0.1.4](Windows-amd64-32)(Sources).dek"
+             Version="0.1.4" URL="http://puredata.info/Members/lucarda/software/bsaylor[v0.1.4](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="aenv~"/>
+        <Object Name="mtosr"/>
+        <Object Name="partconv~"/>
+        <Object Name="pvoc~"/>
+        <Object Name="susloop~"/>
+        <Object Name="svf~"/>
+        <Object Name="zhzxh~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="ext13">
+    <Package ID="ZXh0MTNfMC4xNy4xLTRfMjAxOC0wOS0yOSAxMjo0MToxNl9sdWNhcmRh"
+             Author="lucarda" Timestamp="2018-09-29 12:41:16" Description="ext13[v0.17.1-4](Windows-amd64-32)(Sources).dek"
+             Version="0.17.1-4" URL="http://puredata.info/Members/lucarda/software/ext13[v0.17.1-4](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="catch13~"/>
+        <Object Name="cdplayer"/>
+        <Object Name="ext13"/>
+        <Object Name="filesize"/>
+        <Object Name="ftos"/>
+        <Object Name="kalashnikov"/>
+        <Object Name="mandelbrot"/>
+        <Object Name="mandelbrot~"/>
+        <Object Name="messages"/>
+        <Object Name="openpatch"/>
+        <Object Name="ossmixer"/>
+        <Object Name="piperead~"/>
+        <Object Name="pipewrite~"/>
+        <Object Name="promiscous~"/>
+        <Object Name="receive13"/>
+        <Object Name="receive13~"/>
+        <Object Name="scramble~"/>
+        <Object Name="send13"/>
+        <Object Name="send13~"/>
+        <Object Name="sfwrite13~"/>
+        <Object Name="streamin13~"/>
+        <Object Name="streamout13~"/>
+        <Object Name="strippath"/>
+        <Object Name="throw13~"/>
+        <Object Name="wavinfo"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="jackpatch">
+    <Package ID="amFja3BhdGNoXzAuMl8yMDIzLTAxLTA2IDE1OjM5OjAwX3Jkeg==" Author="rdz"
+             Timestamp="2023-01-06 15:39:00" Description="jackpatch[v0.2](Windows-amd64-32).dek"
+             Version="0.2" URL="http://puredata.info/Members/rdz/software/jackpatch/0.2/jackpatch[v0.2](Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="jackpatch"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="completion-plugin">
+    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40OS4xXzIwMjMtMDMtMTggMjA6MzY6MzlfcG9ycmVz"
+             Author="porres" Timestamp="2023-03-18 20:36:39" Description="completion-plugin[v0.49.1].dek"
+             Version="0.49.1" URL="http://puredata.info/Members/porres/software/completion-plugin/0.49.1/completion-plugin[v0.49.1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40OS4wXzIwMjMtMDMtMTYgMDM6MzU6MDNfcG9ycmVz"
+             Author="porres" Timestamp="2023-03-16 03:35:03" Description="completion-plugin[v0.49.0].dek"
+             Version="0.49.0" URL="http://puredata.info/Members/porres/software/completion-plugin/0.49.0/completion-plugin[v0.49.0].dek">
+      <Objects/>
+    </Package>
+    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40OC4wXzIwMjMtMDMtMDcgMDI6Mzg6NDJfcG9ycmVz"
+             Author="porres" Timestamp="2023-03-07 02:38:42" Description="completion-plugin[v0.48.0].dek"
+             Version="0.48.0" URL="http://puredata.info/Members/porres/software/completion-plugin/0.48.0/completion-plugin[v0.48.0].dek">
+      <Objects>
+        <Object Name="Completion"/>
+      </Objects>
+    </Package>
+    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40Ny4xXzIwMTktMDktMTggMTM6Mzc6MjdfSGVucmk="
+             Author="Henri" Timestamp="2019-09-18 13:37:27" Description="completion-plugin[v0.47.1].dek"
+             Version="0.47.1" URL="http://puredata.info/Members/Henri/software/completion-plugin/0.47.1/completion-plugin[v0.47.1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40Ny4wXzIwMTktMDktMDggMDE6MTM6NDFfSGVucmk="
+             Author="Henri" Timestamp="2019-09-08 01:13:41" Description="completion-plugin[v0.47.0].dek"
+             Version="0.47.0" URL="http://puredata.info/Members/Henri/software/completion-plugin/0.47.0/completion-plugin[v0.47.0].dek">
+      <Objects/>
+    </Package>
+    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40Ni4xXzIwMTgtMDktMTIgMjI6MDU6NDdfSGVucmk="
+             Author="Henri" Timestamp="2018-09-12 22:05:47" Description="completion-plugin[v0.46.1].dek"
+             Version="0.46.1" URL="http://puredata.info/Members/Henri/software/completion-plugin/0.46.1/completion-plugin[v0.46.1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="aoo">
+    <Package ID="YW9vXzIuMC1wcmUyXzIwMjAtMDYtMjAgMjE6MjY6MTVfc3BhY2VjaGlsZDE="
+             Author="spacechild1" Timestamp="2020-06-20 21:26:15" Description="aoo[v2.0-pre2](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="2.0-pre2" URL="http://puredata.info/Members/spacechild1/software/aoo/2.0-pre2/aoo[v2.0-pre2](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects/>
+    </Package>
+    <Package ID="YW9vXzIuMC1wcmUxXzIwMjAtMDQtMDMgMjM6NDM6NDhfc3BhY2VjaGlsZDE="
+             Author="spacechild1" Timestamp="2020-04-03 23:43:48" Description="aoo[v2.0-pre1](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="2.0-pre1" URL="http://puredata.info/Members/spacechild1/software/aoo/2.0-pre1/aoo[v2.0-pre1](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="mc">
+    <Package ID="bWNfMC4wLjFfMjAyMS0xMi0wNiAwMDowNzoxMV90aG9tYXM=" Author="thomas"
+             Timestamp="2021-12-06 00:07:11" Description="mc[v0.0.1].dek"
+             Version="0.0.1" URL="http://puredata.info/Members/thomas/software/mc/0.0.1/mc[v0.0.1].dek">
+      <Objects>
+        <Object Name="mc"/>
+        <Object Name="mc._dsp"/>
+        <Object Name="mc.concat"/>
+        <Object Name="mc.dist~"/>
+        <Object Name="mc.effect"/>
+        <Object Name="mc.index"/>
+        <Object Name="mc.map"/>
+        <Object Name="mc.op"/>
+        <Object Name="mc.sink"/>
+        <Object Name="mc.slice"/>
+        <Object Name="mc.source"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="missive~">
+    <Package ID="bWlzc2l2ZX5fMC40XzIwMjEtMTItMjggMTc6MjQ6MDVfd21icmVudA=="
+             Author="wmbrent" Timestamp="2021-12-28 17:24:05" Description="missive~[v0.4].dek"
+             Version="0.4" URL="http://puredata.info/Members/wmbrent/software/missive~/0.4/missive~[v0.4].dek">
+      <Objects>
+        <Object Name="missive~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="spring22">
+    <Package ID="c3ByaW5nMjJfMC4yMDIyMDYxN18yMDIyLTA2LTE3IDE1OjAwOjIxX3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2022-06-17 15:00:21" Description="spring22[v0.20220617].dek"
+             Version="0.20220617" URL="http://puredata.info/Members/zmoelnig/software/spring22/0.20220617/spring22[v0.20220617].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="pd-server">
+    <Package ID="cGQtc2VydmVyXzAuMS4zXzIwMjMtMDUtMTEgMTk6NTY6MDRfY2hhcmxlc25laW1vZw=="
+             Author="charlesneimog" Timestamp="2023-05-11 19:56:04" Description="pd-server[v0.1.3](Darwin-amd64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
+             Version="0.1.3" URL="http://puredata.info/Members/charlesneimog/software/pd-server/0.1.3/pd-server[v0.1.3](Darwin-amd64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="server"/>
+      </Objects>
+    </Package>
+    <Package ID="cGQtc2VydmVyXzAuMS4yXzIwMjMtMDQtMjIgMTc6NTk6NDdfY2hhcmxlc25laW1vZw=="
+             Author="charlesneimog" Timestamp="2023-04-22 17:59:47" Description="pd-server[v0.1.2](Darwin-amd64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
+             Version="0.1.2" URL="http://puredata.info/Members/charlesneimog/software/pd-server/0.1.2/pd-server[v0.1.2](Darwin-amd64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="server"/>
+      </Objects>
+    </Package>
+    <Package ID="cGQtc2VydmVyXzAuMS4xXzIwMjMtMDQtMTkgMTg6MTU6MDZfY2hhcmxlc25laW1vZw=="
+             Author="charlesneimog" Timestamp="2023-04-19 18:15:06" Description="pd-server[v0.1.1](Darwin-amd64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
+             Version="0.1.1" URL="http://puredata.info/Members/charlesneimog/software/pd-server/0.1.1/pd-server[v0.1.1](Darwin-amd64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="server"/>
+      </Objects>
+    </Package>
+    <Package ID="cGQtc2VydmVyXzAuMS4wXzIwMjMtMDItMDggMTg6NTk6MzBfY2hhcmxlc25laW1vZw=="
+             Author="charlesneimog" Timestamp="2023-02-08 18:59:30" Description="pd-server[v0.1.0](Windows-amd64-32)(Sources).dek"
+             Version="0.1.0" URL="http://puredata.info/Members/charlesneimog/software/pd-server/0.1.0/pd-server[v0.1.0](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="server"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="chair">
+    <Package ID="Y2hhaXJfMC44MV8yMDIwLTAyLTE0IDIwOjQxOjMwX0NIQUlS" Author="CHAIR"
+             Timestamp="2020-02-14 20:41:30" Description="chair[v0.81].dek"
+             Version="0.81" URL="http://puredata.info/Members/CHAIR/software/chair/0.81/chair[v0.81].dek">
+      <Objects>
+        <Object Name="chair.14bit-ctlin"/>
+        <Object Name="chair.angle"/>
+        <Object Name="chair.chrismoore-reverb~"/>
+        <Object Name="chair.dc-offset~"/>
+        <Object Name="chair.distance"/>
+        <Object Name="chair.dynamics~"/>
+        <Object Name="chair.encoders"/>
+        <Object Name="chair.feedback-cancellation~"/>
+        <Object Name="chair.gain~"/>
+        <Object Name="chair.gesture"/>
+        <Object Name="chair.hex-hold"/>
+        <Object Name="chair.hex-mapping"/>
+        <Object Name="chair.hex-tuning"/>
+        <Object Name="chair.increment"/>
+        <Object Name="chair.mtocv~"/>
+        <Object Name="chair.peak-env~"/>
+        <Object Name="chair.rotary-limit-range"/>
+        <Object Name="chair.rotary-relative"/>
+        <Object Name="chair.singleton"/>
+        <Object Name="chair.speed"/>
+        <Object Name="chair.stereogain~"/>
+        <Object Name="chair.touchgate~"/>
+        <Object Name="chair.transpose-oct"/>
+        <Object Name="chair.vfreeverb~"/>
+      </Objects>
+    </Package>
+    <Package ID="Y2hhaXJfMC44MF8yMDE5LTEwLTI4IDAwOjEyOjEyX0NIQUlS" Author="CHAIR"
+             Timestamp="2019-10-28 00:12:12" Description="chair[v0.80].dek"
+             Version="0.80" URL="http://puredata.info/Members/CHAIR/software/chair/0.80/chair[v0.80].dek">
+      <Objects>
+        <Object Name="chair.angle"/>
+        <Object Name="chair.capsense"/>
+        <Object Name="chair.chrismoore-reverb~"/>
+        <Object Name="chair.cleanposdata"/>
+        <Object Name="chair.dc-offset~"/>
+        <Object Name="chair.distance"/>
+        <Object Name="chair.dynamics~"/>
+        <Object Name="chair.encoders"/>
+        <Object Name="chair.feedback-cancellation~"/>
+        <Object Name="chair.gain~"/>
+        <Object Name="chair.gesture"/>
+        <Object Name="chair.hex-hold"/>
+        <Object Name="chair.hex-mapping"/>
+        <Object Name="chair.hex-tuning"/>
+        <Object Name="chair.modifier"/>
+        <Object Name="chair.mtocv~"/>
+        <Object Name="chair.peak-env~"/>
+        <Object Name="chair.rotary-limit-range"/>
+        <Object Name="chair.singleton"/>
+        <Object Name="chair.speed"/>
+        <Object Name="chair.stereogain~"/>
+        <Object Name="chair.touchgate~"/>
+        <Object Name="chair.transpose-oct"/>
+        <Object Name="chair.vfreeverb~"/>
+      </Objects>
+    </Package>
+    <Package ID="Y2hhaXJfMC43M18yMDE5LTA2LTE1IDAwOjUyOjI3X0NIQUlS" Author="CHAIR"
+             Timestamp="2019-06-15 00:52:27" Description="chair[v0.73].dek"
+             Version="0.73" URL="http://puredata.info/Members/CHAIR/software/chair/0.73/chair[v0.73].dek">
+      <Objects>
+        <Object Name="cair.modifier"/>
+        <Object Name="chair.angle"/>
+        <Object Name="chair.capsense"/>
+        <Object Name="chair.chrismoore-reverb~"/>
+        <Object Name="chair.cleanposdata"/>
+        <Object Name="chair.dc-offset~"/>
+        <Object Name="chair.distance"/>
+        <Object Name="chair.dynamics~"/>
+        <Object Name="chair.feedback-cancellation~"/>
+        <Object Name="chair.gain~"/>
+        <Object Name="chair.gesture"/>
+        <Object Name="chair.hex-mapping"/>
+        <Object Name="chair.hex-tuning"/>
+        <Object Name="chair.mtocv~"/>
+        <Object Name="chair.peak-env~"/>
+        <Object Name="chair.rotary-limit-range"/>
+        <Object Name="chair.singleton"/>
+        <Object Name="chair.speed"/>
+        <Object Name="chair.stereogain~"/>
+        <Object Name="chair.touchgate~"/>
+        <Object Name="chair.transpose-oct"/>
+        <Object Name="chair.vfreeverb~"/>
+        <Object Name="tickle~"/>
+      </Objects>
+    </Package>
+    <Package ID="Y2hhaXJfMC42M18yMDE4LTExLTI4IDExOjM5OjM1X0NIQUlS" Author="CHAIR"
+             Timestamp="2018-11-28 11:39:35" Description="chair[v0.63](Windows-amd64-32).dek"
+             Version="0.63" URL="http://puredata.info/Members/CHAIR/software/chair/0.63/chair[v0.63](Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="chair.angle"/>
+        <Object Name="chair.capsense"/>
+        <Object Name="chair.chrismoore-reverb~"/>
+        <Object Name="chair.cleanposdata"/>
+        <Object Name="chair.dc-offset~"/>
+        <Object Name="chair.distance"/>
+        <Object Name="chair.dynamics~"/>
+        <Object Name="chair.feedback-cancellation~"/>
+        <Object Name="chair.gain~"/>
+        <Object Name="chair.gesture"/>
+        <Object Name="chair.hex-mapping"/>
+        <Object Name="chair.hex-tuning"/>
+        <Object Name="chair.modifier"/>
+        <Object Name="chair.mtocv~"/>
+        <Object Name="chair.peak-env~"/>
+        <Object Name="chair.rotary-limit-range"/>
+        <Object Name="chair.speed"/>
+        <Object Name="chair.stereogain~"/>
+        <Object Name="chair.touchgate~"/>
+        <Object Name="chair.transpose-oct"/>
+        <Object Name="chair.vfreeverb~"/>
+        <Object Name="faketickle~"/>
+        <Object Name="tickle~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="osc">
+    <Package ID="b3NjXzAuMn5naXQyMDE4MTAwNl8yMDE5LTA0LTI4IDIyOjM5OjMyX3Jkeg=="
+             Author="rdz" Timestamp="2019-04-28 22:39:32" Description="osc[v0.2~git20181006](Windows-amd64-32).dek"
+             Version="0.2~git20181006" URL="http://puredata.info/Members/rdz/software/osc/0.2~git20181006/osc[v0.2~git20181006](Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="packOSC"/>
+        <Object Name="packOSCstream"/>
+        <Object Name="pipelist"/>
+        <Object Name="routeOSC"/>
+        <Object Name="unpackOSC"/>
+        <Object Name="unpackOSCstream"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="mjlib">
+    <Package ID="bWpsaWJfMC4xLjNfMjAyMC0wMS0wNSAyMToyMzoyNV9mamtyYWFu" Author="fjkraan"
+             Timestamp="2020-01-05 21:23:25" Description="mjlib[v0.1.3](Windows-amd64-32)(Sources).dek"
+             Version="0.1.3" URL="http://puredata.info/Members/fjkraan/software/mjlib/0.1.3/mjlib[v0.1.3](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="about"/>
+        <Object Name="metroplus"/>
+        <Object Name="monorhythm"/>
+        <Object Name="morse"/>
+        <Object Name="n2m"/>
+        <Object Name="pin~"/>
+        <Object Name="prob"/>
+        <Object Name="synapseA~"/>
+      </Objects>
+    </Package>
+    <Package ID="bWpsaWJfMC4xLjNfMjAxOS0wMS0xMiAwMDo0NDozMl9sdWNhcmRh" Author="lucarda"
+             Timestamp="2019-01-12 00:44:32" Description="mjlib[v0.1.3](Windows-amd64-32)(Sources).dek"
+             Version="0.1.3" URL="http://puredata.info/Members/lucarda/software/mjlib[v0.1.3](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="about"/>
+        <Object Name="metroplus"/>
+        <Object Name="monorhythm"/>
+        <Object Name="morse"/>
+        <Object Name="n2m"/>
+        <Object Name="pin~"/>
+        <Object Name="prob"/>
+        <Object Name="synapseA~"/>
+      </Objects>
+    </Package>
+    <Package ID="bWpsaWJfMC4wLmV4dGVuZGVkXzIwMTgtMDktMjYgMDM6NDY6MTJfbHVjYXJkYQ=="
+             Author="lucarda" Timestamp="2018-09-26 03:46:12" Description="mjlib[v0.0.extended](Windows-amd64-32)(Sources).dek"
+             Version="0.0.extended" URL="http://puredata.info/Members/lucarda/software/mjlib[v0.0.extended](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="about"/>
+        <Object Name="convolve~"/>
+        <Object Name="metroplus"/>
+        <Object Name="monorhythm"/>
+        <Object Name="morse"/>
+        <Object Name="n2m"/>
+        <Object Name="pin~"/>
+        <Object Name="prob"/>
+        <Object Name="synapseA~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="bf-pd">
+    <Package ID="YmYtcGRfMS4wXzIwMjEtMDgtMDMgMTI6MTQ6MTZfZmJlcnRoYXV0" Author="fberthaut"
+             Timestamp="2021-08-03 12:14:16" Description="bf-pd[v1.0].dek"
+             Version="1.0" URL="http://puredata.info/Members/fberthaut/software/bf-pd/1.0/bf-pd[v1.0].dek">
+      <Objects>
+        <Object Name="bf-clock"/>
+        <Object Name="bf-instrument"/>
+        <Object Name="bf-output"/>
+        <Object Name="bf-param"/>
+        <Object Name="boeuf"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="adaptive">
     <Package ID="YWRhcHRpdmVfMC4wLmV4dGVuZGVkXzIwMTgtMDktMjUgMjM6MDM6NThfbHVjYXJkYQ=="
              Author="lucarda" Timestamp="2018-09-25 23:03:58" Description="adaptive[v0.0.extended](Windows-amd64-32)(Sources).dek"
@@ -15481,374 +15853,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="algo~">
-    <Package ID="YWxnb35fMS4wLjFfMjAyMC0wOS0xMSAxNToxMjozN193bWJyZW50" Author="wmbrent"
-             Timestamp="2020-09-11 15:12:37" Description="algo~[v1.0.1](Windows-amd64-32).dek"
-             Version="1.0.1" URL="http://puredata.info/Members/wmbrent/software/algo~/1.0.1/algo~[v1.0.1](Windows-amd64-32).dek">
-      <Objects>
-        <Object Name="algo~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="bsaylor">
-    <Package ID="YnNheWxvcl8wLjEuNV8yMDIyLTExLTI4IDE3OjQ5OjQ0X2llbWJvdA=="
-             Author="iembot" Timestamp="2022-11-28 17:49:44" Description="bsaylor[v0.1.5](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="0.1.5" URL="http://puredata.info/Members/iembot/software/bsaylor/0.1.5/bsaylor[v0.1.5](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects>
-        <Object Name="aenv~"/>
-        <Object Name="partconv~"/>
-        <Object Name="pvoc~"/>
-        <Object Name="susloop~"/>
-        <Object Name="svf~"/>
-        <Object Name="zhzxh~"/>
-      </Objects>
-    </Package>
-    <Package ID="YnNheWxvcl8wLjEuNF8yMDE4LTA5LTI5IDExOjMzOjU0X2x1Y2FyZGE="
-             Author="lucarda" Timestamp="2018-09-29 11:33:54" Description="bsaylor[v0.1.4](Windows-amd64-32)(Sources).dek"
-             Version="0.1.4" URL="http://puredata.info/Members/lucarda/software/bsaylor[v0.1.4](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="aenv~"/>
-        <Object Name="mtosr"/>
-        <Object Name="partconv~"/>
-        <Object Name="pvoc~"/>
-        <Object Name="susloop~"/>
-        <Object Name="svf~"/>
-        <Object Name="zhzxh~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="ext13">
-    <Package ID="ZXh0MTNfMC4xNy4xLTRfMjAxOC0wOS0yOSAxMjo0MToxNl9sdWNhcmRh"
-             Author="lucarda" Timestamp="2018-09-29 12:41:16" Description="ext13[v0.17.1-4](Windows-amd64-32)(Sources).dek"
-             Version="0.17.1-4" URL="http://puredata.info/Members/lucarda/software/ext13[v0.17.1-4](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="catch13~"/>
-        <Object Name="cdplayer"/>
-        <Object Name="ext13"/>
-        <Object Name="filesize"/>
-        <Object Name="ftos"/>
-        <Object Name="kalashnikov"/>
-        <Object Name="mandelbrot"/>
-        <Object Name="mandelbrot~"/>
-        <Object Name="messages"/>
-        <Object Name="openpatch"/>
-        <Object Name="ossmixer"/>
-        <Object Name="piperead~"/>
-        <Object Name="pipewrite~"/>
-        <Object Name="promiscous~"/>
-        <Object Name="receive13"/>
-        <Object Name="receive13~"/>
-        <Object Name="scramble~"/>
-        <Object Name="send13"/>
-        <Object Name="send13~"/>
-        <Object Name="sfwrite13~"/>
-        <Object Name="streamin13~"/>
-        <Object Name="streamout13~"/>
-        <Object Name="strippath"/>
-        <Object Name="throw13~"/>
-        <Object Name="wavinfo"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="jackpatch">
-    <Package ID="amFja3BhdGNoXzAuMl8yMDIzLTAxLTA2IDE1OjM5OjAwX3Jkeg==" Author="rdz"
-             Timestamp="2023-01-06 15:39:00" Description="jackpatch[v0.2](Windows-amd64-32).dek"
-             Version="0.2" URL="http://puredata.info/Members/rdz/software/jackpatch/0.2/jackpatch[v0.2](Windows-amd64-32).dek">
-      <Objects>
-        <Object Name="jackpatch"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="completion-plugin">
-    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40OS4xXzIwMjMtMDMtMTggMjA6MzY6MzlfcG9ycmVz"
-             Author="porres" Timestamp="2023-03-18 20:36:39" Description="completion-plugin[v0.49.1].dek"
-             Version="0.49.1" URL="http://puredata.info/Members/porres/software/completion-plugin/0.49.1/completion-plugin[v0.49.1].dek">
-      <Objects/>
-    </Package>
-    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40OS4wXzIwMjMtMDMtMTYgMDM6MzU6MDNfcG9ycmVz"
-             Author="porres" Timestamp="2023-03-16 03:35:03" Description="completion-plugin[v0.49.0].dek"
-             Version="0.49.0" URL="http://puredata.info/Members/porres/software/completion-plugin/0.49.0/completion-plugin[v0.49.0].dek">
-      <Objects/>
-    </Package>
-    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40OC4wXzIwMjMtMDMtMDcgMDI6Mzg6NDJfcG9ycmVz"
-             Author="porres" Timestamp="2023-03-07 02:38:42" Description="completion-plugin[v0.48.0].dek"
-             Version="0.48.0" URL="http://puredata.info/Members/porres/software/completion-plugin/0.48.0/completion-plugin[v0.48.0].dek">
-      <Objects>
-        <Object Name="Completion"/>
-      </Objects>
-    </Package>
-    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40Ny4xXzIwMTktMDktMTggMTM6Mzc6MjdfSGVucmk="
-             Author="Henri" Timestamp="2019-09-18 13:37:27" Description="completion-plugin[v0.47.1].dek"
-             Version="0.47.1" URL="http://puredata.info/Members/Henri/software/completion-plugin/0.47.1/completion-plugin[v0.47.1].dek">
-      <Objects/>
-    </Package>
-    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40Ny4wXzIwMTktMDktMDggMDE6MTM6NDFfSGVucmk="
-             Author="Henri" Timestamp="2019-09-08 01:13:41" Description="completion-plugin[v0.47.0].dek"
-             Version="0.47.0" URL="http://puredata.info/Members/Henri/software/completion-plugin/0.47.0/completion-plugin[v0.47.0].dek">
-      <Objects/>
-    </Package>
-    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40Ni4xXzIwMTgtMDktMTIgMjI6MDU6NDdfSGVucmk="
-             Author="Henri" Timestamp="2018-09-12 22:05:47" Description="completion-plugin[v0.46.1].dek"
-             Version="0.46.1" URL="http://puredata.info/Members/Henri/software/completion-plugin/0.46.1/completion-plugin[v0.46.1].dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="aoo">
-    <Package ID="YW9vXzIuMC1wcmUyXzIwMjAtMDYtMjAgMjE6MjY6MTVfc3BhY2VjaGlsZDE="
-             Author="spacechild1" Timestamp="2020-06-20 21:26:15" Description="aoo[v2.0-pre2](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="2.0-pre2" URL="http://puredata.info/Members/spacechild1/software/aoo/2.0-pre2/aoo[v2.0-pre2](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects/>
-    </Package>
-    <Package ID="YW9vXzIuMC1wcmUxXzIwMjAtMDQtMDMgMjM6NDM6NDhfc3BhY2VjaGlsZDE="
-             Author="spacechild1" Timestamp="2020-04-03 23:43:48" Description="aoo[v2.0-pre1](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="2.0-pre1" URL="http://puredata.info/Members/spacechild1/software/aoo/2.0-pre1/aoo[v2.0-pre1](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="mc">
-    <Package ID="bWNfMC4wLjFfMjAyMS0xMi0wNiAwMDowNzoxMV90aG9tYXM=" Author="thomas"
-             Timestamp="2021-12-06 00:07:11" Description="mc[v0.0.1].dek"
-             Version="0.0.1" URL="http://puredata.info/Members/thomas/software/mc/0.0.1/mc[v0.0.1].dek">
-      <Objects>
-        <Object Name="mc"/>
-        <Object Name="mc._dsp"/>
-        <Object Name="mc.concat"/>
-        <Object Name="mc.dist~"/>
-        <Object Name="mc.effect"/>
-        <Object Name="mc.index"/>
-        <Object Name="mc.map"/>
-        <Object Name="mc.op"/>
-        <Object Name="mc.sink"/>
-        <Object Name="mc.slice"/>
-        <Object Name="mc.source"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="missive~">
-    <Package ID="bWlzc2l2ZX5fMC40XzIwMjEtMTItMjggMTc6MjQ6MDVfd21icmVudA=="
-             Author="wmbrent" Timestamp="2021-12-28 17:24:05" Description="missive~[v0.4].dek"
-             Version="0.4" URL="http://puredata.info/Members/wmbrent/software/missive~/0.4/missive~[v0.4].dek">
-      <Objects>
-        <Object Name="missive~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="spring22">
-    <Package ID="c3ByaW5nMjJfMC4yMDIyMDYxN18yMDIyLTA2LTE3IDE1OjAwOjIxX3ptb2Vsbmln"
-             Author="zmoelnig" Timestamp="2022-06-17 15:00:21" Description="spring22[v0.20220617].dek"
-             Version="0.20220617" URL="http://puredata.info/Members/zmoelnig/software/spring22/0.20220617/spring22[v0.20220617].dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="pd-server">
-    <Package ID="cGQtc2VydmVyXzAuMS4zXzIwMjMtMDUtMTEgMTk6NTY6MDRfY2hhcmxlc25laW1vZw=="
-             Author="charlesneimog" Timestamp="2023-05-11 19:56:04" Description="pd-server[v0.1.3](Darwin-amd64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
-             Version="0.1.3" URL="http://puredata.info/Members/charlesneimog/software/pd-server/0.1.3/pd-server[v0.1.3](Darwin-amd64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="server"/>
-      </Objects>
-    </Package>
-    <Package ID="cGQtc2VydmVyXzAuMS4yXzIwMjMtMDQtMjIgMTc6NTk6NDdfY2hhcmxlc25laW1vZw=="
-             Author="charlesneimog" Timestamp="2023-04-22 17:59:47" Description="pd-server[v0.1.2](Darwin-amd64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
-             Version="0.1.2" URL="http://puredata.info/Members/charlesneimog/software/pd-server/0.1.2/pd-server[v0.1.2](Darwin-amd64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="server"/>
-      </Objects>
-    </Package>
-    <Package ID="cGQtc2VydmVyXzAuMS4xXzIwMjMtMDQtMTkgMTg6MTU6MDZfY2hhcmxlc25laW1vZw=="
-             Author="charlesneimog" Timestamp="2023-04-19 18:15:06" Description="pd-server[v0.1.1](Darwin-amd64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
-             Version="0.1.1" URL="http://puredata.info/Members/charlesneimog/software/pd-server/0.1.1/pd-server[v0.1.1](Darwin-amd64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="server"/>
-      </Objects>
-    </Package>
-    <Package ID="cGQtc2VydmVyXzAuMS4wXzIwMjMtMDItMDggMTg6NTk6MzBfY2hhcmxlc25laW1vZw=="
-             Author="charlesneimog" Timestamp="2023-02-08 18:59:30" Description="pd-server[v0.1.0](Windows-amd64-32)(Sources).dek"
-             Version="0.1.0" URL="http://puredata.info/Members/charlesneimog/software/pd-server/0.1.0/pd-server[v0.1.0](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="server"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="chair">
-    <Package ID="Y2hhaXJfMC44MV8yMDIwLTAyLTE0IDIwOjQxOjMwX0NIQUlS" Author="CHAIR"
-             Timestamp="2020-02-14 20:41:30" Description="chair[v0.81].dek"
-             Version="0.81" URL="http://puredata.info/Members/CHAIR/software/chair/0.81/chair[v0.81].dek">
-      <Objects>
-        <Object Name="chair.14bit-ctlin"/>
-        <Object Name="chair.angle"/>
-        <Object Name="chair.chrismoore-reverb~"/>
-        <Object Name="chair.dc-offset~"/>
-        <Object Name="chair.distance"/>
-        <Object Name="chair.dynamics~"/>
-        <Object Name="chair.encoders"/>
-        <Object Name="chair.feedback-cancellation~"/>
-        <Object Name="chair.gain~"/>
-        <Object Name="chair.gesture"/>
-        <Object Name="chair.hex-hold"/>
-        <Object Name="chair.hex-mapping"/>
-        <Object Name="chair.hex-tuning"/>
-        <Object Name="chair.increment"/>
-        <Object Name="chair.mtocv~"/>
-        <Object Name="chair.peak-env~"/>
-        <Object Name="chair.rotary-limit-range"/>
-        <Object Name="chair.rotary-relative"/>
-        <Object Name="chair.singleton"/>
-        <Object Name="chair.speed"/>
-        <Object Name="chair.stereogain~"/>
-        <Object Name="chair.touchgate~"/>
-        <Object Name="chair.transpose-oct"/>
-        <Object Name="chair.vfreeverb~"/>
-      </Objects>
-    </Package>
-    <Package ID="Y2hhaXJfMC44MF8yMDE5LTEwLTI4IDAwOjEyOjEyX0NIQUlS" Author="CHAIR"
-             Timestamp="2019-10-28 00:12:12" Description="chair[v0.80].dek"
-             Version="0.80" URL="http://puredata.info/Members/CHAIR/software/chair/0.80/chair[v0.80].dek">
-      <Objects>
-        <Object Name="chair.angle"/>
-        <Object Name="chair.capsense"/>
-        <Object Name="chair.chrismoore-reverb~"/>
-        <Object Name="chair.cleanposdata"/>
-        <Object Name="chair.dc-offset~"/>
-        <Object Name="chair.distance"/>
-        <Object Name="chair.dynamics~"/>
-        <Object Name="chair.encoders"/>
-        <Object Name="chair.feedback-cancellation~"/>
-        <Object Name="chair.gain~"/>
-        <Object Name="chair.gesture"/>
-        <Object Name="chair.hex-hold"/>
-        <Object Name="chair.hex-mapping"/>
-        <Object Name="chair.hex-tuning"/>
-        <Object Name="chair.modifier"/>
-        <Object Name="chair.mtocv~"/>
-        <Object Name="chair.peak-env~"/>
-        <Object Name="chair.rotary-limit-range"/>
-        <Object Name="chair.singleton"/>
-        <Object Name="chair.speed"/>
-        <Object Name="chair.stereogain~"/>
-        <Object Name="chair.touchgate~"/>
-        <Object Name="chair.transpose-oct"/>
-        <Object Name="chair.vfreeverb~"/>
-      </Objects>
-    </Package>
-    <Package ID="Y2hhaXJfMC43M18yMDE5LTA2LTE1IDAwOjUyOjI3X0NIQUlS" Author="CHAIR"
-             Timestamp="2019-06-15 00:52:27" Description="chair[v0.73].dek"
-             Version="0.73" URL="http://puredata.info/Members/CHAIR/software/chair/0.73/chair[v0.73].dek">
-      <Objects>
-        <Object Name="cair.modifier"/>
-        <Object Name="chair.angle"/>
-        <Object Name="chair.capsense"/>
-        <Object Name="chair.chrismoore-reverb~"/>
-        <Object Name="chair.cleanposdata"/>
-        <Object Name="chair.dc-offset~"/>
-        <Object Name="chair.distance"/>
-        <Object Name="chair.dynamics~"/>
-        <Object Name="chair.feedback-cancellation~"/>
-        <Object Name="chair.gain~"/>
-        <Object Name="chair.gesture"/>
-        <Object Name="chair.hex-mapping"/>
-        <Object Name="chair.hex-tuning"/>
-        <Object Name="chair.mtocv~"/>
-        <Object Name="chair.peak-env~"/>
-        <Object Name="chair.rotary-limit-range"/>
-        <Object Name="chair.singleton"/>
-        <Object Name="chair.speed"/>
-        <Object Name="chair.stereogain~"/>
-        <Object Name="chair.touchgate~"/>
-        <Object Name="chair.transpose-oct"/>
-        <Object Name="chair.vfreeverb~"/>
-        <Object Name="tickle~"/>
-      </Objects>
-    </Package>
-    <Package ID="Y2hhaXJfMC42M18yMDE4LTExLTI4IDExOjM5OjM1X0NIQUlS" Author="CHAIR"
-             Timestamp="2018-11-28 11:39:35" Description="chair[v0.63](Windows-amd64-32).dek"
-             Version="0.63" URL="http://puredata.info/Members/CHAIR/software/chair/0.63/chair[v0.63](Windows-amd64-32).dek">
-      <Objects>
-        <Object Name="chair.angle"/>
-        <Object Name="chair.capsense"/>
-        <Object Name="chair.chrismoore-reverb~"/>
-        <Object Name="chair.cleanposdata"/>
-        <Object Name="chair.dc-offset~"/>
-        <Object Name="chair.distance"/>
-        <Object Name="chair.dynamics~"/>
-        <Object Name="chair.feedback-cancellation~"/>
-        <Object Name="chair.gain~"/>
-        <Object Name="chair.gesture"/>
-        <Object Name="chair.hex-mapping"/>
-        <Object Name="chair.hex-tuning"/>
-        <Object Name="chair.modifier"/>
-        <Object Name="chair.mtocv~"/>
-        <Object Name="chair.peak-env~"/>
-        <Object Name="chair.rotary-limit-range"/>
-        <Object Name="chair.speed"/>
-        <Object Name="chair.stereogain~"/>
-        <Object Name="chair.touchgate~"/>
-        <Object Name="chair.transpose-oct"/>
-        <Object Name="chair.vfreeverb~"/>
-        <Object Name="faketickle~"/>
-        <Object Name="tickle~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="osc">
-    <Package ID="b3NjXzAuMn5naXQyMDE4MTAwNl8yMDE5LTA0LTI4IDIyOjM5OjMyX3Jkeg=="
-             Author="rdz" Timestamp="2019-04-28 22:39:32" Description="osc[v0.2~git20181006](Windows-amd64-32).dek"
-             Version="0.2~git20181006" URL="http://puredata.info/Members/rdz/software/osc/0.2~git20181006/osc[v0.2~git20181006](Windows-amd64-32).dek">
-      <Objects>
-        <Object Name="packOSC"/>
-        <Object Name="packOSCstream"/>
-        <Object Name="pipelist"/>
-        <Object Name="routeOSC"/>
-        <Object Name="unpackOSC"/>
-        <Object Name="unpackOSCstream"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="mjlib">
-    <Package ID="bWpsaWJfMC4xLjNfMjAyMC0wMS0wNSAyMToyMzoyNV9mamtyYWFu" Author="fjkraan"
-             Timestamp="2020-01-05 21:23:25" Description="mjlib[v0.1.3](Windows-amd64-32)(Sources).dek"
-             Version="0.1.3" URL="http://puredata.info/Members/fjkraan/software/mjlib/0.1.3/mjlib[v0.1.3](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="about"/>
-        <Object Name="metroplus"/>
-        <Object Name="monorhythm"/>
-        <Object Name="morse"/>
-        <Object Name="n2m"/>
-        <Object Name="pin~"/>
-        <Object Name="prob"/>
-        <Object Name="synapseA~"/>
-      </Objects>
-    </Package>
-    <Package ID="bWpsaWJfMC4xLjNfMjAxOS0wMS0xMiAwMDo0NDozMl9sdWNhcmRh" Author="lucarda"
-             Timestamp="2019-01-12 00:44:32" Description="mjlib[v0.1.3](Windows-amd64-32)(Sources).dek"
-             Version="0.1.3" URL="http://puredata.info/Members/lucarda/software/mjlib[v0.1.3](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="about"/>
-        <Object Name="metroplus"/>
-        <Object Name="monorhythm"/>
-        <Object Name="morse"/>
-        <Object Name="n2m"/>
-        <Object Name="pin~"/>
-        <Object Name="prob"/>
-        <Object Name="synapseA~"/>
-      </Objects>
-    </Package>
-    <Package ID="bWpsaWJfMC4wLmV4dGVuZGVkXzIwMTgtMDktMjYgMDM6NDY6MTJfbHVjYXJkYQ=="
-             Author="lucarda" Timestamp="2018-09-26 03:46:12" Description="mjlib[v0.0.extended](Windows-amd64-32)(Sources).dek"
-             Version="0.0.extended" URL="http://puredata.info/Members/lucarda/software/mjlib[v0.0.extended](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="about"/>
-        <Object Name="convolve~"/>
-        <Object Name="metroplus"/>
-        <Object Name="monorhythm"/>
-        <Object Name="morse"/>
-        <Object Name="n2m"/>
-        <Object Name="pin~"/>
-        <Object Name="prob"/>
-        <Object Name="synapseA~"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="chaos">
     <Package ID="Y2hhb3NfMC4wLmV4dGVuZGVkXzIwMTgtMDktMjYgMDM6Mzg6NTNfbHVjYXJkYQ=="
              Author="lucarda" Timestamp="2018-09-26 03:38:53" Description="chaos[v0.0.extended](Windows-amd64-32)(Sources).dek"
@@ -15893,19 +15897,6 @@
              Author="jyg" Timestamp="2023-05-12 22:37:54" Description="automatonism[v0.4-pre1].dek"
              Version="0.4-pre1" URL="http://puredata.info/Members/jyg/software/automatonism[v0.4-pre1].dek">
       <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="bf-pd">
-    <Package ID="YmYtcGRfMS4wXzIwMjEtMDgtMDMgMTI6MTQ6MTZfZmJlcnRoYXV0" Author="fberthaut"
-             Timestamp="2021-08-03 12:14:16" Description="bf-pd[v1.0].dek"
-             Version="1.0" URL="http://puredata.info/Members/fberthaut/software/bf-pd/1.0/bf-pd[v1.0].dek">
-      <Objects>
-        <Object Name="bf-clock"/>
-        <Object Name="bf-instrument"/>
-        <Object Name="bf-output"/>
-        <Object Name="bf-param"/>
-        <Object Name="boeuf"/>
-      </Objects>
     </Package>
   </Packages>
   <Packages Name="art_net">
@@ -15994,6 +15985,36 @@
              Version="0.2.1" URL="http://puredata.info/Members/thomas/software/clk/0.2.1/clk[v0.2.1](Windows-amd64-32).dek">
       <Objects>
         <Object Name="clk"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="faustgen~">
+    <Package ID="ZmF1c3RnZW5+XzAuMS4yXzIwMjAtMDgtMDMgMTc6NDY6MDBfcGllcnJlZ2x0"
+             Author="pierreglt" Timestamp="2020-08-03 17:46:00" Description="faustgen~[v0.1.2](Windows-amd64-32)(Sources).dek"
+             Version="0.1.2" URL="http://puredata.info/Members/pierreglt/software/faustgen~/0.1.2/faustgen~[v0.1.2](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="faustgen~"/>
+      </Objects>
+    </Package>
+    <Package ID="ZmF1c3RnZW5+XzAuMS4xXzIwMTgtMDgtMjggMTc6MzQ6MThfcGllcnJlZ2x0"
+             Author="pierreglt" Timestamp="2018-08-28 17:34:18" Description="faustgen~[v0.1.1](Windows-amd64-32)(Sources).dek"
+             Version="0.1.1" URL="http://puredata.info/Members/pierreglt/software/faustgen~/0.1.1/faustgen~[v0.1.1](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="faustgen~"/>
+      </Objects>
+    </Package>
+    <Package ID="ZmF1c3RnZW5+XzAuMS4wXzIwMTgtMDgtMjUgMTA6NTQ6NTNfcGllcnJlZ2x0"
+             Author="pierreglt" Timestamp="2018-08-25 10:54:53" Description="faustgen~[v0.1.0](Windows-amd64-32)(Sources).dek"
+             Version="0.1.0" URL="http://puredata.info/Members/pierreglt/software/faustgen~/0.1.0/faustgen~[v0.1.0](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="faustgen~"/>
+      </Objects>
+    </Package>
+    <Package ID="ZmF1c3RnZW5+XzAuMC41XzIwMTgtMDctMjcgMTQ6MTk6MjZfcGllcnJlZ2x0"
+             Author="pierreglt" Timestamp="2018-07-27 14:19:26" Description="faustgen~[v0.0.5](Windows-amd64-32)(Sources).dek"
+             Version="0.0.5" URL="http://puredata.info/Members/pierreglt/software/faustgen~/0.0.5/faustgen~[v0.0.5](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="faustgen~"/>
       </Objects>
     </Package>
   </Packages>
@@ -19681,18 +19702,6 @@
         <Object Name="unpackOSCstream"/>
         <Object Name="which"/>
       </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="doublechord-plugin">
-    <Package ID="ZG91YmxlY2hvcmQtcGx1Z2luXzAuMi4yXzIwMTgtMTAtMDEgMjE6MzY6MzZfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2018-10-01 21:36:36" Description="doublechord-plugin[v0.2.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="0.2.2" URL="http://puredata.info/Members/zmoelnigbot/software/punish/v0.2.2/doublechord-plugin/doublechord-plugin[v0.2.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZG91YmxlY2hvcmQtcGx1Z2luXzAuMi4xXzIwMTgtMDUtMjkgMTc6MjI6NTBfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2018-05-29 17:22:50" Description="doublechord-plugin[v0.2.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="0.2.1" URL="http://puredata.info/Members/zmoelnigbot/software/punish/v0.2.1/doublechord-plugin/doublechord-plugin[v0.2.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects/>
     </Package>
   </Packages>
 </Windows-amd64-32>
