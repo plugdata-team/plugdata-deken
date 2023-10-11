@@ -6319,6 +6319,43 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="moonlib">
+    <Package ID="bW9vbmxpYl8wLjdfMjAyMy0xMC0xMCAxNjowOTozNF9hbnQxcg==" Author="ant1r"
+             Timestamp="2023-10-10 16:09:34" Description="moonlib[v0.7](Darwin-arm64-32)(Sources).dek"
+             Version="0.7" URL="http://puredata.info/Members/ant1r/software/moonlib/0.7/moonlib[v0.7](Darwin-arm64-32)(Sources).dek">
+      <Objects>
+        <Object Name="absolutepath"/>
+        <Object Name="basedir"/>
+        <Object Name="char2f"/>
+        <Object Name="comma"/>
+        <Object Name="dinlet~"/>
+        <Object Name="dispatch"/>
+        <Object Name="dripchar"/>
+        <Object Name="f2char"/>
+        <Object Name="f2s"/>
+        <Object Name="gamme"/>
+        <Object Name="image"/>
+        <Object Name="lcdbitmap"/>
+        <Object Name="mknob"/>
+        <Object Name="ndmetro"/>
+        <Object Name="panvol~"/>
+        <Object Name="popen"/>
+        <Object Name="readsfv~"/>
+        <Object Name="relativepath"/>
+        <Object Name="s2f"/>
+        <Object Name="sarray"/>
+        <Object Name="sfread2~"/>
+        <Object Name="slist"/>
+        <Object Name="ssaw~"/>
+        <Object Name="tabdump2"/>
+        <Object Name="tabenv"/>
+        <Object Name="tabreadl"/>
+        <Object Name="tabsort"/>
+        <Object Name="tabsort2"/>
+        <Object Name="wac"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="iemlib">
     <Package ID="aWVtbGliXzEuMjItM18yMDIzLTA3LTA3IDIwOjI1OjMxX2llbWJvdA=="
              Author="iembot" Timestamp="2023-07-07 20:25:31" Description="iemlib[v1.22-3](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"

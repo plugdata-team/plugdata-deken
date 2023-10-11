@@ -15049,8 +15049,8 @@
     </Package>
   </Packages>
   <Packages Name="SOFAlizer~">
-    <Package ID="U09GQWxpemVyfl8xLjAuMV8yMDIzLTEwLTEwIDAwOjUyOjM3X2NoYXJsZXNuZWltb2c="
-             Author="charlesneimog" Timestamp="2023-10-10 00:52:37" Description="SOFAlizer~[v1.0.1](Darwin-amd64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
+    <Package ID="U09GQWxpemVyfl8xLjAuMV8yMDIzLTEwLTEwIDE2OjIzOjM4X2NoYXJsZXNuZWltb2c="
+             Author="charlesneimog" Timestamp="2023-10-10 16:23:38" Description="SOFAlizer~[v1.0.1](Darwin-amd64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
              Version="1.0.1" URL="http://puredata.info/Members/charlesneimog/software/SOFAlizer~/1.0.1/SOFAlizer~[v1.0.1](Darwin-amd64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
       <Objects>
         <Object Name="SOFAlizer~"/>
