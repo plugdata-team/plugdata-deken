@@ -12904,6 +12904,68 @@
     </Package>
   </Packages>
   <Packages Name="lyonpotpourri">
+    <Package ID="bHlvbnBvdHBvdXJyaV8zLjAuMV8yMDIzLTEwLTEzIDE4OjM2OjI4X2NoYXJsZXNuZWltb2c="
+             Author="charlesneimog" Timestamp="2023-10-13 18:36:28" Description="lyonpotpourri[v3.0.1](Linux-amd64-32)(Sources).dek"
+             Version="3.0.1" URL="http://puredata.info/Members/charlesneimog/software/lyonpotpourri/3.0.1/lyonpotpourri[v3.0.1](Linux-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="adsr~"/>
+        <Object Name="arrayfilt~"/>
+        <Object Name="bashfest~"/>
+        <Object Name="buffet~"/>
+        <Object Name="bvplay~"/>
+        <Object Name="cartopol~"/>
+        <Object Name="chameleon~"/>
+        <Object Name="channel~"/>
+        <Object Name="chopper~"/>
+        <Object Name="clean_selector~"/>
+        <Object Name="click2bang~"/>
+        <Object Name="click2float~"/>
+        <Object Name="clickhold~"/>
+        <Object Name="click~"/>
+        <Object Name="convolver~"/>
+        <Object Name="counter~"/>
+        <Object Name="distortion~"/>
+        <Object Name="dmach~"/>
+        <Object Name="dynss~"/>
+        <Object Name="epluribus~"/>
+        <Object Name="expflam~"/>
+        <Object Name="flanjah~"/>
+        <Object Name="function~"/>
+        <Object Name="granola~"/>
+        <Object Name="granulesf~"/>
+        <Object Name="granule~"/>
+        <Object Name="kbuffer~"/>
+        <Object Name="killdc~"/>
+        <Object Name="latch~"/>
+        <Object Name="magfreq_analysis~"/>
+        <Object Name="markov~"/>
+        <Object Name="mask~"/>
+        <Object Name="npan~"/>
+        <Object Name="oscil~"/>
+        <Object Name="phasemod~"/>
+        <Object Name="player~"/>
+        <Object Name="poltocar~"/>
+        <Object Name="pulser~"/>
+        <Object Name="quadpan~"/>
+        <Object Name="rotapan~"/>
+        <Object Name="rtrig~"/>
+        <Object Name="samm~"/>
+        <Object Name="sarec~"/>
+        <Object Name="sel~"/>
+        <Object Name="shoehorn~"/>
+        <Object Name="sigseq~"/>
+        <Object Name="smap"/>
+        <Object Name="splitbank~"/>
+        <Object Name="splitspec~"/>
+        <Object Name="squash~"/>
+        <Object Name="stutter~"/>
+        <Object Name="vdb~"/>
+        <Object Name="vdp~"/>
+        <Object Name="vecdex~"/>
+        <Object Name="waveshape~"/>
+        <Object Name="windowvec~"/>
+      </Objects>
+    </Package>
     <Package ID="bHlvbnBvdHBvdXJyaV8zLjAuMF8yMDIxLTAzLTE3IDAwOjA3OjQ3X2x1Y2FyZGE="
              Author="lucarda" Timestamp="2021-03-17 00:07:47" Description="lyonpotpourri[v3.0.0](Linux-amd64-32).dek"
              Version="3.0.0" URL="http://puredata.info/Members/lucarda/software/lyonpotpourri[v3.0.0](Linux-amd64-32).dek">
