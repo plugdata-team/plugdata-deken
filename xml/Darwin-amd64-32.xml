@@ -1160,6 +1160,13 @@
     </Package>
   </Packages>
   <Packages Name="pulqui">
+    <Package ID="cHVscXVpXzAuMS4yXzIwMjMtMTAtMTcgMDk6MDg6NDhfbHVjYXJkYQ=="
+             Author="lucarda" Timestamp="2023-10-17 09:08:48" Description="pulqui[v0.1.2](Darwin-amd64-32).dek"
+             Version="0.1.2" URL="http://puredata.info/Members/lucarda/software/pulqui/0.1.2/pulqui[v0.1.2](Darwin-amd64-32).dek">
+      <Objects>
+        <Object Name="pulqui"/>
+      </Objects>
+    </Package>
     <Package ID="cHVscXVpXzAuMS4xXzIwMjItMDgtMDMgMjM6NDg6MjhfbHVjYXJkYQ=="
              Author="lucarda" Timestamp="2022-08-03 23:48:28" Description="pulqui[v0.1.1](Darwin-amd64-32).dek"
              Version="0.1.1" URL="http://puredata.info/Members/lucarda/software/pulqui/0.1.1/pulqui[v0.1.1](Darwin-amd64-32).dek">

@@ -1220,6 +1220,13 @@
     </Package>
   </Packages>
   <Packages Name="pulqui">
+    <Package ID="cHVscXVpXzAuMS4yXzIwMjMtMTAtMTcgMDk6MDU6MDdfbHVjYXJkYQ=="
+             Author="lucarda" Timestamp="2023-10-17 09:05:07" Description="pulqui[v0.1.2](Linux-amd64-32).dek"
+             Version="0.1.2" URL="http://puredata.info/Members/lucarda/software/pulqui/0.1.2/pulqui[v0.1.2](Linux-amd64-32).dek">
+      <Objects>
+        <Object Name="pulqui"/>
+      </Objects>
+    </Package>
     <Package ID="cHVscXVpXzAuMS4xXzIwMjItMDgtMDMgMjM6NDU6MTlfbHVjYXJkYQ=="
              Author="lucarda" Timestamp="2022-08-03 23:45:19" Description="pulqui[v0.1.1](Linux-amd64-32).dek"
              Version="0.1.1" URL="http://puredata.info/Members/lucarda/software/pulqui/0.1.1/pulqui[v0.1.1](Linux-amd64-32).dek">

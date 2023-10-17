@@ -908,6 +908,13 @@
     </Package>
   </Packages>
   <Packages Name="pulqui">
+    <Package ID="cHVscXVpXzAuMS4yXzIwMjMtMTAtMTcgMDk6MTA6MzFfbHVjYXJkYQ=="
+             Author="lucarda" Timestamp="2023-10-17 09:10:31" Description="pulqui[v0.1.2](Windows-i386-32).dek"
+             Version="0.1.2" URL="http://puredata.info/Members/lucarda/software/pulqui/0.1.2/pulqui[v0.1.2](Windows-i386-32).dek">
+      <Objects>
+        <Object Name="pulqui"/>
+      </Objects>
+    </Package>
     <Package ID="cHVscXVpXzAuMS4xXzIwMjItMDgtMDMgMjM6NDk6NTlfbHVjYXJkYQ=="
              Author="lucarda" Timestamp="2022-08-03 23:49:59" Description="pulqui[v0.1.1](Windows-i386-32).dek"
              Version="0.1.1" URL="http://puredata.info/Members/lucarda/software/pulqui/0.1.1/pulqui[v0.1.1](Windows-i386-32).dek">
