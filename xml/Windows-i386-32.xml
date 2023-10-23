@@ -9883,19 +9883,7 @@
     <Package ID="c291bmRoYWNrXzAuMC44XzIwMTktMTAtMjkgMTU6MzI6MTlfbHVjYXJkYQ=="
              Author="lucarda" Timestamp="2019-10-29 15:32:19" Description="soundhack[v0.0.8](Windows-i386-32)(Windows-amd64-32)(Sources).dek"
              Version="0.0.8" URL="http://puredata.info/Members/lucarda/software/soundhack[v0.0.8](Windows-i386-32)(Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="+binaural~"/>
-        <Object Name="+bubbler~"/>
-        <Object Name="+chebyshev~"/>
-        <Object Name="+compand~"/>
-        <Object Name="+decimate~"/>
-        <Object Name="+delay~"/>
-        <Object Name="+matrix~"/>
-        <Object Name="+morphfilter~"/>
-        <Object Name="+pitchdelay~"/>
-        <Object Name="+spectralcompand~"/>
-        <Object Name="+spectralgate~"/>
-      </Objects>
+      <Objects/>
     </Package>
     <Package ID="c291bmRoYWNrXzAuMC44XzIwMTctMDYtMjEgMDg6MDk6NDZfcG9ycmVz"
              Author="porres" Timestamp="2017-06-21 08:09:46" Description="soundhack-v0.0.8-(Windows-i386-32)-externals.zip"
