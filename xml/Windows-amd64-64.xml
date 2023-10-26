@@ -514,8 +514,8 @@
     </Package>
   </Packages>
   <Packages Name="ceammc">
-    <Package ID="Y2VhbW1jXzAuOS43XzIwMjMtMTAtMjMgMTA6NDk6MThfYW5hZGphcm92"
-             Author="anadjarov" Timestamp="2023-10-23 10:49:18" Description="ceammc[v0.9.7](Windows-amd64-64).dek"
+    <Package ID="Y2VhbW1jXzAuOS43XzIwMjMtMTAtMjUgMTE6NTQ6MTJfYW5hZGphcm92"
+             Author="anadjarov" Timestamp="2023-10-25 11:54:12" Description="ceammc[v0.9.7](Windows-amd64-64).dek"
              Version="0.9.7" URL="http://puredata.info/Members/anadjarov/software/ceammc/0.9.7/ceammc[v0.9.7](Windows-amd64-64).dek">
       <Objects>
         <Object Name="!='"/>
