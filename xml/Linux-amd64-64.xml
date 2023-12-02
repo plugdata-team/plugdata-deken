@@ -388,6 +388,13 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="pd-score">
+    <Package ID="cGQtc2NvcmVfMC4wLjAtYmV0YV8yMDIzLTEyLTAxIDIyOjIwOjI4X2NoYXJsZXNuZWltb2c="
+             Author="charlesneimog" Timestamp="2023-12-01 22:20:28" Description="pd-score[v0.0.0-beta].dek"
+             Version="0.0.0-beta" URL="http://puredata.info/Members/charlesneimog/software/pd-score/0.0.0-beta/pd-score[v0.0.0-beta].dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="nsend">
     <Package ID="bnNlbmRfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mzk6NTRfY2hyMTVt"
              Author="chr15m" Timestamp="2015-08-07 14:39:54" Description="nsend-v0.0.extended--externals.zip"

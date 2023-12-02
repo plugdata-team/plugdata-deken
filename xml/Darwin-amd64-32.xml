@@ -1116,6 +1116,13 @@
     </Package>
   </Packages>
   <Packages Name="py4pd">
+    <Package ID="cHk0cGRfMC44LjMtYmV0YV8yMDIzLTEyLTAxIDIyOjE0OjIzX2NoYXJsZXNuZWltb2c="
+             Author="charlesneimog" Timestamp="2023-12-01 22:14:23" Description="py4pd[v0.8.3-beta](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
+             Version="0.8.3-beta" URL="http://puredata.info/Members/charlesneimog/software/py4pd/0.8.3-beta/py4pd[v0.8.3-beta](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="py4pd"/>
+      </Objects>
+    </Package>
     <Package ID="cHk0cGRfMC44LjIuMS1iZXRhXzIwMjMtMTEtMjYgMjM6NTI6MzNfY2hhcmxlc25laW1vZw=="
              Author="charlesneimog" Timestamp="2023-11-26 23:52:33" Description="py4pd[v0.8.2.1-beta](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
              Version="0.8.2.1-beta" URL="http://puredata.info/Members/charlesneimog/software/py4pd/0.8.2.1-beta/py4pd[v0.8.2.1-beta](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
@@ -2688,6 +2695,13 @@
         <Object Name="tab_upsample"/>
         <Object Name="tab_upsample_copy"/>
       </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="pd-score">
+    <Package ID="cGQtc2NvcmVfMC4wLjAtYmV0YV8yMDIzLTEyLTAxIDIyOjIwOjI4X2NoYXJsZXNuZWltb2c="
+             Author="charlesneimog" Timestamp="2023-12-01 22:20:28" Description="pd-score[v0.0.0-beta].dek"
+             Version="0.0.0-beta" URL="http://puredata.info/Members/charlesneimog/software/pd-score/0.0.0-beta/pd-score[v0.0.0-beta].dek">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="nusmuk-audio">
