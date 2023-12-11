@@ -1229,58 +1229,16 @@
     </Package>
   </Packages>
   <Packages Name="py4pd">
+    <Package ID="cHk0cGRfMC44LjQtYmV0YV8yMDIzLTEyLTExIDA0OjQ4OjA0X2NoYXJsZXNuZWltb2c="
+             Author="charlesneimog" Timestamp="2023-12-11 04:48:04" Description="py4pd[v0.8.4-beta](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
+             Version="0.8.4-beta" URL="http://puredata.info/Members/charlesneimog/software/py4pd/0.8.4-beta/py4pd[v0.8.4-beta](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="py4pd"/>
+      </Objects>
+    </Package>
     <Package ID="cHk0cGRfMC44LjMtYmV0YV8yMDIzLTEyLTAxIDIyOjE0OjIzX2NoYXJsZXNuZWltb2c="
              Author="charlesneimog" Timestamp="2023-12-01 22:14:23" Description="py4pd[v0.8.3-beta](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
              Version="0.8.3-beta" URL="http://puredata.info/Members/charlesneimog/software/py4pd/0.8.3-beta/py4pd[v0.8.3-beta](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="py4pd"/>
-      </Objects>
-    </Package>
-    <Package ID="cHk0cGRfMC44LjIuMS1iZXRhXzIwMjMtMTEtMjYgMjM6NTI6MzNfY2hhcmxlc25laW1vZw=="
-             Author="charlesneimog" Timestamp="2023-11-26 23:52:33" Description="py4pd[v0.8.2.1-beta](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
-             Version="0.8.2.1-beta" URL="http://puredata.info/Members/charlesneimog/software/py4pd/0.8.2.1-beta/py4pd[v0.8.2.1-beta](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="py4pd"/>
-      </Objects>
-    </Package>
-    <Package ID="cHk0cGRfMC44LjJfMjAyMy0xMS0yNiAxODozMTozMl9jaGFybGVzbmVpbW9n"
-             Author="charlesneimog" Timestamp="2023-11-26 18:31:32" Description="py4pd[v0.8.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
-             Version="0.8.2" URL="http://puredata.info/Members/charlesneimog/software/py4pd/0.8.2/py4pd[v0.8.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="py4pd"/>
-      </Objects>
-    </Package>
-    <Package ID="cHk0cGRfMC44LjFfMjAyMy0wOC0yMiAxNzo0MjoxMF9jaGFybGVzbmVpbW9n"
-             Author="charlesneimog" Timestamp="2023-08-22 17:42:10" Description="py4pd[v0.8.1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
-             Version="0.8.1" URL="http://puredata.info/Members/charlesneimog/software/py4pd/0.8.1/py4pd[v0.8.1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="py4pd"/>
-      </Objects>
-    </Package>
-    <Package ID="cHk0cGRfMC43LjBfMjAyMy0wNS0zMSAxODo0NToyMF9jaGFybGVzbmVpbW9n"
-             Author="charlesneimog" Timestamp="2023-05-31 18:45:20" Description="py4pd[v0.7.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
-             Version="0.7.0" URL="http://puredata.info/Members/charlesneimog/software/py4pd/0.7.0/py4pd[v0.7.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="py4pd"/>
-      </Objects>
-    </Package>
-    <Package ID="cHk0cGRfMC42LjFfMjAyMy0wMy0xNyAxMjoxOToyNl9jaGFybGVzbmVpbW9n"
-             Author="charlesneimog" Timestamp="2023-03-17 12:19:26" Description="py4pd[v0.6.1](Darwin-amd64-32)(Sources).dek"
-             Version="0.6.1" URL="http://puredata.info/Members/charlesneimog/software/py4pd/0.6.1/py4pd[v0.6.1](Darwin-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="py4pd"/>
-      </Objects>
-    </Package>
-    <Package ID="cHk0cGRfMC41LjBfMjAyMy0wMy0xNiAyMjoxOTo1Ml9jaGFybGVzbmVpbW9n"
-             Author="charlesneimog" Timestamp="2023-03-16 22:19:52" Description="py4pd[v0.5.0](Darwin-amd64-32)(Sources).dek"
-             Version="0.5.0" URL="http://puredata.info/Members/charlesneimog/software/py4pd/0.5.0/py4pd[v0.5.0](Darwin-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="py4pd"/>
-      </Objects>
-    </Package>
-    <Package ID="cHk0cGRfMC42LjBfMjAyMy0wMy0xNSAxODoyNDoxNF9jaGFybGVzbmVpbW9n"
-             Author="charlesneimog" Timestamp="2023-03-15 18:24:14" Description="py4pd[v0.6.0](Darwin-amd64-32)(Sources).dek"
-             Version="0.6.0" URL="http://puredata.info/Members/charlesneimog/software/py4pd/0.6.0/py4pd[v0.6.0](Darwin-amd64-32)(Sources).dek">
       <Objects>
         <Object Name="py4pd"/>
       </Objects>
