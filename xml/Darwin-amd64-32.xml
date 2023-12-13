@@ -3187,6 +3187,13 @@
     </Package>
   </Packages>
   <Packages Name="nicinfo">
+    <Package ID="bmljaW5mb18wLjIuMV8yMDIzLTEyLTEyIDE4OjIwOjUwX2x1Y2FyZGE="
+             Author="lucarda" Timestamp="2023-12-12 18:20:50" Description="nicinfo[v0.2.1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.2.1" URL="http://puredata.info/Members/lucarda/software/nicinfo/0.2.1/nicinfo[v0.2.1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="nicinfo"/>
+      </Objects>
+    </Package>
     <Package ID="bmljaW5mb18wLjIuMF8yMDIzLTAzLTA0IDIzOjAyOjU5X2x1Y2FyZGE="
              Author="lucarda" Timestamp="2023-03-04 23:02:59" Description="nicinfo[v0.2.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
              Version="0.2.0" URL="http://puredata.info/Members/lucarda/software/nicinfo/0.2.0/nicinfo[v0.2.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
@@ -14665,8 +14672,8 @@
     </Package>
   </Packages>
   <Packages Name="Gem">
-    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyMy0xMi0xMSAxNjo1NzoxMl9pZW1ib3Q="
-             Author="iembot" Timestamp="2023-12-11 16:57:12" Description="Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-arm64-32).dek"
+    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyMy0xMi0xMiAwOTowNDozNV9pZW1ib3Q="
+             Author="iembot" Timestamp="2023-12-12 09:04:35" Description="Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-arm64-32).dek"
              Version="0.94-snapshot" URL="http://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-arm64-32).dek">
       <Objects>
         <Object Name="accumrotate"/>
