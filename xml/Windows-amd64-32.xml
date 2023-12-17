@@ -1244,6 +1244,13 @@
     </Package>
   </Packages>
   <Packages Name="py4pd">
+    <Package ID="cHk0cGRfMC44LjUtYmV0YV8yMDIzLTEyLTE2IDE5OjM5OjUxX2NoYXJsZXNuZWltb2c="
+             Author="charlesneimog" Timestamp="2023-12-16 19:39:51" Description="py4pd[v0.8.5-beta](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
+             Version="0.8.5-beta" URL="http://puredata.info/Members/charlesneimog/software/py4pd/0.8.5-beta/py4pd[v0.8.5-beta](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="py4pd"/>
+      </Objects>
+    </Package>
     <Package ID="cHk0cGRfMC44LjQtYmV0YV8yMDIzLTEyLTExIDA0OjQ4OjA0X2NoYXJsZXNuZWltb2c="
              Author="charlesneimog" Timestamp="2023-12-11 04:48:04" Description="py4pd[v0.8.4-beta](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
              Version="0.8.4-beta" URL="http://puredata.info/Members/charlesneimog/software/py4pd/0.8.4-beta/py4pd[v0.8.4-beta](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
