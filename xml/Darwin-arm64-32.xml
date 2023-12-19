@@ -947,6 +947,13 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="vstplugin~">
+    <Package ID="dnN0cGx1Z2lufl9fMjAyMy0xMi0xOCAxMzoxNzoyM19zcGFjZWNoaWxkMQ=="
+             Author="spacechild1" Timestamp="2023-12-18 13:17:23" Description="vstplugin~(Darwin-amd64-32)(Darwin-arm64-32).dek"
+             Version="" URL="http://puredata.info/Members/spacechild1/software/vstplugin~/vstplugin~(Darwin-amd64-32)(Darwin-arm64-32).dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="ceammc">
     <Package ID="Y2VhbW1jXzAuOS43XzIwMjMtMTAtMjIgMTY6MjU6MTdfYW5hZGphcm92"
              Author="anadjarov" Timestamp="2023-10-22 16:25:17" Description="ceammc[v0.9.7](Darwin-arm64-32).dek"
@@ -3586,8 +3593,8 @@
     </Package>
   </Packages>
   <Packages Name="Gem">
-    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyMy0xMi0xMyAxMzoyNDoyN19pZW1ib3Q="
-             Author="iembot" Timestamp="2023-12-13 13:24:27" Description="Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-arm64-32).dek"
+    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyMy0xMi0xOCAxNDo0MjowOF9pZW1ib3Q="
+             Author="iembot" Timestamp="2023-12-18 14:42:08" Description="Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-arm64-32).dek"
              Version="0.94-snapshot" URL="http://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-arm64-32).dek">
       <Objects>
         <Object Name="accumrotate"/>
