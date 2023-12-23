@@ -14684,8 +14684,8 @@
     </Package>
   </Packages>
   <Packages Name="Gem">
-    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyMy0xMi0yMSAxOToyNzo1MV9pZW1ib3Q="
-             Author="iembot" Timestamp="2023-12-21 19:27:51" Description="Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-arm64-32).dek"
+    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyMy0xMi0yMiAyMDowNjoyOV9pZW1ib3Q="
+             Author="iembot" Timestamp="2023-12-22 20:06:29" Description="Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-arm64-32).dek"
              Version="0.94-snapshot" URL="http://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-arm64-32).dek">
       <Objects>
         <Object Name="accumrotate"/>
