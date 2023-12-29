@@ -19248,8 +19248,8 @@
     </Package>
   </Packages>
   <Packages Name="pdogg">
-    <Package ID="cGRvZ2dfMC4wLmV4dGVuZGVkXzIwMjEtMDItMjQgMTQ6MjU6MjZfbHVjYXJkYQ=="
-             Author="lucarda" Timestamp="2021-02-24 14:25:26" Description="pdogg[v0.0.extended](Windows-amd64-32)(Sources).dek"
+    <Package ID="cGRvZ2dfMC4wLmV4dGVuZGVkXzIwMjMtMTItMjggMTA6Mzk6MThfbHVjYXJkYQ=="
+             Author="lucarda" Timestamp="2023-12-28 10:39:18" Description="pdogg[v0.0.extended](Windows-amd64-32)(Sources).dek"
              Version="0.0.extended" URL="http://puredata.info/Members/lucarda/software/pdogg[v0.0.extended](Windows-amd64-32)(Sources).dek">
       <Objects>
         <Object Name="oggamp~"/>
