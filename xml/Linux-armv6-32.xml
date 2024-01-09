@@ -945,22 +945,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="ezaoo">
-    <Package ID="ZXphb29fMS4yXzIwMjAtMDgtMDkgMTc6NDA6NTVfZmRjaA==" Author="fdch"
-             Timestamp="2020-08-09 17:40:55" Description="ezaoo[v1.2].dek"
-             Version="1.2" URL="http://puredata.info/Members/fdch/software/ezaoo/1.2/ezaoo[v1.2].dek">
-      <Objects>
-        <Object Name="ezaoo"/>
-      </Objects>
-    </Package>
-    <Package ID="ZXphb29fMS4xXzIwMjAtMDgtMDkgMTc6Mzk6NDlfZmRjaA==" Author="fdch"
-             Timestamp="2020-08-09 17:39:49" Description="ezaoo[v1.1].dek"
-             Version="1.1" URL="http://puredata.info/Members/fdch/software/ezaoo/1.1/ezaoo[v1.1].dek">
-      <Objects>
-        <Object Name="ezaoo"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="DEAPd">
     <Package ID="REVBUGRfMC4xXzIwMjMtMDMtMDIgMDc6NTg6NDRfY2FsYmFzc2lzdA=="
              Author="calbassist" Timestamp="2023-03-02 07:58:44" Description="DEAPd[v0.1].dek"
@@ -984,6 +968,22 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="ezaoo">
+    <Package ID="ZXphb29fMS4yXzIwMjAtMDgtMDkgMTc6NDA6NTVfZmRjaA==" Author="fdch"
+             Timestamp="2020-08-09 17:40:55" Description="ezaoo[v1.2].dek"
+             Version="1.2" URL="http://puredata.info/Members/fdch/software/ezaoo/1.2/ezaoo[v1.2].dek">
+      <Objects>
+        <Object Name="ezaoo"/>
+      </Objects>
+    </Package>
+    <Package ID="ZXphb29fMS4xXzIwMjAtMDgtMDkgMTc6Mzk6NDlfZmRjaA==" Author="fdch"
+             Timestamp="2020-08-09 17:39:49" Description="ezaoo[v1.1].dek"
+             Version="1.1" URL="http://puredata.info/Members/fdch/software/ezaoo/1.1/ezaoo[v1.1].dek">
+      <Objects>
+        <Object Name="ezaoo"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="constantq~">
     <Package ID="Y29uc3RhbnRxfl8wLjNfMjAyMC0wMy0wMyAwOTozNzowMl90aG9tYXM="
              Author="thomas" Timestamp="2020-03-03 09:37:02" Description="constantq~[v0.3](Linux-armv6-32).dek"
@@ -1000,11 +1000,27 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="Gem">
-    <Package ID="R2VtXzAuOTMuM2dpdDU0YjRiN2NfMjAxNi0wMi0xNSAxNTozNToxN19hdmlsbGVyZXQ="
-             Author="avilleret" Timestamp="2016-02-15 15:35:17" Description="Gem-v0.93.3git54b4b7c-(Linux-armv6-32)-externals.tar.gz"
-             Version="0.93.3git54b4b7c" URL="http://puredata.info/Members/avilleret/software/Gem/0.93.3git54b4b7c/Gem-v0.93.3git54b4b7c-(Linux-armv6-32)-externals.tar.gz">
+  <Packages Name="purest_json">
+    <Package ID="cHVyZXN0X2pzb25fMS40LjFfMjAxNi0wNi0yOSAwMTozMzowM19yZXNpZHV1bQ=="
+             Author="residuum" Timestamp="2016-06-29 01:33:03" Description="purest_json-v1.4.1-(Linux-armv6l-32)-externals.tar.gz"
+             Version="1.4.1" URL="http://puredata.info/Members/residuum/software/purest_json/1.4.1/purest_json-v1.4.1-(Linux-armv6l-32)-externals.tar.gz">
       <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="nGui">
+    <Package ID="bkd1aV8wLjFfMjAyMC0wNS0yOCAyMzozOTowMV9tYXJpb19idW9uaW5mYW50ZQ=="
+             Author="mario_buoninfante" Timestamp="2020-05-28 23:39:01" Description="nGui[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/mario_buoninfante/software/nGui/0.1/nGui[v0.1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="clk">
+    <Package ID="Y2xrXzAuMi4xXzIwMjAtMDMtMDMgMDk6MjI6MjFfdGhvbWFz" Author="thomas"
+             Timestamp="2020-03-03 09:22:21" Description="clk[v0.2.1](Linux-armv6-32).dek"
+             Version="0.2.1" URL="http://puredata.info/Members/thomas/software/clk/0.2.1/clk[v0.2.1](Linux-armv6-32).dek">
+      <Objects>
+        <Object Name="clk"/>
+      </Objects>
     </Package>
   </Packages>
   <Packages Name="cyclone">
@@ -3885,6 +3901,13 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="Gem">
+    <Package ID="R2VtXzAuOTMuM2dpdDU0YjRiN2NfMjAxNi0wMi0xNSAxNTozNToxN19hdmlsbGVyZXQ="
+             Author="avilleret" Timestamp="2016-02-15 15:35:17" Description="Gem-v0.93.3git54b4b7c-(Linux-armv6-32)-externals.tar.gz"
+             Version="0.93.3git54b4b7c" URL="http://puredata.info/Members/avilleret/software/Gem/0.93.3git54b4b7c/Gem-v0.93.3git54b4b7c-(Linux-armv6-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="DRFX">
     <Package ID="RFJGWF8wLjUuMV8yMDE4LTAzLTI2IDA0OjI2OjA3X3dtYnJlbnQ=" Author="wmbrent"
              Timestamp="2018-03-26 04:26:07" Description="DRFX[v0.5.1].dek"
@@ -4737,29 +4760,6 @@
         <Object Name="xgroove~"/>
         <Object Name="xplay~"/>
         <Object Name="xrecord~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="purest_json">
-    <Package ID="cHVyZXN0X2pzb25fMS40LjFfMjAxNi0wNi0yOSAwMTozMzowM19yZXNpZHV1bQ=="
-             Author="residuum" Timestamp="2016-06-29 01:33:03" Description="purest_json-v1.4.1-(Linux-armv6l-32)-externals.tar.gz"
-             Version="1.4.1" URL="http://puredata.info/Members/residuum/software/purest_json/1.4.1/purest_json-v1.4.1-(Linux-armv6l-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="nGui">
-    <Package ID="bkd1aV8wLjFfMjAyMC0wNS0yOCAyMzozOTowMV9tYXJpb19idW9uaW5mYW50ZQ=="
-             Author="mario_buoninfante" Timestamp="2020-05-28 23:39:01" Description="nGui[v0.1].dek"
-             Version="0.1" URL="http://puredata.info/Members/mario_buoninfante/software/nGui/0.1/nGui[v0.1].dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="clk">
-    <Package ID="Y2xrXzAuMi4xXzIwMjAtMDMtMDMgMDk6MjI6MjFfdGhvbWFz" Author="thomas"
-             Timestamp="2020-03-03 09:22:21" Description="clk[v0.2.1](Linux-armv6-32).dek"
-             Version="0.2.1" URL="http://puredata.info/Members/thomas/software/clk/0.2.1/clk[v0.2.1](Linux-armv6-32).dek">
-      <Objects>
-        <Object Name="clk"/>
       </Objects>
     </Package>
   </Packages>
