@@ -6358,6 +6358,22 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="ezaoo">
+    <Package ID="ZXphb29fMS4yXzIwMjAtMDgtMDkgMTc6NDA6NTVfZmRjaA==" Author="fdch"
+             Timestamp="2020-08-09 17:40:55" Description="ezaoo[v1.2].dek"
+             Version="1.2" URL="http://puredata.info/Members/fdch/software/ezaoo/1.2/ezaoo[v1.2].dek">
+      <Objects>
+        <Object Name="ezaoo"/>
+      </Objects>
+    </Package>
+    <Package ID="ZXphb29fMS4xXzIwMjAtMDgtMDkgMTc6Mzk6NDlfZmRjaA==" Author="fdch"
+             Timestamp="2020-08-09 17:39:49" Description="ezaoo[v1.1].dek"
+             Version="1.1" URL="http://puredata.info/Members/fdch/software/ezaoo/1.1/ezaoo[v1.1].dek">
+      <Objects>
+        <Object Name="ezaoo"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="DEAPd">
     <Package ID="REVBUGRfMC4xXzIwMjMtMDMtMDIgMDc6NTg6NDRfY2FsYmFzc2lzdA=="
              Author="calbassist" Timestamp="2023-03-02 07:58:44" Description="DEAPd[v0.1].dek"
@@ -6381,40 +6397,10 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="ezaoo">
-    <Package ID="ZXphb29fMS4yXzIwMjAtMDgtMDkgMTc6NDA6NTVfZmRjaA==" Author="fdch"
-             Timestamp="2020-08-09 17:40:55" Description="ezaoo[v1.2].dek"
-             Version="1.2" URL="http://puredata.info/Members/fdch/software/ezaoo/1.2/ezaoo[v1.2].dek">
-      <Objects>
-        <Object Name="ezaoo"/>
-      </Objects>
-    </Package>
-    <Package ID="ZXphb29fMS4xXzIwMjAtMDgtMDkgMTc6Mzk6NDlfZmRjaA==" Author="fdch"
-             Timestamp="2020-08-09 17:39:49" Description="ezaoo[v1.1].dek"
-             Version="1.1" URL="http://puredata.info/Members/fdch/software/ezaoo/1.1/ezaoo[v1.1].dek">
-      <Objects>
-        <Object Name="ezaoo"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="hotfix732-deadkeys-plugin">
     <Package ID="aG90Zml4NzMyLWRlYWRrZXlzLXBsdWdpbl8wLjUwLjAuMV8yMDE5LTA5LTAyIDE3OjAzOjU1X3ptb2Vsbmln"
              Author="zmoelnig" Timestamp="2019-09-02 17:03:55" Description="hotfix732-deadkeys-plugin/0.50.0.1 (Hotfix#732 for non-functional DeadKeys (including '~') on Pd-0.50.0/Windows with spanish/portuguese/french/... keyboards)"
              Version="0.50.0.1" URL="http://puredata.info/Members/zmoelnig/software/hotfix732-deadkeys-plugin/0.50.0.1/hotfix732-deadkeys-plugin[v0.50.0.1](Windows-amd64-32)(Windows-i386-32)(Windows-amd64-64)(Windows-i386-64).dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="purest_json">
-    <Package ID="cHVyZXN0X2pzb25fMS40LjNfMjAxOS0xMS0wOCAwMTowOToxOF9yZXNpZHV1bQ=="
-             Author="residuum" Timestamp="2019-11-08 01:09:18" Description="purest_json[v1.4.3](Windows-amd64-64).dek"
-             Version="1.4.3" URL="http://puredata.info/Members/residuum/software/purest_json/1.4.3/purest_json[v1.4.3](Windows-amd64-64).dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="nGui">
-    <Package ID="bkd1aV8wLjFfMjAyMC0wNS0yOCAyMzozOTowMV9tYXJpb19idW9uaW5mYW50ZQ=="
-             Author="mario_buoninfante" Timestamp="2020-05-28 23:39:01" Description="nGui[v0.1].dek"
-             Version="0.1" URL="http://puredata.info/Members/mario_buoninfante/software/nGui/0.1/nGui[v0.1].dek">
       <Objects/>
     </Package>
   </Packages>
@@ -7308,6 +7294,20 @@
         <Object Name="xplay~"/>
         <Object Name="xrecord~"/>
       </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="purest_json">
+    <Package ID="cHVyZXN0X2pzb25fMS40LjNfMjAxOS0xMS0wOCAwMTowOToxOF9yZXNpZHV1bQ=="
+             Author="residuum" Timestamp="2019-11-08 01:09:18" Description="purest_json[v1.4.3](Windows-amd64-64).dek"
+             Version="1.4.3" URL="http://puredata.info/Members/residuum/software/purest_json/1.4.3/purest_json[v1.4.3](Windows-amd64-64).dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="nGui">
+    <Package ID="bkd1aV8wLjFfMjAyMC0wNS0yOCAyMzozOTowMV9tYXJpb19idW9uaW5mYW50ZQ=="
+             Author="mario_buoninfante" Timestamp="2020-05-28 23:39:01" Description="nGui[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/mario_buoninfante/software/nGui/0.1/nGui[v0.1].dek">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="purepd">

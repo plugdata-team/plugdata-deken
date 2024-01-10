@@ -396,6 +396,22 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="ezaoo">
+    <Package ID="ZXphb29fMS4yXzIwMjAtMDgtMDkgMTc6NDA6NTVfZmRjaA==" Author="fdch"
+             Timestamp="2020-08-09 17:40:55" Description="ezaoo[v1.2].dek"
+             Version="1.2" URL="http://puredata.info/Members/fdch/software/ezaoo/1.2/ezaoo[v1.2].dek">
+      <Objects>
+        <Object Name="ezaoo"/>
+      </Objects>
+    </Package>
+    <Package ID="ZXphb29fMS4xXzIwMjAtMDgtMDkgMTc6Mzk6NDlfZmRjaA==" Author="fdch"
+             Timestamp="2020-08-09 17:39:49" Description="ezaoo[v1.1].dek"
+             Version="1.1" URL="http://puredata.info/Members/fdch/software/ezaoo/1.1/ezaoo[v1.1].dek">
+      <Objects>
+        <Object Name="ezaoo"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="DEAPd">
     <Package ID="REVBUGRfMC4xXzIwMjMtMDMtMDIgMDc6NTg6NDRfY2FsYmFzc2lzdA=="
              Author="calbassist" Timestamp="2023-03-02 07:58:44" Description="DEAPd[v0.1].dek"
@@ -419,33 +435,10 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="ezaoo">
-    <Package ID="ZXphb29fMS4yXzIwMjAtMDgtMDkgMTc6NDA6NTVfZmRjaA==" Author="fdch"
-             Timestamp="2020-08-09 17:40:55" Description="ezaoo[v1.2].dek"
-             Version="1.2" URL="http://puredata.info/Members/fdch/software/ezaoo/1.2/ezaoo[v1.2].dek">
-      <Objects>
-        <Object Name="ezaoo"/>
-      </Objects>
-    </Package>
-    <Package ID="ZXphb29fMS4xXzIwMjAtMDgtMDkgMTc6Mzk6NDlfZmRjaA==" Author="fdch"
-             Timestamp="2020-08-09 17:39:49" Description="ezaoo[v1.1].dek"
-             Version="1.1" URL="http://puredata.info/Members/fdch/software/ezaoo/1.1/ezaoo[v1.1].dek">
-      <Objects>
-        <Object Name="ezaoo"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="hotfix732-deadkeys-plugin">
     <Package ID="aG90Zml4NzMyLWRlYWRrZXlzLXBsdWdpbl8wLjUwLjAuMV8yMDE5LTA5LTAyIDE3OjAzOjU1X3ptb2Vsbmln"
              Author="zmoelnig" Timestamp="2019-09-02 17:03:55" Description="hotfix732-deadkeys-plugin/0.50.0.1 (Hotfix#732 for non-functional DeadKeys (including '~') on Pd-0.50.0/Windows with spanish/portuguese/french/... keyboards)"
              Version="0.50.0.1" URL="http://puredata.info/Members/zmoelnig/software/hotfix732-deadkeys-plugin/0.50.0.1/hotfix732-deadkeys-plugin[v0.50.0.1](Windows-amd64-32)(Windows-i386-32)(Windows-amd64-64)(Windows-i386-64).dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="nGui">
-    <Package ID="bkd1aV8wLjFfMjAyMC0wNS0yOCAyMzozOTowMV9tYXJpb19idW9uaW5mYW50ZQ=="
-             Author="mario_buoninfante" Timestamp="2020-05-28 23:39:01" Description="nGui[v0.1].dek"
-             Version="0.1" URL="http://puredata.info/Members/mario_buoninfante/software/nGui/0.1/nGui[v0.1].dek">
       <Objects/>
     </Package>
   </Packages>
@@ -974,18 +967,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="XXX-deken-test">
-    <Package ID="WFhYLWRla2VuLXRlc3RfMC45LjE2LTUtZ2Y3MDJkNzJfb3N4XzIwMjQtMDEtMDkgMDg6NTc6Mzhfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2024-01-09 08:57:38" Description="XXX-deken-test[v0.9.16-5-gf702d72_osx](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
-             Version="0.9.16-5-gf702d72_osx" URL="http://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/12635/0.9.16-5-gf702d72_osx/XXX-deken-test[v0.9.16-5-gf702d72_osx](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
-      <Objects/>
-    </Package>
-    <Package ID="WFhYLWRla2VuLXRlc3RfMC45LjE2LTUtZ2Y3MDJkNzJfZG9ja2VyXzIwMjQtMDEtMDkgMDg6NTc6MThfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2024-01-09 08:57:18" Description="XXX-deken-test[v0.9.16-5-gf702d72_docker](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
-             Version="0.9.16-5-gf702d72_docker" URL="http://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/12635/0.9.16-5-gf702d72_docker/XXX-deken-test[v0.9.16-5-gf702d72_docker](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="audiolab">
     <Package ID="YXVkaW9sYWJfMC41XzIwMjMtMTEtMjggMTA6MjE6NTNfc29saXBk" Author="solipd"
              Timestamp="2023-11-28 10:21:53" Description="audiolab[v0.5].dek"
@@ -1347,6 +1328,13 @@
       <Objects>
         <Object Name="iempluginOSC"/>
       </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="nGui">
+    <Package ID="bkd1aV8wLjFfMjAyMC0wNS0yOCAyMzozOTowMV9tYXJpb19idW9uaW5mYW50ZQ=="
+             Author="mario_buoninfante" Timestamp="2020-05-28 23:39:01" Description="nGui[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/mario_buoninfante/software/nGui/0.1/nGui[v0.1].dek">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="purepd">
