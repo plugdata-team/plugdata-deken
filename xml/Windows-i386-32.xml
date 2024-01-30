@@ -1021,6 +1021,15 @@
     </Package>
   </Packages>
   <Packages Name="pulqui">
+    <Package ID="cHVscXVpXzAuMy4wXzIwMjQtMDEtMzAgMDg6MTI6MTFfbHVjYXJkYQ=="
+             Author="lucarda" Timestamp="2024-01-30 08:12:11" Description="pulqui[v0.3.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.3.0" URL="http://puredata.info/Members/lucarda/software/pulqui/0.3.0/pulqui[v0.3.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="pulqui"/>
+        <Object Name="pulquilimiter~"/>
+        <Object Name="pulqui~"/>
+      </Objects>
+    </Package>
     <Package ID="cHVscXVpXzAuMi4wXzIwMjMtMTAtMjkgMTA6MzQ6NTdfbHVjYXJkYQ=="
              Author="lucarda" Timestamp="2023-10-29 10:34:57" Description="pulqui[v0.2.0](Windows-i386-32).dek"
              Version="0.2.0" URL="http://puredata.info/Members/lucarda/software/pulqui/0.2.0/pulqui[v0.2.0](Windows-i386-32).dek">
@@ -8726,6 +8735,11 @@
     </Package>
   </Packages>
   <Packages Name="aoo">
+    <Package ID="YW9vXzIuMC1wcmUzXzIwMjQtMDEtMzAgMDE6MTI6NTFfc3BhY2VjaGlsZDE="
+             Author="spacechild1" Timestamp="2024-01-30 01:12:51" Description="aoo[v2.0-pre3](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="2.0-pre3" URL="http://puredata.info/Members/spacechild1/software/aoo/2.0-pre3/aoo[v2.0-pre3](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects/>
+    </Package>
     <Package ID="YW9vXzIuMC1wcmUyXzIwMjAtMDYtMjAgMjE6MjY6MTVfc3BhY2VjaGlsZDE="
              Author="spacechild1" Timestamp="2020-06-20 21:26:15" Description="aoo[v2.0-pre2](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
              Version="2.0-pre2" URL="http://puredata.info/Members/spacechild1/software/aoo/2.0-pre2/aoo[v2.0-pre2](Darwin-amd64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
