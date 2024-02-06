@@ -2183,6 +2183,15 @@
     </Package>
   </Packages>
   <Packages Name="vstplugin~">
+    <Package ID="dnN0cGx1Z2lufl8wLjYtdGVzdDFfMjAyNC0wMi0wNSAxMjo1NzoyMF9zcGFjZWNoaWxkMQ=="
+             Author="spacechild1" Timestamp="2024-02-05 12:57:20" Description="vstplugin~[v0.6-test1](Windows-i386-32).dek"
+             Version="0.6-test1" URL="http://puredata.info/Members/spacechild1/software/vstplugin~/0.6-test1/vstplugin~[v0.6-test1](Windows-i386-32).dek">
+      <Objects>
+        <Object Name="vstpluginbrowser"/>
+        <Object Name="vstplugin~"/>
+        <Object Name="vstpresetbrowser"/>
+      </Objects>
+    </Package>
     <Package ID="dnN0cGx1Z2lufl8wLjUuNF8yMDIyLTAyLTEwIDEyOjAxOjE4X3NwYWNlY2hpbGQx"
              Author="spacechild1" Timestamp="2022-02-10 12:01:18" Description="vstplugin~[v0.5.4](Windows-i386-32).dek"
              Version="0.5.4" URL="http://puredata.info/Members/spacechild1/software/vstplugin~/0.5.4/vstplugin~[v0.5.4](Windows-i386-32).dek">
@@ -5267,8 +5276,8 @@
     </Package>
   </Packages>
   <Packages Name="Gem">
-    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNC0wMS0xOCAwMjozNzozMV9pZW1ib3Q="
-             Author="iembot" Timestamp="2024-01-18 02:37:31" Description="Gem[v0.94-snapshot](Windows-i386-32).dek"
+    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNC0wMi0wNiAwMDowMDozMl9pZW1ib3Q="
+             Author="iembot" Timestamp="2024-02-06 00:00:32" Description="Gem[v0.94-snapshot](Windows-i386-32).dek"
              Version="0.94-snapshot" URL="http://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Windows-i386-32).dek">
       <Objects>
         <Object Name="accumrotate"/>
