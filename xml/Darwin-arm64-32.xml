@@ -966,11 +966,6 @@
         <Object Name="vstpresetbrowser"/>
       </Objects>
     </Package>
-    <Package ID="dnN0cGx1Z2lufl9fMjAyNC0wMS0wNSAxNjoxOToxNV9zcGFjZWNoaWxkMQ=="
-             Author="spacechild1" Timestamp="2024-01-05 16:19:15" Description="vstplugin~(Darwin-amd64-32)(Darwin-arm64-32).dek"
-             Version="" URL="http://puredata.info/Members/spacechild1/software/vstplugin~/vstplugin~(Darwin-amd64-32)(Darwin-arm64-32).dek">
-      <Objects/>
-    </Package>
     <Package ID="dnN0cGx1Z2lufl8wLjUuNF8yMDIzLTEyLTE5IDEwOjEyOjI1X3NwYWNlY2hpbGQx"
              Author="spacechild1" Timestamp="2023-12-19 10:12:25" Description="vstplugin~[v0.5.4](Darwin-amd64-32)(Darwin-arm64-32).dek"
              Version="0.5.4" URL="http://puredata.info/Members/spacechild1/software/vstplugin~/0.5.4/vstplugin~[v0.5.4](Darwin-amd64-32)(Darwin-arm64-32).dek">

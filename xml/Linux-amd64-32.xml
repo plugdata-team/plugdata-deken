@@ -2997,8 +2997,8 @@
     </Package>
   </Packages>
   <Packages Name="vstplugin~">
-    <Package ID="dnN0cGx1Z2lufl8wLjYtdGVzdDFfMjAyNC0wMi0wNSAxMjo1NjozOV9zcGFjZWNoaWxkMQ=="
-             Author="spacechild1" Timestamp="2024-02-05 12:56:39" Description="vstplugin~[v0.6-test1](Linux-amd64-32).dek"
+    <Package ID="dnN0cGx1Z2lufl8wLjYtdGVzdDFfMjAyNC0wMi0xMyAyMjo0MTozMV9zcGFjZWNoaWxkMQ=="
+             Author="spacechild1" Timestamp="2024-02-13 22:41:31" Description="vstplugin~[v0.6-test1](Linux-amd64-32).dek"
              Version="0.6-test1" URL="http://puredata.info/Members/spacechild1/software/vstplugin~/0.6-test1/vstplugin~[v0.6-test1](Linux-amd64-32).dek">
       <Objects>
         <Object Name="vstpluginbrowser"/>
