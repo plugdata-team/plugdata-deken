@@ -647,6 +647,15 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="tabwrite_dir~">
+    <Package ID="dGFid3JpdGVfZGlyfl8wLjFfMjAyNC0wMi0yMCAxNDo1MDoyNV9hbGV4YW5kcm9z"
+             Author="alexandros" Timestamp="2024-02-20 14:50:25" Description="tabwrite_dir~[v0.1](Linux-armv7-32)(Sources).dek"
+             Version="0.1" URL="http://puredata.info/Members/alexandros/software/tabwrite_dir~/0.1/tabwrite_dir~[v0.1](Linux-armv7-32)(Sources).dek">
+      <Objects>
+        <Object Name="tabwrite_dir~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="tabreceive_mult~">
     <Package ID="dGFicmVjZWl2ZV9tdWx0fl8wLjFfMjAxNy0wOC0zMSAxODo0MzowNV9hbGV4YW5kcm9z"
              Author="alexandros" Timestamp="2017-08-31 18:43:05" Description="tabreceive_mult~-v0.1-(Sources)(Linux-armv7-32)-externals.tar.gz"
