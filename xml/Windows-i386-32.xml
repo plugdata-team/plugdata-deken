@@ -5290,8 +5290,8 @@
     </Package>
   </Packages>
   <Packages Name="Gem">
-    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNC0wMi0yMiAxMjozMTo1MF9pZW1ib3Q="
-             Author="iembot" Timestamp="2024-02-22 12:31:50" Description="Gem[v0.94-snapshot](Windows-i386-32).dek"
+    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNC0wMi0yNyAwMTo0ODozNF9pZW1ib3Q="
+             Author="iembot" Timestamp="2024-02-27 01:48:34" Description="Gem[v0.94-snapshot](Windows-i386-32).dek"
              Version="0.94-snapshot" URL="http://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Windows-i386-32).dek">
       <Objects>
         <Object Name="accumrotate"/>
