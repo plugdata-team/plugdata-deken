@@ -3324,8 +3324,8 @@
     </Package>
   </Packages>
   <Packages Name="Gem">
-    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNC0wMi0yNyAwMTo0ODoxNF9pZW1ib3Q="
-             Author="iembot" Timestamp="2024-02-27 01:48:14" Description="Gem[v0.94-snapshot](Linux-amd64-32).dek"
+    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNC0wMi0yOSAyMDo0ODoxMV9pZW1ib3Q="
+             Author="iembot" Timestamp="2024-02-29 20:48:11" Description="Gem[v0.94-snapshot](Linux-amd64-32).dek"
              Version="0.94-snapshot" URL="http://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Linux-amd64-32).dek">
       <Objects>
         <Object Name="accumrotate"/>
@@ -3513,6 +3513,7 @@
         <Object Name="pix_snap2tex"/>
         <Object Name="pix_subtract"/>
         <Object Name="pix_takealpha"/>
+        <Object Name="pix_test"/>
         <Object Name="pix_texture"/>
         <Object Name="pix_threshold"/>
         <Object Name="pix_threshold_bernsen"/>
