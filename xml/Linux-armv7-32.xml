@@ -2143,6 +2143,15 @@
     </Package>
   </Packages>
   <Packages Name="vstplugin~">
+    <Package ID="dnN0cGx1Z2lufl8wLjYuMF8yMDI0LTAzLTAxIDIxOjUyOjE1X3NwYWNlY2hpbGQx"
+             Author="spacechild1" Timestamp="2024-03-01 21:52:15" Description="vstplugin~[v0.6.0](Linux-armv7-32).dek"
+             Version="0.6.0" URL="http://puredata.info/Members/spacechild1/software/vstplugin~/0.6.0/vstplugin~[v0.6.0](Linux-armv7-32).dek">
+      <Objects>
+        <Object Name="vstpluginbrowser"/>
+        <Object Name="vstplugin~"/>
+        <Object Name="vstpresetbrowser"/>
+      </Objects>
+    </Package>
     <Package ID="dnN0cGx1Z2lufl8wLjYtdGVzdDFfMjAyNC0wMi0wNSAxMjo1Njo1NV9zcGFjZWNoaWxkMQ=="
              Author="spacechild1" Timestamp="2024-02-05 12:56:55" Description="vstplugin~[v0.6-test1](Linux-armv7-32).dek"
              Version="0.6-test1" URL="http://puredata.info/Members/spacechild1/software/vstplugin~/0.6-test1/vstplugin~[v0.6-test1](Linux-armv7-32).dek">
