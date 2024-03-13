@@ -8545,6 +8545,11 @@
     </Package>
   </Packages>
   <Packages Name="hid">
+    <Package ID="aGlkXzAuNy4wXzIwMjQtMDMtMTIgMjE6MzI6MjFfY3JpdGFwZWM=" Author="critapec"
+             Timestamp="2024-03-12 21:32:21" Description="hid[v0.7.0](Darwin-arm64-32).dek"
+             Version="0.7.0" URL="http://puredata.info/Members/critapec/software/hid/0.7.0/hid[v0.7.0](Darwin-arm64-32).dek">
+      <Objects/>
+    </Package>
     <Package ID="aGlkXzAuMS4wXzIwMjItMTEtMDkgMDA6MzI6MjhfY3JpdGFwZWM=" Author="critapec"
              Timestamp="2022-11-09 00:32:28" Description="hid[v0.1.0](Darwin-arm64-32).dek"
              Version="0.1.0" URL="http://puredata.info/Members/critapec/software/hid/0.1.0/hid[v0.1.0](Darwin-arm64-32).dek">
