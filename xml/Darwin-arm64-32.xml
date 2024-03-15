@@ -3641,8 +3641,8 @@
     </Package>
   </Packages>
   <Packages Name="Gem">
-    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNC0wMy0wOCAxMjo0MzoxMV9pZW1ib3Q="
-             Author="iembot" Timestamp="2024-03-08 12:43:11" Description="Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-arm64-32).dek"
+    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNC0wMy0xNCAwMDoxOToyNl9pZW1ib3Q="
+             Author="iembot" Timestamp="2024-03-14 00:19:26" Description="Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-arm64-32).dek"
              Version="0.94-snapshot" URL="http://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-arm64-32).dek">
       <Objects>
         <Object Name="accumrotate"/>
@@ -9804,6 +9804,11 @@
     </Package>
   </Packages>
   <Packages Name="deken-plugin">
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4xOF8yMDI0LTAzLTE0IDE0OjM4OjUzX3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2024-03-14 14:38:53" Description="deken-plugin[v0.9.18].dek"
+             Version="0.9.18" URL="http://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.18/deken-plugin[v0.9.18].dek">
+      <Objects/>
+    </Package>
     <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4xNl8yMDIzLTExLTI3IDEzOjIzOjU1X3ptb2VsbmlnYm90"
              Author="zmoelnigbot" Timestamp="2023-11-27 13:23:55" Description="deken-plugin[v0.9.16].dek"
              Version="0.9.16" URL="http://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.16/deken-plugin[v0.9.16].dek">

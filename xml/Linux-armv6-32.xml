@@ -4676,6 +4676,11 @@
     </Package>
   </Packages>
   <Packages Name="deken-plugin">
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4xOF8yMDI0LTAzLTE0IDE0OjM4OjUzX3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2024-03-14 14:38:53" Description="deken-plugin[v0.9.18].dek"
+             Version="0.9.18" URL="http://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.18/deken-plugin[v0.9.18].dek">
+      <Objects/>
+    </Package>
     <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4xNl8yMDIzLTExLTI3IDEzOjIzOjU1X3ptb2VsbmlnYm90"
              Author="zmoelnigbot" Timestamp="2023-11-27 13:23:55" Description="deken-plugin[v0.9.16].dek"
              Version="0.9.16" URL="http://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.16/deken-plugin[v0.9.16].dek">
