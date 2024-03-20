@@ -18584,6 +18584,13 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="Fraise-toolchain">
+    <Package ID="RnJhaXNlLXRvb2xjaGFpbl8wLjEuMF8yMDI0LTAzLTE5IDEzOjI0OjQxX2FudDFy"
+             Author="ant1r" Timestamp="2024-03-19 13:24:41" Description="Fraise-toolchain[v0.1.0](Darwin-amd64-32).dek"
+             Version="0.1.0" URL="http://puredata.info/Members/ant1r/software/Fraise-toolchain/0.1.0/Fraise-toolchain[v0.1.0](Darwin-amd64-32).dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="else">
     <Package ID="ZWxzZV8xLjAtMF9yYzExLXdpdGhfbGl2ZV9lbGVjdHJvbmljc190dXRvcmlhbF8yMDI0LTAyLTA3IDE4OjEzOjA5X3BvcnJlcw=="
              Author="porres" Timestamp="2024-02-07 18:13:09" Description="else[v1.0-0_rc11-with_live_electronics_tutorial](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek"
