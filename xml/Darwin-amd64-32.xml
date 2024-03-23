@@ -23536,6 +23536,11 @@
     </Package>
   </Packages>
   <Packages Name="Fraise">
+    <Package ID="RnJhaXNlXzAuMy4wXzIwMjQtMDMtMjIgMTc6NDU6MDhfYW50MXI=" Author="ant1r"
+             Timestamp="2024-03-22 17:45:08" Description="Fraise[v0.3.0].dek"
+             Version="0.3.0" URL="http://puredata.info/Members/ant1r/software/Fraise/0.3.0/Fraise[v0.3.0].dek">
+      <Objects/>
+    </Package>
     <Package ID="RnJhaXNlXzAuMi4wXzIwMjMtMTEtMTYgMTc6MjM6MTFfYW50MXI=" Author="ant1r"
              Timestamp="2023-11-16 17:23:11" Description="Fraise[v0.2.0](Darwin-amd64-32).dek"
              Version="0.2.0" URL="http://puredata.info/Members/ant1r/software/Fraise/0.2.0/Fraise[v0.2.0](Darwin-amd64-32).dek">

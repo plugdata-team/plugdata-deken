@@ -9150,6 +9150,16 @@
     </Package>
   </Packages>
   <Packages Name="Fraise">
+    <Package ID="RnJhaXNlXzAuMy4wXzIwMjQtMDMtMjIgMTc6NDU6MDhfYW50MXI=" Author="ant1r"
+             Timestamp="2024-03-22 17:45:08" Description="Fraise[v0.3.0].dek"
+             Version="0.3.0" URL="http://puredata.info/Members/ant1r/software/Fraise/0.3.0/Fraise[v0.3.0].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy4wXzIwMjQtMDMtMjIgMTc6NDU6MDhfYW50MXI=" Author="ant1r"
+             Timestamp="2024-03-22 17:45:08" Description="Fraise[v0.3.0].dek"
+             Version="0.3.0" URL="http://puredata.info/Members/ant1r/software/Fraise/0.3.0/Fraise[v0.3.0].dek">
+      <Objects/>
+    </Package>
     <Package ID="RnJhaXNlXzAuMi4wXzIwMjMtMTEtMTYgMTc6MjE6NDFfYW50MXI=" Author="ant1r"
              Timestamp="2023-11-16 17:21:41" Description="Fraise[v0.2.0](Linux-armv7-32).dek"
              Version="0.2.0" URL="http://puredata.info/Members/ant1r/software/Fraise/0.2.0/Fraise[v0.2.0](Linux-armv7-32).dek">
