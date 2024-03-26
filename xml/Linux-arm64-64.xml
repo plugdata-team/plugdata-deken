@@ -1583,8 +1583,8 @@
     </Package>
   </Packages>
   <Packages Name="Fraise">
-    <Package ID="RnJhaXNlXzAuMy4wXzIwMjQtMDMtMjIgMTc6NDU6MDhfYW50MXI=" Author="ant1r"
-             Timestamp="2024-03-22 17:45:08" Description="Fraise[v0.3.0].dek"
+    <Package ID="RnJhaXNlXzAuMy4wXzIwMjQtMDMtMjUgMTc6NTE6NTZfYW50MXI=" Author="ant1r"
+             Timestamp="2024-03-25 17:51:56" Description="Fraise[v0.3.0].dek"
              Version="0.3.0" URL="http://puredata.info/Members/ant1r/software/Fraise/0.3.0/Fraise[v0.3.0].dek">
       <Objects/>
     </Package>
