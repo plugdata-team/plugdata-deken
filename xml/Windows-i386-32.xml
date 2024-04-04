@@ -2204,8 +2204,8 @@
     </Package>
   </Packages>
   <Packages Name="vstplugin~">
-    <Package ID="dnN0cGx1Z2lufl8wLjYuMF8yMDI0LTAzLTAxIDIxOjUzOjI1X3NwYWNlY2hpbGQx"
-             Author="spacechild1" Timestamp="2024-03-01 21:53:25" Description="vstplugin~[v0.6.0](Windows-i386-32).dek"
+    <Package ID="dnN0cGx1Z2lufl8wLjYuMF8yMDI0LTA0LTAzIDEzOjIxOjQ1X3NwYWNlY2hpbGQx"
+             Author="spacechild1" Timestamp="2024-04-03 13:21:45" Description="vstplugin~[v0.6.0](Windows-i386-32).dek"
              Version="0.6.0" URL="http://puredata.info/Members/spacechild1/software/vstplugin~/0.6.0/vstplugin~[v0.6.0](Windows-i386-32).dek">
       <Objects>
         <Object Name="vstpluginbrowser"/>
