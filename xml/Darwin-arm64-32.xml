@@ -633,23 +633,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="piloslib">
-    <Package ID="cGlsb3NsaWJfMS4wLjRfMjAyMy0wNi0wNCAxNjozOToyNV9ha3VudWxs"
-             Author="akunull" Timestamp="2023-06-04 16:39:25" Description="piloslib[v1.0.4].dek"
-             Version="1.0.4" URL="http://puredata.info/Members/akunull/software/piloslib/1.0.4/piloslib[v1.0.4].dek">
-      <Objects/>
-    </Package>
-    <Package ID="cGlsb3NsaWJfMS4wLjNfMjAyMy0wNi0wMSAwNDoyMDo0M19ha3VudWxs"
-             Author="akunull" Timestamp="2023-06-01 04:20:43" Description="piloslib[v1.0.3].dek"
-             Version="1.0.3" URL="http://puredata.info/Members/akunull/software/piloslib/1.0.3/piloslib[v1.0.3].dek">
-      <Objects/>
-    </Package>
-    <Package ID="cGlsb3NsaWJfMS4wLjJfMjAyMi0wOC0yMyAyMDo0MzoxNl9ha3VudWxs"
-             Author="akunull" Timestamp="2022-08-23 20:43:16" Description="piloslib[v1.0.2].dek"
-             Version="1.0.2" URL="http://puredata.info/Members/akunull/software/piloslib/1.0.2/piloslib[v1.0.2].dek">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="pduino">
     <Package ID="cGR1aW5vXzAuOF8yMDIxLTAzLTI0IDE5OjU5OjIxX3Jkeg==" Author="rdz"
              Timestamp="2021-03-24 19:59:21" Description="pduino[v0.8].dek"
@@ -7448,6 +7431,61 @@
              Version="0.2.3" URL="http://puredata.info/Members/thomas/software/absattr/0.2.3/absattr[v0.2.3](Darwin-amd64-32)(Darwin-arm64-32).dek">
       <Objects>
         <Object Name="absattr"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="piloslib">
+    <Package ID="cGlsb3NsaWJfMS4wLjRfMjAyMy0wNi0wNCAxNjozOToyNV9ha3VudWxs"
+             Author="akunull" Timestamp="2023-06-04 16:39:25" Description="piloslib[v1.0.4].dek"
+             Version="1.0.4" URL="http://puredata.info/Members/akunull/software/piloslib/1.0.4/piloslib[v1.0.4].dek">
+      <Objects/>
+    </Package>
+    <Package ID="cGlsb3NsaWJfMS4wLjNfMjAyMy0wNi0wMSAwNDoyMDo0M19ha3VudWxs"
+             Author="akunull" Timestamp="2023-06-01 04:20:43" Description="piloslib[v1.0.3].dek"
+             Version="1.0.3" URL="http://puredata.info/Members/akunull/software/piloslib/1.0.3/piloslib[v1.0.3].dek">
+      <Objects/>
+    </Package>
+    <Package ID="cGlsb3NsaWJfMS4wLjJfMjAyMi0wOC0yMyAyMDo0MzoxNl9ha3VudWxs"
+             Author="akunull" Timestamp="2022-08-23 20:43:16" Description="piloslib[v1.0.2].dek"
+             Version="1.0.2" URL="http://puredata.info/Members/akunull/software/piloslib/1.0.2/piloslib[v1.0.2].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="hid-0.7-1">
+    <Package ID="aGlkLTAuNy0xXzAuNy0xXzIwMjQtMDQtMTEgMjE6NTQ6MzlfY3JpdGFwZWM="
+             Author="critapec" Timestamp="2024-04-11 21:54:39" Description="hid-0.7-1[v0.7-1](Darwin-arm64-32)(Sources).dek"
+             Version="0.7-1" URL="http://puredata.info/Members/critapec/software/hid-0.7-1/0.7-1/hid-0.7-1[v0.7-1](Darwin-arm64-32)(Sources).dek">
+      <Objects>
+        <Object Name="buttongate"/>
+        <Object Name="deg2hid"/>
+        <Object Name="hid"/>
+        <Object Name="hid2deg"/>
+        <Object Name="hid2rad"/>
+        <Object Name="hid_average"/>
+        <Object Name="hid_centered"/>
+        <Object Name="hid_cube"/>
+        <Object Name="hid_cuberoot"/>
+        <Object Name="hid_exp"/>
+        <Object Name="hid_graph"/>
+        <Object Name="hid_invert"/>
+        <Object Name="hid_log"/>
+        <Object Name="hid_lowpass"/>
+        <Object Name="hid_menu"/>
+        <Object Name="hid_one2four"/>
+        <Object Name="hid_one2three"/>
+        <Object Name="hid_one2two"/>
+        <Object Name="hid_polar"/>
+        <Object Name="hid_rel2abs"/>
+        <Object Name="hid_smooth"/>
+        <Object Name="hid_spiral"/>
+        <Object Name="hid_square"/>
+        <Object Name="hid_squareroot"/>
+        <Object Name="joystick"/>
+        <Object Name="keyboard"/>
+        <Object Name="keygate"/>
+        <Object Name="mouse"/>
+        <Object Name="notescale"/>
+        <Object Name="rad2hid"/>
       </Objects>
     </Package>
   </Packages>
