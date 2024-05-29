@@ -738,6 +738,15 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="simplex~">
+    <Package ID="c2ltcGxleH5fMC4zLjRfMjAyNC0wNS0yOCAxNjo1NzowOV9iZW5fd2VzY2g="
+             Author="ben_wesch" Timestamp="2024-05-28 16:57:09" Description="simplex~[v0.3.4](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Windows-amd64-32)(Windows-amd64-64).dek"
+             Version="0.3.4" URL="http://puredata.info/Members/ben_wesch/software/simplex~/0.3.4/simplex~[v0.3.4](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Windows-amd64-32)(Windows-amd64-64).dek">
+      <Objects>
+        <Object Name="simplex~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="DRFX">
     <Package ID="RFJGWF8wLjUuMV8yMDE4LTAzLTI2IDA0OjI2OjA3X3dtYnJlbnQ=" Author="wmbrent"
              Timestamp="2018-03-26 04:26:07" Description="DRFX[v0.5.1].dek"
