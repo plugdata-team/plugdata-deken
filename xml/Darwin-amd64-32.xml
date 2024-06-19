@@ -21520,8 +21520,8 @@
     </Package>
   </Packages>
   <Packages Name="Gem">
-    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNC0wNS0yMyAxNTo0OTo0Ml9pZW1ib3Q="
-             Author="iembot" Timestamp="2024-05-23 15:49:42" Description="Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-arm64-32).dek"
+    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNC0wNi0xOCAwOTowMzo1Ml9pZW1ib3Q="
+             Author="iembot" Timestamp="2024-06-18 09:03:52" Description="Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-arm64-32).dek"
              Version="0.94-snapshot" URL="http://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-arm64-32).dek">
       <Objects>
         <Object Name="accumrotate"/>
@@ -24441,6 +24441,37 @@
     </Package>
   </Packages>
   <Packages Name="iemguts">
+    <Package ID="aWVtZ3V0c18wLjQuMV8yMDI0LTA2LTE4IDIxOjM2OjA3X3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2024-06-18 21:36:07" Description="iemguts[v0.4.1](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
+             Version="0.4.1" URL="http://puredata.info/Members/zmoelnigbot/software/iemguts/0.4.1/iemguts[v0.4.1](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek">
+      <Objects>
+        <Object Name="autoabstraction"/>
+        <Object Name="canvasargs"/>
+        <Object Name="canvasconnections"/>
+        <Object Name="canvasdelete"/>
+        <Object Name="canvasdollarzero"/>
+        <Object Name="canvaserror"/>
+        <Object Name="canvasindex"/>
+        <Object Name="canvaslock"/>
+        <Object Name="canvasname"/>
+        <Object Name="canvasobjectconnections"/>
+        <Object Name="canvasobjectposition"/>
+        <Object Name="canvasposition"/>
+        <Object Name="canvasselect"/>
+        <Object Name="classtest"/>
+        <Object Name="closebang"/>
+        <Object Name="findbrokenobjects"/>
+        <Object Name="initbang"/>
+        <Object Name="objectrename"/>
+        <Object Name="oreceive"/>
+        <Object Name="propertybang"/>
+        <Object Name="receivecanvas"/>
+        <Object Name="savebangs"/>
+        <Object Name="sendcanvas"/>
+        <Object Name="sendcanvasobject"/>
+        <Object Name="try"/>
+      </Objects>
+    </Package>
     <Package ID="aWVtZ3V0c18wLjQuMF8yMDIzLTA3LTA3IDE3OjI1OjM1X3ptb2VsbmlnYm90"
              Author="zmoelnigbot" Timestamp="2023-07-07 17:25:35" Description="iemguts[v0.4.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
              Version="0.4.0" URL="http://puredata.info/Members/zmoelnigbot/software/iemguts/0.4.0/iemguts[v0.4.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
