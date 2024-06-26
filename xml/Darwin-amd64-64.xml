@@ -271,6 +271,16 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="stash">
+    <Package ID="c3Rhc2hfMC40LjBfMjAyNC0wNi0yNSAyMjoxMTo1NF9iZW5fd2VzY2g="
+             Author="ben_wesch" Timestamp="2024-06-25 22:11:54" Description="stash[v0.4.0].dek"
+             Version="0.4.0" URL="http://puredata.info/Members/ben_wesch/software/stash/0.4.0/stash[v0.4.0].dek">
+      <Objects>
+        <Object Name="hub"/>
+        <Object Name="stash"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="spect_scaled">
     <Package ID="c3BlY3Rfc2NhbGVkXzAuMC4xXzIwMjAtMDMtMDQgMDE6MDM6MThfdGhvbWFz"
              Author="thomas" Timestamp="2020-03-04 01:03:18" Description="spect_scaled[v0.0.1].dek"
@@ -9006,6 +9016,13 @@
     </Package>
   </Packages>
   <Packages Name="simplex~">
+    <Package ID="c2ltcGxleH5fMC4zLjZfMjAyNC0wNi0yNSAyMzowNzozM19iZW5fd2VzY2g="
+             Author="ben_wesch" Timestamp="2024-06-25 23:07:33" Description="simplex~[v0.3.6](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
+             Version="0.3.6" URL="http://puredata.info/Members/ben_wesch/software/simplex~/0.3.6/simplex~[v0.3.6](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek">
+      <Objects>
+        <Object Name="simplex~"/>
+      </Objects>
+    </Package>
     <Package ID="c2ltcGxleH5fMC4zLjVfMjAyNC0wNi0wNCAxNDo1MjozOV9iZW5fd2VzY2g="
              Author="ben_wesch" Timestamp="2024-06-04 14:52:39" Description="simplex~[v0.3.5](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
              Version="0.3.5" URL="http://puredata.info/Members/ben_wesch/software/simplex~/0.3.5/simplex~[v0.3.5](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek">
