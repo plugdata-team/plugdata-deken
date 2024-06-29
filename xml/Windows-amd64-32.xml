@@ -869,9 +869,9 @@
     </Package>
   </Packages>
   <Packages Name="tune~">
-    <Package ID="dHVuZX5fMC4yXzIwMjEtMDUtMTcgMTk6MjA6NTRfd21icmVudA==" Author="wmbrent"
-             Timestamp="2021-05-17 19:20:54" Description="tune~[v0.2].dek"
-             Version="0.2" URL="http://puredata.info/Members/wmbrent/software/tune~/0.2/tune~[v0.2].dek">
+    <Package ID="dHVuZX5fMC4zLjBfMjAyNC0wNi0yOCAyMDozMDo0M193bWJyZW50" Author="wmbrent"
+             Timestamp="2024-06-28 20:30:43" Description="tune~[v0.3.0].dek"
+             Version="0.3.0" URL="http://puredata.info/Members/wmbrent/software/tune~/0.3.0/tune~[v0.3.0].dek">
       <Objects>
         <Object Name="tune~"/>
       </Objects>
