@@ -9274,6 +9274,13 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="soundhack">
+    <Package ID="c291bmRoYWNrXzAuMC4xMF8yMDI0LTA4LTE1IDIxOjE0OjMyX3RvbWVyYmU="
+             Author="tomerbe" Timestamp="2024-08-15 21:14:32" Description="soundhack[v0.0.10](Darwin-arm64-32)(Sources).dek"
+             Version="0.0.10" URL="http://puredata.info/Members/tomerbe/software/soundhack/0.0.10/soundhack[v0.0.10](Darwin-arm64-32)(Sources).dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="command">
     <Package ID="Y29tbWFuZF8wLjRfMjAyMy0wMS0yNiAyMToyNTowMV9yZHo=" Author="rdz"
              Timestamp="2023-01-26 21:25:01" Description="command[v0.4](Darwin-arm64-32).dek"
