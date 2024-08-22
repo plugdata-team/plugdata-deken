@@ -726,9 +726,9 @@
     </Package>
   </Packages>
   <Packages Name="pdlua">
-    <Package ID="cGRsdWFfMC4xMi40XzIwMjQtMDgtMTkgMTU6MTQ6NDZfYmVuX3dlc2No"
-             Author="ben_wesch" Timestamp="2024-08-19 15:14:46" Description="pdlua[v0.12.4](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek"
-             Version="0.12.4" URL="http://puredata.info/Members/ben_wesch/software/pdlua/0.12.4/pdlua[v0.12.4](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek">
+    <Package ID="cGRsdWFfMC4xMi40XzIwMjQtMDgtMjEgMTg6NTk6NTJfYmVuX3dlc2No"
+             Author="ben_wesch" Timestamp="2024-08-21 18:59:52" Description="pdlua[v0.12.4](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
+             Version="0.12.4" URL="http://puredata.info/Members/ben_wesch/software/pdlua/0.12.4/pdlua[v0.12.4](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek">
       <Objects>
         <Object Name="pdlua"/>
         <Object Name="pdluax"/>
@@ -9185,6 +9185,11 @@
     </Package>
   </Packages>
   <Packages Name="Fraise">
+    <Package ID="RnJhaXNlXzAuMy4xXzIwMjQtMDgtMjEgMTg6MzQ6NDJfYW50MXI=" Author="ant1r"
+             Timestamp="2024-08-21 18:34:42" Description="Fraise[v0.3.1].dek"
+             Version="0.3.1" URL="http://puredata.info/Members/ant1r/software/Fraise/0.3.1/Fraise[v0.3.1].dek">
+      <Objects/>
+    </Package>
     <Package ID="RnJhaXNlXzAuMy4wXzIwMjQtMDMtMjkgMTc6NTY6NTlfYW50MXI=" Author="ant1r"
              Timestamp="2024-03-29 17:56:59" Description="Fraise[v0.3.0].dek"
              Version="0.3.0" URL="http://puredata.info/Members/ant1r/software/Fraise/0.3.0/Fraise[v0.3.0].dek">

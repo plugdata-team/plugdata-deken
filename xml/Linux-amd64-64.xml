@@ -435,6 +435,16 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="pdlua">
+    <Package ID="cGRsdWFfMC4xMi40XzIwMjQtMDgtMjEgMTg6NTk6MzVfYmVuX3dlc2No"
+             Author="ben_wesch" Timestamp="2024-08-21 18:59:35" Description="pdlua[v0.12.4](Linux-amd64-32)(Linux-amd64-64).dek"
+             Version="0.12.4" URL="http://puredata.info/Members/ben_wesch/software/pdlua/0.12.4/pdlua[v0.12.4](Linux-amd64-32)(Linux-amd64-64).dek">
+      <Objects>
+        <Object Name="pdlua"/>
+        <Object Name="pdluax"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="pd-wavelet">
     <Package ID="cGQtd2F2ZWxldF8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNDo1ODo1OV9jaHIxNW0="
              Author="chr15m" Timestamp="2015-08-07 14:58:59" Description="pd-wavelet-v0.0.extended--externals.zip"
@@ -2821,6 +2831,11 @@
     </Package>
   </Packages>
   <Packages Name="Fraise">
+    <Package ID="RnJhaXNlXzAuMy4xXzIwMjQtMDgtMjEgMTg6MzQ6NDJfYW50MXI=" Author="ant1r"
+             Timestamp="2024-08-21 18:34:42" Description="Fraise[v0.3.1].dek"
+             Version="0.3.1" URL="http://puredata.info/Members/ant1r/software/Fraise/0.3.1/Fraise[v0.3.1].dek">
+      <Objects/>
+    </Package>
     <Package ID="RnJhaXNlXzAuMy4wXzIwMjQtMDMtMjkgMTc6NTY6NTlfYW50MXI=" Author="ant1r"
              Timestamp="2024-03-29 17:56:59" Description="Fraise[v0.3.0].dek"
              Version="0.3.0" URL="http://puredata.info/Members/ant1r/software/Fraise/0.3.0/Fraise[v0.3.0].dek">

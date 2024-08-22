@@ -1643,6 +1643,11 @@
     </Package>
   </Packages>
   <Packages Name="Fraise">
+    <Package ID="RnJhaXNlXzAuMy4xXzIwMjQtMDgtMjEgMTg6MzQ6NDJfYW50MXI=" Author="ant1r"
+             Timestamp="2024-08-21 18:34:42" Description="Fraise[v0.3.1].dek"
+             Version="0.3.1" URL="http://puredata.info/Members/ant1r/software/Fraise/0.3.1/Fraise[v0.3.1].dek">
+      <Objects/>
+    </Package>
     <Package ID="RnJhaXNlXzAuMy4wXzIwMjQtMDMtMjkgMTc6NTY6NTlfYW50MXI=" Author="ant1r"
              Timestamp="2024-03-29 17:56:59" Description="Fraise[v0.3.0].dek"
              Version="0.3.0" URL="http://puredata.info/Members/ant1r/software/Fraise/0.3.0/Fraise[v0.3.0].dek">
