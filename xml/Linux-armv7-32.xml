@@ -2330,6 +2330,1097 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="iempluginOSC">
+    <Package ID="aWVtcGx1Z2luT1NDXzAuMV8yMDE5LTA0LTEyIDEyOjQzOjU1X3NwYWNlY2hpbGQx"
+             Author="spacechild1" Timestamp="2019-04-12 12:43:55" Description="iempluginOSC[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/spacechild1/software/iempluginOSC/0.1/iempluginOSC[v0.1].dek">
+      <Objects>
+        <Object Name="iempluginOSC"/>
+      </Objects>
+    </Package>
+    <Package ID="aWVtcGx1Z2luT1NDXzAuMV8yMDE5LTA0LTEyIDEyOjQzOjU1X3NwYWNlY2hpbGQx"
+             Author="spacechild1" Timestamp="2019-04-12 12:43:55" Description="iempluginOSC[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/spacechild1/software/iempluginOSC/0.1/iempluginOSC[v0.1].dek">
+      <Objects>
+        <Object Name="iempluginOSC"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="else">
+    <Package ID="ZWxzZV8xLjAtMF9yYzktd2l0aF9saXZlX2VsZWN0cm9uaWNzX3R1dG9yaWFsXzIwMjMtMDktMDQgMTk6MTk6MDRfcG9ycmVz"
+             Author="porres" Timestamp="2023-09-04 19:19:04" Description="else[v1.0-0_rc9-with_live_electronics_tutorial](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-armv6-32)(Linux-armv7-32)(Windows-amd64-32).dek"
+             Version="1.0-0_rc9-with_live_electronics_tutorial" URL="http://puredata.info/Members/porres/software/else/1.0-0_rc9-with_live_electronics_tutorial/else[v1.0-0_rc9-with_live_electronics_tutorial](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-armv6-32)(Linux-armv7-32)(Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="above"/>
+        <Object Name="above~"/>
+        <Object Name="add"/>
+        <Object Name="add~"/>
+        <Object Name="adsr~"/>
+        <Object Name="allpass.2nd~"/>
+        <Object Name="allpass.filt~"/>
+        <Object Name="allpass.rev~"/>
+        <Object Name="amean"/>
+        <Object Name="any2symbol"/>
+        <Object Name="args"/>
+        <Object Name="asr~"/>
+        <Object Name="autofade2~"/>
+        <Object Name="autofade~"/>
+        <Object Name="autotune"/>
+        <Object Name="autotune2"/>
+        <Object Name="avg"/>
+        <Object Name="balance~"/>
+        <Object Name="bandpass~"/>
+        <Object Name="bandstop~"/>
+        <Object Name="bangdiv"/>
+        <Object Name="batch.rec~"/>
+        <Object Name="batch.write~"/>
+        <Object Name="beat~"/>
+        <Object Name="bend.in"/>
+        <Object Name="bend.out"/>
+        <Object Name="bicoeff"/>
+        <Object Name="bicoeff2"/>
+        <Object Name="bin.shift~"/>
+        <Object Name="biplot"/>
+        <Object Name="biquads~"/>
+        <Object Name="bitnormal~"/>
+        <Object Name="bl.imp2~"/>
+        <Object Name="bl.imp~"/>
+        <Object Name="bl.osc~"/>
+        <Object Name="bl.saw2~"/>
+        <Object Name="bl.saw~"/>
+        <Object Name="bl.square~"/>
+        <Object Name="bl.tri~"/>
+        <Object Name="bl.vsaw~"/>
+        <Object Name="bl.wavetable~"/>
+        <Object Name="blip~"/>
+        <Object Name="blocksize~"/>
+        <Object Name="bpbank~"/>
+        <Object Name="bpm"/>
+        <Object Name="break"/>
+        <Object Name="brickwall~"/>
+        <Object Name="brown"/>
+        <Object Name="brown~"/>
+        <Object Name="buffer"/>
+        <Object Name="button"/>
+        <Object Name="canvas.active"/>
+        <Object Name="canvas.bounds"/>
+        <Object Name="canvas.edit"/>
+        <Object Name="canvas.file"/>
+        <Object Name="canvas.gop"/>
+        <Object Name="canvas.mouse"/>
+        <Object Name="canvas.name"/>
+        <Object Name="canvas.pos"/>
+        <Object Name="canvas.setname"/>
+        <Object Name="canvas.vis"/>
+        <Object Name="canvas.zoom"/>
+        <Object Name="car2pol"/>
+        <Object Name="car2pol~"/>
+        <Object Name="ceil"/>
+        <Object Name="ceil~"/>
+        <Object Name="cents2frac"/>
+        <Object Name="cents2ratio"/>
+        <Object Name="cents2ratio~"/>
+        <Object Name="cents2scale"/>
+        <Object Name="chance"/>
+        <Object Name="chance~"/>
+        <Object Name="changed"/>
+        <Object Name="changed2~"/>
+        <Object Name="changed~"/>
+        <Object Name="chorus~"/>
+        <Object Name="chrono"/>
+        <Object Name="circle"/>
+        <Object Name="click"/>
+        <Object Name="clock"/>
+        <Object Name="cmul~"/>
+        <Object Name="coeff2pz"/>
+        <Object Name="colors"/>
+        <Object Name="comb.filt~"/>
+        <Object Name="comb.rev~"/>
+        <Object Name="combine"/>
+        <Object Name="compress~"/>
+        <Object Name="conv~"/>
+        <Object Name="cosine~"/>
+        <Object Name="count"/>
+        <Object Name="crackle~"/>
+        <Object Name="crossover~"/>
+        <Object Name="crusher~"/>
+        <Object Name="ctl.in"/>
+        <Object Name="ctl.out"/>
+        <Object Name="cusp~"/>
+        <Object Name="datetime"/>
+        <Object Name="db2lin"/>
+        <Object Name="db2lin~"/>
+        <Object Name="dec2frac"/>
+        <Object Name="dec2hex"/>
+        <Object Name="decay2~"/>
+        <Object Name="decay~"/>
+        <Object Name="default"/>
+        <Object Name="deg2rad"/>
+        <Object Name="delete"/>
+        <Object Name="del~"/>
+        <Object Name="detect~"/>
+        <Object Name="dir"/>
+        <Object Name="display"/>
+        <Object Name="dollsym"/>
+        <Object Name="downsample~"/>
+        <Object Name="drive~"/>
+        <Object Name="drum.seq"/>
+        <Object Name="drunkard"/>
+        <Object Name="drunkard~"/>
+        <Object Name="duck~"/>
+        <Object Name="dust2~"/>
+        <Object Name="dust~"/>
+        <Object Name="e"/>
+        <Object Name="echo.rev~"/>
+        <Object Name="else"/>
+        <Object Name="envelope~"/>
+        <Object Name="envgen~"/>
+        <Object Name="eqdiv"/>
+        <Object Name="equal"/>
+        <Object Name="eq~"/>
+        <Object Name="euclid"/>
+        <Object Name="expand~"/>
+        <Object Name="f2s~"/>
+        <Object Name="factor"/>
+        <Object Name="fader~"/>
+        <Object Name="fbdelay~"/>
+        <Object Name="fbsine2~"/>
+        <Object Name="fbsine~"/>
+        <Object Name="fdn.rev~"/>
+        <Object Name="ffdelay~"/>
+        <Object Name="filterdelay~"/>
+        <Object Name="flanger~"/>
+        <Object Name="float2bits"/>
+        <Object Name="float2sig~"/>
+        <Object Name="floor"/>
+        <Object Name="floor~"/>
+        <Object Name="fold"/>
+        <Object Name="fold~"/>
+        <Object Name="fontsize"/>
+        <Object Name="format"/>
+        <Object Name="frac.add"/>
+        <Object Name="frac.mul"/>
+        <Object Name="frac2cents"/>
+        <Object Name="frac2dec"/>
+        <Object Name="free.rev~"/>
+        <Object Name="freeze~"/>
+        <Object Name="freq.shift~"/>
+        <Object Name="freq2midi"/>
+        <Object Name="function"/>
+        <Object Name="function~"/>
+        <Object Name="gain2~"/>
+        <Object Name="gain~"/>
+        <Object Name="gate2imp~"/>
+        <Object Name="gatehold~"/>
+        <Object Name="gaussian~"/>
+        <Object Name="gbman~"/>
+        <Object Name="gcd"/>
+        <Object Name="gendyn~"/>
+        <Object Name="get~"/>
+        <Object Name="giga.rev~"/>
+        <Object Name="glide"/>
+        <Object Name="glide2"/>
+        <Object Name="glide2~"/>
+        <Object Name="glide~"/>
+        <Object Name="gmean"/>
+        <Object Name="grain.live~"/>
+        <Object Name="grain.sampler~"/>
+        <Object Name="grain.synth~"/>
+        <Object Name="gran.player~"/>
+        <Object Name="graph~"/>
+        <Object Name="gray~"/>
+        <Object Name="group"/>
+        <Object Name="hann~"/>
+        <Object Name="henon~"/>
+        <Object Name="hex2dec"/>
+        <Object Name="highpass~"/>
+        <Object Name="highshelf~"/>
+        <Object Name="hip.bw~"/>
+        <Object Name="histogram"/>
+        <Object Name="hot"/>
+        <Object Name="hz2rad"/>
+        <Object Name="ikeda~"/>
+        <Object Name="imp.mc~"/>
+        <Object Name="impseq~"/>
+        <Object Name="impulse"/>
+        <Object Name="impulse2~"/>
+        <Object Name="impulse~"/>
+        <Object Name="initmess"/>
+        <Object Name="insert"/>
+        <Object Name="interpolate"/>
+        <Object Name="iterate"/>
+        <Object Name="keyboard"/>
+        <Object Name="keycode"/>
+        <Object Name="keymap"/>
+        <Object Name="keypress"/>
+        <Object Name="knob"/>
+        <Object Name="lag2~"/>
+        <Object Name="lag~"/>
+        <Object Name="lastvalue"/>
+        <Object Name="lastvalue~"/>
+        <Object Name="latoocarfian~"/>
+        <Object Name="lcm"/>
+        <Object Name="lfnoise"/>
+        <Object Name="lfnoise~"/>
+        <Object Name="lfo"/>
+        <Object Name="limit"/>
+        <Object Name="lin2db"/>
+        <Object Name="lin2db~"/>
+        <Object Name="lincong~"/>
+        <Object Name="loadbanger"/>
+        <Object Name="logistic~"/>
+        <Object Name="loop"/>
+        <Object Name="lop.bw~"/>
+        <Object Name="lop2~"/>
+        <Object Name="lorenz~"/>
+        <Object Name="lowpass~"/>
+        <Object Name="lowshelf~"/>
+        <Object Name="mag"/>
+        <Object Name="mag~"/>
+        <Object Name="makenote2"/>
+        <Object Name="markov"/>
+        <Object Name="match~"/>
+        <Object Name="maxpeak~"/>
+        <Object Name="median"/>
+        <Object Name="median~"/>
+        <Object Name="merge"/>
+        <Object Name="merge~"/>
+        <Object Name="message"/>
+        <Object Name="messbox"/>
+        <Object Name="meter"/>
+        <Object Name="meter2~"/>
+        <Object Name="meter4~"/>
+        <Object Name="meter8~"/>
+        <Object Name="meter~"/>
+        <Object Name="metronome"/>
+        <Object Name="metronome~"/>
+        <Object Name="midi"/>
+        <Object Name="midi.clock"/>
+        <Object Name="midi.in"/>
+        <Object Name="midi.learn"/>
+        <Object Name="midi.out"/>
+        <Object Name="midi2freq"/>
+        <Object Name="mix2~"/>
+        <Object Name="mix4~"/>
+        <Object Name="mono"/>
+        <Object Name="mono.rev~"/>
+        <Object Name="morph"/>
+        <Object Name="morph~"/>
+        <Object Name="mouse"/>
+        <Object Name="mov.avg"/>
+        <Object Name="mov.avg~"/>
+        <Object Name="mov.rms~"/>
+        <Object Name="ms2samps"/>
+        <Object Name="ms2samps~"/>
+        <Object Name="mtx.ctl"/>
+        <Object Name="mtx~"/>
+        <Object Name="multi.vsl"/>
+        <Object Name="nchs~"/>
+        <Object Name="nmess"/>
+        <Object Name="noisegate~"/>
+        <Object Name="norm~"/>
+        <Object Name="note"/>
+        <Object Name="note.in"/>
+        <Object Name="note.out"/>
+        <Object Name="note2dur"/>
+        <Object Name="note2pitch"/>
+        <Object Name="noteinfo"/>
+        <Object Name="numbox~"/>
+        <Object Name="nyquist~"/>
+        <Object Name="op"/>
+        <Object Name="openfile"/>
+        <Object Name="op~"/>
+        <Object Name="order"/>
+        <Object Name="osc.format"/>
+        <Object Name="osc.mc~"/>
+        <Object Name="osc.parse"/>
+        <Object Name="osc.receive"/>
+        <Object Name="osc.route"/>
+        <Object Name="osc.send"/>
+        <Object Name="oscbank2~"/>
+        <Object Name="oscbank~"/>
+        <Object Name="oscnoise~"/>
+        <Object Name="oscope~"/>
+        <Object Name="out.mc~"/>
+        <Object Name="out4~"/>
+        <Object Name="out8~"/>
+        <Object Name="out~"/>
+        <Object Name="pack2"/>
+        <Object Name="pad"/>
+        <Object Name="pan2~"/>
+        <Object Name="pan4~"/>
+        <Object Name="pan8~"/>
+        <Object Name="panic"/>
+        <Object Name="parabolic~"/>
+        <Object Name="pattern"/>
+        <Object Name="peak~"/>
+        <Object Name="perlin~"/>
+        <Object Name="pgm.in"/>
+        <Object Name="pgm.out"/>
+        <Object Name="phaser~"/>
+        <Object Name="phaseseq~"/>
+        <Object Name="phasor"/>
+        <Object Name="pi"/>
+        <Object Name="pic"/>
+        <Object Name="pick"/>
+        <Object Name="pick~"/>
+        <Object Name="pimp"/>
+        <Object Name="pimpmul~"/>
+        <Object Name="pimp~"/>
+        <Object Name="ping.pong~"/>
+        <Object Name="pink~"/>
+        <Object Name="pipe2"/>
+        <Object Name="pitch.shift~"/>
+        <Object Name="pitch2note"/>
+        <Object Name="plaits~"/>
+        <Object Name="plate.rev~"/>
+        <Object Name="play.file~"/>
+        <Object Name="player~"/>
+        <Object Name="pluck~"/>
+        <Object Name="pmosc~"/>
+        <Object Name="pol2car"/>
+        <Object Name="pol2car~"/>
+        <Object Name="polymetro"/>
+        <Object Name="polymetro~"/>
+        <Object Name="power~"/>
+        <Object Name="presets"/>
+        <Object Name="properties"/>
+        <Object Name="ptouch.in"/>
+        <Object Name="ptouch.out"/>
+        <Object Name="pulse"/>
+        <Object Name="pulsecount~"/>
+        <Object Name="pulsediv~"/>
+        <Object Name="pulse~"/>
+        <Object Name="pvoc.freeze~"/>
+        <Object Name="pvoc.live~"/>
+        <Object Name="pvoc.player~"/>
+        <Object Name="pz2coeff"/>
+        <Object Name="quad~"/>
+        <Object Name="quantizer"/>
+        <Object Name="quantizer~"/>
+        <Object Name="rad2deg"/>
+        <Object Name="rad2hz"/>
+        <Object Name="rampnoise"/>
+        <Object Name="rampnoise.mc~"/>
+        <Object Name="rampnoise~"/>
+        <Object Name="ramp~"/>
+        <Object Name="rand.dist"/>
+        <Object Name="rand.f"/>
+        <Object Name="rand.f~"/>
+        <Object Name="rand.hist"/>
+        <Object Name="rand.i"/>
+        <Object Name="rand.i~"/>
+        <Object Name="rand.list"/>
+        <Object Name="rand.u"/>
+        <Object Name="randpulse"/>
+        <Object Name="randpulse2"/>
+        <Object Name="randpulse2~"/>
+        <Object Name="randpulse~"/>
+        <Object Name="range"/>
+        <Object Name="range.hsl"/>
+        <Object Name="range~"/>
+        <Object Name="ratio2cents"/>
+        <Object Name="ratio2cents~"/>
+        <Object Name="rec"/>
+        <Object Name="rec.file~"/>
+        <Object Name="rec2"/>
+        <Object Name="receiver"/>
+        <Object Name="remove"/>
+        <Object Name="repeat~"/>
+        <Object Name="replace"/>
+        <Object Name="rescale"/>
+        <Object Name="rescale~"/>
+        <Object Name="resonant2~"/>
+        <Object Name="resonant~"/>
+        <Object Name="resonbank2~"/>
+        <Object Name="resonbank~"/>
+        <Object Name="retrieve"/>
+        <Object Name="retune"/>
+        <Object Name="revdelay~"/>
+        <Object Name="reverse"/>
+        <Object Name="rint"/>
+        <Object Name="rint~"/>
+        <Object Name="rms~"/>
+        <Object Name="rm~"/>
+        <Object Name="rotate"/>
+        <Object Name="rotate.mc~"/>
+        <Object Name="rotate~"/>
+        <Object Name="route2"/>
+        <Object Name="routeall"/>
+        <Object Name="router"/>
+        <Object Name="routetype"/>
+        <Object Name="sample~"/>
+        <Object Name="samps2ms"/>
+        <Object Name="samps2ms~"/>
+        <Object Name="saw2~"/>
+        <Object Name="saw~"/>
+        <Object Name="scala"/>
+        <Object Name="scale2cents"/>
+        <Object Name="scale2freq"/>
+        <Object Name="scales"/>
+        <Object Name="schmitt"/>
+        <Object Name="schmitt~"/>
+        <Object Name="score"/>
+        <Object Name="score2"/>
+        <Object Name="scramble"/>
+        <Object Name="selector"/>
+        <Object Name="select~"/>
+        <Object Name="sender"/>
+        <Object Name="separate"/>
+        <Object Name="sequencer"/>
+        <Object Name="sequencer~"/>
+        <Object Name="setdsp~"/>
+        <Object Name="sfont~"/>
+        <Object Name="sfz~"/>
+        <Object Name="shaper~"/>
+        <Object Name="sh~"/>
+        <Object Name="sig2float~"/>
+        <Object Name="sigs~"/>
+        <Object Name="sine~"/>
+        <Object Name="sin~"/>
+        <Object Name="slew"/>
+        <Object Name="slew2"/>
+        <Object Name="slew2~"/>
+        <Object Name="slew~"/>
+        <Object Name="slice"/>
+        <Object Name="slice~"/>
+        <Object Name="slider2d"/>
+        <Object Name="sort"/>
+        <Object Name="spectrograph~"/>
+        <Object Name="speed"/>
+        <Object Name="spread"/>
+        <Object Name="spread.mc~"/>
+        <Object Name="spread~"/>
+        <Object Name="square~"/>
+        <Object Name="sr~"/>
+        <Object Name="stack"/>
+        <Object Name="standard~"/>
+        <Object Name="status"/>
+        <Object Name="status~"/>
+        <Object Name="stepnoise"/>
+        <Object Name="stepnoise.mc~"/>
+        <Object Name="stepnoise~"/>
+        <Object Name="stereo.rev~"/>
+        <Object Name="store"/>
+        <Object Name="stream"/>
+        <Object Name="stretch.shift~"/>
+        <Object Name="sum"/>
+        <Object Name="sum~"/>
+        <Object Name="susloop~"/>
+        <Object Name="suspedal"/>
+        <Object Name="svfilter~"/>
+        <Object Name="swap2"/>
+        <Object Name="symbol2any"/>
+        <Object Name="synth~"/>
+        <Object Name="sysrt.in"/>
+        <Object Name="sysrt.out"/>
+        <Object Name="tabgen"/>
+        <Object Name="tabplayer~"/>
+        <Object Name="tabreader"/>
+        <Object Name="tabreader~"/>
+        <Object Name="tabwriter~"/>
+        <Object Name="tap"/>
+        <Object Name="tempo"/>
+        <Object Name="tempo~"/>
+        <Object Name="timed.gate"/>
+        <Object Name="timed.gate~"/>
+        <Object Name="toggleff~"/>
+        <Object Name="touch.in"/>
+        <Object Name="touch.out"/>
+        <Object Name="tremolo~"/>
+        <Object Name="trig.delay2~"/>
+        <Object Name="trig.delay~"/>
+        <Object Name="trig2bang"/>
+        <Object Name="trig2bang~"/>
+        <Object Name="trighold~"/>
+        <Object Name="tri~"/>
+        <Object Name="trunc"/>
+        <Object Name="trunc~"/>
+        <Object Name="unite"/>
+        <Object Name="unmerge"/>
+        <Object Name="unmerge~"/>
+        <Object Name="vibrato~"/>
+        <Object Name="vocoder~"/>
+        <Object Name="voices"/>
+        <Object Name="voices~"/>
+        <Object Name="vsaw~"/>
+        <Object Name="vu~"/>
+        <Object Name="wavetable~"/>
+        <Object Name="white~"/>
+        <Object Name="wrap2"/>
+        <Object Name="wrap2~"/>
+        <Object Name="xfade.mc~"/>
+        <Object Name="xfade~"/>
+        <Object Name="xgate.mc~"/>
+        <Object Name="xgate2~"/>
+        <Object Name="xgate~"/>
+        <Object Name="xmod2~"/>
+        <Object Name="xmod~"/>
+        <Object Name="xselect.mc~"/>
+        <Object Name="xselect2~"/>
+        <Object Name="xselect~"/>
+        <Object Name="zbiplot"/>
+        <Object Name="zerocross~"/>
+      </Objects>
+    </Package>
+    <Package ID="ZWxzZV8xLjAtMF9yYzktd2l0aF9saXZlX2VsZWN0cm9uaWNzX3R1dG9yaWFsXzIwMjMtMDktMDQgMTk6MTk6MDRfcG9ycmVz"
+             Author="porres" Timestamp="2023-09-04 19:19:04" Description="else[v1.0-0_rc9-with_live_electronics_tutorial](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-armv6-32)(Linux-armv7-32)(Windows-amd64-32).dek"
+             Version="1.0-0_rc9-with_live_electronics_tutorial" URL="http://puredata.info/Members/porres/software/else/1.0-0_rc9-with_live_electronics_tutorial/else[v1.0-0_rc9-with_live_electronics_tutorial](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-armv6-32)(Linux-armv7-32)(Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="above"/>
+        <Object Name="above~"/>
+        <Object Name="add"/>
+        <Object Name="add~"/>
+        <Object Name="adsr~"/>
+        <Object Name="allpass.2nd~"/>
+        <Object Name="allpass.filt~"/>
+        <Object Name="allpass.rev~"/>
+        <Object Name="amean"/>
+        <Object Name="any2symbol"/>
+        <Object Name="args"/>
+        <Object Name="asr~"/>
+        <Object Name="autofade2~"/>
+        <Object Name="autofade~"/>
+        <Object Name="autotune"/>
+        <Object Name="autotune2"/>
+        <Object Name="avg"/>
+        <Object Name="balance~"/>
+        <Object Name="bandpass~"/>
+        <Object Name="bandstop~"/>
+        <Object Name="bangdiv"/>
+        <Object Name="batch.rec~"/>
+        <Object Name="batch.write~"/>
+        <Object Name="beat~"/>
+        <Object Name="bend.in"/>
+        <Object Name="bend.out"/>
+        <Object Name="bicoeff"/>
+        <Object Name="bicoeff2"/>
+        <Object Name="bin.shift~"/>
+        <Object Name="biplot"/>
+        <Object Name="biquads~"/>
+        <Object Name="bitnormal~"/>
+        <Object Name="bl.imp2~"/>
+        <Object Name="bl.imp~"/>
+        <Object Name="bl.osc~"/>
+        <Object Name="bl.saw2~"/>
+        <Object Name="bl.saw~"/>
+        <Object Name="bl.square~"/>
+        <Object Name="bl.tri~"/>
+        <Object Name="bl.vsaw~"/>
+        <Object Name="bl.wavetable~"/>
+        <Object Name="blip~"/>
+        <Object Name="blocksize~"/>
+        <Object Name="bpbank~"/>
+        <Object Name="bpm"/>
+        <Object Name="break"/>
+        <Object Name="brickwall~"/>
+        <Object Name="brown"/>
+        <Object Name="brown~"/>
+        <Object Name="buffer"/>
+        <Object Name="button"/>
+        <Object Name="canvas.active"/>
+        <Object Name="canvas.bounds"/>
+        <Object Name="canvas.edit"/>
+        <Object Name="canvas.file"/>
+        <Object Name="canvas.gop"/>
+        <Object Name="canvas.mouse"/>
+        <Object Name="canvas.name"/>
+        <Object Name="canvas.pos"/>
+        <Object Name="canvas.setname"/>
+        <Object Name="canvas.vis"/>
+        <Object Name="canvas.zoom"/>
+        <Object Name="car2pol"/>
+        <Object Name="car2pol~"/>
+        <Object Name="ceil"/>
+        <Object Name="ceil~"/>
+        <Object Name="cents2frac"/>
+        <Object Name="cents2ratio"/>
+        <Object Name="cents2ratio~"/>
+        <Object Name="cents2scale"/>
+        <Object Name="chance"/>
+        <Object Name="chance~"/>
+        <Object Name="changed"/>
+        <Object Name="changed2~"/>
+        <Object Name="changed~"/>
+        <Object Name="chorus~"/>
+        <Object Name="chrono"/>
+        <Object Name="circle"/>
+        <Object Name="click"/>
+        <Object Name="clock"/>
+        <Object Name="cmul~"/>
+        <Object Name="coeff2pz"/>
+        <Object Name="colors"/>
+        <Object Name="comb.filt~"/>
+        <Object Name="comb.rev~"/>
+        <Object Name="combine"/>
+        <Object Name="compress~"/>
+        <Object Name="conv~"/>
+        <Object Name="cosine~"/>
+        <Object Name="count"/>
+        <Object Name="crackle~"/>
+        <Object Name="crossover~"/>
+        <Object Name="crusher~"/>
+        <Object Name="ctl.in"/>
+        <Object Name="ctl.out"/>
+        <Object Name="cusp~"/>
+        <Object Name="datetime"/>
+        <Object Name="db2lin"/>
+        <Object Name="db2lin~"/>
+        <Object Name="dec2frac"/>
+        <Object Name="dec2hex"/>
+        <Object Name="decay2~"/>
+        <Object Name="decay~"/>
+        <Object Name="default"/>
+        <Object Name="deg2rad"/>
+        <Object Name="delete"/>
+        <Object Name="del~"/>
+        <Object Name="detect~"/>
+        <Object Name="dir"/>
+        <Object Name="display"/>
+        <Object Name="dollsym"/>
+        <Object Name="downsample~"/>
+        <Object Name="drive~"/>
+        <Object Name="drum.seq"/>
+        <Object Name="drunkard"/>
+        <Object Name="drunkard~"/>
+        <Object Name="duck~"/>
+        <Object Name="dust2~"/>
+        <Object Name="dust~"/>
+        <Object Name="e"/>
+        <Object Name="echo.rev~"/>
+        <Object Name="else"/>
+        <Object Name="envelope~"/>
+        <Object Name="envgen~"/>
+        <Object Name="eqdiv"/>
+        <Object Name="equal"/>
+        <Object Name="eq~"/>
+        <Object Name="euclid"/>
+        <Object Name="expand~"/>
+        <Object Name="f2s~"/>
+        <Object Name="factor"/>
+        <Object Name="fader~"/>
+        <Object Name="fbdelay~"/>
+        <Object Name="fbsine2~"/>
+        <Object Name="fbsine~"/>
+        <Object Name="fdn.rev~"/>
+        <Object Name="ffdelay~"/>
+        <Object Name="filterdelay~"/>
+        <Object Name="flanger~"/>
+        <Object Name="float2bits"/>
+        <Object Name="float2sig~"/>
+        <Object Name="floor"/>
+        <Object Name="floor~"/>
+        <Object Name="fold"/>
+        <Object Name="fold~"/>
+        <Object Name="fontsize"/>
+        <Object Name="format"/>
+        <Object Name="frac.add"/>
+        <Object Name="frac.mul"/>
+        <Object Name="frac2cents"/>
+        <Object Name="frac2dec"/>
+        <Object Name="free.rev~"/>
+        <Object Name="freeze~"/>
+        <Object Name="freq.shift~"/>
+        <Object Name="freq2midi"/>
+        <Object Name="function"/>
+        <Object Name="function~"/>
+        <Object Name="gain2~"/>
+        <Object Name="gain~"/>
+        <Object Name="gate2imp~"/>
+        <Object Name="gatehold~"/>
+        <Object Name="gaussian~"/>
+        <Object Name="gbman~"/>
+        <Object Name="gcd"/>
+        <Object Name="gendyn~"/>
+        <Object Name="get~"/>
+        <Object Name="giga.rev~"/>
+        <Object Name="glide"/>
+        <Object Name="glide2"/>
+        <Object Name="glide2~"/>
+        <Object Name="glide~"/>
+        <Object Name="gmean"/>
+        <Object Name="grain.live~"/>
+        <Object Name="grain.sampler~"/>
+        <Object Name="grain.synth~"/>
+        <Object Name="gran.player~"/>
+        <Object Name="graph~"/>
+        <Object Name="gray~"/>
+        <Object Name="group"/>
+        <Object Name="hann~"/>
+        <Object Name="henon~"/>
+        <Object Name="hex2dec"/>
+        <Object Name="highpass~"/>
+        <Object Name="highshelf~"/>
+        <Object Name="hip.bw~"/>
+        <Object Name="histogram"/>
+        <Object Name="hot"/>
+        <Object Name="hz2rad"/>
+        <Object Name="ikeda~"/>
+        <Object Name="imp.mc~"/>
+        <Object Name="impseq~"/>
+        <Object Name="impulse"/>
+        <Object Name="impulse2~"/>
+        <Object Name="impulse~"/>
+        <Object Name="initmess"/>
+        <Object Name="insert"/>
+        <Object Name="interpolate"/>
+        <Object Name="iterate"/>
+        <Object Name="keyboard"/>
+        <Object Name="keycode"/>
+        <Object Name="keymap"/>
+        <Object Name="keypress"/>
+        <Object Name="knob"/>
+        <Object Name="lag2~"/>
+        <Object Name="lag~"/>
+        <Object Name="lastvalue"/>
+        <Object Name="lastvalue~"/>
+        <Object Name="latoocarfian~"/>
+        <Object Name="lcm"/>
+        <Object Name="lfnoise"/>
+        <Object Name="lfnoise~"/>
+        <Object Name="lfo"/>
+        <Object Name="limit"/>
+        <Object Name="lin2db"/>
+        <Object Name="lin2db~"/>
+        <Object Name="lincong~"/>
+        <Object Name="loadbanger"/>
+        <Object Name="logistic~"/>
+        <Object Name="loop"/>
+        <Object Name="lop.bw~"/>
+        <Object Name="lop2~"/>
+        <Object Name="lorenz~"/>
+        <Object Name="lowpass~"/>
+        <Object Name="lowshelf~"/>
+        <Object Name="mag"/>
+        <Object Name="mag~"/>
+        <Object Name="makenote2"/>
+        <Object Name="markov"/>
+        <Object Name="match~"/>
+        <Object Name="maxpeak~"/>
+        <Object Name="median"/>
+        <Object Name="median~"/>
+        <Object Name="merge"/>
+        <Object Name="merge~"/>
+        <Object Name="message"/>
+        <Object Name="messbox"/>
+        <Object Name="meter"/>
+        <Object Name="meter2~"/>
+        <Object Name="meter4~"/>
+        <Object Name="meter8~"/>
+        <Object Name="meter~"/>
+        <Object Name="metronome"/>
+        <Object Name="metronome~"/>
+        <Object Name="midi"/>
+        <Object Name="midi.clock"/>
+        <Object Name="midi.in"/>
+        <Object Name="midi.learn"/>
+        <Object Name="midi.out"/>
+        <Object Name="midi2freq"/>
+        <Object Name="mix2~"/>
+        <Object Name="mix4~"/>
+        <Object Name="mono"/>
+        <Object Name="mono.rev~"/>
+        <Object Name="morph"/>
+        <Object Name="morph~"/>
+        <Object Name="mouse"/>
+        <Object Name="mov.avg"/>
+        <Object Name="mov.avg~"/>
+        <Object Name="mov.rms~"/>
+        <Object Name="ms2samps"/>
+        <Object Name="ms2samps~"/>
+        <Object Name="mtx.ctl"/>
+        <Object Name="mtx~"/>
+        <Object Name="multi.vsl"/>
+        <Object Name="nchs~"/>
+        <Object Name="nmess"/>
+        <Object Name="noisegate~"/>
+        <Object Name="norm~"/>
+        <Object Name="note"/>
+        <Object Name="note.in"/>
+        <Object Name="note.out"/>
+        <Object Name="note2dur"/>
+        <Object Name="note2pitch"/>
+        <Object Name="noteinfo"/>
+        <Object Name="numbox~"/>
+        <Object Name="nyquist~"/>
+        <Object Name="op"/>
+        <Object Name="openfile"/>
+        <Object Name="op~"/>
+        <Object Name="order"/>
+        <Object Name="osc.format"/>
+        <Object Name="osc.mc~"/>
+        <Object Name="osc.parse"/>
+        <Object Name="osc.receive"/>
+        <Object Name="osc.route"/>
+        <Object Name="osc.send"/>
+        <Object Name="oscbank2~"/>
+        <Object Name="oscbank~"/>
+        <Object Name="oscnoise~"/>
+        <Object Name="oscope~"/>
+        <Object Name="out.mc~"/>
+        <Object Name="out4~"/>
+        <Object Name="out8~"/>
+        <Object Name="out~"/>
+        <Object Name="pack2"/>
+        <Object Name="pad"/>
+        <Object Name="pan2~"/>
+        <Object Name="pan4~"/>
+        <Object Name="pan8~"/>
+        <Object Name="panic"/>
+        <Object Name="parabolic~"/>
+        <Object Name="pattern"/>
+        <Object Name="peak~"/>
+        <Object Name="perlin~"/>
+        <Object Name="pgm.in"/>
+        <Object Name="pgm.out"/>
+        <Object Name="phaser~"/>
+        <Object Name="phaseseq~"/>
+        <Object Name="phasor"/>
+        <Object Name="pi"/>
+        <Object Name="pic"/>
+        <Object Name="pick"/>
+        <Object Name="pick~"/>
+        <Object Name="pimp"/>
+        <Object Name="pimpmul~"/>
+        <Object Name="pimp~"/>
+        <Object Name="ping.pong~"/>
+        <Object Name="pink~"/>
+        <Object Name="pipe2"/>
+        <Object Name="pitch.shift~"/>
+        <Object Name="pitch2note"/>
+        <Object Name="plaits~"/>
+        <Object Name="plate.rev~"/>
+        <Object Name="play.file~"/>
+        <Object Name="player~"/>
+        <Object Name="pluck~"/>
+        <Object Name="pmosc~"/>
+        <Object Name="pol2car"/>
+        <Object Name="pol2car~"/>
+        <Object Name="polymetro"/>
+        <Object Name="polymetro~"/>
+        <Object Name="power~"/>
+        <Object Name="presets"/>
+        <Object Name="properties"/>
+        <Object Name="ptouch.in"/>
+        <Object Name="ptouch.out"/>
+        <Object Name="pulse"/>
+        <Object Name="pulsecount~"/>
+        <Object Name="pulsediv~"/>
+        <Object Name="pulse~"/>
+        <Object Name="pvoc.freeze~"/>
+        <Object Name="pvoc.live~"/>
+        <Object Name="pvoc.player~"/>
+        <Object Name="pz2coeff"/>
+        <Object Name="quad~"/>
+        <Object Name="quantizer"/>
+        <Object Name="quantizer~"/>
+        <Object Name="rad2deg"/>
+        <Object Name="rad2hz"/>
+        <Object Name="rampnoise"/>
+        <Object Name="rampnoise.mc~"/>
+        <Object Name="rampnoise~"/>
+        <Object Name="ramp~"/>
+        <Object Name="rand.dist"/>
+        <Object Name="rand.f"/>
+        <Object Name="rand.f~"/>
+        <Object Name="rand.hist"/>
+        <Object Name="rand.i"/>
+        <Object Name="rand.i~"/>
+        <Object Name="rand.list"/>
+        <Object Name="rand.u"/>
+        <Object Name="randpulse"/>
+        <Object Name="randpulse2"/>
+        <Object Name="randpulse2~"/>
+        <Object Name="randpulse~"/>
+        <Object Name="range"/>
+        <Object Name="range.hsl"/>
+        <Object Name="range~"/>
+        <Object Name="ratio2cents"/>
+        <Object Name="ratio2cents~"/>
+        <Object Name="rec"/>
+        <Object Name="rec.file~"/>
+        <Object Name="rec2"/>
+        <Object Name="receiver"/>
+        <Object Name="remove"/>
+        <Object Name="repeat~"/>
+        <Object Name="replace"/>
+        <Object Name="rescale"/>
+        <Object Name="rescale~"/>
+        <Object Name="resonant2~"/>
+        <Object Name="resonant~"/>
+        <Object Name="resonbank2~"/>
+        <Object Name="resonbank~"/>
+        <Object Name="retrieve"/>
+        <Object Name="retune"/>
+        <Object Name="revdelay~"/>
+        <Object Name="reverse"/>
+        <Object Name="rint"/>
+        <Object Name="rint~"/>
+        <Object Name="rms~"/>
+        <Object Name="rm~"/>
+        <Object Name="rotate"/>
+        <Object Name="rotate.mc~"/>
+        <Object Name="rotate~"/>
+        <Object Name="route2"/>
+        <Object Name="routeall"/>
+        <Object Name="router"/>
+        <Object Name="routetype"/>
+        <Object Name="sample~"/>
+        <Object Name="samps2ms"/>
+        <Object Name="samps2ms~"/>
+        <Object Name="saw2~"/>
+        <Object Name="saw~"/>
+        <Object Name="scala"/>
+        <Object Name="scale2cents"/>
+        <Object Name="scale2freq"/>
+        <Object Name="scales"/>
+        <Object Name="schmitt"/>
+        <Object Name="schmitt~"/>
+        <Object Name="score"/>
+        <Object Name="score2"/>
+        <Object Name="scramble"/>
+        <Object Name="selector"/>
+        <Object Name="select~"/>
+        <Object Name="sender"/>
+        <Object Name="separate"/>
+        <Object Name="sequencer"/>
+        <Object Name="sequencer~"/>
+        <Object Name="setdsp~"/>
+        <Object Name="sfont~"/>
+        <Object Name="sfz~"/>
+        <Object Name="shaper~"/>
+        <Object Name="sh~"/>
+        <Object Name="sig2float~"/>
+        <Object Name="sigs~"/>
+        <Object Name="sine~"/>
+        <Object Name="sin~"/>
+        <Object Name="slew"/>
+        <Object Name="slew2"/>
+        <Object Name="slew2~"/>
+        <Object Name="slew~"/>
+        <Object Name="slice"/>
+        <Object Name="slice~"/>
+        <Object Name="slider2d"/>
+        <Object Name="sort"/>
+        <Object Name="spectrograph~"/>
+        <Object Name="speed"/>
+        <Object Name="spread"/>
+        <Object Name="spread.mc~"/>
+        <Object Name="spread~"/>
+        <Object Name="square~"/>
+        <Object Name="sr~"/>
+        <Object Name="stack"/>
+        <Object Name="standard~"/>
+        <Object Name="status"/>
+        <Object Name="status~"/>
+        <Object Name="stepnoise"/>
+        <Object Name="stepnoise.mc~"/>
+        <Object Name="stepnoise~"/>
+        <Object Name="stereo.rev~"/>
+        <Object Name="store"/>
+        <Object Name="stream"/>
+        <Object Name="stretch.shift~"/>
+        <Object Name="sum"/>
+        <Object Name="sum~"/>
+        <Object Name="susloop~"/>
+        <Object Name="suspedal"/>
+        <Object Name="svfilter~"/>
+        <Object Name="swap2"/>
+        <Object Name="symbol2any"/>
+        <Object Name="synth~"/>
+        <Object Name="sysrt.in"/>
+        <Object Name="sysrt.out"/>
+        <Object Name="tabgen"/>
+        <Object Name="tabplayer~"/>
+        <Object Name="tabreader"/>
+        <Object Name="tabreader~"/>
+        <Object Name="tabwriter~"/>
+        <Object Name="tap"/>
+        <Object Name="tempo"/>
+        <Object Name="tempo~"/>
+        <Object Name="timed.gate"/>
+        <Object Name="timed.gate~"/>
+        <Object Name="toggleff~"/>
+        <Object Name="touch.in"/>
+        <Object Name="touch.out"/>
+        <Object Name="tremolo~"/>
+        <Object Name="trig.delay2~"/>
+        <Object Name="trig.delay~"/>
+        <Object Name="trig2bang"/>
+        <Object Name="trig2bang~"/>
+        <Object Name="trighold~"/>
+        <Object Name="tri~"/>
+        <Object Name="trunc"/>
+        <Object Name="trunc~"/>
+        <Object Name="unite"/>
+        <Object Name="unmerge"/>
+        <Object Name="unmerge~"/>
+        <Object Name="vibrato~"/>
+        <Object Name="vocoder~"/>
+        <Object Name="voices"/>
+        <Object Name="voices~"/>
+        <Object Name="vsaw~"/>
+        <Object Name="vu~"/>
+        <Object Name="wavetable~"/>
+        <Object Name="white~"/>
+        <Object Name="wrap2"/>
+        <Object Name="wrap2~"/>
+        <Object Name="xfade.mc~"/>
+        <Object Name="xfade~"/>
+        <Object Name="xgate.mc~"/>
+        <Object Name="xgate2~"/>
+        <Object Name="xgate~"/>
+        <Object Name="xmod2~"/>
+        <Object Name="xmod~"/>
+        <Object Name="xselect.mc~"/>
+        <Object Name="xselect2~"/>
+        <Object Name="xselect~"/>
+        <Object Name="zbiplot"/>
+        <Object Name="zerocross~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="search-plugin">
+    <Package ID="c2VhcmNoLXBsdWdpbl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNTowMzoyNV9jaHIxNW0="
+             Author="chr15m" Timestamp="2015-08-07 15:03:25" Description="search-plugin-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/search-plugin/search-plugin-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="c2VhcmNoLXBsdWdpbl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNTowMzoyNV9jaHIxNW0="
+             Author="chr15m" Timestamp="2015-08-07 15:03:25" Description="search-plugin-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/search-plugin/search-plugin-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="xsample">
+    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIyLTA3LTEwIDAxOjE0OjI4X3Rob21hcw=="
+             Author="thomas" Timestamp="2022-07-10 01:14:28" Description="xsample[v0.3.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Windows-amd64-32).dek"
+             Version="0.3.2" URL="http://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="xgroove~"/>
+        <Object Name="xplay~"/>
+        <Object Name="xrecord~"/>
+      </Objects>
+    </Package>
+    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIwLTAzLTA0IDIzOjA3OjAzX3Rob21hcw=="
+             Author="thomas" Timestamp="2020-03-04 23:07:03" Description="xsample[v0.3.2](Linux-armv7-32).dek"
+             Version="0.3.2" URL="http://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Linux-armv7-32).dek">
+      <Objects>
+        <Object Name="xgroove~"/>
+        <Object Name="xplay~"/>
+        <Object Name="xrecord~"/>
+      </Objects>
+    </Package>
+    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIwLTAzLTAzIDA5OjI1OjI5X3Rob21hcw=="
+             Author="thomas" Timestamp="2020-03-03 09:25:29" Description="xsample[v0.3.2](Linux-armv6-32).dek"
+             Version="0.3.2" URL="http://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Linux-armv6-32).dek">
+      <Objects>
+        <Object Name="xgroove~"/>
+        <Object Name="xplay~"/>
+        <Object Name="xrecord~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="pispi">
     <Package ID="cGlzcGlfMC4yMDIwMDEwNl8yMDIwLTAxLTA4IDIwOjI5OjM2X21hcnRpbnJw"
              Author="martinrp" Timestamp="2020-01-08 20:29:36" Description="pispi[v0.20200106](Linux-armv7-32)(Sources).dek"
@@ -6586,1052 +7677,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="else">
-    <Package ID="ZWxzZV8xLjAtMF9yYzktd2l0aF9saXZlX2VsZWN0cm9uaWNzX3R1dG9yaWFsXzIwMjMtMDktMDQgMTk6MTk6MDRfcG9ycmVz"
-             Author="porres" Timestamp="2023-09-04 19:19:04" Description="else[v1.0-0_rc9-with_live_electronics_tutorial](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-armv6-32)(Linux-armv7-32)(Windows-amd64-32).dek"
-             Version="1.0-0_rc9-with_live_electronics_tutorial" URL="http://puredata.info/Members/porres/software/else/1.0-0_rc9-with_live_electronics_tutorial/else[v1.0-0_rc9-with_live_electronics_tutorial](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-armv6-32)(Linux-armv7-32)(Windows-amd64-32).dek">
-      <Objects>
-        <Object Name="above"/>
-        <Object Name="above~"/>
-        <Object Name="add"/>
-        <Object Name="add~"/>
-        <Object Name="adsr~"/>
-        <Object Name="allpass.2nd~"/>
-        <Object Name="allpass.filt~"/>
-        <Object Name="allpass.rev~"/>
-        <Object Name="amean"/>
-        <Object Name="any2symbol"/>
-        <Object Name="args"/>
-        <Object Name="asr~"/>
-        <Object Name="autofade2~"/>
-        <Object Name="autofade~"/>
-        <Object Name="autotune"/>
-        <Object Name="autotune2"/>
-        <Object Name="avg"/>
-        <Object Name="balance~"/>
-        <Object Name="bandpass~"/>
-        <Object Name="bandstop~"/>
-        <Object Name="bangdiv"/>
-        <Object Name="batch.rec~"/>
-        <Object Name="batch.write~"/>
-        <Object Name="beat~"/>
-        <Object Name="bend.in"/>
-        <Object Name="bend.out"/>
-        <Object Name="bicoeff"/>
-        <Object Name="bicoeff2"/>
-        <Object Name="bin.shift~"/>
-        <Object Name="biplot"/>
-        <Object Name="biquads~"/>
-        <Object Name="bitnormal~"/>
-        <Object Name="bl.imp2~"/>
-        <Object Name="bl.imp~"/>
-        <Object Name="bl.osc~"/>
-        <Object Name="bl.saw2~"/>
-        <Object Name="bl.saw~"/>
-        <Object Name="bl.square~"/>
-        <Object Name="bl.tri~"/>
-        <Object Name="bl.vsaw~"/>
-        <Object Name="bl.wavetable~"/>
-        <Object Name="blip~"/>
-        <Object Name="blocksize~"/>
-        <Object Name="bpbank~"/>
-        <Object Name="bpm"/>
-        <Object Name="break"/>
-        <Object Name="brickwall~"/>
-        <Object Name="brown"/>
-        <Object Name="brown~"/>
-        <Object Name="buffer"/>
-        <Object Name="button"/>
-        <Object Name="canvas.active"/>
-        <Object Name="canvas.bounds"/>
-        <Object Name="canvas.edit"/>
-        <Object Name="canvas.file"/>
-        <Object Name="canvas.gop"/>
-        <Object Name="canvas.mouse"/>
-        <Object Name="canvas.name"/>
-        <Object Name="canvas.pos"/>
-        <Object Name="canvas.setname"/>
-        <Object Name="canvas.vis"/>
-        <Object Name="canvas.zoom"/>
-        <Object Name="car2pol"/>
-        <Object Name="car2pol~"/>
-        <Object Name="ceil"/>
-        <Object Name="ceil~"/>
-        <Object Name="cents2frac"/>
-        <Object Name="cents2ratio"/>
-        <Object Name="cents2ratio~"/>
-        <Object Name="cents2scale"/>
-        <Object Name="chance"/>
-        <Object Name="chance~"/>
-        <Object Name="changed"/>
-        <Object Name="changed2~"/>
-        <Object Name="changed~"/>
-        <Object Name="chorus~"/>
-        <Object Name="chrono"/>
-        <Object Name="circle"/>
-        <Object Name="click"/>
-        <Object Name="clock"/>
-        <Object Name="cmul~"/>
-        <Object Name="coeff2pz"/>
-        <Object Name="colors"/>
-        <Object Name="comb.filt~"/>
-        <Object Name="comb.rev~"/>
-        <Object Name="combine"/>
-        <Object Name="compress~"/>
-        <Object Name="conv~"/>
-        <Object Name="cosine~"/>
-        <Object Name="count"/>
-        <Object Name="crackle~"/>
-        <Object Name="crossover~"/>
-        <Object Name="crusher~"/>
-        <Object Name="ctl.in"/>
-        <Object Name="ctl.out"/>
-        <Object Name="cusp~"/>
-        <Object Name="datetime"/>
-        <Object Name="db2lin"/>
-        <Object Name="db2lin~"/>
-        <Object Name="dec2frac"/>
-        <Object Name="dec2hex"/>
-        <Object Name="decay2~"/>
-        <Object Name="decay~"/>
-        <Object Name="default"/>
-        <Object Name="deg2rad"/>
-        <Object Name="delete"/>
-        <Object Name="del~"/>
-        <Object Name="detect~"/>
-        <Object Name="dir"/>
-        <Object Name="display"/>
-        <Object Name="dollsym"/>
-        <Object Name="downsample~"/>
-        <Object Name="drive~"/>
-        <Object Name="drum.seq"/>
-        <Object Name="drunkard"/>
-        <Object Name="drunkard~"/>
-        <Object Name="duck~"/>
-        <Object Name="dust2~"/>
-        <Object Name="dust~"/>
-        <Object Name="e"/>
-        <Object Name="echo.rev~"/>
-        <Object Name="else"/>
-        <Object Name="envelope~"/>
-        <Object Name="envgen~"/>
-        <Object Name="eqdiv"/>
-        <Object Name="equal"/>
-        <Object Name="eq~"/>
-        <Object Name="euclid"/>
-        <Object Name="expand~"/>
-        <Object Name="f2s~"/>
-        <Object Name="factor"/>
-        <Object Name="fader~"/>
-        <Object Name="fbdelay~"/>
-        <Object Name="fbsine2~"/>
-        <Object Name="fbsine~"/>
-        <Object Name="fdn.rev~"/>
-        <Object Name="ffdelay~"/>
-        <Object Name="filterdelay~"/>
-        <Object Name="flanger~"/>
-        <Object Name="float2bits"/>
-        <Object Name="float2sig~"/>
-        <Object Name="floor"/>
-        <Object Name="floor~"/>
-        <Object Name="fold"/>
-        <Object Name="fold~"/>
-        <Object Name="fontsize"/>
-        <Object Name="format"/>
-        <Object Name="frac.add"/>
-        <Object Name="frac.mul"/>
-        <Object Name="frac2cents"/>
-        <Object Name="frac2dec"/>
-        <Object Name="free.rev~"/>
-        <Object Name="freeze~"/>
-        <Object Name="freq.shift~"/>
-        <Object Name="freq2midi"/>
-        <Object Name="function"/>
-        <Object Name="function~"/>
-        <Object Name="gain2~"/>
-        <Object Name="gain~"/>
-        <Object Name="gate2imp~"/>
-        <Object Name="gatehold~"/>
-        <Object Name="gaussian~"/>
-        <Object Name="gbman~"/>
-        <Object Name="gcd"/>
-        <Object Name="gendyn~"/>
-        <Object Name="get~"/>
-        <Object Name="giga.rev~"/>
-        <Object Name="glide"/>
-        <Object Name="glide2"/>
-        <Object Name="glide2~"/>
-        <Object Name="glide~"/>
-        <Object Name="gmean"/>
-        <Object Name="grain.live~"/>
-        <Object Name="grain.sampler~"/>
-        <Object Name="grain.synth~"/>
-        <Object Name="gran.player~"/>
-        <Object Name="graph~"/>
-        <Object Name="gray~"/>
-        <Object Name="group"/>
-        <Object Name="hann~"/>
-        <Object Name="henon~"/>
-        <Object Name="hex2dec"/>
-        <Object Name="highpass~"/>
-        <Object Name="highshelf~"/>
-        <Object Name="hip.bw~"/>
-        <Object Name="histogram"/>
-        <Object Name="hot"/>
-        <Object Name="hz2rad"/>
-        <Object Name="ikeda~"/>
-        <Object Name="imp.mc~"/>
-        <Object Name="impseq~"/>
-        <Object Name="impulse"/>
-        <Object Name="impulse2~"/>
-        <Object Name="impulse~"/>
-        <Object Name="initmess"/>
-        <Object Name="insert"/>
-        <Object Name="interpolate"/>
-        <Object Name="iterate"/>
-        <Object Name="keyboard"/>
-        <Object Name="keycode"/>
-        <Object Name="keymap"/>
-        <Object Name="keypress"/>
-        <Object Name="knob"/>
-        <Object Name="lag2~"/>
-        <Object Name="lag~"/>
-        <Object Name="lastvalue"/>
-        <Object Name="lastvalue~"/>
-        <Object Name="latoocarfian~"/>
-        <Object Name="lcm"/>
-        <Object Name="lfnoise"/>
-        <Object Name="lfnoise~"/>
-        <Object Name="lfo"/>
-        <Object Name="limit"/>
-        <Object Name="lin2db"/>
-        <Object Name="lin2db~"/>
-        <Object Name="lincong~"/>
-        <Object Name="loadbanger"/>
-        <Object Name="logistic~"/>
-        <Object Name="loop"/>
-        <Object Name="lop.bw~"/>
-        <Object Name="lop2~"/>
-        <Object Name="lorenz~"/>
-        <Object Name="lowpass~"/>
-        <Object Name="lowshelf~"/>
-        <Object Name="mag"/>
-        <Object Name="mag~"/>
-        <Object Name="makenote2"/>
-        <Object Name="markov"/>
-        <Object Name="match~"/>
-        <Object Name="maxpeak~"/>
-        <Object Name="median"/>
-        <Object Name="median~"/>
-        <Object Name="merge"/>
-        <Object Name="merge~"/>
-        <Object Name="message"/>
-        <Object Name="messbox"/>
-        <Object Name="meter"/>
-        <Object Name="meter2~"/>
-        <Object Name="meter4~"/>
-        <Object Name="meter8~"/>
-        <Object Name="meter~"/>
-        <Object Name="metronome"/>
-        <Object Name="metronome~"/>
-        <Object Name="midi"/>
-        <Object Name="midi.clock"/>
-        <Object Name="midi.in"/>
-        <Object Name="midi.learn"/>
-        <Object Name="midi.out"/>
-        <Object Name="midi2freq"/>
-        <Object Name="mix2~"/>
-        <Object Name="mix4~"/>
-        <Object Name="mono"/>
-        <Object Name="mono.rev~"/>
-        <Object Name="morph"/>
-        <Object Name="morph~"/>
-        <Object Name="mouse"/>
-        <Object Name="mov.avg"/>
-        <Object Name="mov.avg~"/>
-        <Object Name="mov.rms~"/>
-        <Object Name="ms2samps"/>
-        <Object Name="ms2samps~"/>
-        <Object Name="mtx.ctl"/>
-        <Object Name="mtx~"/>
-        <Object Name="multi.vsl"/>
-        <Object Name="nchs~"/>
-        <Object Name="nmess"/>
-        <Object Name="noisegate~"/>
-        <Object Name="norm~"/>
-        <Object Name="note"/>
-        <Object Name="note.in"/>
-        <Object Name="note.out"/>
-        <Object Name="note2dur"/>
-        <Object Name="note2pitch"/>
-        <Object Name="noteinfo"/>
-        <Object Name="numbox~"/>
-        <Object Name="nyquist~"/>
-        <Object Name="op"/>
-        <Object Name="openfile"/>
-        <Object Name="op~"/>
-        <Object Name="order"/>
-        <Object Name="osc.format"/>
-        <Object Name="osc.mc~"/>
-        <Object Name="osc.parse"/>
-        <Object Name="osc.receive"/>
-        <Object Name="osc.route"/>
-        <Object Name="osc.send"/>
-        <Object Name="oscbank2~"/>
-        <Object Name="oscbank~"/>
-        <Object Name="oscnoise~"/>
-        <Object Name="oscope~"/>
-        <Object Name="out.mc~"/>
-        <Object Name="out4~"/>
-        <Object Name="out8~"/>
-        <Object Name="out~"/>
-        <Object Name="pack2"/>
-        <Object Name="pad"/>
-        <Object Name="pan2~"/>
-        <Object Name="pan4~"/>
-        <Object Name="pan8~"/>
-        <Object Name="panic"/>
-        <Object Name="parabolic~"/>
-        <Object Name="pattern"/>
-        <Object Name="peak~"/>
-        <Object Name="perlin~"/>
-        <Object Name="pgm.in"/>
-        <Object Name="pgm.out"/>
-        <Object Name="phaser~"/>
-        <Object Name="phaseseq~"/>
-        <Object Name="phasor"/>
-        <Object Name="pi"/>
-        <Object Name="pic"/>
-        <Object Name="pick"/>
-        <Object Name="pick~"/>
-        <Object Name="pimp"/>
-        <Object Name="pimpmul~"/>
-        <Object Name="pimp~"/>
-        <Object Name="ping.pong~"/>
-        <Object Name="pink~"/>
-        <Object Name="pipe2"/>
-        <Object Name="pitch.shift~"/>
-        <Object Name="pitch2note"/>
-        <Object Name="plaits~"/>
-        <Object Name="plate.rev~"/>
-        <Object Name="play.file~"/>
-        <Object Name="player~"/>
-        <Object Name="pluck~"/>
-        <Object Name="pmosc~"/>
-        <Object Name="pol2car"/>
-        <Object Name="pol2car~"/>
-        <Object Name="polymetro"/>
-        <Object Name="polymetro~"/>
-        <Object Name="power~"/>
-        <Object Name="presets"/>
-        <Object Name="properties"/>
-        <Object Name="ptouch.in"/>
-        <Object Name="ptouch.out"/>
-        <Object Name="pulse"/>
-        <Object Name="pulsecount~"/>
-        <Object Name="pulsediv~"/>
-        <Object Name="pulse~"/>
-        <Object Name="pvoc.freeze~"/>
-        <Object Name="pvoc.live~"/>
-        <Object Name="pvoc.player~"/>
-        <Object Name="pz2coeff"/>
-        <Object Name="quad~"/>
-        <Object Name="quantizer"/>
-        <Object Name="quantizer~"/>
-        <Object Name="rad2deg"/>
-        <Object Name="rad2hz"/>
-        <Object Name="rampnoise"/>
-        <Object Name="rampnoise.mc~"/>
-        <Object Name="rampnoise~"/>
-        <Object Name="ramp~"/>
-        <Object Name="rand.dist"/>
-        <Object Name="rand.f"/>
-        <Object Name="rand.f~"/>
-        <Object Name="rand.hist"/>
-        <Object Name="rand.i"/>
-        <Object Name="rand.i~"/>
-        <Object Name="rand.list"/>
-        <Object Name="rand.u"/>
-        <Object Name="randpulse"/>
-        <Object Name="randpulse2"/>
-        <Object Name="randpulse2~"/>
-        <Object Name="randpulse~"/>
-        <Object Name="range"/>
-        <Object Name="range.hsl"/>
-        <Object Name="range~"/>
-        <Object Name="ratio2cents"/>
-        <Object Name="ratio2cents~"/>
-        <Object Name="rec"/>
-        <Object Name="rec.file~"/>
-        <Object Name="rec2"/>
-        <Object Name="receiver"/>
-        <Object Name="remove"/>
-        <Object Name="repeat~"/>
-        <Object Name="replace"/>
-        <Object Name="rescale"/>
-        <Object Name="rescale~"/>
-        <Object Name="resonant2~"/>
-        <Object Name="resonant~"/>
-        <Object Name="resonbank2~"/>
-        <Object Name="resonbank~"/>
-        <Object Name="retrieve"/>
-        <Object Name="retune"/>
-        <Object Name="revdelay~"/>
-        <Object Name="reverse"/>
-        <Object Name="rint"/>
-        <Object Name="rint~"/>
-        <Object Name="rms~"/>
-        <Object Name="rm~"/>
-        <Object Name="rotate"/>
-        <Object Name="rotate.mc~"/>
-        <Object Name="rotate~"/>
-        <Object Name="route2"/>
-        <Object Name="routeall"/>
-        <Object Name="router"/>
-        <Object Name="routetype"/>
-        <Object Name="sample~"/>
-        <Object Name="samps2ms"/>
-        <Object Name="samps2ms~"/>
-        <Object Name="saw2~"/>
-        <Object Name="saw~"/>
-        <Object Name="scala"/>
-        <Object Name="scale2cents"/>
-        <Object Name="scale2freq"/>
-        <Object Name="scales"/>
-        <Object Name="schmitt"/>
-        <Object Name="schmitt~"/>
-        <Object Name="score"/>
-        <Object Name="score2"/>
-        <Object Name="scramble"/>
-        <Object Name="selector"/>
-        <Object Name="select~"/>
-        <Object Name="sender"/>
-        <Object Name="separate"/>
-        <Object Name="sequencer"/>
-        <Object Name="sequencer~"/>
-        <Object Name="setdsp~"/>
-        <Object Name="sfont~"/>
-        <Object Name="sfz~"/>
-        <Object Name="shaper~"/>
-        <Object Name="sh~"/>
-        <Object Name="sig2float~"/>
-        <Object Name="sigs~"/>
-        <Object Name="sine~"/>
-        <Object Name="sin~"/>
-        <Object Name="slew"/>
-        <Object Name="slew2"/>
-        <Object Name="slew2~"/>
-        <Object Name="slew~"/>
-        <Object Name="slice"/>
-        <Object Name="slice~"/>
-        <Object Name="slider2d"/>
-        <Object Name="sort"/>
-        <Object Name="spectrograph~"/>
-        <Object Name="speed"/>
-        <Object Name="spread"/>
-        <Object Name="spread.mc~"/>
-        <Object Name="spread~"/>
-        <Object Name="square~"/>
-        <Object Name="sr~"/>
-        <Object Name="stack"/>
-        <Object Name="standard~"/>
-        <Object Name="status"/>
-        <Object Name="status~"/>
-        <Object Name="stepnoise"/>
-        <Object Name="stepnoise.mc~"/>
-        <Object Name="stepnoise~"/>
-        <Object Name="stereo.rev~"/>
-        <Object Name="store"/>
-        <Object Name="stream"/>
-        <Object Name="stretch.shift~"/>
-        <Object Name="sum"/>
-        <Object Name="sum~"/>
-        <Object Name="susloop~"/>
-        <Object Name="suspedal"/>
-        <Object Name="svfilter~"/>
-        <Object Name="swap2"/>
-        <Object Name="symbol2any"/>
-        <Object Name="synth~"/>
-        <Object Name="sysrt.in"/>
-        <Object Name="sysrt.out"/>
-        <Object Name="tabgen"/>
-        <Object Name="tabplayer~"/>
-        <Object Name="tabreader"/>
-        <Object Name="tabreader~"/>
-        <Object Name="tabwriter~"/>
-        <Object Name="tap"/>
-        <Object Name="tempo"/>
-        <Object Name="tempo~"/>
-        <Object Name="timed.gate"/>
-        <Object Name="timed.gate~"/>
-        <Object Name="toggleff~"/>
-        <Object Name="touch.in"/>
-        <Object Name="touch.out"/>
-        <Object Name="tremolo~"/>
-        <Object Name="trig.delay2~"/>
-        <Object Name="trig.delay~"/>
-        <Object Name="trig2bang"/>
-        <Object Name="trig2bang~"/>
-        <Object Name="trighold~"/>
-        <Object Name="tri~"/>
-        <Object Name="trunc"/>
-        <Object Name="trunc~"/>
-        <Object Name="unite"/>
-        <Object Name="unmerge"/>
-        <Object Name="unmerge~"/>
-        <Object Name="vibrato~"/>
-        <Object Name="vocoder~"/>
-        <Object Name="voices"/>
-        <Object Name="voices~"/>
-        <Object Name="vsaw~"/>
-        <Object Name="vu~"/>
-        <Object Name="wavetable~"/>
-        <Object Name="white~"/>
-        <Object Name="wrap2"/>
-        <Object Name="wrap2~"/>
-        <Object Name="xfade.mc~"/>
-        <Object Name="xfade~"/>
-        <Object Name="xgate.mc~"/>
-        <Object Name="xgate2~"/>
-        <Object Name="xgate~"/>
-        <Object Name="xmod2~"/>
-        <Object Name="xmod~"/>
-        <Object Name="xselect.mc~"/>
-        <Object Name="xselect2~"/>
-        <Object Name="xselect~"/>
-        <Object Name="zbiplot"/>
-        <Object Name="zerocross~"/>
-      </Objects>
-    </Package>
-    <Package ID="ZWxzZV8xLjAtMF9yYzktd2l0aF9saXZlX2VsZWN0cm9uaWNzX3R1dG9yaWFsXzIwMjMtMDktMDQgMTk6MTk6MDRfcG9ycmVz"
-             Author="porres" Timestamp="2023-09-04 19:19:04" Description="else[v1.0-0_rc9-with_live_electronics_tutorial](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-armv6-32)(Linux-armv7-32)(Windows-amd64-32).dek"
-             Version="1.0-0_rc9-with_live_electronics_tutorial" URL="http://puredata.info/Members/porres/software/else/1.0-0_rc9-with_live_electronics_tutorial/else[v1.0-0_rc9-with_live_electronics_tutorial](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-armv6-32)(Linux-armv7-32)(Windows-amd64-32).dek">
-      <Objects>
-        <Object Name="above"/>
-        <Object Name="above~"/>
-        <Object Name="add"/>
-        <Object Name="add~"/>
-        <Object Name="adsr~"/>
-        <Object Name="allpass.2nd~"/>
-        <Object Name="allpass.filt~"/>
-        <Object Name="allpass.rev~"/>
-        <Object Name="amean"/>
-        <Object Name="any2symbol"/>
-        <Object Name="args"/>
-        <Object Name="asr~"/>
-        <Object Name="autofade2~"/>
-        <Object Name="autofade~"/>
-        <Object Name="autotune"/>
-        <Object Name="autotune2"/>
-        <Object Name="avg"/>
-        <Object Name="balance~"/>
-        <Object Name="bandpass~"/>
-        <Object Name="bandstop~"/>
-        <Object Name="bangdiv"/>
-        <Object Name="batch.rec~"/>
-        <Object Name="batch.write~"/>
-        <Object Name="beat~"/>
-        <Object Name="bend.in"/>
-        <Object Name="bend.out"/>
-        <Object Name="bicoeff"/>
-        <Object Name="bicoeff2"/>
-        <Object Name="bin.shift~"/>
-        <Object Name="biplot"/>
-        <Object Name="biquads~"/>
-        <Object Name="bitnormal~"/>
-        <Object Name="bl.imp2~"/>
-        <Object Name="bl.imp~"/>
-        <Object Name="bl.osc~"/>
-        <Object Name="bl.saw2~"/>
-        <Object Name="bl.saw~"/>
-        <Object Name="bl.square~"/>
-        <Object Name="bl.tri~"/>
-        <Object Name="bl.vsaw~"/>
-        <Object Name="bl.wavetable~"/>
-        <Object Name="blip~"/>
-        <Object Name="blocksize~"/>
-        <Object Name="bpbank~"/>
-        <Object Name="bpm"/>
-        <Object Name="break"/>
-        <Object Name="brickwall~"/>
-        <Object Name="brown"/>
-        <Object Name="brown~"/>
-        <Object Name="buffer"/>
-        <Object Name="button"/>
-        <Object Name="canvas.active"/>
-        <Object Name="canvas.bounds"/>
-        <Object Name="canvas.edit"/>
-        <Object Name="canvas.file"/>
-        <Object Name="canvas.gop"/>
-        <Object Name="canvas.mouse"/>
-        <Object Name="canvas.name"/>
-        <Object Name="canvas.pos"/>
-        <Object Name="canvas.setname"/>
-        <Object Name="canvas.vis"/>
-        <Object Name="canvas.zoom"/>
-        <Object Name="car2pol"/>
-        <Object Name="car2pol~"/>
-        <Object Name="ceil"/>
-        <Object Name="ceil~"/>
-        <Object Name="cents2frac"/>
-        <Object Name="cents2ratio"/>
-        <Object Name="cents2ratio~"/>
-        <Object Name="cents2scale"/>
-        <Object Name="chance"/>
-        <Object Name="chance~"/>
-        <Object Name="changed"/>
-        <Object Name="changed2~"/>
-        <Object Name="changed~"/>
-        <Object Name="chorus~"/>
-        <Object Name="chrono"/>
-        <Object Name="circle"/>
-        <Object Name="click"/>
-        <Object Name="clock"/>
-        <Object Name="cmul~"/>
-        <Object Name="coeff2pz"/>
-        <Object Name="colors"/>
-        <Object Name="comb.filt~"/>
-        <Object Name="comb.rev~"/>
-        <Object Name="combine"/>
-        <Object Name="compress~"/>
-        <Object Name="conv~"/>
-        <Object Name="cosine~"/>
-        <Object Name="count"/>
-        <Object Name="crackle~"/>
-        <Object Name="crossover~"/>
-        <Object Name="crusher~"/>
-        <Object Name="ctl.in"/>
-        <Object Name="ctl.out"/>
-        <Object Name="cusp~"/>
-        <Object Name="datetime"/>
-        <Object Name="db2lin"/>
-        <Object Name="db2lin~"/>
-        <Object Name="dec2frac"/>
-        <Object Name="dec2hex"/>
-        <Object Name="decay2~"/>
-        <Object Name="decay~"/>
-        <Object Name="default"/>
-        <Object Name="deg2rad"/>
-        <Object Name="delete"/>
-        <Object Name="del~"/>
-        <Object Name="detect~"/>
-        <Object Name="dir"/>
-        <Object Name="display"/>
-        <Object Name="dollsym"/>
-        <Object Name="downsample~"/>
-        <Object Name="drive~"/>
-        <Object Name="drum.seq"/>
-        <Object Name="drunkard"/>
-        <Object Name="drunkard~"/>
-        <Object Name="duck~"/>
-        <Object Name="dust2~"/>
-        <Object Name="dust~"/>
-        <Object Name="e"/>
-        <Object Name="echo.rev~"/>
-        <Object Name="else"/>
-        <Object Name="envelope~"/>
-        <Object Name="envgen~"/>
-        <Object Name="eqdiv"/>
-        <Object Name="equal"/>
-        <Object Name="eq~"/>
-        <Object Name="euclid"/>
-        <Object Name="expand~"/>
-        <Object Name="f2s~"/>
-        <Object Name="factor"/>
-        <Object Name="fader~"/>
-        <Object Name="fbdelay~"/>
-        <Object Name="fbsine2~"/>
-        <Object Name="fbsine~"/>
-        <Object Name="fdn.rev~"/>
-        <Object Name="ffdelay~"/>
-        <Object Name="filterdelay~"/>
-        <Object Name="flanger~"/>
-        <Object Name="float2bits"/>
-        <Object Name="float2sig~"/>
-        <Object Name="floor"/>
-        <Object Name="floor~"/>
-        <Object Name="fold"/>
-        <Object Name="fold~"/>
-        <Object Name="fontsize"/>
-        <Object Name="format"/>
-        <Object Name="frac.add"/>
-        <Object Name="frac.mul"/>
-        <Object Name="frac2cents"/>
-        <Object Name="frac2dec"/>
-        <Object Name="free.rev~"/>
-        <Object Name="freeze~"/>
-        <Object Name="freq.shift~"/>
-        <Object Name="freq2midi"/>
-        <Object Name="function"/>
-        <Object Name="function~"/>
-        <Object Name="gain2~"/>
-        <Object Name="gain~"/>
-        <Object Name="gate2imp~"/>
-        <Object Name="gatehold~"/>
-        <Object Name="gaussian~"/>
-        <Object Name="gbman~"/>
-        <Object Name="gcd"/>
-        <Object Name="gendyn~"/>
-        <Object Name="get~"/>
-        <Object Name="giga.rev~"/>
-        <Object Name="glide"/>
-        <Object Name="glide2"/>
-        <Object Name="glide2~"/>
-        <Object Name="glide~"/>
-        <Object Name="gmean"/>
-        <Object Name="grain.live~"/>
-        <Object Name="grain.sampler~"/>
-        <Object Name="grain.synth~"/>
-        <Object Name="gran.player~"/>
-        <Object Name="graph~"/>
-        <Object Name="gray~"/>
-        <Object Name="group"/>
-        <Object Name="hann~"/>
-        <Object Name="henon~"/>
-        <Object Name="hex2dec"/>
-        <Object Name="highpass~"/>
-        <Object Name="highshelf~"/>
-        <Object Name="hip.bw~"/>
-        <Object Name="histogram"/>
-        <Object Name="hot"/>
-        <Object Name="hz2rad"/>
-        <Object Name="ikeda~"/>
-        <Object Name="imp.mc~"/>
-        <Object Name="impseq~"/>
-        <Object Name="impulse"/>
-        <Object Name="impulse2~"/>
-        <Object Name="impulse~"/>
-        <Object Name="initmess"/>
-        <Object Name="insert"/>
-        <Object Name="interpolate"/>
-        <Object Name="iterate"/>
-        <Object Name="keyboard"/>
-        <Object Name="keycode"/>
-        <Object Name="keymap"/>
-        <Object Name="keypress"/>
-        <Object Name="knob"/>
-        <Object Name="lag2~"/>
-        <Object Name="lag~"/>
-        <Object Name="lastvalue"/>
-        <Object Name="lastvalue~"/>
-        <Object Name="latoocarfian~"/>
-        <Object Name="lcm"/>
-        <Object Name="lfnoise"/>
-        <Object Name="lfnoise~"/>
-        <Object Name="lfo"/>
-        <Object Name="limit"/>
-        <Object Name="lin2db"/>
-        <Object Name="lin2db~"/>
-        <Object Name="lincong~"/>
-        <Object Name="loadbanger"/>
-        <Object Name="logistic~"/>
-        <Object Name="loop"/>
-        <Object Name="lop.bw~"/>
-        <Object Name="lop2~"/>
-        <Object Name="lorenz~"/>
-        <Object Name="lowpass~"/>
-        <Object Name="lowshelf~"/>
-        <Object Name="mag"/>
-        <Object Name="mag~"/>
-        <Object Name="makenote2"/>
-        <Object Name="markov"/>
-        <Object Name="match~"/>
-        <Object Name="maxpeak~"/>
-        <Object Name="median"/>
-        <Object Name="median~"/>
-        <Object Name="merge"/>
-        <Object Name="merge~"/>
-        <Object Name="message"/>
-        <Object Name="messbox"/>
-        <Object Name="meter"/>
-        <Object Name="meter2~"/>
-        <Object Name="meter4~"/>
-        <Object Name="meter8~"/>
-        <Object Name="meter~"/>
-        <Object Name="metronome"/>
-        <Object Name="metronome~"/>
-        <Object Name="midi"/>
-        <Object Name="midi.clock"/>
-        <Object Name="midi.in"/>
-        <Object Name="midi.learn"/>
-        <Object Name="midi.out"/>
-        <Object Name="midi2freq"/>
-        <Object Name="mix2~"/>
-        <Object Name="mix4~"/>
-        <Object Name="mono"/>
-        <Object Name="mono.rev~"/>
-        <Object Name="morph"/>
-        <Object Name="morph~"/>
-        <Object Name="mouse"/>
-        <Object Name="mov.avg"/>
-        <Object Name="mov.avg~"/>
-        <Object Name="mov.rms~"/>
-        <Object Name="ms2samps"/>
-        <Object Name="ms2samps~"/>
-        <Object Name="mtx.ctl"/>
-        <Object Name="mtx~"/>
-        <Object Name="multi.vsl"/>
-        <Object Name="nchs~"/>
-        <Object Name="nmess"/>
-        <Object Name="noisegate~"/>
-        <Object Name="norm~"/>
-        <Object Name="note"/>
-        <Object Name="note.in"/>
-        <Object Name="note.out"/>
-        <Object Name="note2dur"/>
-        <Object Name="note2pitch"/>
-        <Object Name="noteinfo"/>
-        <Object Name="numbox~"/>
-        <Object Name="nyquist~"/>
-        <Object Name="op"/>
-        <Object Name="openfile"/>
-        <Object Name="op~"/>
-        <Object Name="order"/>
-        <Object Name="osc.format"/>
-        <Object Name="osc.mc~"/>
-        <Object Name="osc.parse"/>
-        <Object Name="osc.receive"/>
-        <Object Name="osc.route"/>
-        <Object Name="osc.send"/>
-        <Object Name="oscbank2~"/>
-        <Object Name="oscbank~"/>
-        <Object Name="oscnoise~"/>
-        <Object Name="oscope~"/>
-        <Object Name="out.mc~"/>
-        <Object Name="out4~"/>
-        <Object Name="out8~"/>
-        <Object Name="out~"/>
-        <Object Name="pack2"/>
-        <Object Name="pad"/>
-        <Object Name="pan2~"/>
-        <Object Name="pan4~"/>
-        <Object Name="pan8~"/>
-        <Object Name="panic"/>
-        <Object Name="parabolic~"/>
-        <Object Name="pattern"/>
-        <Object Name="peak~"/>
-        <Object Name="perlin~"/>
-        <Object Name="pgm.in"/>
-        <Object Name="pgm.out"/>
-        <Object Name="phaser~"/>
-        <Object Name="phaseseq~"/>
-        <Object Name="phasor"/>
-        <Object Name="pi"/>
-        <Object Name="pic"/>
-        <Object Name="pick"/>
-        <Object Name="pick~"/>
-        <Object Name="pimp"/>
-        <Object Name="pimpmul~"/>
-        <Object Name="pimp~"/>
-        <Object Name="ping.pong~"/>
-        <Object Name="pink~"/>
-        <Object Name="pipe2"/>
-        <Object Name="pitch.shift~"/>
-        <Object Name="pitch2note"/>
-        <Object Name="plaits~"/>
-        <Object Name="plate.rev~"/>
-        <Object Name="play.file~"/>
-        <Object Name="player~"/>
-        <Object Name="pluck~"/>
-        <Object Name="pmosc~"/>
-        <Object Name="pol2car"/>
-        <Object Name="pol2car~"/>
-        <Object Name="polymetro"/>
-        <Object Name="polymetro~"/>
-        <Object Name="power~"/>
-        <Object Name="presets"/>
-        <Object Name="properties"/>
-        <Object Name="ptouch.in"/>
-        <Object Name="ptouch.out"/>
-        <Object Name="pulse"/>
-        <Object Name="pulsecount~"/>
-        <Object Name="pulsediv~"/>
-        <Object Name="pulse~"/>
-        <Object Name="pvoc.freeze~"/>
-        <Object Name="pvoc.live~"/>
-        <Object Name="pvoc.player~"/>
-        <Object Name="pz2coeff"/>
-        <Object Name="quad~"/>
-        <Object Name="quantizer"/>
-        <Object Name="quantizer~"/>
-        <Object Name="rad2deg"/>
-        <Object Name="rad2hz"/>
-        <Object Name="rampnoise"/>
-        <Object Name="rampnoise.mc~"/>
-        <Object Name="rampnoise~"/>
-        <Object Name="ramp~"/>
-        <Object Name="rand.dist"/>
-        <Object Name="rand.f"/>
-        <Object Name="rand.f~"/>
-        <Object Name="rand.hist"/>
-        <Object Name="rand.i"/>
-        <Object Name="rand.i~"/>
-        <Object Name="rand.list"/>
-        <Object Name="rand.u"/>
-        <Object Name="randpulse"/>
-        <Object Name="randpulse2"/>
-        <Object Name="randpulse2~"/>
-        <Object Name="randpulse~"/>
-        <Object Name="range"/>
-        <Object Name="range.hsl"/>
-        <Object Name="range~"/>
-        <Object Name="ratio2cents"/>
-        <Object Name="ratio2cents~"/>
-        <Object Name="rec"/>
-        <Object Name="rec.file~"/>
-        <Object Name="rec2"/>
-        <Object Name="receiver"/>
-        <Object Name="remove"/>
-        <Object Name="repeat~"/>
-        <Object Name="replace"/>
-        <Object Name="rescale"/>
-        <Object Name="rescale~"/>
-        <Object Name="resonant2~"/>
-        <Object Name="resonant~"/>
-        <Object Name="resonbank2~"/>
-        <Object Name="resonbank~"/>
-        <Object Name="retrieve"/>
-        <Object Name="retune"/>
-        <Object Name="revdelay~"/>
-        <Object Name="reverse"/>
-        <Object Name="rint"/>
-        <Object Name="rint~"/>
-        <Object Name="rms~"/>
-        <Object Name="rm~"/>
-        <Object Name="rotate"/>
-        <Object Name="rotate.mc~"/>
-        <Object Name="rotate~"/>
-        <Object Name="route2"/>
-        <Object Name="routeall"/>
-        <Object Name="router"/>
-        <Object Name="routetype"/>
-        <Object Name="sample~"/>
-        <Object Name="samps2ms"/>
-        <Object Name="samps2ms~"/>
-        <Object Name="saw2~"/>
-        <Object Name="saw~"/>
-        <Object Name="scala"/>
-        <Object Name="scale2cents"/>
-        <Object Name="scale2freq"/>
-        <Object Name="scales"/>
-        <Object Name="schmitt"/>
-        <Object Name="schmitt~"/>
-        <Object Name="score"/>
-        <Object Name="score2"/>
-        <Object Name="scramble"/>
-        <Object Name="selector"/>
-        <Object Name="select~"/>
-        <Object Name="sender"/>
-        <Object Name="separate"/>
-        <Object Name="sequencer"/>
-        <Object Name="sequencer~"/>
-        <Object Name="setdsp~"/>
-        <Object Name="sfont~"/>
-        <Object Name="sfz~"/>
-        <Object Name="shaper~"/>
-        <Object Name="sh~"/>
-        <Object Name="sig2float~"/>
-        <Object Name="sigs~"/>
-        <Object Name="sine~"/>
-        <Object Name="sin~"/>
-        <Object Name="slew"/>
-        <Object Name="slew2"/>
-        <Object Name="slew2~"/>
-        <Object Name="slew~"/>
-        <Object Name="slice"/>
-        <Object Name="slice~"/>
-        <Object Name="slider2d"/>
-        <Object Name="sort"/>
-        <Object Name="spectrograph~"/>
-        <Object Name="speed"/>
-        <Object Name="spread"/>
-        <Object Name="spread.mc~"/>
-        <Object Name="spread~"/>
-        <Object Name="square~"/>
-        <Object Name="sr~"/>
-        <Object Name="stack"/>
-        <Object Name="standard~"/>
-        <Object Name="status"/>
-        <Object Name="status~"/>
-        <Object Name="stepnoise"/>
-        <Object Name="stepnoise.mc~"/>
-        <Object Name="stepnoise~"/>
-        <Object Name="stereo.rev~"/>
-        <Object Name="store"/>
-        <Object Name="stream"/>
-        <Object Name="stretch.shift~"/>
-        <Object Name="sum"/>
-        <Object Name="sum~"/>
-        <Object Name="susloop~"/>
-        <Object Name="suspedal"/>
-        <Object Name="svfilter~"/>
-        <Object Name="swap2"/>
-        <Object Name="symbol2any"/>
-        <Object Name="synth~"/>
-        <Object Name="sysrt.in"/>
-        <Object Name="sysrt.out"/>
-        <Object Name="tabgen"/>
-        <Object Name="tabplayer~"/>
-        <Object Name="tabreader"/>
-        <Object Name="tabreader~"/>
-        <Object Name="tabwriter~"/>
-        <Object Name="tap"/>
-        <Object Name="tempo"/>
-        <Object Name="tempo~"/>
-        <Object Name="timed.gate"/>
-        <Object Name="timed.gate~"/>
-        <Object Name="toggleff~"/>
-        <Object Name="touch.in"/>
-        <Object Name="touch.out"/>
-        <Object Name="tremolo~"/>
-        <Object Name="trig.delay2~"/>
-        <Object Name="trig.delay~"/>
-        <Object Name="trig2bang"/>
-        <Object Name="trig2bang~"/>
-        <Object Name="trighold~"/>
-        <Object Name="tri~"/>
-        <Object Name="trunc"/>
-        <Object Name="trunc~"/>
-        <Object Name="unite"/>
-        <Object Name="unmerge"/>
-        <Object Name="unmerge~"/>
-        <Object Name="vibrato~"/>
-        <Object Name="vocoder~"/>
-        <Object Name="voices"/>
-        <Object Name="voices~"/>
-        <Object Name="vsaw~"/>
-        <Object Name="vu~"/>
-        <Object Name="wavetable~"/>
-        <Object Name="white~"/>
-        <Object Name="wrap2"/>
-        <Object Name="wrap2~"/>
-        <Object Name="xfade.mc~"/>
-        <Object Name="xfade~"/>
-        <Object Name="xgate.mc~"/>
-        <Object Name="xgate2~"/>
-        <Object Name="xgate~"/>
-        <Object Name="xmod2~"/>
-        <Object Name="xmod~"/>
-        <Object Name="xselect.mc~"/>
-        <Object Name="xselect2~"/>
-        <Object Name="xselect~"/>
-        <Object Name="zbiplot"/>
-        <Object Name="zerocross~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="search-plugin">
-    <Package ID="c2VhcmNoLXBsdWdpbl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNTowMzoyNV9jaHIxNW0="
-             Author="chr15m" Timestamp="2015-08-07 15:03:25" Description="search-plugin-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/search-plugin/search-plugin-v0.0.extended--externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="c2VhcmNoLXBsdWdpbl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNTowMzoyNV9jaHIxNW0="
-             Author="chr15m" Timestamp="2015-08-07 15:03:25" Description="search-plugin-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/search-plugin/search-plugin-v0.0.extended--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="echocurve~">
     <Package ID="ZWNob2N1cnZlfl8wLjFfMjAxOC0wOC0wNiAwNzowMjozNV9qd21hdHRoeXM="
              Author="jwmatthys" Timestamp="2018-08-06 07:02:35" Description="echocurve~-v0.1-(Sources)(Linux-armv7-32)-externals.tar.gz"
@@ -7751,6 +7796,53 @@
     <Package ID="R2VtXzAuOTMuM2dpdDU0YjRiN2NfMjAxNi0wMi0xNSAxNTozNToxN19hdmlsbGVyZXQ="
              Author="avilleret" Timestamp="2016-02-15 15:35:17" Description="Gem-v0.93.3git54b4b7c-(Linux-armv6-32)-externals.tar.gz"
              Version="0.93.3git54b4b7c" URL="http://puredata.info/Members/avilleret/software/Gem/0.93.3git54b4b7c/Gem-v0.93.3git54b4b7c-(Linux-armv6-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="Fraise">
+    <Package ID="RnJhaXNlXzAuMy4xXzIwMjQtMDgtMjEgMTg6MzQ6NDJfYW50MXI=" Author="ant1r"
+             Timestamp="2024-08-21 18:34:42" Description="Fraise[v0.3.1].dek"
+             Version="0.3.1" URL="http://puredata.info/Members/ant1r/software/Fraise/0.3.1/Fraise[v0.3.1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy4xXzIwMjQtMDgtMjEgMTg6MzQ6NDJfYW50MXI=" Author="ant1r"
+             Timestamp="2024-08-21 18:34:42" Description="Fraise[v0.3.1].dek"
+             Version="0.3.1" URL="http://puredata.info/Members/ant1r/software/Fraise/0.3.1/Fraise[v0.3.1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy4wXzIwMjQtMDMtMjkgMTc6NTY6NTlfYW50MXI=" Author="ant1r"
+             Timestamp="2024-03-29 17:56:59" Description="Fraise[v0.3.0].dek"
+             Version="0.3.0" URL="http://puredata.info/Members/ant1r/software/Fraise/0.3.0/Fraise[v0.3.0].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy4wXzIwMjQtMDMtMjkgMTc6NTY6NTlfYW50MXI=" Author="ant1r"
+             Timestamp="2024-03-29 17:56:59" Description="Fraise[v0.3.0].dek"
+             Version="0.3.0" URL="http://puredata.info/Members/ant1r/software/Fraise/0.3.0/Fraise[v0.3.0].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMi4wXzIwMjMtMTEtMTYgMTc6MjE6NDFfYW50MXI=" Author="ant1r"
+             Timestamp="2023-11-16 17:21:41" Description="Fraise[v0.2.0](Linux-armv7-32).dek"
+             Version="0.2.0" URL="http://puredata.info/Members/ant1r/software/Fraise/0.2.0/Fraise[v0.2.0](Linux-armv7-32).dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMS4xXzIwMjEtMDMtMjUgMTU6Mzk6MjlfYW50MXI=" Author="ant1r"
+             Timestamp="2021-03-25 15:39:29" Description="Fraise[v0.1.1].dek"
+             Version="0.1.1" URL="http://puredata.info/Members/ant1r/software/Fraise/0.1.1/Fraise[v0.1.1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMS4xXzIwMjEtMDMtMjUgMTU6Mzk6MjlfYW50MXI=" Author="ant1r"
+             Timestamp="2021-03-25 15:39:29" Description="Fraise[v0.1.1].dek"
+             Version="0.1.1" URL="http://puredata.info/Members/ant1r/software/Fraise/0.1.1/Fraise[v0.1.1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMS4wXzIwMjEtMDEtMDcgMTI6MzI6MzVfYW50MXI=" Author="ant1r"
+             Timestamp="2021-01-07 12:32:35" Description="Fraise[v0.1.0].dek"
+             Version="0.1.0" URL="http://puredata.info/Members/ant1r/software/Fraise/0.1.0/Fraise[v0.1.0].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMS4wXzIwMjEtMDEtMDcgMTI6MzI6MzVfYW50MXI=" Author="ant1r"
+             Timestamp="2021-01-07 12:32:35" Description="Fraise[v0.1.0].dek"
+             Version="0.1.0" URL="http://puredata.info/Members/ant1r/software/Fraise/0.1.0/Fraise[v0.1.0].dek">
       <Objects/>
     </Package>
   </Packages>
@@ -8369,29 +8461,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="bsaylor">
-    <Package ID="YnNheWxvcl8wLjEuNV8yMDIyLTExLTI4IDE3OjQ5OjQ0X2llbWJvdA=="
-             Author="iembot" Timestamp="2022-11-28 17:49:44" Description="bsaylor[v0.1.5](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="0.1.5" URL="http://puredata.info/Members/iembot/software/bsaylor/0.1.5/bsaylor[v0.1.5](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects>
-        <Object Name="aenv~"/>
-        <Object Name="partconv~"/>
-        <Object Name="pvoc~"/>
-        <Object Name="susloop~"/>
-        <Object Name="svf~"/>
-        <Object Name="zhzxh~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="jackpatch">
-    <Package ID="amFja3BhdGNoXzAuMl8yMDIzLTAxLTA2IDE1OjQwOjExX3Jkeg==" Author="rdz"
-             Timestamp="2023-01-06 15:40:11" Description="jackpatch[v0.2](Linux-armv7-32).dek"
-             Version="0.2" URL="http://puredata.info/Members/rdz/software/jackpatch/0.2/jackpatch[v0.2](Linux-armv7-32).dek">
-      <Objects>
-        <Object Name="jackpatch"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="completion-plugin">
     <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40OS4xXzIwMjMtMDMtMTggMjA6MzY6MzlfcG9ycmVz"
              Author="porres" Timestamp="2023-03-18 20:36:39" Description="completion-plugin[v0.49.1].dek"
@@ -8524,6 +8593,140 @@
              Version="0.4" URL="http://puredata.info/Members/wmbrent/software/missive~/0.4/missive~[v0.4].dek">
       <Objects>
         <Object Name="missive~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="bf-pd">
+    <Package ID="YmYtcGRfMS4wXzIwMjEtMDgtMDMgMTI6MTQ6MTZfZmJlcnRoYXV0" Author="fberthaut"
+             Timestamp="2021-08-03 12:14:16" Description="bf-pd[v1.0].dek"
+             Version="1.0" URL="http://puredata.info/Members/fberthaut/software/bf-pd/1.0/bf-pd[v1.0].dek">
+      <Objects>
+        <Object Name="bf-clock"/>
+        <Object Name="bf-instrument"/>
+        <Object Name="bf-output"/>
+        <Object Name="bf-param"/>
+        <Object Name="boeuf"/>
+      </Objects>
+    </Package>
+    <Package ID="YmYtcGRfMS4wXzIwMjEtMDgtMDMgMTI6MTQ6MTZfZmJlcnRoYXV0" Author="fberthaut"
+             Timestamp="2021-08-03 12:14:16" Description="bf-pd[v1.0].dek"
+             Version="1.0" URL="http://puredata.info/Members/fberthaut/software/bf-pd/1.0/bf-pd[v1.0].dek">
+      <Objects>
+        <Object Name="bf-clock"/>
+        <Object Name="bf-instrument"/>
+        <Object Name="bf-output"/>
+        <Object Name="bf-param"/>
+        <Object Name="boeuf"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="swe~">
+    <Package ID="c3dlfl8wLjdfMjAxNy0xMS0xNyAwOTowMzozOF9qd21hdHRoeXM=" Author="jwmatthys"
+             Timestamp="2017-11-17 09:03:38" Description="swe~-v0.7-(Sources)(Linux-armv7-32)-externals.tar.gz"
+             Version="0.7" URL="http://puredata.info/Members/jwmatthys/software/swe~/0.7/swe~-v0.7-(Sources)(Linux-armv7-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="artnetlib">
+    <Package ID="YXJ0bmV0bGliXzAuMS4wXzIwMjMtMDMtMjEgMDg6NTg6MTNfbHVjYXJkYQ=="
+             Author="lucarda" Timestamp="2023-03-21 08:58:13" Description="artnetlib[v0.1.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.1.0" URL="http://puredata.info/Members/lucarda/software/artnetlib/0.1.0/artnetlib[v0.1.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="artnetfromarray"/>
+        <Object Name="artnetlib"/>
+        <Object Name="artnetroute"/>
+        <Object Name="artnetsend"/>
+        <Object Name="artnettoarray"/>
+        <Object Name="artnetudp"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="hexloader">
+    <Package ID="aGV4bG9hZGVyXzEuOF8yMDI0LTAzLTE4IDE4OjE5OjE3X2llbWJvdA=="
+             Author="iembot" Timestamp="2024-03-18 18:19:17" Description="hexloader[v1.8](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek"
+             Version="1.8" URL="http://puredata.info/Members/iembot/software/hexloader/1.8/hexloader[v1.8](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek">
+      <Objects>
+        <Object Name="hexloader"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="acre">
+    <Package ID="YWNyZV8yLjAtcmM1XzIwMjQtMDgtMjIgMTM6Mjk6NTBfcml0c2No" Author="ritsch"
+             Timestamp="2024-08-22 13:29:50" Description="acre[v2.0-rc5].dek"
+             Version="2.0-rc5" URL="http://puredata.info/Members/ritsch/software/acre/2.0-rc5/acre[v2.0-rc5].dek">
+      <Objects/>
+    </Package>
+    <Package ID="YWNyZV8yLjAtcmM1XzIwMjQtMDgtMjIgMTM6Mjk6NTBfcml0c2No" Author="ritsch"
+             Timestamp="2024-08-22 13:29:50" Description="acre[v2.0-rc5].dek"
+             Version="2.0-rc5" URL="http://puredata.info/Members/ritsch/software/acre/2.0-rc5/acre[v2.0-rc5].dek">
+      <Objects/>
+    </Package>
+    <Package ID="YWNyZV8xLjAzXzIwMjAtMTItMDMgMDk6MzE6MzJfcml0c2No" Author="ritsch"
+             Timestamp="2020-12-03 09:31:32" Description="acre[v1.03].dek"
+             Version="1.03" URL="http://puredata.info/Members/ritsch/software/acre/1.0/acre[v1.03].dek">
+      <Objects/>
+    </Package>
+    <Package ID="YWNyZV8xLjAzXzIwMjAtMTItMDMgMDk6MzE6MzJfcml0c2No" Author="ritsch"
+             Timestamp="2020-12-03 09:31:32" Description="acre[v1.03].dek"
+             Version="1.03" URL="http://puredata.info/Members/ritsch/software/acre/1.0/acre[v1.03].dek">
+      <Objects/>
+    </Package>
+    <Package ID="YWNyZV8xLjAxXzIwMTYtMTAtMjEgMjM6Mzk6MzJfcml0c2No" Author="ritsch"
+             Timestamp="2016-10-21 23:39:32" Description="acre-v1.01--externals.zip"
+             Version="1.01" URL="http://puredata.info/Members/ritsch/software/acre/1.0/acre-v1.01--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="YWNyZV8xLjAxXzIwMTYtMTAtMjEgMjM6Mzk6MzJfcml0c2No" Author="ritsch"
+             Timestamp="2016-10-21 23:39:32" Description="acre-v1.01--externals.zip"
+             Version="1.01" URL="http://puredata.info/Members/ritsch/software/acre/1.0/acre-v1.01--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="YWNyZV8xLjBfMjAxNi0wNy0xMSAwMDo0OToxNV9yaXRzY2g=" Author="ritsch"
+             Timestamp="2016-07-11 00:49:15" Description="acre-v1.0--externals.zip"
+             Version="1.0" URL="http://puredata.info/Members/ritsch/software/acre/1.0/acre-v1.0--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="YWNyZV8xLjBfMjAxNi0wNy0xMSAwMDo0OToxNV9yaXRzY2g=" Author="ritsch"
+             Timestamp="2016-07-11 00:49:15" Description="acre-v1.0--externals.zip"
+             Version="1.0" URL="http://puredata.info/Members/ritsch/software/acre/1.0/acre-v1.0--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="YWNyZV8wLjY5XzIwMTYtMDUtMDggMjI6NDU6NThfcml0c2No" Author="ritsch"
+             Timestamp="2016-05-08 22:45:58" Description="acre-v0.69--externals.zip"
+             Version="0.69" URL="http://puredata.info/Members/ritsch/software/acre/0.69/acre-v0.69--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="YWNyZV8wLjY5XzIwMTYtMDUtMDggMjI6NDU6NThfcml0c2No" Author="ritsch"
+             Timestamp="2016-05-08 22:45:58" Description="acre-v0.69--externals.zip"
+             Version="0.69" URL="http://puredata.info/Members/ritsch/software/acre/0.69/acre-v0.69--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="acre-amb">
+    <Package ID="YWNyZS1hbWJfMC45XzIwMjQtMDgtMjIgMTM6MzY6MDRfcml0c2No" Author="ritsch"
+             Timestamp="2024-08-22 13:36:04" Description="acre-amb[v0.9].dek"
+             Version="0.9" URL="http://puredata.info/Members/ritsch/software/acre-amb/0.9/acre-amb[v0.9].dek">
+      <Objects/>
+    </Package>
+    <Package ID="YWNyZS1hbWJfMC45XzIwMjQtMDgtMjIgMTM6MzY6MDRfcml0c2No" Author="ritsch"
+             Timestamp="2024-08-22 13:36:04" Description="acre-amb[v0.9].dek"
+             Version="0.9" URL="http://puredata.info/Members/ritsch/software/acre-amb/0.9/acre-amb[v0.9].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="mp3cast~">
+    <Package ID="bXAzY2FzdH5fMC42XzIwMjMtMDEtMDYgMTU6MzE6MTJfcmR6" Author="rdz"
+             Timestamp="2023-01-06 15:31:12" Description="mp3cast~[v0.6](Linux-armv7-32).dek"
+             Version="0.6" URL="http://puredata.info/Members/rdz/software/mp3cast~/0.6/mp3cast~[v0.6](Linux-armv7-32).dek">
+      <Objects>
+        <Object Name="mp3cast~"/>
+      </Objects>
+    </Package>
+    <Package ID="bXAzY2FzdH5fMC41XzIwMjItMDUtMTIgMjI6MzE6MDlfcmR6" Author="rdz"
+             Timestamp="2022-05-12 22:31:09" Description="mp3cast~[v0.5](Linux-armv7-32).dek"
+             Version="0.5" URL="http://puredata.info/Members/rdz/software/mp3cast~/0.5/mp3cast~[v0.5](Linux-armv7-32).dek">
+      <Objects>
+        <Object Name="mp3cast~"/>
       </Objects>
     </Package>
   </Packages>
@@ -8742,99 +8945,15 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="bf-pd">
-    <Package ID="YmYtcGRfMS4wXzIwMjEtMDgtMDMgMTI6MTQ6MTZfZmJlcnRoYXV0" Author="fberthaut"
-             Timestamp="2021-08-03 12:14:16" Description="bf-pd[v1.0].dek"
-             Version="1.0" URL="http://puredata.info/Members/fberthaut/software/bf-pd/1.0/bf-pd[v1.0].dek">
-      <Objects>
-        <Object Name="bf-clock"/>
-        <Object Name="bf-instrument"/>
-        <Object Name="bf-output"/>
-        <Object Name="bf-param"/>
-        <Object Name="boeuf"/>
-      </Objects>
-    </Package>
-    <Package ID="YmYtcGRfMS4wXzIwMjEtMDgtMDMgMTI6MTQ6MTZfZmJlcnRoYXV0" Author="fberthaut"
-             Timestamp="2021-08-03 12:14:16" Description="bf-pd[v1.0].dek"
-             Version="1.0" URL="http://puredata.info/Members/fberthaut/software/bf-pd/1.0/bf-pd[v1.0].dek">
-      <Objects>
-        <Object Name="bf-clock"/>
-        <Object Name="bf-instrument"/>
-        <Object Name="bf-output"/>
-        <Object Name="bf-param"/>
-        <Object Name="boeuf"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="swe~">
-    <Package ID="c3dlfl8wLjdfMjAxNy0xMS0xNyAwOTowMzozOF9qd21hdHRoeXM=" Author="jwmatthys"
-             Timestamp="2017-11-17 09:03:38" Description="swe~-v0.7-(Sources)(Linux-armv7-32)-externals.tar.gz"
-             Version="0.7" URL="http://puredata.info/Members/jwmatthys/software/swe~/0.7/swe~-v0.7-(Sources)(Linux-armv7-32)-externals.tar.gz">
+  <Packages Name="acre-wg">
+    <Package ID="YWNyZS13Z18xLjAzXzIwMjQtMDgtMjIgMTM6Mzc6NDRfcml0c2No" Author="ritsch"
+             Timestamp="2024-08-22 13:37:44" Description="acre-wg[v1.03].dek"
+             Version="1.03" URL="http://puredata.info/Members/ritsch/software/acre-wg/1.03/acre-wg[v1.03].dek">
       <Objects/>
     </Package>
-  </Packages>
-  <Packages Name="artnetlib">
-    <Package ID="YXJ0bmV0bGliXzAuMS4wXzIwMjMtMDMtMjEgMDg6NTg6MTNfbHVjYXJkYQ=="
-             Author="lucarda" Timestamp="2023-03-21 08:58:13" Description="artnetlib[v0.1.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="0.1.0" URL="http://puredata.info/Members/lucarda/software/artnetlib/0.1.0/artnetlib[v0.1.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects>
-        <Object Name="artnetfromarray"/>
-        <Object Name="artnetlib"/>
-        <Object Name="artnetroute"/>
-        <Object Name="artnetsend"/>
-        <Object Name="artnettoarray"/>
-        <Object Name="artnetudp"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="hexloader">
-    <Package ID="aGV4bG9hZGVyXzEuOF8yMDI0LTAzLTE4IDE4OjE5OjE3X2llbWJvdA=="
-             Author="iembot" Timestamp="2024-03-18 18:19:17" Description="hexloader[v1.8](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek"
-             Version="1.8" URL="http://puredata.info/Members/iembot/software/hexloader/1.8/hexloader[v1.8](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek">
-      <Objects>
-        <Object Name="hexloader"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="acre">
-    <Package ID="YWNyZV8xLjAzXzIwMjAtMTItMDMgMDk6MzE6MzJfcml0c2No" Author="ritsch"
-             Timestamp="2020-12-03 09:31:32" Description="acre[v1.03].dek"
-             Version="1.03" URL="http://puredata.info/Members/ritsch/software/acre/1.0/acre[v1.03].dek">
-      <Objects/>
-    </Package>
-    <Package ID="YWNyZV8xLjAzXzIwMjAtMTItMDMgMDk6MzE6MzJfcml0c2No" Author="ritsch"
-             Timestamp="2020-12-03 09:31:32" Description="acre[v1.03].dek"
-             Version="1.03" URL="http://puredata.info/Members/ritsch/software/acre/1.0/acre[v1.03].dek">
-      <Objects/>
-    </Package>
-    <Package ID="YWNyZV8xLjAxXzIwMTYtMTAtMjEgMjM6Mzk6MzJfcml0c2No" Author="ritsch"
-             Timestamp="2016-10-21 23:39:32" Description="acre-v1.01--externals.zip"
-             Version="1.01" URL="http://puredata.info/Members/ritsch/software/acre/1.0/acre-v1.01--externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="YWNyZV8xLjAxXzIwMTYtMTAtMjEgMjM6Mzk6MzJfcml0c2No" Author="ritsch"
-             Timestamp="2016-10-21 23:39:32" Description="acre-v1.01--externals.zip"
-             Version="1.01" URL="http://puredata.info/Members/ritsch/software/acre/1.0/acre-v1.01--externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="YWNyZV8xLjBfMjAxNi0wNy0xMSAwMDo0OToxNV9yaXRzY2g=" Author="ritsch"
-             Timestamp="2016-07-11 00:49:15" Description="acre-v1.0--externals.zip"
-             Version="1.0" URL="http://puredata.info/Members/ritsch/software/acre/1.0/acre-v1.0--externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="YWNyZV8xLjBfMjAxNi0wNy0xMSAwMDo0OToxNV9yaXRzY2g=" Author="ritsch"
-             Timestamp="2016-07-11 00:49:15" Description="acre-v1.0--externals.zip"
-             Version="1.0" URL="http://puredata.info/Members/ritsch/software/acre/1.0/acre-v1.0--externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="YWNyZV8wLjY5XzIwMTYtMDUtMDggMjI6NDU6NThfcml0c2No" Author="ritsch"
-             Timestamp="2016-05-08 22:45:58" Description="acre-v0.69--externals.zip"
-             Version="0.69" URL="http://puredata.info/Members/ritsch/software/acre/0.69/acre-v0.69--externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="YWNyZV8wLjY5XzIwMTYtMDUtMDggMjI6NDU6NThfcml0c2No" Author="ritsch"
-             Timestamp="2016-05-08 22:45:58" Description="acre-v0.69--externals.zip"
-             Version="0.69" URL="http://puredata.info/Members/ritsch/software/acre/0.69/acre-v0.69--externals.zip">
+    <Package ID="YWNyZS13Z18xLjAzXzIwMjQtMDgtMjIgMTM6Mzc6NDRfcml0c2No" Author="ritsch"
+             Timestamp="2024-08-22 13:37:44" Description="acre-wg[v1.03].dek"
+             Version="1.03" URL="http://puredata.info/Members/ritsch/software/acre-wg/1.03/acre-wg[v1.03].dek">
       <Objects/>
     </Package>
   </Packages>
@@ -10180,111 +10299,26 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="Fraise">
-    <Package ID="RnJhaXNlXzAuMy4xXzIwMjQtMDgtMjEgMTg6MzQ6NDJfYW50MXI=" Author="ant1r"
-             Timestamp="2024-08-21 18:34:42" Description="Fraise[v0.3.1].dek"
-             Version="0.3.1" URL="http://puredata.info/Members/ant1r/software/Fraise/0.3.1/Fraise[v0.3.1].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMy4xXzIwMjQtMDgtMjEgMTg6MzQ6NDJfYW50MXI=" Author="ant1r"
-             Timestamp="2024-08-21 18:34:42" Description="Fraise[v0.3.1].dek"
-             Version="0.3.1" URL="http://puredata.info/Members/ant1r/software/Fraise/0.3.1/Fraise[v0.3.1].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMy4wXzIwMjQtMDMtMjkgMTc6NTY6NTlfYW50MXI=" Author="ant1r"
-             Timestamp="2024-03-29 17:56:59" Description="Fraise[v0.3.0].dek"
-             Version="0.3.0" URL="http://puredata.info/Members/ant1r/software/Fraise/0.3.0/Fraise[v0.3.0].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMy4wXzIwMjQtMDMtMjkgMTc6NTY6NTlfYW50MXI=" Author="ant1r"
-             Timestamp="2024-03-29 17:56:59" Description="Fraise[v0.3.0].dek"
-             Version="0.3.0" URL="http://puredata.info/Members/ant1r/software/Fraise/0.3.0/Fraise[v0.3.0].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMi4wXzIwMjMtMTEtMTYgMTc6MjE6NDFfYW50MXI=" Author="ant1r"
-             Timestamp="2023-11-16 17:21:41" Description="Fraise[v0.2.0](Linux-armv7-32).dek"
-             Version="0.2.0" URL="http://puredata.info/Members/ant1r/software/Fraise/0.2.0/Fraise[v0.2.0](Linux-armv7-32).dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMS4xXzIwMjEtMDMtMjUgMTU6Mzk6MjlfYW50MXI=" Author="ant1r"
-             Timestamp="2021-03-25 15:39:29" Description="Fraise[v0.1.1].dek"
-             Version="0.1.1" URL="http://puredata.info/Members/ant1r/software/Fraise/0.1.1/Fraise[v0.1.1].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMS4xXzIwMjEtMDMtMjUgMTU6Mzk6MjlfYW50MXI=" Author="ant1r"
-             Timestamp="2021-03-25 15:39:29" Description="Fraise[v0.1.1].dek"
-             Version="0.1.1" URL="http://puredata.info/Members/ant1r/software/Fraise/0.1.1/Fraise[v0.1.1].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMS4wXzIwMjEtMDEtMDcgMTI6MzI6MzVfYW50MXI=" Author="ant1r"
-             Timestamp="2021-01-07 12:32:35" Description="Fraise[v0.1.0].dek"
-             Version="0.1.0" URL="http://puredata.info/Members/ant1r/software/Fraise/0.1.0/Fraise[v0.1.0].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMS4wXzIwMjEtMDEtMDcgMTI6MzI6MzVfYW50MXI=" Author="ant1r"
-             Timestamp="2021-01-07 12:32:35" Description="Fraise[v0.1.0].dek"
-             Version="0.1.0" URL="http://puredata.info/Members/ant1r/software/Fraise/0.1.0/Fraise[v0.1.0].dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="iempluginOSC">
-    <Package ID="aWVtcGx1Z2luT1NDXzAuMV8yMDE5LTA0LTEyIDEyOjQzOjU1X3NwYWNlY2hpbGQx"
-             Author="spacechild1" Timestamp="2019-04-12 12:43:55" Description="iempluginOSC[v0.1].dek"
-             Version="0.1" URL="http://puredata.info/Members/spacechild1/software/iempluginOSC/0.1/iempluginOSC[v0.1].dek">
+  <Packages Name="bsaylor">
+    <Package ID="YnNheWxvcl8wLjEuNV8yMDIyLTExLTI4IDE3OjQ5OjQ0X2llbWJvdA=="
+             Author="iembot" Timestamp="2022-11-28 17:49:44" Description="bsaylor[v0.1.5](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.1.5" URL="http://puredata.info/Members/iembot/software/bsaylor/0.1.5/bsaylor[v0.1.5](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
       <Objects>
-        <Object Name="iempluginOSC"/>
-      </Objects>
-    </Package>
-    <Package ID="aWVtcGx1Z2luT1NDXzAuMV8yMDE5LTA0LTEyIDEyOjQzOjU1X3NwYWNlY2hpbGQx"
-             Author="spacechild1" Timestamp="2019-04-12 12:43:55" Description="iempluginOSC[v0.1].dek"
-             Version="0.1" URL="http://puredata.info/Members/spacechild1/software/iempluginOSC/0.1/iempluginOSC[v0.1].dek">
-      <Objects>
-        <Object Name="iempluginOSC"/>
+        <Object Name="aenv~"/>
+        <Object Name="partconv~"/>
+        <Object Name="pvoc~"/>
+        <Object Name="susloop~"/>
+        <Object Name="svf~"/>
+        <Object Name="zhzxh~"/>
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="xsample">
-    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIyLTA3LTEwIDAxOjE0OjI4X3Rob21hcw=="
-             Author="thomas" Timestamp="2022-07-10 01:14:28" Description="xsample[v0.3.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Windows-amd64-32).dek"
-             Version="0.3.2" URL="http://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Windows-amd64-32).dek">
+  <Packages Name="jackpatch">
+    <Package ID="amFja3BhdGNoXzAuMl8yMDIzLTAxLTA2IDE1OjQwOjExX3Jkeg==" Author="rdz"
+             Timestamp="2023-01-06 15:40:11" Description="jackpatch[v0.2](Linux-armv7-32).dek"
+             Version="0.2" URL="http://puredata.info/Members/rdz/software/jackpatch/0.2/jackpatch[v0.2](Linux-armv7-32).dek">
       <Objects>
-        <Object Name="xgroove~"/>
-        <Object Name="xplay~"/>
-        <Object Name="xrecord~"/>
-      </Objects>
-    </Package>
-    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIwLTAzLTA0IDIzOjA3OjAzX3Rob21hcw=="
-             Author="thomas" Timestamp="2020-03-04 23:07:03" Description="xsample[v0.3.2](Linux-armv7-32).dek"
-             Version="0.3.2" URL="http://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Linux-armv7-32).dek">
-      <Objects>
-        <Object Name="xgroove~"/>
-        <Object Name="xplay~"/>
-        <Object Name="xrecord~"/>
-      </Objects>
-    </Package>
-    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIwLTAzLTAzIDA5OjI1OjI5X3Rob21hcw=="
-             Author="thomas" Timestamp="2020-03-03 09:25:29" Description="xsample[v0.3.2](Linux-armv6-32).dek"
-             Version="0.3.2" URL="http://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Linux-armv6-32).dek">
-      <Objects>
-        <Object Name="xgroove~"/>
-        <Object Name="xplay~"/>
-        <Object Name="xrecord~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="mp3cast~">
-    <Package ID="bXAzY2FzdH5fMC42XzIwMjMtMDEtMDYgMTU6MzE6MTJfcmR6" Author="rdz"
-             Timestamp="2023-01-06 15:31:12" Description="mp3cast~[v0.6](Linux-armv7-32).dek"
-             Version="0.6" URL="http://puredata.info/Members/rdz/software/mp3cast~/0.6/mp3cast~[v0.6](Linux-armv7-32).dek">
-      <Objects>
-        <Object Name="mp3cast~"/>
-      </Objects>
-    </Package>
-    <Package ID="bXAzY2FzdH5fMC41XzIwMjItMDUtMTIgMjI6MzE6MDlfcmR6" Author="rdz"
-             Timestamp="2022-05-12 22:31:09" Description="mp3cast~[v0.5](Linux-armv7-32).dek"
-             Version="0.5" URL="http://puredata.info/Members/rdz/software/mp3cast~/0.5/mp3cast~[v0.5](Linux-armv7-32).dek">
-      <Objects>
-        <Object Name="mp3cast~"/>
+        <Object Name="jackpatch"/>
       </Objects>
     </Package>
   </Packages>
