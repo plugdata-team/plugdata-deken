@@ -3170,10 +3170,7 @@
     <Package ID="dnN0cGx1Z2lufl8wLjJ+dGVzdF8yMDE5LTA4LTI5IDAwOjUwOjI2X3NwYWNlY2hpbGQx"
              Author="spacechild1" Timestamp="2019-08-29 00:50:26" Description="vstplugin~[v0.2~test](Windows-amd64-32).dek"
              Version="0.2~test" URL="http://puredata.info/Members/spacechild1/software/vstplugin~/0.2~test/vstplugin~[v0.2~test](Windows-amd64-32).dek">
-      <Objects>
-        <Object Name="vstpluginbrowser"/>
-        <Object Name="vstplugin~"/>
-      </Objects>
+      <Objects/>
     </Package>
     <Package ID="dnN0cGx1Z2lufl8wLjEuMl8yMDE5LTA0LTA5IDIyOjExOjE5X3NwYWNlY2hpbGQx"
              Author="spacechild1" Timestamp="2019-04-09 22:11:19" Description="vstplugin~[v0.1.2](Windows-amd64-32).dek"
