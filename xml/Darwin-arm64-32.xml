@@ -8563,6 +8563,18 @@
     </Package>
   </Packages>
   <Packages Name="osc">
+    <Package ID="b3NjXzAuM18yMDI0LTA4LTI5IDE1OjI4OjE0X2llbWJvdA==" Author="iembot"
+             Timestamp="2024-08-29 15:28:14" Description="osc[v0.3](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
+             Version="0.3" URL="http://puredata.info/Members/iembot/software/osc/0.3/osc[v0.3](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek">
+      <Objects>
+        <Object Name="packOSC"/>
+        <Object Name="packOSCstream"/>
+        <Object Name="pipelist"/>
+        <Object Name="routeOSC"/>
+        <Object Name="unpackOSC"/>
+        <Object Name="unpackOSCstream"/>
+      </Objects>
+    </Package>
     <Package ID="b3NjXzAuMn5naXQyMDIxMDgyNF8yMDIyLTA0LTMwIDE1OjMwOjU1X3Jkeg=="
              Author="rdz" Timestamp="2022-04-30 15:30:55" Description="osc[v0.2~git20210824](Darwin-arm64-32).dek"
              Version="0.2~git20210824" URL="http://puredata.info/Members/rdz/software/osc/0.2~git20210824/osc[v0.2~git20210824](Darwin-arm64-32).dek">

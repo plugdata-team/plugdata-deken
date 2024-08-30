@@ -9173,6 +9173,18 @@
     </Package>
   </Packages>
   <Packages Name="osc">
+    <Package ID="b3NjXzAuM18yMDI0LTA4LTI5IDE1OjI4OjM4X2llbWJvdA==" Author="iembot"
+             Timestamp="2024-08-29 15:28:38" Description="osc[v0.3](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
+             Version="0.3" URL="http://puredata.info/Members/iembot/software/osc/0.3/osc[v0.3](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="packOSC"/>
+        <Object Name="packOSCstream"/>
+        <Object Name="pipelist"/>
+        <Object Name="routeOSC"/>
+        <Object Name="unpackOSC"/>
+        <Object Name="unpackOSCstream"/>
+      </Objects>
+    </Package>
     <Package ID="b3NjXzAuMi0yMDE1MDUyOWllbV8yMDE2LTA4LTMwIDE0OjUxOjE3X3ptb2Vsbmln"
              Author="zmoelnig" Timestamp="2016-08-30 14:51:17" Description="osc-v0.2-20150529iem-(Windows-i386-32)-externals.zip"
              Version="0.2-20150529iem" URL="http://puredata.info/Members/zmoelnig/software/iem/20150529.2247/osc-v0.2-20150529iem-(Windows-i386-32)-externals.zip">

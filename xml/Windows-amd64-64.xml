@@ -7337,6 +7337,20 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="osc">
+    <Package ID="b3NjXzAuM18yMDI0LTA4LTI5IDE1OjI4OjM4X2llbWJvdA==" Author="iembot"
+             Timestamp="2024-08-29 15:28:38" Description="osc[v0.3](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
+             Version="0.3" URL="http://puredata.info/Members/iembot/software/osc/0.3/osc[v0.3](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="packOSC"/>
+        <Object Name="packOSCstream"/>
+        <Object Name="pipelist"/>
+        <Object Name="routeOSC"/>
+        <Object Name="unpackOSC"/>
+        <Object Name="unpackOSCstream"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="acre-wg">
     <Package ID="YWNyZS13Z18xLjAzXzIwMjQtMDgtMjIgMTM6Mzc6NDRfcml0c2No" Author="ritsch"
              Timestamp="2024-08-22 13:37:44" Description="acre-wg[v1.03].dek"

@@ -23966,6 +23966,18 @@
     </Package>
   </Packages>
   <Packages Name="osc">
+    <Package ID="b3NjXzAuM18yMDI0LTA4LTI5IDE1OjI4OjE0X2llbWJvdA==" Author="iembot"
+             Timestamp="2024-08-29 15:28:14" Description="osc[v0.3](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
+             Version="0.3" URL="http://puredata.info/Members/iembot/software/osc/0.3/osc[v0.3](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek">
+      <Objects>
+        <Object Name="packOSC"/>
+        <Object Name="packOSCstream"/>
+        <Object Name="pipelist"/>
+        <Object Name="routeOSC"/>
+        <Object Name="unpackOSC"/>
+        <Object Name="unpackOSCstream"/>
+      </Objects>
+    </Package>
     <Package ID="b3NjXzAuMi0yMDE1MDUyOWllbV8yMDE2LTA4LTMwIDE0OjM1OjQwX3ptb2Vsbmln"
              Author="zmoelnig" Timestamp="2016-08-30 14:35:40" Description="osc-v0.2-20150529iem-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0.2-20150529iem" URL="http://puredata.info/Members/zmoelnig/software/iem/20150529.2247/osc-v0.2-20150529iem-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz">
