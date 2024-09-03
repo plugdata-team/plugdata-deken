@@ -2153,18 +2153,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="AutoPreset">
-    <Package ID="QXV0b1ByZXNldF8wLjEwXzIwMTYtMTEtMDcgMjM6MDc6MjRfYW50MXI="
-             Author="ant1r" Timestamp="2016-11-07 23:07:24" Description="AutoPreset-v0.10--externals.zip"
-             Version="0.10" URL="http://puredata.info/Members/ant1r/software/AutoPreset/0.10/AutoPreset-v0.10--externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="QXV0b1ByZXNldF8wLjlfMjAxNS0xMi0xOCAwMDowNjoxOF9hbnQxcg=="
-             Author="ant1r" Timestamp="2015-12-18 00:06:18" Description="AutoPreset-v0.9--externals.zip"
-             Version="0.9" URL="http://puredata.info/Members/ant1r/software/AutoPreset/0.9/AutoPreset-v0.9--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="dnd-plugin">
     <Package ID="ZG5kLXBsdWdpbl8wLjMuMF8yMDIxLTA0LTE2IDAyOjA2OjM1X2x1Y2FyZGE="
              Author="lucarda" Timestamp="2021-04-16 02:06:35" Description="dnd-plugin[v0.3.0](Windows-i386-32)(Windows-amd64-32).dek"
@@ -5288,6 +5276,18 @@
     <Package ID="aG90Zml4NzMyLWRlYWRrZXlzLXBsdWdpbl8wLjUwLjAuMV8yMDE5LTA5LTAyIDE3OjAzOjU1X3ptb2Vsbmln"
              Author="zmoelnig" Timestamp="2019-09-02 17:03:55" Description="hotfix732-deadkeys-plugin/0.50.0.1 (Hotfix#732 for non-functional DeadKeys (including '~') on Pd-0.50.0/Windows with spanish/portuguese/french/... keyboards)"
              Version="0.50.0.1" URL="http://puredata.info/Members/zmoelnig/software/hotfix732-deadkeys-plugin/0.50.0.1/hotfix732-deadkeys-plugin[v0.50.0.1](Windows-amd64-32)(Windows-i386-32)(Windows-amd64-64)(Windows-i386-64).dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="AutoPreset">
+    <Package ID="QXV0b1ByZXNldF8wLjEwXzIwMTYtMTEtMDcgMjM6MDc6MjRfYW50MXI="
+             Author="ant1r" Timestamp="2016-11-07 23:07:24" Description="AutoPreset-v0.10--externals.zip"
+             Version="0.10" URL="http://puredata.info/Members/ant1r/software/AutoPreset/0.10/AutoPreset-v0.10--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="QXV0b1ByZXNldF8wLjlfMjAxNS0xMi0xOCAwMDowNjoxOF9hbnQxcg=="
+             Author="ant1r" Timestamp="2015-12-18 00:06:18" Description="AutoPreset-v0.9--externals.zip"
+             Version="0.9" URL="http://puredata.info/Members/ant1r/software/AutoPreset/0.9/AutoPreset-v0.9--externals.zip">
       <Objects/>
     </Package>
   </Packages>
@@ -9201,6 +9201,15 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="bytestruct">
+    <Package ID="Ynl0ZXN0cnVjdF8wLjFfMjAyNC0wOS0wMSAyMzo0MzowNl9pZW1ib3Q="
+             Author="iembot" Timestamp="2024-09-01 23:43:06" Description="bytestruct[v0.1](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
+             Version="0.1" URL="http://puredata.info/Members/iembot/software/bytestruct/0.1/bytestruct[v0.1](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="bytestruct"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="mjlib">
     <Package ID="bWpsaWJfMC4xLjNfMjAyMC0wMS0wNSAyMToyMzo0M19mamtyYWFu" Author="fjkraan"
              Timestamp="2020-01-05 21:23:43" Description="mjlib[v0.1.3](Windows-i386-32)(Sources).dek"
@@ -10239,6 +10248,39 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="scrollpage-plugin">
+    <Package ID="c2Nyb2xscGFnZS1wbHVnaW5fMC4xXzIwMjItMDctMTMgMjI6MTQ6MDNfaWVtYm90"
+             Author="iembot" Timestamp="2022-07-13 22:14:03" Description="scrollpage-plugin[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/iembot/software/scrollpage-plugin/0.1/scrollpage-plugin[v0.1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="moocow">
+    <Package ID="bW9vY293XzAuMC5leHRlbmRlZF8yMDE1LTA3LTMwIDE1OjEyOjAwX2NocjE1bQ=="
+             Author="chr15m" Timestamp="2015-07-30 15:12:00" Description="moocow-v0.0.extended-(Windows-i386-32)-externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/moocow/moocow-v0.0.extended-(Windows-i386-32)-externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="iem16">
+    <Package ID="aWVtMTZfMS4yXzIwMjEtMDktMjQgMTE6Mjc6MDNfaWVtYm90" Author="iembot"
+             Timestamp="2021-09-24 11:27:03" Description="iem16[v1.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="1.2" URL="http://puredata.info/Members/iembot/software/iem16/1.2/iem16[v1.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="del16read~"/>
+        <Object Name="del16write~"/>
+        <Object Name="tab16play~"/>
+        <Object Name="tab16read"/>
+        <Object Name="tab16read4~"/>
+        <Object Name="tab16receive~"/>
+        <Object Name="tab16send~"/>
+        <Object Name="tab16write"/>
+        <Object Name="tab16write~"/>
+        <Object Name="table16"/>
+        <Object Name="vd16~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="freeverb~">
     <Package ID="ZnJlZXZlcmJ+XzEuMi4zXzIwMTYtMDctMjkgMTY6NDI6NTFfZmprcmFhbg=="
              Author="fjkraan" Timestamp="2016-07-29 16:42:51" Description="freeverb~-v1.2.3-(Windows-i386-32)(Sources)-externals.zip"
@@ -10718,39 +10760,6 @@
       <Objects>
         <Object Name="hidraw"/>
       </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="scrollpage-plugin">
-    <Package ID="c2Nyb2xscGFnZS1wbHVnaW5fMC4xXzIwMjItMDctMTMgMjI6MTQ6MDNfaWVtYm90"
-             Author="iembot" Timestamp="2022-07-13 22:14:03" Description="scrollpage-plugin[v0.1].dek"
-             Version="0.1" URL="http://puredata.info/Members/iembot/software/scrollpage-plugin/0.1/scrollpage-plugin[v0.1].dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="iem16">
-    <Package ID="aWVtMTZfMS4yXzIwMjEtMDktMjQgMTE6Mjc6MDNfaWVtYm90" Author="iembot"
-             Timestamp="2021-09-24 11:27:03" Description="iem16[v1.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="1.2" URL="http://puredata.info/Members/iembot/software/iem16/1.2/iem16[v1.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects>
-        <Object Name="del16read~"/>
-        <Object Name="del16write~"/>
-        <Object Name="tab16play~"/>
-        <Object Name="tab16read"/>
-        <Object Name="tab16read4~"/>
-        <Object Name="tab16receive~"/>
-        <Object Name="tab16send~"/>
-        <Object Name="tab16write"/>
-        <Object Name="tab16write~"/>
-        <Object Name="table16"/>
-        <Object Name="vd16~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="moocow">
-    <Package ID="bW9vY293XzAuMC5leHRlbmRlZF8yMDE1LTA3LTMwIDE1OjEyOjAwX2NocjE1bQ=="
-             Author="chr15m" Timestamp="2015-07-30 15:12:00" Description="moocow-v0.0.extended-(Windows-i386-32)-externals.zip"
-             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/moocow/moocow-v0.0.extended-(Windows-i386-32)-externals.zip">
-      <Objects/>
     </Package>
   </Packages>
   <Packages Name="vabs">

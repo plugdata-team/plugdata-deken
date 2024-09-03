@@ -377,18 +377,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="AutoPreset">
-    <Package ID="QXV0b1ByZXNldF8wLjEwXzIwMTYtMTEtMDcgMjM6MDc6MjRfYW50MXI="
-             Author="ant1r" Timestamp="2016-11-07 23:07:24" Description="AutoPreset-v0.10--externals.zip"
-             Version="0.10" URL="http://puredata.info/Members/ant1r/software/AutoPreset/0.10/AutoPreset-v0.10--externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="QXV0b1ByZXNldF8wLjlfMjAxNS0xMi0xOCAwMDowNjoxOF9hbnQxcg=="
-             Author="ant1r" Timestamp="2015-12-18 00:06:18" Description="AutoPreset-v0.9--externals.zip"
-             Version="0.9" URL="http://puredata.info/Members/ant1r/software/AutoPreset/0.9/AutoPreset-v0.9--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="DEAPd">
     <Package ID="REVBUGRfMC4xXzIwMjMtMDMtMDIgMDc6NTg6NDRfY2FsYmFzc2lzdA=="
              Author="calbassist" Timestamp="2023-03-02 07:58:44" Description="DEAPd[v0.1].dek"
@@ -426,6 +414,18 @@
       <Objects>
         <Object Name="ezaoo"/>
       </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="AutoPreset">
+    <Package ID="QXV0b1ByZXNldF8wLjEwXzIwMTYtMTEtMDcgMjM6MDc6MjRfYW50MXI="
+             Author="ant1r" Timestamp="2016-11-07 23:07:24" Description="AutoPreset-v0.10--externals.zip"
+             Version="0.10" URL="http://puredata.info/Members/ant1r/software/AutoPreset/0.10/AutoPreset-v0.10--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="QXV0b1ByZXNldF8wLjlfMjAxNS0xMi0xOCAwMDowNjoxOF9hbnQxcg=="
+             Author="ant1r" Timestamp="2015-12-18 00:06:18" Description="AutoPreset-v0.9--externals.zip"
+             Version="0.9" URL="http://puredata.info/Members/ant1r/software/AutoPreset/0.9/AutoPreset-v0.9--externals.zip">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="nGui">
@@ -1699,6 +1699,13 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="scrollpage-plugin">
+    <Package ID="c2Nyb2xscGFnZS1wbHVnaW5fMC4xXzIwMjItMDctMTMgMjI6MTQ6MDNfaWVtYm90"
+             Author="iembot" Timestamp="2022-07-13 22:14:03" Description="scrollpage-plugin[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/iembot/software/scrollpage-plugin/0.1/scrollpage-plugin[v0.1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="jmmmp">
     <Package ID="am1tbXBfMC42MV8yMDIxLTA1LTI2IDIzOjE4OjI5X2ptbW1w" Author="jmmmp"
              Timestamp="2021-05-26 23:18:29" Description="jmmmp library - v0.61"
@@ -1735,13 +1742,6 @@
     <Package ID="bGlzdC1hYnNfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6MDg6MDdfY2hyMTVt"
              Author="chr15m" Timestamp="2015-08-07 14:08:07" Description="list-abs-v0.0.extended--externals.zip"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/list-abs/list-abs-v0.0.extended--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="scrollpage-plugin">
-    <Package ID="c2Nyb2xscGFnZS1wbHVnaW5fMC4xXzIwMjItMDctMTMgMjI6MTQ6MDNfaWVtYm90"
-             Author="iembot" Timestamp="2022-07-13 22:14:03" Description="scrollpage-plugin[v0.1].dek"
-             Version="0.1" URL="http://puredata.info/Members/iembot/software/scrollpage-plugin/0.1/scrollpage-plugin[v0.1].dek">
       <Objects/>
     </Package>
   </Packages>
