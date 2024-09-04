@@ -451,31 +451,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="windowing">
-    <Package ID="d2luZG93aW5nXzAuMi4wXzIwMTktMTItMjggMjE6MjI6NDRfZmprcmFhbg=="
-             Author="fjkraan" Timestamp="2019-12-28 21:22:44" Description="windowing[v0.2.0](Linux-arm-32)(Sources).dek"
-             Version="0.2.0" URL="http://puredata.info/Members/fjkraan/software/windowing/0.2.0/windowing[v0.2.0](Linux-arm-32)(Sources).dek">
-      <Objects>
-        <Object Name="bartlett"/>
-        <Object Name="blackman"/>
-        <Object Name="connes"/>
-        <Object Name="cosine"/>
-        <Object Name="gaussian"/>
-        <Object Name="hamming"/>
-        <Object Name="hanning"/>
-        <Object Name="kaiser"/>
-        <Object Name="lanczos"/>
-        <Object Name="welch"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="nsend">
-    <Package ID="bnNlbmRfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mzk6NTRfY2hyMTVt"
-             Author="chr15m" Timestamp="2015-08-07 14:39:54" Description="nsend-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/nsend/nsend-v0.0.extended--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="nilwind">
     <Package ID="bmlsd2luZF8wLjIuMi1iZXRhNV8yMDE5LTEyLTIwIDIxOjEyOjA4X2Zqa3JhYW4="
              Author="fjkraan" Timestamp="2019-12-20 21:12:08" Description="nilwind[v0.2.2-beta5](Linux-arm-32)(Sources).dek"
@@ -923,6 +898,30 @@
         <Object Name="slash.oscroute"/>
         <Object Name="symbol.=="/>
         <Object Name="symbol.split"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="ml.lib">
+    <Package ID="bWwubGliXzEuMC4zXzIwMTktMTAtMjUgMTM6NDI6MjNfamI=" Author="jb"
+             Timestamp="2019-10-25 13:42:23" Description="ml.lib[v1.0.3](Linux-armv6-32).dek"
+             Version="1.0.3" URL="http://puredata.info/Members/jb/software/ml.lib/1.0.3/ml.lib[v1.0.3](Linux-armv6-32).dek">
+      <Objects>
+        <Object Name="ml.adaboost"/>
+        <Object Name="ml.anbc"/>
+        <Object Name="ml.ann"/>
+        <Object Name="ml.dtree"/>
+        <Object Name="ml.dtw"/>
+        <Object Name="ml.gmm"/>
+        <Object Name="ml.hmmc"/>
+        <Object Name="ml.knn"/>
+        <Object Name="ml.linreg"/>
+        <Object Name="ml.logreg"/>
+        <Object Name="ml.mindist"/>
+        <Object Name="ml.minmax"/>
+        <Object Name="ml.randforest"/>
+        <Object Name="ml.softmax"/>
+        <Object Name="ml.svm"/>
+        <Object Name="ml.zerox"/>
       </Objects>
     </Package>
   </Packages>
@@ -5068,30 +5067,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="ml.lib">
-    <Package ID="bWwubGliXzEuMC4zXzIwMTktMTAtMjUgMTM6NDI6MjNfamI=" Author="jb"
-             Timestamp="2019-10-25 13:42:23" Description="ml.lib[v1.0.3](Linux-armv6-32).dek"
-             Version="1.0.3" URL="http://puredata.info/Members/jb/software/ml.lib/1.0.3/ml.lib[v1.0.3](Linux-armv6-32).dek">
-      <Objects>
-        <Object Name="ml.adaboost"/>
-        <Object Name="ml.anbc"/>
-        <Object Name="ml.ann"/>
-        <Object Name="ml.dtree"/>
-        <Object Name="ml.dtw"/>
-        <Object Name="ml.gmm"/>
-        <Object Name="ml.hmmc"/>
-        <Object Name="ml.knn"/>
-        <Object Name="ml.linreg"/>
-        <Object Name="ml.logreg"/>
-        <Object Name="ml.mindist"/>
-        <Object Name="ml.minmax"/>
-        <Object Name="ml.randforest"/>
-        <Object Name="ml.softmax"/>
-        <Object Name="ml.svm"/>
-        <Object Name="ml.zerox"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="Cream">
     <Package ID="Q3JlYW1fMC40LWJldGFfMjAxNS0xMS0yMyAxODoxNTo0NV9hdmlsbGVyZXQ="
              Author="avilleret" Timestamp="2015-11-23 18:15:45" Description="Cream-v0.4-beta-(Linux-armv6-32)-externals.tar.gz"
@@ -5258,6 +5233,31 @@
     <Package ID="bGEta2l0Y2hlbl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNDo1MjozNF9jaHIxNW0="
              Author="chr15m" Timestamp="2015-08-07 14:52:34" Description="la-kitchen-v0.0.extended--externals.zip"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/la-kitchen/la-kitchen-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="windowing">
+    <Package ID="d2luZG93aW5nXzAuMi4wXzIwMTktMTItMjggMjE6MjI6NDRfZmprcmFhbg=="
+             Author="fjkraan" Timestamp="2019-12-28 21:22:44" Description="windowing[v0.2.0](Linux-arm-32)(Sources).dek"
+             Version="0.2.0" URL="http://puredata.info/Members/fjkraan/software/windowing/0.2.0/windowing[v0.2.0](Linux-arm-32)(Sources).dek">
+      <Objects>
+        <Object Name="bartlett"/>
+        <Object Name="blackman"/>
+        <Object Name="connes"/>
+        <Object Name="cosine"/>
+        <Object Name="gaussian"/>
+        <Object Name="hamming"/>
+        <Object Name="hanning"/>
+        <Object Name="kaiser"/>
+        <Object Name="lanczos"/>
+        <Object Name="welch"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="nsend">
+    <Package ID="bnNlbmRfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mzk6NTRfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-08-07 14:39:54" Description="nsend-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/nsend/nsend-v0.0.extended--externals.zip">
       <Objects/>
     </Package>
   </Packages>

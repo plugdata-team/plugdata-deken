@@ -879,31 +879,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="windowing">
-    <Package ID="d2luZG93aW5nXzAuMi4wXzIwMTktMTItMjggMjE6MjM6MDNfZmprcmFhbg=="
-             Author="fjkraan" Timestamp="2019-12-28 21:23:03" Description="windowing[v0.2.0](Linux-arm64-32)(Sources).dek"
-             Version="0.2.0" URL="http://puredata.info/Members/fjkraan/software/windowing/0.2.0/windowing[v0.2.0](Linux-arm64-32)(Sources).dek">
-      <Objects>
-        <Object Name="bartlett"/>
-        <Object Name="blackman"/>
-        <Object Name="connes"/>
-        <Object Name="cosine"/>
-        <Object Name="gaussian"/>
-        <Object Name="hamming"/>
-        <Object Name="hanning"/>
-        <Object Name="kaiser"/>
-        <Object Name="lanczos"/>
-        <Object Name="welch"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="nsend">
-    <Package ID="bnNlbmRfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mzk6NTRfY2hyMTVt"
-             Author="chr15m" Timestamp="2015-08-07 14:39:54" Description="nsend-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/nsend/nsend-v0.0.extended--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="nilwind">
     <Package ID="bmlsd2luZF8wLjIuMi1iZXRhNV8yMDE5LTEyLTIwIDIxOjEyOjI2X2Zqa3JhYW4="
              Author="fjkraan" Timestamp="2019-12-20 21:12:26" Description="nilwind[v0.2.2-beta5](Linux-arm64-32)(Sources).dek"
@@ -4730,6 +4705,37 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="iem_spec2">
+    <Package ID="aWVtX3NwZWMyXzEuMjEuMV8yMDI0LTA5LTAzIDEzOjU3OjAyX2llbWJvdA=="
+             Author="iembot" Timestamp="2024-09-03 13:57:02" Description="iem_spec2[v1.21.1](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek"
+             Version="1.21.1" URL="http://puredata.info/Members/iembot/software/iem_spec2/1.21.1/iem_spec2[v1.21.1](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek">
+      <Objects>
+        <Object Name="spec2_1p1z_freq~"/>
+        <Object Name="spec2_1p1z_time~"/>
+        <Object Name="spec2_abs~"/>
+        <Object Name="spec2_add_scalar~"/>
+        <Object Name="spec2_add~"/>
+        <Object Name="spec2_block_delay~"/>
+        <Object Name="spec2_clip_max~"/>
+        <Object Name="spec2_clip_min~"/>
+        <Object Name="spec2_dbtopow~"/>
+        <Object Name="spec2_dbtorms~"/>
+        <Object Name="spec2_matrix_bundle_stat~"/>
+        <Object Name="spec2_mul_scalar~"/>
+        <Object Name="spec2_mul~"/>
+        <Object Name="spec2_powtodb~"/>
+        <Object Name="spec2_rmstodb~"/>
+        <Object Name="spec2_shift~"/>
+        <Object Name="spec2_sqrt~"/>
+        <Object Name="spec2_stretch~"/>
+        <Object Name="spec2_sub~"/>
+        <Object Name="spec2_sum~"/>
+        <Object Name="spec2_tab_conv~"/>
+        <Object Name="spec2_tabreceive_enable~"/>
+        <Object Name="spec2_tabreceive~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="iemgui">
     <Package ID="aWVtZ3VpXzEuMjEtM18yMDIzLTAxLTExIDE1OjA5OjUxX2llbWJvdA=="
              Author="iembot" Timestamp="2023-01-11 15:09:51" Description="iemgui[v1.21-3](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
@@ -4839,6 +4845,25 @@
              Author="iembot" Timestamp="2022-07-13 22:14:03" Description="scrollpage-plugin[v0.1].dek"
              Version="0.1" URL="http://puredata.info/Members/iembot/software/scrollpage-plugin/0.1/scrollpage-plugin[v0.1].dek">
       <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="iem16">
+    <Package ID="aWVtMTZfMS4yLjFfMjAyNC0wOS0wMyAxMzo0NTozNF9pZW1ib3Q=" Author="iembot"
+             Timestamp="2024-09-03 13:45:34" Description="iem16[v1.2.1](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek"
+             Version="1.2.1" URL="http://puredata.info/Members/iembot/software/iem16/1.2.1/iem16[v1.2.1](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek">
+      <Objects>
+        <Object Name="del16read~"/>
+        <Object Name="del16write~"/>
+        <Object Name="tab16play~"/>
+        <Object Name="tab16read"/>
+        <Object Name="tab16read4~"/>
+        <Object Name="tab16receive~"/>
+        <Object Name="tab16send~"/>
+        <Object Name="tab16write"/>
+        <Object Name="tab16write~"/>
+        <Object Name="table16"/>
+        <Object Name="vd16~"/>
+      </Objects>
     </Package>
   </Packages>
   <Packages Name="iemguts">
@@ -5000,6 +5025,13 @@
     <Package ID="Z2lnYXZlcmJ+XzAuNF8yMDIwLTAxLTA3IDE5OjA5OjA2X2Zqa3JhYW4="
              Author="fjkraan" Timestamp="2020-01-07 19:09:06" Description="gigaverb~[v0.4](Linux-arm64-32)(Sources).dek"
              Version="0.4" URL="http://puredata.info/Members/fjkraan/software/gigaverb~/0.4/gigaverb~[v0.4](Linux-arm64-32)(Sources).dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="iem_adaptfilt">
+    <Package ID="aWVtX2FkYXB0ZmlsdF8xLjIxLjFfMjAyNC0wOS0wMyAxMzo1MjoyN19pZW1ib3Q="
+             Author="iembot" Timestamp="2024-09-03 13:52:27" Description="iem_adaptfilt[v1.21.1](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek"
+             Version="1.21.1" URL="http://puredata.info/Members/iembot/software/iem_adaptfilt/1.21.1/iem_adaptfilt[v1.21.1](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek">
       <Objects/>
     </Package>
   </Packages>
@@ -5217,6 +5249,67 @@
              Author="chr15m" Timestamp="2015-08-07 14:52:34" Description="la-kitchen-v0.0.extended--externals.zip"
              Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/la-kitchen/la-kitchen-v0.0.extended--externals.zip">
       <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="windowing">
+    <Package ID="d2luZG93aW5nXzAuMi4wXzIwMTktMTItMjggMjE6MjM6MDNfZmprcmFhbg=="
+             Author="fjkraan" Timestamp="2019-12-28 21:23:03" Description="windowing[v0.2.0](Linux-arm64-32)(Sources).dek"
+             Version="0.2.0" URL="http://puredata.info/Members/fjkraan/software/windowing/0.2.0/windowing[v0.2.0](Linux-arm64-32)(Sources).dek">
+      <Objects>
+        <Object Name="bartlett"/>
+        <Object Name="blackman"/>
+        <Object Name="connes"/>
+        <Object Name="cosine"/>
+        <Object Name="gaussian"/>
+        <Object Name="hamming"/>
+        <Object Name="hanning"/>
+        <Object Name="kaiser"/>
+        <Object Name="lanczos"/>
+        <Object Name="welch"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="nsend">
+    <Package ID="bnNlbmRfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mzk6NTRfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-08-07 14:39:54" Description="nsend-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="http://puredata.info/Members/chr15m/software/v0-0extended/nsend/nsend-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="iem_dp">
+    <Package ID="aWVtX2RwXzAuMl8yMDI0LTA5LTAzIDEzOjU0OjIzX2llbWJvdA==" Author="iembot"
+             Timestamp="2024-09-03 13:54:23" Description="iem_dp[v0.2](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek"
+             Version="0.2" URL="http://puredata.info/Members/iembot/software/iem_dp/0.2/iem_dp[v0.2](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek">
+      <Objects>
+        <Object Name="add__"/>
+        <Object Name="add~~"/>
+        <Object Name="delread~~"/>
+        <Object Name="delwrite~~"/>
+        <Object Name="div__"/>
+        <Object Name="div~~"/>
+        <Object Name="dptohex"/>
+        <Object Name="dptosym"/>
+        <Object Name="max__"/>
+        <Object Name="max~~"/>
+        <Object Name="min__"/>
+        <Object Name="min~~"/>
+        <Object Name="mul__"/>
+        <Object Name="mul~~"/>
+        <Object Name="phasor~~"/>
+        <Object Name="random__"/>
+        <Object Name="samphold~~"/>
+        <Object Name="sub~~"/>
+        <Object Name="symtodp"/>
+        <Object Name="tabread4__"/>
+        <Object Name="tabread4~~"/>
+        <Object Name="tabread__"/>
+        <Object Name="tabread~~"/>
+        <Object Name="tabwrite__"/>
+        <Object Name="tabwrite~~"/>
+        <Object Name="vd~~"/>
+        <Object Name="vline~~"/>
+        <Object Name="wrap~~"/>
+      </Objects>
     </Package>
   </Packages>
   <Packages Name="iem_tab">
@@ -6369,6 +6462,23 @@
         <Object Name="tSeg2D"/>
         <Object Name="tSphere3D"/>
         <Object Name="tSquare2D"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="iem_roomsim">
+    <Package ID="aWVtX3Jvb21zaW1fMS4yMS4xXzIwMjQtMDktMDMgMTM6NTc6MDdfaWVtYm90"
+             Author="iembot" Timestamp="2024-09-03 13:57:07" Description="iem_roomsim[v1.21.1](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek"
+             Version="1.21.1" URL="http://puredata.info/Members/iembot/software/iem_roomsim/1.21.1/iem_roomsim[v1.21.1](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek">
+      <Objects>
+        <Object Name="block_delay~"/>
+        <Object Name="block_lp1~"/>
+        <Object Name="block_peak_env~"/>
+        <Object Name="cart2del_damp_2d"/>
+        <Object Name="cart2del_damp_3d"/>
+        <Object Name="n_delay1p_line~"/>
+        <Object Name="n_delay2p_line~"/>
+        <Object Name="xy_2_del_damp_phi"/>
+        <Object Name="xyz_3_del_damp_theta_phi"/>
       </Objects>
     </Package>
   </Packages>
