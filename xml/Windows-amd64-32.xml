@@ -1908,6 +1908,14 @@
     </Package>
   </Packages>
   <Packages Name="pdlua">
+    <Package ID="cGRsdWFfMC4xMi4xMV8yMDI0LTA5LTA1IDEyOjMzOjMwX2FncmFlZg=="
+             Author="agraef" Timestamp="2024-09-05 12:33:30" Description="pdlua[v0.12.11](Windows-amd64-32)(Windows-amd64-64).dek"
+             Version="0.12.11" URL="http://puredata.info/Members/agraef/software/pdlua/0.12.11/pdlua[v0.12.11](Windows-amd64-32)(Windows-amd64-64).dek">
+      <Objects>
+        <Object Name="pdlua"/>
+        <Object Name="pdluax"/>
+      </Objects>
+    </Package>
     <Package ID="cGRsdWFfMC4xMi4xMF8yMDI0LTA5LTAzIDE4OjU2OjQzX2FncmFlZg=="
              Author="agraef" Timestamp="2024-09-03 18:56:43" Description="pdlua[v0.12.10](Windows-amd64-32)(Windows-amd64-64).dek"
              Version="0.12.10" URL="http://puredata.info/Members/agraef/software/pdlua/0.12.10/pdlua[v0.12.10](Windows-amd64-32)(Windows-amd64-64).dek">
