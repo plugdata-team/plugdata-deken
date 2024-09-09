@@ -2004,6 +2004,14 @@
     </Package>
   </Packages>
   <Packages Name="pdlua">
+    <Package ID="cGRsdWFfMC4xMi4xNV8yMDI0LTA5LTA5IDA5OjU1OjE0X2FncmFlZg=="
+             Author="agraef" Timestamp="2024-09-09 09:55:14" Description="pdlua[v0.12.15](Linux-amd64-32)(Linux-amd64-64).dek"
+             Version="0.12.15" URL="http://puredata.info/Members/agraef/software/pdlua/0.12.15/pdlua[v0.12.15](Linux-amd64-32)(Linux-amd64-64).dek">
+      <Objects>
+        <Object Name="pdlua"/>
+        <Object Name="pdluax"/>
+      </Objects>
+    </Package>
     <Package ID="cGRsdWFfMC4xMi4xNF8yMDI0LTA5LTA4IDA1OjIzOjI1X2FncmFlZg=="
              Author="agraef" Timestamp="2024-09-08 05:23:25" Description="pdlua[v0.12.14](Linux-amd64-32)(Linux-amd64-64).dek"
              Version="0.12.14" URL="http://puredata.info/Members/agraef/software/pdlua/0.12.14/pdlua[v0.12.14](Linux-amd64-32)(Linux-amd64-64).dek">
