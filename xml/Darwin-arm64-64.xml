@@ -616,6 +616,16 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="neuralnet">
+    <Package ID="bmV1cmFsbmV0XzAuM18yMDI0LTA5LTE2IDA5OjQxOjAyX2FsZXhhbmRyb3M="
+             Author="alexandros" Timestamp="2024-09-16 09:41:02" Description="neuralnet[v0.3](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
+             Version="0.3" URL="http://puredata.info/Members/alexandros/software/neuralnet/0.3/neuralnet[v0.3](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek">
+      <Objects>
+        <Object Name="neuralnet"/>
+        <Object Name="neuralnet~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="planifolia">
     <Package ID="cGxhbmlmb2xpYV8wLjIxXzIwMjItMTEtMzAgMjE6MTI6MTNfemVwYWRvdmFuaQ=="
              Author="zepadovani" Timestamp="2022-11-30 21:12:13" Description="planifolia[v0.21].dek"

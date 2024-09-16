@@ -2682,6 +2682,14 @@
     </Package>
   </Packages>
   <Packages Name="neuralnet">
+    <Package ID="bmV1cmFsbmV0XzAuM18yMDI0LTA5LTE2IDA5OjQyOjE1X2FsZXhhbmRyb3M="
+             Author="alexandros" Timestamp="2024-09-16 09:42:15" Description="neuralnet[v0.3](Windows-amd64-32)(Windows-amd64-64).dek"
+             Version="0.3" URL="http://puredata.info/Members/alexandros/software/neuralnet/0.3/neuralnet[v0.3](Windows-amd64-32)(Windows-amd64-64).dek">
+      <Objects>
+        <Object Name="neuralnet"/>
+        <Object Name="neuralnet~"/>
+      </Objects>
+    </Package>
     <Package ID="bmV1cmFsbmV0XzAuMl8yMDIyLTA3LTAxIDIxOjIxOjIyX2FsZXhhbmRyb3M="
              Author="alexandros" Timestamp="2022-07-01 21:21:22" Description="neuralnet[v0.2](Windows-amd64-32)(Windows-i386-32)(Sources).dek"
              Version="0.2" URL="http://puredata.info/Members/alexandros/software/neuralnet/0.2/neuralnet[v0.2](Windows-amd64-32)(Windows-i386-32)(Sources).dek">
