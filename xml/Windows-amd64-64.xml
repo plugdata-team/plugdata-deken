@@ -413,6 +413,14 @@
     </Package>
   </Packages>
   <Packages Name="pdlua">
+    <Package ID="cGRsdWFfMC4xMi4xN18yMDI0LTA5LTIxIDA4OjI2OjQ3X2FncmFlZg=="
+             Author="agraef" Timestamp="2024-09-21 08:26:47" Description="pdlua[v0.12.17](Windows-amd64-32)(Windows-amd64-64).dek"
+             Version="0.12.17" URL="http://puredata.info/Members/agraef/software/pdlua/0.12.17/pdlua[v0.12.17](Windows-amd64-32)(Windows-amd64-64).dek">
+      <Objects>
+        <Object Name="pdlua"/>
+        <Object Name="pdluax"/>
+      </Objects>
+    </Package>
     <Package ID="cGRsdWFfMC4xMi4xNl8yMDI0LTA5LTEyIDEyOjM3OjA5X2FncmFlZg=="
              Author="agraef" Timestamp="2024-09-12 12:37:09" Description="pdlua[v0.12.16](Windows-amd64-32)(Windows-amd64-64).dek"
              Version="0.12.16" URL="http://puredata.info/Members/agraef/software/pdlua/0.12.16/pdlua[v0.12.16](Windows-amd64-32)(Windows-amd64-64).dek">
