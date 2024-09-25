@@ -436,6 +436,14 @@
     </Package>
   </Packages>
   <Packages Name="pdlua">
+    <Package ID="cGRsdWFfMC4xMi4xOF8yMDI0LTA5LTI0IDEyOjIyOjM1X2FncmFlZg=="
+             Author="agraef" Timestamp="2024-09-24 12:22:35" Description="pdlua[v0.12.18](Linux-amd64-32)(Linux-amd64-64).dek"
+             Version="0.12.18" URL="http://puredata.info/Members/agraef/software/pdlua/0.12.18/pdlua[v0.12.18](Linux-amd64-32)(Linux-amd64-64).dek">
+      <Objects>
+        <Object Name="pdlua"/>
+        <Object Name="pdluax"/>
+      </Objects>
+    </Package>
     <Package ID="cGRsdWFfMC4xMi4xN18yMDI0LTA5LTIxIDA4OjI1OjA1X2FncmFlZg=="
              Author="agraef" Timestamp="2024-09-21 08:25:05" Description="pdlua[v0.12.17](Linux-amd64-32)(Linux-amd64-64).dek"
              Version="0.12.17" URL="http://puredata.info/Members/agraef/software/pdlua/0.12.17/pdlua[v0.12.17](Linux-amd64-32)(Linux-amd64-64).dek">
@@ -1600,8 +1608,8 @@
     </Package>
   </Packages>
   <Packages Name="Gem">
-    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNC0wOC0xMiAxMzo0ODo1OF9pZW1ib3Q="
-             Author="iembot" Timestamp="2024-08-12 13:48:58" Description="Gem[v0.94-snapshot](Linux-amd64-32)(Linux-amd64-64).dek"
+    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNC0wOS0yNCAxMTo1MToxNF9pZW1ib3Q="
+             Author="iembot" Timestamp="2024-09-24 11:51:14" Description="Gem[v0.94-snapshot](Linux-amd64-32)(Linux-amd64-64).dek"
              Version="0.94-snapshot" URL="http://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Linux-amd64-32)(Linux-amd64-64).dek">
       <Objects>
         <Object Name="accumrotate"/>
