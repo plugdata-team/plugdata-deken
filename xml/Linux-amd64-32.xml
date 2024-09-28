@@ -2358,6 +2358,13 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="nusmuk_utils">
+    <Package ID="bnVzbXVrX3V0aWxzXzIwMjQuMDkuMjdfMjAyNC0wOS0yNyAxNTowNDo0N19jaG5yeQ=="
+             Author="chnry" Timestamp="2024-09-27 15:04:47" Description="nusmuk_utils[v2024.09.27](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64).dek"
+             Version="2024.09.27" URL="http://puredata.info/Members/chnry/software/nusmuk_utils/2024.09.27/nusmuk_utils[v2024.09.27](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64).dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="pddp">
     <Package ID="cGRkcF8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNDo0Mjo1OF9jaHIxNW0="
              Author="chr15m" Timestamp="2015-08-07 14:42:58" Description="pddp-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
@@ -12431,8 +12438,8 @@
     </Package>
   </Packages>
   <Packages Name="tdh.lib">
-    <Package ID="dGRoLmxpYl8wLjFfMjAyNC0wOS0yMyAyMDoxOTo0Ml90aG91bGRjcm9mdA=="
-             Author="thouldcroft" Timestamp="2024-09-23 20:19:42" Description="tdh.lib[v0.1].dek"
+    <Package ID="dGRoLmxpYl8wLjFfMjAyNC0wOS0yNyAxNzoyMzo0MF90aG91bGRjcm9mdA=="
+             Author="thouldcroft" Timestamp="2024-09-27 17:23:40" Description="tdh.lib[v0.1].dek"
              Version="0.1" URL="http://puredata.info/Members/thouldcroft/software/tdh.lib/0.1/tdh.lib[v0.1].dek">
       <Objects>
         <Object Name="tdh.ac.eventCreation"/>
@@ -16284,6 +16291,44 @@
         <Object Name="vecdex~"/>
         <Object Name="waveshape~"/>
         <Object Name="windowvec~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="nusmuk_audio">
+    <Package ID="bnVzbXVrX2F1ZGlvXzIwMjQuMDkuMjdfMjAyNC0wOS0yNyAxNDoyMjoyM19jaG5yeQ=="
+             Author="chnry" Timestamp="2024-09-27 14:22:23" Description="nusmuk_audio[v2024.09.27](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64).dek"
+             Version="2024.09.27" URL="http://puredata.info/Members/chnry/software/nusmuk_audio/2024.09.27/nusmuk_audio[v2024.09.27](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64).dek">
+      <Objects>
+        <Object Name="30_bands_stereo_eq"/>
+        <Object Name="ADSR"/>
+        <Object Name="bq_coef_bp"/>
+        <Object Name="bq_coef_highshelf"/>
+        <Object Name="bq_coef_hip"/>
+        <Object Name="bq_coef_lop"/>
+        <Object Name="bq_coef_lowshelf"/>
+        <Object Name="bq_coef_notch"/>
+        <Object Name="bq_coef_peak"/>
+        <Object Name="bq_coef_peak_BW"/>
+        <Object Name="bq_list~"/>
+        <Object Name="bq~"/>
+        <Object Name="compress_limit_sidechain~"/>
+        <Object Name="compress_limit~"/>
+        <Object Name="distortion2~"/>
+        <Object Name="distortion~"/>
+        <Object Name="echo~"/>
+        <Object Name="filter~"/>
+        <Object Name="granulator~"/>
+        <Object Name="median~"/>
+        <Object Name="oscillo~"/>
+        <Object Name="pwm~"/>
+        <Object Name="saw2~"/>
+        <Object Name="saw~"/>
+        <Object Name="spatialisation~"/>
+        <Object Name="tabosc4c~"/>
+        <Object Name="tabosci~"/>
+        <Object Name="tabread2d~"/>
+        <Object Name="tabread4c~"/>
+        <Object Name="triangle~"/>
       </Objects>
     </Package>
   </Packages>

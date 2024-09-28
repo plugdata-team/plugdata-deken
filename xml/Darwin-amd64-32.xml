@@ -2837,6 +2837,13 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="nusmuk_utils">
+    <Package ID="bnVzbXVrX3V0aWxzXzIwMjQuMDkuMjdfMjAyNC0wOS0yNyAxNTowNToyOV9jaG5yeQ=="
+             Author="chnry" Timestamp="2024-09-27 15:05:29" Description="nusmuk_utils[v2024.09.27](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
+             Version="2024.09.27" URL="http://puredata.info/Members/chnry/software/nusmuk_utils/2024.09.27/nusmuk_utils[v2024.09.27](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="pddp">
     <Package ID="cGRkcF8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjI5OjQ5X3ptb2Vsbmln"
              Author="zmoelnig" Timestamp="2015-12-10 14:29:49" Description="pddp-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
@@ -25042,8 +25049,8 @@
     </Package>
   </Packages>
   <Packages Name="tdh.lib">
-    <Package ID="dGRoLmxpYl8wLjFfMjAyNC0wOS0yMyAyMDoxOTo0Ml90aG91bGRjcm9mdA=="
-             Author="thouldcroft" Timestamp="2024-09-23 20:19:42" Description="tdh.lib[v0.1].dek"
+    <Package ID="dGRoLmxpYl8wLjFfMjAyNC0wOS0yNyAxNzoyMzo0MF90aG91bGRjcm9mdA=="
+             Author="thouldcroft" Timestamp="2024-09-27 17:23:40" Description="tdh.lib[v0.1].dek"
              Version="0.1" URL="http://puredata.info/Members/thouldcroft/software/tdh.lib/0.1/tdh.lib[v0.1].dek">
       <Objects>
         <Object Name="tdh.ac.eventCreation"/>
@@ -29015,6 +29022,13 @@
         <Object Name="waveshape~"/>
         <Object Name="windowvec~"/>
       </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="nusmuk_audio">
+    <Package ID="bnVzbXVrX2F1ZGlvXzIwMjQuMDkuMjdfMjAyNC0wOS0yNyAxNDoyMDo1OV9jaG5yeQ=="
+             Author="chnry" Timestamp="2024-09-27 14:20:59" Description="nusmuk_audio[v2024.09.27](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
+             Version="2024.09.27" URL="http://puredata.info/Members/chnry/software/nusmuk_audio/2024.09.27/nusmuk_audio[v2024.09.27](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="asdf">

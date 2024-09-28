@@ -3668,8 +3668,8 @@
     </Package>
   </Packages>
   <Packages Name="tdh.lib">
-    <Package ID="dGRoLmxpYl8wLjFfMjAyNC0wOS0yMyAyMDoxOTo0Ml90aG91bGRjcm9mdA=="
-             Author="thouldcroft" Timestamp="2024-09-23 20:19:42" Description="tdh.lib[v0.1].dek"
+    <Package ID="dGRoLmxpYl8wLjFfMjAyNC0wOS0yNyAxNzoyMzo0MF90aG91bGRjcm9mdA=="
+             Author="thouldcroft" Timestamp="2024-09-27 17:23:40" Description="tdh.lib[v0.1].dek"
              Version="0.1" URL="http://puredata.info/Members/thouldcroft/software/tdh.lib/0.1/tdh.lib[v0.1].dek">
       <Objects>
         <Object Name="tdh.ac.eventCreation"/>
@@ -3718,8 +3718,8 @@
         <Object Name="tdh.util.snapshotter~"/>
       </Objects>
     </Package>
-    <Package ID="dGRoLmxpYl8wLjFfMjAyNC0wOS0yMyAyMDoxOTo0Ml90aG91bGRjcm9mdA=="
-             Author="thouldcroft" Timestamp="2024-09-23 20:19:42" Description="tdh.lib[v0.1].dek"
+    <Package ID="dGRoLmxpYl8wLjFfMjAyNC0wOS0yNyAxNzoyMzo0MF90aG91bGRjcm9mdA=="
+             Author="thouldcroft" Timestamp="2024-09-27 17:23:40" Description="tdh.lib[v0.1].dek"
              Version="0.1" URL="http://puredata.info/Members/thouldcroft/software/tdh.lib/0.1/tdh.lib[v0.1].dek">
       <Objects>
         <Object Name="tdh.ac.eventCreation"/>
