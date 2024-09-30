@@ -2225,13 +2225,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="nusmuk_utils">
-    <Package ID="bnVzbXVrX3V0aWxzXzIwMjQuMDkuMjdfMjAyNC0wOS0yNyAxNTowMzoxOV9jaG5yeQ=="
-             Author="chnry" Timestamp="2024-09-27 15:03:19" Description="nusmuk_utils[v2024.09.27](Windows-amd64-32)(Windows-amd64-64).dek"
-             Version="2024.09.27" URL="http://puredata.info/Members/chnry/software/nusmuk_utils/2024.09.27/nusmuk_utils[v2024.09.27](Windows-amd64-32)(Windows-amd64-64).dek">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="pddp">
     <Package ID="cGRkcF8wLjAuZXh0ZW5kZWRfMjAxOC0wOS0yNiAwMzo0OToyMV9sdWNhcmRh"
              Author="lucarda" Timestamp="2018-09-26 03:49:21" Description="pddp[v0.0.extended](Windows-amd64-32)(Sources).dek"
@@ -2250,6 +2243,11 @@
     </Package>
   </Packages>
   <Packages Name="nusmuk-utils">
+    <Package ID="bnVzbXVrLXV0aWxzXzIwMjQuMDkuMjlfMjAyNC0wOS0yOSAxNToxNTowMF9jaG5yeQ=="
+             Author="chnry" Timestamp="2024-09-29 15:15:00" Description="nusmuk-utils[v2024.09.29](Windows-amd64-32)(Windows-amd64-64).dek"
+             Version="2024.09.29" URL="http://puredata.info/Members/chnry/software/nusmuk-utils/2024.09.29/nusmuk-utils[v2024.09.29](Windows-amd64-32)(Windows-amd64-64).dek">
+      <Objects/>
+    </Package>
     <Package ID="bnVzbXVrLXV0aWxzXzIwMTVfMjAxOS0wMy0xNSAyMToxNTo1NF9sdWNhcmRh"
              Author="lucarda" Timestamp="2019-03-15 21:15:54" Description="nusmuk-utils[v2015](Windows-amd64-32)(Sources).dek"
              Version="2015" URL="http://puredata.info/Members/lucarda/software/nusmuk-utils[v2015](Windows-amd64-32)(Sources).dek">
@@ -2292,6 +2290,42 @@
     </Package>
   </Packages>
   <Packages Name="nusmuk-audio">
+    <Package ID="bnVzbXVrLWF1ZGlvXzIwMjQuMDkuMjlfMjAyNC0wOS0yOSAxNDozNjowNF9jaG5yeQ=="
+             Author="chnry" Timestamp="2024-09-29 14:36:04" Description="nusmuk-audio[v2024.09.29](Windows-amd64-32)(Windows-amd64-64).dek"
+             Version="2024.09.29" URL="http://puredata.info/Members/chnry/software/nusmuk-audio/2024.09.29/nusmuk-audio[v2024.09.29](Windows-amd64-32)(Windows-amd64-64).dek">
+      <Objects>
+        <Object Name="30_bands_stereo_eq"/>
+        <Object Name="ADSR"/>
+        <Object Name="bq_coef_bp"/>
+        <Object Name="bq_coef_highshelf"/>
+        <Object Name="bq_coef_hip"/>
+        <Object Name="bq_coef_lop"/>
+        <Object Name="bq_coef_lowshelf"/>
+        <Object Name="bq_coef_notch"/>
+        <Object Name="bq_coef_peak"/>
+        <Object Name="bq_coef_peak_BW"/>
+        <Object Name="bq_list~"/>
+        <Object Name="bq~"/>
+        <Object Name="compress_limit_sidechain~"/>
+        <Object Name="compress_limit~"/>
+        <Object Name="distortion2~"/>
+        <Object Name="distortion~"/>
+        <Object Name="echo~"/>
+        <Object Name="filter~"/>
+        <Object Name="granulator~"/>
+        <Object Name="median~"/>
+        <Object Name="oscillo~"/>
+        <Object Name="pwm~"/>
+        <Object Name="saw2~"/>
+        <Object Name="saw~"/>
+        <Object Name="spatialisation~"/>
+        <Object Name="tabosc4c~"/>
+        <Object Name="tabosci~"/>
+        <Object Name="tabread2d~"/>
+        <Object Name="tabread4c~"/>
+        <Object Name="triangle~"/>
+      </Objects>
+    </Package>
     <Package ID="bnVzbXVrLWF1ZGlvXzIwMTVfMjAxOS0wMy0xNSAyMToxMzo0M19sdWNhcmRh"
              Author="lucarda" Timestamp="2019-03-15 21:13:43" Description="nusmuk-audio[v2015](Windows-amd64-32)(Sources).dek"
              Version="2015" URL="http://puredata.info/Members/lucarda/software/nusmuk-audio[v2015](Windows-amd64-32)(Sources).dek">
@@ -23786,44 +23820,6 @@
         <Object Name="vecdex~"/>
         <Object Name="waveshape~"/>
         <Object Name="windowvec~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="nusmuk_audio">
-    <Package ID="bnVzbXVrX2F1ZGlvXzIwMjQuMDkuMjdfMjAyNC0wOS0yNyAxNDoyMzoxNF9jaG5yeQ=="
-             Author="chnry" Timestamp="2024-09-27 14:23:14" Description="nusmuk_audio[v2024.09.27](Windows-amd64-32)(Windows-amd64-64).dek"
-             Version="2024.09.27" URL="http://puredata.info/Members/chnry/software/nusmuk_audio/2024.09.27/nusmuk_audio[v2024.09.27](Windows-amd64-32)(Windows-amd64-64).dek">
-      <Objects>
-        <Object Name="30_bands_stereo_eq"/>
-        <Object Name="ADSR"/>
-        <Object Name="bq_coef_bp"/>
-        <Object Name="bq_coef_highshelf"/>
-        <Object Name="bq_coef_hip"/>
-        <Object Name="bq_coef_lop"/>
-        <Object Name="bq_coef_lowshelf"/>
-        <Object Name="bq_coef_notch"/>
-        <Object Name="bq_coef_peak"/>
-        <Object Name="bq_coef_peak_BW"/>
-        <Object Name="bq_list~"/>
-        <Object Name="bq~"/>
-        <Object Name="compress_limit_sidechain~"/>
-        <Object Name="compress_limit~"/>
-        <Object Name="distortion2~"/>
-        <Object Name="distortion~"/>
-        <Object Name="echo~"/>
-        <Object Name="filter~"/>
-        <Object Name="granulator~"/>
-        <Object Name="median~"/>
-        <Object Name="oscillo~"/>
-        <Object Name="pwm~"/>
-        <Object Name="saw2~"/>
-        <Object Name="saw~"/>
-        <Object Name="spatialisation~"/>
-        <Object Name="tabosc4c~"/>
-        <Object Name="tabosci~"/>
-        <Object Name="tabread2d~"/>
-        <Object Name="tabread4c~"/>
-        <Object Name="triangle~"/>
       </Objects>
     </Package>
   </Packages>
