@@ -2366,10 +2366,38 @@
     </Package>
   </Packages>
   <Packages Name="nusmuk-utils">
-    <Package ID="bnVzbXVrLXV0aWxzXzIwMjQuMDkuMjlfMjAyNC0wOS0yOSAxNToxNDoxN19jaG5yeQ=="
-             Author="chnry" Timestamp="2024-09-29 15:14:17" Description="nusmuk-utils[v2024.09.29](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64).dek"
+    <Package ID="bnVzbXVrLXV0aWxzXzIwMjQuMDkuMjlfMjAyNC0wOS0zMCAxNjozNToxMl9jaG5yeQ=="
+             Author="chnry" Timestamp="2024-09-30 16:35:12" Description="nusmuk-utils[v2024.09.29](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64).dek"
              Version="2024.09.29" URL="http://puredata.info/Members/chnry/software/nusmuk-utils/2024.09.29/nusmuk-utils[v2024.09.29](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64).dek">
-      <Objects/>
+      <Objects>
+        <Object Name="_mtx_preset"/>
+        <Object Name="between"/>
+        <Object Name="filtered_random"/>
+        <Object Name="fmod"/>
+        <Object Name="lb"/>
+        <Object Name="lfo"/>
+        <Object Name="line3"/>
+        <Object Name="many_bang"/>
+        <Object Name="mtx_preset"/>
+        <Object Name="once"/>
+        <Object Name="p"/>
+        <Object Name="pbank"/>
+        <Object Name="pps"/>
+        <Object Name="rand_diff"/>
+        <Object Name="randn"/>
+        <Object Name="rnd_flow"/>
+        <Object Name="rnd_metro"/>
+        <Object Name="tab_derivate"/>
+        <Object Name="tab_downsample"/>
+        <Object Name="tab_downsample_average"/>
+        <Object Name="tab_downsample_max"/>
+        <Object Name="tab_downsample_min"/>
+        <Object Name="tab_integrate"/>
+        <Object Name="tab_max"/>
+        <Object Name="tab_min"/>
+        <Object Name="tab_upsample"/>
+        <Object Name="tab_upsample_copy"/>
+      </Objects>
     </Package>
     <Package ID="bnVzbXVrLXV0aWxzXzIwMTVfMjAxOS0wMy0xMyAxMDoxMjoyMF9jaG5yeQ=="
              Author="chnry" Timestamp="2019-03-13 10:12:20" Description="nusmuk-utils[v2015](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-i386-32)(Sources).dek"
