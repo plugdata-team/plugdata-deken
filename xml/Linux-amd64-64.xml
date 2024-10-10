@@ -436,6 +436,14 @@
     </Package>
   </Packages>
   <Packages Name="pdlua">
+    <Package ID="cGRsdWFfMC4xMi4yMF8yMDI0LTEwLTA5IDEzOjQ1OjA1X2FncmFlZg=="
+             Author="agraef" Timestamp="2024-10-09 13:45:05" Description="pdlua[v0.12.20](Linux-amd64-32)(Linux-amd64-64).dek"
+             Version="0.12.20" URL="http://puredata.info/Members/agraef/software/pdlua/0.12.20/pdlua[v0.12.20](Linux-amd64-32)(Linux-amd64-64).dek">
+      <Objects>
+        <Object Name="pdlua"/>
+        <Object Name="pdluax"/>
+      </Objects>
+    </Package>
     <Package ID="cGRsdWFfMC4xMi4xOV8yMDI0LTEwLTA1IDE4OjQ0OjM2X2FncmFlZg=="
              Author="agraef" Timestamp="2024-10-05 18:44:36" Description="pdlua[v0.12.19](Linux-amd64-32)(Linux-amd64-64).dek"
              Version="0.12.19" URL="http://puredata.info/Members/agraef/software/pdlua/0.12.19/pdlua[v0.12.19](Linux-amd64-32)(Linux-amd64-64).dek">
@@ -1947,6 +1955,16 @@
     </Package>
   </Packages>
   <Packages Name="Fraise">
+    <Package ID="RnJhaXNlXzAuMy4zXzIwMjQtMTAtMDkgMTU6MzU6MjFfYW50MXI=" Author="ant1r"
+             Timestamp="2024-10-09 15:35:21" Description="Fraise[v0.3.3].dek"
+             Version="0.3.3" URL="http://puredata.info/Members/ant1r/software/Fraise/0.3.3/Fraise[v0.3.3].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy4yXzIwMjQtMTAtMDkgMTQ6NDE6MDdfYW50MXI=" Author="ant1r"
+             Timestamp="2024-10-09 14:41:07" Description="Fraise[v0.3.2].dek"
+             Version="0.3.2" URL="http://puredata.info/Members/ant1r/software/Fraise/0.3.2/Fraise[v0.3.2].dek">
+      <Objects/>
+    </Package>
     <Package ID="RnJhaXNlXzAuMy4xXzIwMjQtMDgtMjEgMTg6MzQ6NDJfYW50MXI=" Author="ant1r"
              Timestamp="2024-08-21 18:34:42" Description="Fraise[v0.3.1].dek"
              Version="0.3.1" URL="http://puredata.info/Members/ant1r/software/Fraise/0.3.1/Fraise[v0.3.1].dek">
