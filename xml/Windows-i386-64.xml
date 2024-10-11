@@ -399,6 +399,13 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="mkmr">
+    <Package ID="bWttcl8wLjFfMjAxOS0xMC0yMyAyMzo0ODoyNV9NaWtlTW9yZW5vQXVkaW8="
+             Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="DEAPd">
     <Package ID="REVBUGRfMC4xXzIwMjMtMDMtMDIgMDc6NTg6NDRfY2FsYmFzc2lzdA=="
              Author="calbassist" Timestamp="2023-03-02 07:58:44" Description="DEAPd[v0.1].dek"
@@ -487,10 +494,20 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="mkmr">
-    <Package ID="bWttcl8wLjFfMjAxOS0xMC0yMyAyMzo0ODoyNV9NaWtlTW9yZW5vQXVkaW8="
-             Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
-             Version="0.1" URL="http://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
+  <Packages Name="automatonism">
+    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmU0XzIwMjQtMDEtMTMgMTY6NDE6MTZfanln"
+             Author="jyg" Timestamp="2024-01-13 16:41:16" Description="automatonism[v0.4-pre4].dek"
+             Version="0.4-pre4" URL="http://puredata.info/Members/jyg/software/automatonism[v0.4-pre4].dek">
+      <Objects/>
+    </Package>
+    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmUzXzIwMjMtMTEtMTUgMjM6NTU6MDdfanln"
+             Author="jyg" Timestamp="2023-11-15 23:55:07" Description="automatonism[v0.4-pre3].dek"
+             Version="0.4-pre3" URL="http://puredata.info/Members/jyg/software/automatonism[v0.4-pre3].dek">
+      <Objects/>
+    </Package>
+    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmUxXzIwMjMtMDUtMTIgMjI6Mzc6NTRfanln"
+             Author="jyg" Timestamp="2023-05-12 22:37:54" Description="automatonism[v0.4-pre1].dek"
+             Version="0.4-pre1" URL="http://puredata.info/Members/jyg/software/automatonism[v0.4-pre1].dek">
       <Objects/>
     </Package>
   </Packages>
@@ -947,6 +964,13 @@
         <Object Name="bf-param"/>
         <Object Name="boeuf"/>
       </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="XXX-deken-test">
+    <Package ID="WFhYLWRla2VuLXRlc3RfMC45LjE4LTEyLWdlNmM4MzM5X29zeF8yMDI0LTEwLTEwIDIxOjUzOjI0X3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2024-10-10 21:53:24" Description="XXX-deken-test[v0.9.18-12-ge6c8339_osx](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
+             Version="0.9.18-12-ge6c8339_osx" URL="http://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/15221/0.9.18-12-ge6c8339_osx/XXX-deken-test[v0.9.18-12-ge6c8339_osx](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="acre">
@@ -1710,23 +1734,6 @@
         <Object Name="pp.vcfilter~"/>
         <Object Name="pp.waveform"/>
       </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="automatonism">
-    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmU0XzIwMjQtMDEtMTMgMTY6NDE6MTZfanln"
-             Author="jyg" Timestamp="2024-01-13 16:41:16" Description="automatonism[v0.4-pre4].dek"
-             Version="0.4-pre4" URL="http://puredata.info/Members/jyg/software/automatonism[v0.4-pre4].dek">
-      <Objects/>
-    </Package>
-    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmUzXzIwMjMtMTEtMTUgMjM6NTU6MDdfanln"
-             Author="jyg" Timestamp="2023-11-15 23:55:07" Description="automatonism[v0.4-pre3].dek"
-             Version="0.4-pre3" URL="http://puredata.info/Members/jyg/software/automatonism[v0.4-pre3].dek">
-      <Objects/>
-    </Package>
-    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmUxXzIwMjMtMDUtMTIgMjI6Mzc6NTRfanln"
-             Author="jyg" Timestamp="2023-05-12 22:37:54" Description="automatonism[v0.4-pre1].dek"
-             Version="0.4-pre1" URL="http://puredata.info/Members/jyg/software/automatonism[v0.4-pre1].dek">
-      <Objects/>
     </Package>
   </Packages>
   <Packages Name="tdh.lib">

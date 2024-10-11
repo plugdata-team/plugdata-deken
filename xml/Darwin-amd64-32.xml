@@ -3621,6 +3621,13 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="mkmr">
+    <Package ID="bWttcl8wLjFfMjAxOS0xMC0yMyAyMzo0ODoyNV9NaWtlTW9yZW5vQXVkaW8="
+             Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
+             Version="0.1" URL="http://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="dnd-plugin">
     <Package ID="ZG5kLXBsdWdpbl8wLjMuMF8yMDIxLTA0LTE2IDAyOjAzOjUxX2x1Y2FyZGE="
              Author="lucarda" Timestamp="2021-04-16 02:03:51" Description="dnd-plugin[v0.3.0](Darwin-amd64-32)(Darwin-i386-32).dek"
@@ -17735,6 +17742,44 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="chaos">
+    <Package ID="Y2hhb3NfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxNTozNF96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:15:34" Description="chaos-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/chaos/0-0extended/chaos-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="pix_drum">
+    <Package ID="cGl4X2RydW1fMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDozMToyM196bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:31:23" Description="pix_drum-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/pix_drum/0-0extended/pix_drum-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="flatgui">
+    <Package ID="ZmxhdGd1aV8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjE5OjAxX3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2015-12-10 14:19:01" Description="flatgui-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/flatgui/0-0extended/flatgui-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="automatonism">
+    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmU0XzIwMjQtMDEtMTMgMTY6NDE6MTZfanln"
+             Author="jyg" Timestamp="2024-01-13 16:41:16" Description="automatonism[v0.4-pre4].dek"
+             Version="0.4-pre4" URL="http://puredata.info/Members/jyg/software/automatonism[v0.4-pre4].dek">
+      <Objects/>
+    </Package>
+    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmUzXzIwMjMtMTEtMTUgMjM6NTU6MDdfanln"
+             Author="jyg" Timestamp="2023-11-15 23:55:07" Description="automatonism[v0.4-pre3].dek"
+             Version="0.4-pre3" URL="http://puredata.info/Members/jyg/software/automatonism[v0.4-pre3].dek">
+      <Objects/>
+    </Package>
+    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmUxXzIwMjMtMDUtMTIgMjI6Mzc6NTRfanln"
+             Author="jyg" Timestamp="2023-05-12 22:37:54" Description="automatonism[v0.4-pre1].dek"
+             Version="0.4-pre1" URL="http://puredata.info/Members/jyg/software/automatonism[v0.4-pre1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="cicmtools">
     <Package ID="Y2ljbXRvb2xzXzEuNV8yMDIxLTAyLTA2IDIwOjAwOjU0X3BvcnJlcw=="
              Author="porres" Timestamp="2021-02-06 20:00:54" Description="cicmtools[v1.5](Darwin-amd64-32)(Darwin-i386-32).dek"
@@ -17744,6 +17789,20 @@
         <Object Name="ambipan~"/>
         <Object Name="vbapan~"/>
       </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="syslog">
+    <Package ID="c3lzbG9nXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MzM6NTFfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:33:51" Description="syslog-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/syslog/0-0extended/syslog-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="Fraise-toolchain">
+    <Package ID="RnJhaXNlLXRvb2xjaGFpbl8wLjEuMF8yMDI0LTEwLTA5IDE1OjQzOjAwX2FudDFy"
+             Author="ant1r" Timestamp="2024-10-09 15:43:00" Description="Fraise-toolchain[v0.1.0](Darwin-amd64-32)(Darwin-arm64-32).dek"
+             Version="0.1.0" URL="http://puredata.info/Members/ant1r/software/Fraise-toolchain/0.1.0/Fraise-toolchain[v0.1.0](Darwin-amd64-32).dek">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="abl_link~">
@@ -21917,27 +21976,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="mkmr">
-    <Package ID="bWttcl8wLjFfMjAxOS0xMC0yMyAyMzo0ODoyNV9NaWtlTW9yZW5vQXVkaW8="
-             Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
-             Version="0.1" URL="http://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="syslog">
-    <Package ID="c3lzbG9nXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MzM6NTFfem1vZWxuaWc="
-             Author="zmoelnig" Timestamp="2015-12-10 14:33:51" Description="syslog-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/syslog/0-0extended/syslog-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="Fraise-toolchain">
-    <Package ID="RnJhaXNlLXRvb2xjaGFpbl8wLjEuMF8yMDI0LTEwLTA5IDE1OjQzOjAwX2FudDFy"
-             Author="ant1r" Timestamp="2024-10-09 15:43:00" Description="Fraise-toolchain[v0.1.0](Darwin-amd64-32)(Darwin-arm64-32).dek"
-             Version="0.1.0" URL="http://puredata.info/Members/ant1r/software/Fraise-toolchain/0.1.0/Fraise-toolchain[v0.1.0](Darwin-amd64-32).dek">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="echocurve~">
     <Package ID="ZWNob2N1cnZlfl8wLjFfMjAxOC0wOC0wNiAwNzozNjowN19qd21hdHRoeXM="
              Author="jwmatthys" Timestamp="2018-08-06 07:36:07" Description="echocurve~[v0.1](Darwin-amd64-32)(Darwin-i386-32)(Sources).dek"
@@ -23192,6 +23230,13 @@
     </Package>
   </Packages>
   <Packages Name="comport">
+    <Package ID="Y29tcG9ydF8xLjNfMjAyNC0xMC0xMCAxNzo0MjozMl9pZW1ib3Q=" Author="iembot"
+             Timestamp="2024-10-10 17:42:32" Description="comport[v1.3](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
+             Version="1.3" URL="http://puredata.info/Members/iembot/software/comport/1.3/comport[v1.3](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek">
+      <Objects>
+        <Object Name="comport"/>
+      </Objects>
+    </Package>
     <Package ID="Y29tcG9ydF8xLjJfMjAyMi0wMy0yMSAxMTo1MjoyN19pZW1ib3Q=" Author="iembot"
              Timestamp="2022-03-21 11:52:27" Description="comport[v1.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
              Version="1.2" URL="http://puredata.info/Members/iembot/software/comport/1.2/comport[v1.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
@@ -24013,65 +24058,6 @@
         <Object Name="sradio"/>
         <Object Name="tracks"/>
       </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="ekext">
-    <Package ID="ZWtleHRfMC4yXzIwMTgtMDUtMjQgMDk6MjI6MzFfZWRrZWxseQ==" Author="edkelly"
-             Timestamp="2018-05-24 09:22:31" Description="ekext[v0.2](Darwin-amd64-32)(Darwin-i386-32)(Sources).dek"
-             Version="0.2" URL="http://puredata.info/Members/edkelly/software/ekext/0.2/ekext[v0.2](Darwin-amd64-32)(Darwin-i386-32)(Sources).dek">
-      <Objects>
-        <Object Name="bmt~"/>
-        <Object Name="count"/>
-        <Object Name="cup"/>
-        <Object Name="cupd"/>
-        <Object Name="doubledelta"/>
-        <Object Name="floatcount"/>
-        <Object Name="framescore~"/>
-        <Object Name="framespect~"/>
-        <Object Name="hasc~"/>
-        <Object Name="hssc~"/>
-        <Object Name="ihisto"/>
-        <Object Name="lcmgcd"/>
-        <Object Name="list_sum"/>
-        <Object Name="lpc~"/>
-        <Object Name="maskxor"/>
-        <Object Name="mvcf~"/>
-        <Object Name="polymap"/>
-        <Object Name="polystat"/>
-        <Object Name="positive"/>
-        <Object Name="scalefilter"/>
-        <Object Name="sieve"/>
-        <Object Name="simile"/>
-        <Object Name="simile~"/>
-        <Object Name="steady"/>
-        <Object Name="valve"/>
-        <Object Name="voicing_detector~"/>
-        <Object Name="wavecutter~"/>
-        <Object Name="wavefolder~"/>
-        <Object Name="wavestretcher~"/>
-        <Object Name="weightonset"/>
-        <Object Name="wfold~"/>
-        <Object Name="zeroxpos~"/>
-      </Objects>
-    </Package>
-    <Package ID="ZWtleHRfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxNzo1Ml96bW9lbG5pZw=="
-             Author="zmoelnig" Timestamp="2015-12-10 14:17:52" Description="ekext-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/ekext/0-0extended/ekext-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="jit_expr">
-    <Package ID="aml0X2V4cHJfMC4xLjFfMjAxOC0wNC0wMiAxODoxODoyOV94Mzd2" Author="x37v"
-             Timestamp="2018-04-02 18:18:29" Description="jit_expr[v0.1.1](Darwin-amd64-32)(Darwin-i386-32).dek"
-             Version="0.1.1" URL="http://puredata.info/Members/x37v/software/jit_expr/0.1.1/jit_expr[v0.1.1](Darwin-amd64-32)(Darwin-i386-32).dek">
-      <Objects>
-        <Object Name="jit_expr"/>
-      </Objects>
-    </Package>
-    <Package ID="aml0X2V4cHJfMC4xXzIwMTgtMDMtMTEgMDA6MjM6NDRfeDM3dg==" Author="x37v"
-             Timestamp="2018-03-11 00:23:44" Description="jit_expr[v0.1](Darwin-amd64-32).dek"
-             Version="0.1" URL="http://puredata.info/Members/x37v/software/jit_expr/0.1/jit_expr[v0.1](Darwin-amd64-32).dek">
-      <Objects/>
     </Package>
   </Packages>
   <Packages Name="spring22">
@@ -25107,44 +25093,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="chaos">
-    <Package ID="Y2hhb3NfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxNTozNF96bW9lbG5pZw=="
-             Author="zmoelnig" Timestamp="2015-12-10 14:15:34" Description="chaos-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/chaos/0-0extended/chaos-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="pix_drum">
-    <Package ID="cGl4X2RydW1fMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDozMToyM196bW9lbG5pZw=="
-             Author="zmoelnig" Timestamp="2015-12-10 14:31:23" Description="pix_drum-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/pix_drum/0-0extended/pix_drum-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="flatgui">
-    <Package ID="ZmxhdGd1aV8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjE5OjAxX3ptb2Vsbmln"
-             Author="zmoelnig" Timestamp="2015-12-10 14:19:01" Description="flatgui-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/flatgui/0-0extended/flatgui-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="automatonism">
-    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmU0XzIwMjQtMDEtMTMgMTY6NDE6MTZfanln"
-             Author="jyg" Timestamp="2024-01-13 16:41:16" Description="automatonism[v0.4-pre4].dek"
-             Version="0.4-pre4" URL="http://puredata.info/Members/jyg/software/automatonism[v0.4-pre4].dek">
-      <Objects/>
-    </Package>
-    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmUzXzIwMjMtMTEtMTUgMjM6NTU6MDdfanln"
-             Author="jyg" Timestamp="2023-11-15 23:55:07" Description="automatonism[v0.4-pre3].dek"
-             Version="0.4-pre3" URL="http://puredata.info/Members/jyg/software/automatonism[v0.4-pre3].dek">
-      <Objects/>
-    </Package>
-    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmUxXzIwMjMtMDUtMTIgMjI6Mzc6NTRfanln"
-             Author="jyg" Timestamp="2023-05-12 22:37:54" Description="automatonism[v0.4-pre1].dek"
-             Version="0.4-pre1" URL="http://puredata.info/Members/jyg/software/automatonism[v0.4-pre1].dek">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="tdh.lib">
     <Package ID="dGRoLmxpYl8wLjFfMjAyNC0wOS0yNyAxNzoyMzo0MF90aG91bGRjcm9mdA=="
              Author="thouldcroft" Timestamp="2024-09-27 17:23:40" Description="tdh.lib[v0.1].dek"
@@ -25204,6 +25152,65 @@
       <Objects>
         <Object Name="art_net"/>
       </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="jit_expr">
+    <Package ID="aml0X2V4cHJfMC4xLjFfMjAxOC0wNC0wMiAxODoxODoyOV94Mzd2" Author="x37v"
+             Timestamp="2018-04-02 18:18:29" Description="jit_expr[v0.1.1](Darwin-amd64-32)(Darwin-i386-32).dek"
+             Version="0.1.1" URL="http://puredata.info/Members/x37v/software/jit_expr/0.1.1/jit_expr[v0.1.1](Darwin-amd64-32)(Darwin-i386-32).dek">
+      <Objects>
+        <Object Name="jit_expr"/>
+      </Objects>
+    </Package>
+    <Package ID="aml0X2V4cHJfMC4xXzIwMTgtMDMtMTEgMDA6MjM6NDRfeDM3dg==" Author="x37v"
+             Timestamp="2018-03-11 00:23:44" Description="jit_expr[v0.1](Darwin-amd64-32).dek"
+             Version="0.1" URL="http://puredata.info/Members/x37v/software/jit_expr/0.1/jit_expr[v0.1](Darwin-amd64-32).dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="ekext">
+    <Package ID="ZWtleHRfMC4yXzIwMTgtMDUtMjQgMDk6MjI6MzFfZWRrZWxseQ==" Author="edkelly"
+             Timestamp="2018-05-24 09:22:31" Description="ekext[v0.2](Darwin-amd64-32)(Darwin-i386-32)(Sources).dek"
+             Version="0.2" URL="http://puredata.info/Members/edkelly/software/ekext/0.2/ekext[v0.2](Darwin-amd64-32)(Darwin-i386-32)(Sources).dek">
+      <Objects>
+        <Object Name="bmt~"/>
+        <Object Name="count"/>
+        <Object Name="cup"/>
+        <Object Name="cupd"/>
+        <Object Name="doubledelta"/>
+        <Object Name="floatcount"/>
+        <Object Name="framescore~"/>
+        <Object Name="framespect~"/>
+        <Object Name="hasc~"/>
+        <Object Name="hssc~"/>
+        <Object Name="ihisto"/>
+        <Object Name="lcmgcd"/>
+        <Object Name="list_sum"/>
+        <Object Name="lpc~"/>
+        <Object Name="maskxor"/>
+        <Object Name="mvcf~"/>
+        <Object Name="polymap"/>
+        <Object Name="polystat"/>
+        <Object Name="positive"/>
+        <Object Name="scalefilter"/>
+        <Object Name="sieve"/>
+        <Object Name="simile"/>
+        <Object Name="simile~"/>
+        <Object Name="steady"/>
+        <Object Name="valve"/>
+        <Object Name="voicing_detector~"/>
+        <Object Name="wavecutter~"/>
+        <Object Name="wavefolder~"/>
+        <Object Name="wavestretcher~"/>
+        <Object Name="weightonset"/>
+        <Object Name="wfold~"/>
+        <Object Name="zeroxpos~"/>
+      </Objects>
+    </Package>
+    <Package ID="ZWtleHRfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxNzo1Ml96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:17:52" Description="ekext-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="http://puredata.info/Members/zmoelnig/software/ekext/0-0extended/ekext-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="bsaylor">
