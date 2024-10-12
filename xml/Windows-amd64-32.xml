@@ -11141,6 +11141,13 @@
     </Package>
   </Packages>
   <Packages Name="pd4web">
+    <Package ID="cGQ0d2ViXzIuMC40XzIwMjQtMTAtMTEgMTQ6MjI6NThfY2hhcmxlc25laW1vZw=="
+             Author="charlesneimog" Timestamp="2024-10-11 14:22:58" Description="pd4web[v2.0.4](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Windows-amd64-32)(Sources).dek"
+             Version="2.0.4" URL="http://puredata.info/Members/charlesneimog/software/pd4web/2.0.4/pd4web[v2.0.4](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="pd4web"/>
+      </Objects>
+    </Package>
     <Package ID="cGQ0d2ViXzIuMC4zXzIwMjQtMTAtMDggMTY6NDU6MzdfY2hhcmxlc25laW1vZw=="
              Author="charlesneimog" Timestamp="2024-10-08 16:45:37" Description="pd4web[v2.0.3](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Windows-amd64-32)(Sources).dek"
              Version="2.0.3" URL="http://puredata.info/Members/charlesneimog/software/pd4web/2.0.3/pd4web[v2.0.3](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Windows-amd64-32)(Sources).dek">
@@ -18633,6 +18640,16 @@
     </Package>
   </Packages>
   <Packages Name="aoo">
+    <Package ID="YW9vXzIuMC1wcmU0XzIwMjQtMTAtMTIgMDE6MTY6NDFfc3BhY2VjaGlsZDE="
+             Author="spacechild1" Timestamp="2024-10-12 01:16:41" Description="aoo[v2.0-pre4](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="2.0-pre4" URL="http://puredata.info/Members/spacechild1/software/aoo/2.0-pre4/aoo[v2.0-pre4](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="aoo_client"/>
+        <Object Name="aoo_receive~"/>
+        <Object Name="aoo_send~"/>
+        <Object Name="aoo_server"/>
+      </Objects>
+    </Package>
     <Package ID="YW9vXzIuMC1wcmUzXzIwMjQtMDEtMzAgMDE6MTI6NTFfc3BhY2VjaGlsZDE="
              Author="spacechild1" Timestamp="2024-01-30 01:12:51" Description="aoo[v2.0-pre3](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
              Version="2.0-pre3" URL="http://puredata.info/Members/spacechild1/software/aoo/2.0-pre3/aoo[v2.0-pre3](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
@@ -20151,6 +20168,56 @@
     </Package>
   </Packages>
   <Packages Name="tdh.lib">
+    <Package ID="dGRoLmxpYl8wLjEuMV8yMDI0LTEwLTExIDE0OjMzOjM0X3Rob3VsZGNyb2Z0"
+             Author="thouldcroft" Timestamp="2024-10-11 14:33:34" Description="tdh.lib[v0.1.1].dek"
+             Version="0.1.1" URL="http://puredata.info/Members/thouldcroft/software/tdh.lib/0.1.1/tdh.lib[v0.1.1].dek">
+      <Objects>
+        <Object Name="tdh.ac.eventCreation"/>
+        <Object Name="tdh.ac.eventCreation.ui"/>
+        <Object Name="tdh.math.dbfs2lin"/>
+        <Object Name="tdh.math.lin2dbfs"/>
+        <Object Name="tdh.math.timeConversions"/>
+        <Object Name="tdh.seq.gesture.ui"/>
+        <Object Name="tdh.seq.stepSequencer.ui"/>
+        <Object Name="tdh.sigproc.delay.ui~"/>
+        <Object Name="tdh.sigproc.granulate.ui~"/>
+        <Object Name="tdh.sigproc.mmfilt.ui~"/>
+        <Object Name="tdh.synth.1oscil.ui~"/>
+        <Object Name="tdh.synth.1oscil~"/>
+        <Object Name="tdh.synth.beep.ui~"/>
+        <Object Name="tdh.synth.beep~"/>
+        <Object Name="tdh.synth.LFOscil.ui~"/>
+        <Object Name="tdh.synth.oscilPulse~"/>
+        <Object Name="tdh.util.4chMixer~"/>
+        <Object Name="tdh.util.ad.ui~"/>
+        <Object Name="tdh.util.adsr.ui~"/>
+        <Object Name="tdh.util.adsr~"/>
+        <Object Name="tdh.util.ad~"/>
+        <Object Name="tdh.util.audioFile.ui~"/>
+        <Object Name="tdh.util.audioFileSm.ui~"/>
+        <Object Name="tdh.util.audioInIn.ui~"/>
+        <Object Name="tdh.util.audioInUtility.ui~"/>
+        <Object Name="tdh.util.audioOut.ui~"/>
+        <Object Name="tdh.util.audioOutSm~"/>
+        <Object Name="tdh.util.channelstripMn~"/>
+        <Object Name="tdh.util.channelstripSt~"/>
+        <Object Name="tdh.util.clock.UI"/>
+        <Object Name="tdh.util.clockDiv.UI"/>
+        <Object Name="tdh.util.counter"/>
+        <Object Name="tdh.util.curve"/>
+        <Object Name="tdh.util.curve.ui"/>
+        <Object Name="tdh.util.debounce"/>
+        <Object Name="tdh.util.flipFlop"/>
+        <Object Name="tdh.util.framedCanvas"/>
+        <Object Name="tdh.util.recorder.ui~"/>
+        <Object Name="tdh.util.recorder~"/>
+        <Object Name="tdh.util.sigBypass~"/>
+        <Object Name="tdh.util.signalMonitor.ui~"/>
+        <Object Name="tdh.util.signalMonitor~"/>
+        <Object Name="tdh.util.snapshotter.ui~"/>
+        <Object Name="tdh.util.snapshotter~"/>
+      </Objects>
+    </Package>
     <Package ID="dGRoLmxpYl8wLjFfMjAyNC0wOS0yNyAxNzoyMzo0MF90aG91bGRjcm9mdA=="
              Author="thouldcroft" Timestamp="2024-09-27 17:23:40" Description="tdh.lib[v0.1].dek"
              Version="0.1" URL="http://puredata.info/Members/thouldcroft/software/tdh.lib/0.1/tdh.lib[v0.1].dek">
