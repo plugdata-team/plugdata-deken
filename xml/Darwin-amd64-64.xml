@@ -429,6 +429,14 @@
     </Package>
   </Packages>
   <Packages Name="pdlua">
+    <Package ID="cGRsdWFfMC4xMi4yMl8yMDI0LTEwLTE0IDA3OjI3OjE1X2FncmFlZg=="
+             Author="agraef" Timestamp="2024-10-14 07:27:15" Description="pdlua[v0.12.22](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
+             Version="0.12.22" URL="http://puredata.info/Members/agraef/software/pdlua/0.12.22/pdlua[v0.12.22](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek">
+      <Objects>
+        <Object Name="pdlua"/>
+        <Object Name="pdluax"/>
+      </Objects>
+    </Package>
     <Package ID="cGRsdWFfMC4xMi4yMV8yMDI0LTEwLTEzIDA3OjQ0OjIwX2FncmFlZg=="
              Author="agraef" Timestamp="2024-10-13 07:44:20" Description="pdlua[v0.12.21](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
              Version="0.12.21" URL="http://puredata.info/Members/agraef/software/pdlua/0.12.21/pdlua[v0.12.21](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek">
