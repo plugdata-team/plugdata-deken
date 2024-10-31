@@ -10725,6 +10725,106 @@
     </Package>
   </Packages>
   <Packages Name="tdh.lib">
+    <Package ID="dGRoLmxpYl8wLjEuMl8yMDI0LTEwLTMwIDE0OjAzOjM3X3Rob3VsZGNyb2Z0"
+             Author="thouldcroft" Timestamp="2024-10-30 14:03:37" Description="tdh.lib[v0.1.2].dek"
+             Version="0.1.2" URL="https://puredata.info/Members/thouldcroft/software/tdh.lib/0.1.2/tdh.lib[v0.1.2].dek">
+      <Objects>
+        <Object Name="tdh.ac.eventCreation"/>
+        <Object Name="tdh.ac.eventCreation.ui"/>
+        <Object Name="tdh.math.dbfs2lin"/>
+        <Object Name="tdh.math.lin2dbfs"/>
+        <Object Name="tdh.math.timeConversions"/>
+        <Object Name="tdh.seq.gesture.ui"/>
+        <Object Name="tdh.seq.stepSequencer.ui"/>
+        <Object Name="tdh.sigproc.delay.ui~"/>
+        <Object Name="tdh.sigproc.granulate.ui~"/>
+        <Object Name="tdh.sigproc.mmfilt.ui~"/>
+        <Object Name="tdh.synth.1oscil.ui~"/>
+        <Object Name="tdh.synth.1oscil~"/>
+        <Object Name="tdh.synth.beep.ui~"/>
+        <Object Name="tdh.synth.beep~"/>
+        <Object Name="tdh.synth.LFOscil.ui~"/>
+        <Object Name="tdh.synth.oscilPulse~"/>
+        <Object Name="tdh.util.4chMixer~"/>
+        <Object Name="tdh.util.ad.ui~"/>
+        <Object Name="tdh.util.adsr.ui~"/>
+        <Object Name="tdh.util.adsr~"/>
+        <Object Name="tdh.util.ad~"/>
+        <Object Name="tdh.util.audioFile.ui~"/>
+        <Object Name="tdh.util.audioFileSm.ui~"/>
+        <Object Name="tdh.util.audioInIn.ui~"/>
+        <Object Name="tdh.util.audioInUtility.ui~"/>
+        <Object Name="tdh.util.audioOut.ui~"/>
+        <Object Name="tdh.util.audioOutSm~"/>
+        <Object Name="tdh.util.channelstripMn~"/>
+        <Object Name="tdh.util.channelstripSt~"/>
+        <Object Name="tdh.util.clock.UI"/>
+        <Object Name="tdh.util.clockDiv.UI"/>
+        <Object Name="tdh.util.counter"/>
+        <Object Name="tdh.util.curve"/>
+        <Object Name="tdh.util.curve.ui"/>
+        <Object Name="tdh.util.debounce"/>
+        <Object Name="tdh.util.flipFlop"/>
+        <Object Name="tdh.util.framedCanvas"/>
+        <Object Name="tdh.util.recorder.ui~"/>
+        <Object Name="tdh.util.recorder~"/>
+        <Object Name="tdh.util.sigBypass~"/>
+        <Object Name="tdh.util.signalMonitor.ui~"/>
+        <Object Name="tdh.util.signalMonitor~"/>
+        <Object Name="tdh.util.snapshotter.ui~"/>
+        <Object Name="tdh.util.snapshotter~"/>
+      </Objects>
+    </Package>
+    <Package ID="dGRoLmxpYl8wLjEuMl8yMDI0LTEwLTMwIDE0OjAzOjM3X3Rob3VsZGNyb2Z0"
+             Author="thouldcroft" Timestamp="2024-10-30 14:03:37" Description="tdh.lib[v0.1.2].dek"
+             Version="0.1.2" URL="https://puredata.info/Members/thouldcroft/software/tdh.lib/0.1.2/tdh.lib[v0.1.2].dek">
+      <Objects>
+        <Object Name="tdh.ac.eventCreation"/>
+        <Object Name="tdh.ac.eventCreation.ui"/>
+        <Object Name="tdh.math.dbfs2lin"/>
+        <Object Name="tdh.math.lin2dbfs"/>
+        <Object Name="tdh.math.timeConversions"/>
+        <Object Name="tdh.seq.gesture.ui"/>
+        <Object Name="tdh.seq.stepSequencer.ui"/>
+        <Object Name="tdh.sigproc.delay.ui~"/>
+        <Object Name="tdh.sigproc.granulate.ui~"/>
+        <Object Name="tdh.sigproc.mmfilt.ui~"/>
+        <Object Name="tdh.synth.1oscil.ui~"/>
+        <Object Name="tdh.synth.1oscil~"/>
+        <Object Name="tdh.synth.beep.ui~"/>
+        <Object Name="tdh.synth.beep~"/>
+        <Object Name="tdh.synth.LFOscil.ui~"/>
+        <Object Name="tdh.synth.oscilPulse~"/>
+        <Object Name="tdh.util.4chMixer~"/>
+        <Object Name="tdh.util.ad.ui~"/>
+        <Object Name="tdh.util.adsr.ui~"/>
+        <Object Name="tdh.util.adsr~"/>
+        <Object Name="tdh.util.ad~"/>
+        <Object Name="tdh.util.audioFile.ui~"/>
+        <Object Name="tdh.util.audioFileSm.ui~"/>
+        <Object Name="tdh.util.audioInIn.ui~"/>
+        <Object Name="tdh.util.audioInUtility.ui~"/>
+        <Object Name="tdh.util.audioOut.ui~"/>
+        <Object Name="tdh.util.audioOutSm~"/>
+        <Object Name="tdh.util.channelstripMn~"/>
+        <Object Name="tdh.util.channelstripSt~"/>
+        <Object Name="tdh.util.clock.UI"/>
+        <Object Name="tdh.util.clockDiv.UI"/>
+        <Object Name="tdh.util.counter"/>
+        <Object Name="tdh.util.curve"/>
+        <Object Name="tdh.util.curve.ui"/>
+        <Object Name="tdh.util.debounce"/>
+        <Object Name="tdh.util.flipFlop"/>
+        <Object Name="tdh.util.framedCanvas"/>
+        <Object Name="tdh.util.recorder.ui~"/>
+        <Object Name="tdh.util.recorder~"/>
+        <Object Name="tdh.util.sigBypass~"/>
+        <Object Name="tdh.util.signalMonitor.ui~"/>
+        <Object Name="tdh.util.signalMonitor~"/>
+        <Object Name="tdh.util.snapshotter.ui~"/>
+        <Object Name="tdh.util.snapshotter~"/>
+      </Objects>
+    </Package>
     <Package ID="dGRoLmxpYl8wLjEuMV8yMDI0LTEwLTExIDE0OjMzOjM0X3Rob3VsZGNyb2Z0"
              Author="thouldcroft" Timestamp="2024-10-11 14:33:34" Description="tdh.lib[v0.1.1].dek"
              Version="0.1.1" URL="https://puredata.info/Members/thouldcroft/software/tdh.lib/0.1.1/tdh.lib[v0.1.1].dek">
@@ -13394,6 +13494,70 @@
         <Object Name="n_delay2p_line~"/>
         <Object Name="xy_2_del_damp_phi"/>
         <Object Name="xyz_3_del_damp_theta_phi"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="lyonpotpourri">
+    <Package ID="bHlvbnBvdHBvdXJyaV8zLjAuMl8yMDI0LTEwLTMwIDIyOjIzOjUyX2x1Y2FyZGE="
+             Author="lucarda" Timestamp="2024-10-30 22:23:52" Description="lyonpotpourri[v3.0.2](Linux-arm64-32)(Linux-armv7-32).dek"
+             Version="3.0.2" URL="https://puredata.info/Members/lucarda/software/lyonpotpourri/3.0.2/lyonpotpourri[v3.0.2](Linux-arm64-32)(Linux-armv7-32).dek">
+      <Objects>
+        <Object Name="adsr~"/>
+        <Object Name="arrayfilt~"/>
+        <Object Name="bashfest~"/>
+        <Object Name="buffet~"/>
+        <Object Name="bvplay~"/>
+        <Object Name="cartopol~"/>
+        <Object Name="chameleon~"/>
+        <Object Name="channel~"/>
+        <Object Name="chopper~"/>
+        <Object Name="clean_selector~"/>
+        <Object Name="click2bang~"/>
+        <Object Name="click2float~"/>
+        <Object Name="clickhold~"/>
+        <Object Name="click~"/>
+        <Object Name="convolver~"/>
+        <Object Name="counter~"/>
+        <Object Name="distortion~"/>
+        <Object Name="dmach~"/>
+        <Object Name="dynss~"/>
+        <Object Name="epluribus~"/>
+        <Object Name="expflam~"/>
+        <Object Name="flanjah~"/>
+        <Object Name="function~"/>
+        <Object Name="granola~"/>
+        <Object Name="granulesf~"/>
+        <Object Name="granule~"/>
+        <Object Name="kbuffer~"/>
+        <Object Name="killdc~"/>
+        <Object Name="latch~"/>
+        <Object Name="magfreq_analysis~"/>
+        <Object Name="markov~"/>
+        <Object Name="mask~"/>
+        <Object Name="npan~"/>
+        <Object Name="oscil~"/>
+        <Object Name="phasemod~"/>
+        <Object Name="player~"/>
+        <Object Name="poltocar~"/>
+        <Object Name="pulser~"/>
+        <Object Name="quadpan~"/>
+        <Object Name="rotapan~"/>
+        <Object Name="rtrig~"/>
+        <Object Name="samm~"/>
+        <Object Name="sarec~"/>
+        <Object Name="sel~"/>
+        <Object Name="shoehorn~"/>
+        <Object Name="sigseq~"/>
+        <Object Name="smap"/>
+        <Object Name="splitbank~"/>
+        <Object Name="splitspec~"/>
+        <Object Name="squash~"/>
+        <Object Name="stutter~"/>
+        <Object Name="vdb~"/>
+        <Object Name="vdp~"/>
+        <Object Name="vecdex~"/>
+        <Object Name="waveshape~"/>
+        <Object Name="windowvec~"/>
       </Objects>
     </Package>
   </Packages>
