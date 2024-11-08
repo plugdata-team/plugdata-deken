@@ -290,6 +290,16 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="simplex">
+    <Package ID="c2ltcGxleF9fMjAyNC0xMS0wNyAyMjoyMDoyMF9iZW5fd2VzY2g=" Author="ben_wesch"
+             Timestamp="2024-11-07 22:20:20" Description="simplex(Windows-amd64-32)(Windows-amd64-64).dek"
+             Version="" URL="https://puredata.info/Members/ben_wesch/software/simplex/simplex(Windows-amd64-32)(Windows-amd64-64).dek">
+      <Objects>
+        <Object Name="simplex"/>
+        <Object Name="simplex~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="sfruit">
     <Package ID="c2ZydWl0XzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjMzOjM5X2NocjE1bQ=="
              Author="chr15m" Timestamp="2015-08-07 14:33:39" Description="sfruit-v0.0.extended--externals.zip"
@@ -6808,8 +6818,8 @@
     </Package>
   </Packages>
   <Packages Name="Gem">
-    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNC0xMC0yNyAxOTozMTo1Nl9pZW1ib3Q="
-             Author="iembot" Timestamp="2024-10-27 19:31:56" Description="Gem[v0.94-snapshot](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
+    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNC0xMS0wNyAxNzowMzozMl9pZW1ib3Q="
+             Author="iembot" Timestamp="2024-11-07 17:03:32" Description="Gem[v0.94-snapshot](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
              Version="0.94-snapshot" URL="https://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
       <Objects>
         <Object Name="accumrotate"/>

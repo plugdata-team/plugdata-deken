@@ -1027,6 +1027,16 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="simplex">
+    <Package ID="c2ltcGxleF9fMjAyNC0xMS0wNyAyMjoyMDowNV9iZW5fd2VzY2g=" Author="ben_wesch"
+             Timestamp="2024-11-07 22:20:05" Description="simplex(Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
+             Version="" URL="https://puredata.info/Members/ben_wesch/software/simplex/simplex(Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek">
+      <Objects>
+        <Object Name="simplex"/>
+        <Object Name="simplex~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="sigpack">
     <Package ID="c2lncGFja18wLjAuNDVfMjAxOS0xMS0yNiAyMDozNjowOV9mamtyYWFu"
              Author="fjkraan" Timestamp="2019-11-26 20:36:09" Description="sigpack[v0.0.45](Darwin-amd64-32)(Darwin-i386-32)(Sources).dek"
@@ -22213,8 +22223,8 @@
     </Package>
   </Packages>
   <Packages Name="Gem">
-    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNC0wOS0yNiAxNTo1NToyOF9pZW1ib3Q="
-             Author="iembot" Timestamp="2024-09-26 15:55:28" Description="Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
+    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNC0xMS0wNyAxNzowMjo1OV9pZW1ib3Q="
+             Author="iembot" Timestamp="2024-11-07 17:02:59" Description="Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
              Version="0.94-snapshot" URL="https://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek">
       <Objects>
         <Object Name="accumrotate"/>

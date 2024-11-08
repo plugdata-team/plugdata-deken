@@ -629,6 +629,16 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="simplex">
+    <Package ID="c2ltcGxleF9fMjAyNC0xMS0wNyAyMjoxOTo0NV9iZW5fd2VzY2g=" Author="ben_wesch"
+             Timestamp="2024-11-07 22:19:45" Description="simplex(Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64).dek"
+             Version="" URL="https://puredata.info/Members/ben_wesch/software/simplex/simplex(Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64).dek">
+      <Objects>
+        <Object Name="simplex"/>
+        <Object Name="simplex~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="sigpack">
     <Package ID="c2lncGFja18wLjAuNDVfMjAxOS0xMS0yNiAyMDozNzoxOF9mamtyYWFu"
              Author="fjkraan" Timestamp="2019-11-26 20:37:18" Description="sigpack[v0.0.45](Linux-arm64-32)(Sources).dek"

@@ -1054,6 +1054,16 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="simplex">
+    <Package ID="c2ltcGxleF9fMjAyNC0xMS0wNyAyMjoxOTo0NV9iZW5fd2VzY2g=" Author="ben_wesch"
+             Timestamp="2024-11-07 22:19:45" Description="simplex(Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64).dek"
+             Version="" URL="https://puredata.info/Members/ben_wesch/software/simplex/simplex(Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64).dek">
+      <Objects>
+        <Object Name="simplex"/>
+        <Object Name="simplex~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="sigpack">
     <Package ID="c2lncGFja18wLjAuNDVfMjAxOS0xMS0yNiAyMDozNjozOV9mamtyYWFu"
              Author="fjkraan" Timestamp="2019-11-26 20:36:39" Description="sigpack[v0.0.45](Linux-amd64-32)(Sources).dek"
@@ -10345,8 +10355,8 @@
     </Package>
   </Packages>
   <Packages Name="Gem">
-    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNC0xMC0yNyAxOTozMTozMl9pZW1ib3Q="
-             Author="iembot" Timestamp="2024-10-27 19:31:32" Description="Gem[v0.94-snapshot](Linux-amd64-32)(Linux-amd64-64).dek"
+    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNC0xMS0wNyAxNzowMzowN19pZW1ib3Q="
+             Author="iembot" Timestamp="2024-11-07 17:03:07" Description="Gem[v0.94-snapshot](Linux-amd64-32)(Linux-amd64-64).dek"
              Version="0.94-snapshot" URL="https://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Linux-amd64-32)(Linux-amd64-64).dek">
       <Objects>
         <Object Name="accumrotate"/>
