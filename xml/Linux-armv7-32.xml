@@ -2074,42 +2074,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="ml.lib">
-    <Package ID="bWwubGliXzEuMC4zXzIwMTktMTAtMjUgMTM6NDI6MjNfamI=" Author="jb"
-             Timestamp="2019-10-25 13:42:23" Description="ml.lib[v1.0.3](Linux-armv6-32).dek"
-             Version="1.0.3" URL="https://puredata.info/Members/jb/software/ml.lib/1.0.3/ml.lib[v1.0.3](Linux-armv6-32).dek">
-      <Objects>
-        <Object Name="ml.adaboost"/>
-        <Object Name="ml.anbc"/>
-        <Object Name="ml.ann"/>
-        <Object Name="ml.dtree"/>
-        <Object Name="ml.dtw"/>
-        <Object Name="ml.gmm"/>
-        <Object Name="ml.hmmc"/>
-        <Object Name="ml.knn"/>
-        <Object Name="ml.linreg"/>
-        <Object Name="ml.logreg"/>
-        <Object Name="ml.mindist"/>
-        <Object Name="ml.minmax"/>
-        <Object Name="ml.randforest"/>
-        <Object Name="ml.softmax"/>
-        <Object Name="ml.svm"/>
-        <Object Name="ml.zerox"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="mkmr">
-    <Package ID="bWttcl8wLjFfMjAxOS0xMC0yMyAyMzo0ODoyNV9NaWtlTW9yZW5vQXVkaW8="
-             Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
-             Version="0.1" URL="https://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
-      <Objects/>
-    </Package>
-    <Package ID="bWttcl8wLjFfMjAxOS0xMC0yMyAyMzo0ODoyNV9NaWtlTW9yZW5vQXVkaW8="
-             Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
-             Version="0.1" URL="https://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="creb">
     <Package ID="Y3JlYl8wLjkuMl9kYXJjc18yMDE2LTAxLTA4IDIxOjQ4OjUzX2Zqa3JhYW4="
              Author="fjkraan" Timestamp="2016-01-08 21:48:53" Description="creb-v0.9.2_darcs-(Linux-armv7l-32)(Sources)-externals.tgz"
@@ -7767,6 +7731,18 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="mkmr">
+    <Package ID="bWttcl8wLjFfMjAxOS0xMC0yMyAyMzo0ODoyNV9NaWtlTW9yZW5vQXVkaW8="
+             Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="bWttcl8wLjFfMjAxOS0xMC0yMyAyMzo0ODoyNV9NaWtlTW9yZW5vQXVkaW8="
+             Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="echocurve~">
     <Package ID="ZWNob2N1cnZlfl8wLjFfMjAxOC0wOC0wNiAwNzowMjozNV9qd21hdHRoeXM="
              Author="jwmatthys" Timestamp="2018-08-06 07:02:35" Description="echocurve~-v0.1-(Sources)(Linux-armv7-32)-externals.tar.gz"
@@ -11124,6 +11100,30 @@
              Version="1.2.3" URL="https://puredata.info/Members/fjkraan/software/freeverb~/1.2.3/freeverb~-v1.2.3-(Linux-armv7l-32)(Sources)-externals.tgz">
       <Objects>
         <Object Name="freeverb~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="ml.lib">
+    <Package ID="bWwubGliXzEuMC4zXzIwMTktMTAtMjUgMTM6NDI6MjNfamI=" Author="jb"
+             Timestamp="2019-10-25 13:42:23" Description="ml.lib[v1.0.3](Linux-armv6-32).dek"
+             Version="1.0.3" URL="https://puredata.info/Members/jb/software/ml.lib/1.0.3/ml.lib[v1.0.3](Linux-armv6-32).dek">
+      <Objects>
+        <Object Name="ml.adaboost"/>
+        <Object Name="ml.anbc"/>
+        <Object Name="ml.ann"/>
+        <Object Name="ml.dtree"/>
+        <Object Name="ml.dtw"/>
+        <Object Name="ml.gmm"/>
+        <Object Name="ml.hmmc"/>
+        <Object Name="ml.knn"/>
+        <Object Name="ml.linreg"/>
+        <Object Name="ml.logreg"/>
+        <Object Name="ml.mindist"/>
+        <Object Name="ml.minmax"/>
+        <Object Name="ml.randforest"/>
+        <Object Name="ml.softmax"/>
+        <Object Name="ml.svm"/>
+        <Object Name="ml.zerox"/>
       </Objects>
     </Package>
   </Packages>

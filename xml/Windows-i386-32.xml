@@ -2147,37 +2147,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="ml.lib">
-    <Package ID="bWwubGliXzEuMC4zXzIwMTktMTAtMjUgMDE6NTI6NDdfamI=" Author="jb"
-             Timestamp="2019-10-25 01:52:47" Description="ml.lib[v1.0.3](Windows-i386-32).dek"
-             Version="1.0.3" URL="https://puredata.info/Members/jb/software/ml.lib/1.0.3/ml.lib[v1.0.3](Windows-i386-32).dek">
-      <Objects>
-        <Object Name="ml.adaboost"/>
-        <Object Name="ml.anbc"/>
-        <Object Name="ml.ann"/>
-        <Object Name="ml.dtree"/>
-        <Object Name="ml.dtw"/>
-        <Object Name="ml.gmm"/>
-        <Object Name="ml.hmmc"/>
-        <Object Name="ml.knn"/>
-        <Object Name="ml.linreg"/>
-        <Object Name="ml.logreg"/>
-        <Object Name="ml.mindist"/>
-        <Object Name="ml.minmax"/>
-        <Object Name="ml.randforest"/>
-        <Object Name="ml.softmax"/>
-        <Object Name="ml.svm"/>
-        <Object Name="ml.zerox"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="mkmr">
-    <Package ID="bWttcl8wLjFfMjAxOS0xMC0yMyAyMzo0ODoyNV9NaWtlTW9yZW5vQXVkaW8="
-             Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
-             Version="0.1" URL="https://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="dnd-plugin">
     <Package ID="ZG5kLXBsdWdpbl8wLjMuMF8yMDIxLTA0LTE2IDAyOjA2OjM1X2x1Y2FyZGE="
              Author="lucarda" Timestamp="2021-04-16 02:06:35" Description="dnd-plugin[v0.3.0](Windows-i386-32)(Windows-amd64-32).dek"
@@ -7978,6 +7947,13 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="mkmr">
+    <Package ID="bWttcl8wLjFfMjAxOS0xMC0yMyAyMzo0ODoyNV9NaWtlTW9yZW5vQXVkaW8="
+             Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="echocurve~">
     <Package ID="ZWNob2N1cnZlfl8wLjFfMjAxOC0wOC0wNyAyMjo0Mjo0Nl9qd21hdHRoeXM="
              Author="jwmatthys" Timestamp="2018-08-07 22:42:46" Description="echocurve~[v0.1](Windows-i386-32)(Sources).dek"
@@ -10688,6 +10664,30 @@
              Author="chr15m" Timestamp="2015-07-30 14:46:55" Description="freeverb~-v0.0.extended-(Windows-i386-32)-externals.zip"
              Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/freeverb~/freeverb~-v0.0.extended-(Windows-i386-32)-externals.zip">
       <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="ml.lib">
+    <Package ID="bWwubGliXzEuMC4zXzIwMTktMTAtMjUgMDE6NTI6NDdfamI=" Author="jb"
+             Timestamp="2019-10-25 01:52:47" Description="ml.lib[v1.0.3](Windows-i386-32).dek"
+             Version="1.0.3" URL="https://puredata.info/Members/jb/software/ml.lib/1.0.3/ml.lib[v1.0.3](Windows-i386-32).dek">
+      <Objects>
+        <Object Name="ml.adaboost"/>
+        <Object Name="ml.anbc"/>
+        <Object Name="ml.ann"/>
+        <Object Name="ml.dtree"/>
+        <Object Name="ml.dtw"/>
+        <Object Name="ml.gmm"/>
+        <Object Name="ml.hmmc"/>
+        <Object Name="ml.knn"/>
+        <Object Name="ml.linreg"/>
+        <Object Name="ml.logreg"/>
+        <Object Name="ml.mindist"/>
+        <Object Name="ml.minmax"/>
+        <Object Name="ml.randforest"/>
+        <Object Name="ml.softmax"/>
+        <Object Name="ml.svm"/>
+        <Object Name="ml.zerox"/>
+      </Objects>
     </Package>
   </Packages>
   <Packages Name="iemguts">

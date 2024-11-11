@@ -3052,37 +3052,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="ml.lib">
-    <Package ID="bWwubGliXzEuMC4zXzIwMTktMTAtMjUgMDE6NTk6MjdfamI=" Author="jb"
-             Timestamp="2019-10-25 01:59:27" Description="ml.lib[v1.0.3](Windows-amd64-32).dek"
-             Version="1.0.3" URL="https://puredata.info/Members/jb/software/ml.lib/1.0.3/ml.lib[v1.0.3](Windows-amd64-32).dek">
-      <Objects>
-        <Object Name="ml.adaboost"/>
-        <Object Name="ml.anbc"/>
-        <Object Name="ml.ann"/>
-        <Object Name="ml.dtree"/>
-        <Object Name="ml.dtw"/>
-        <Object Name="ml.gmm"/>
-        <Object Name="ml.hmmc"/>
-        <Object Name="ml.knn"/>
-        <Object Name="ml.linreg"/>
-        <Object Name="ml.logreg"/>
-        <Object Name="ml.mindist"/>
-        <Object Name="ml.minmax"/>
-        <Object Name="ml.randforest"/>
-        <Object Name="ml.softmax"/>
-        <Object Name="ml.svm"/>
-        <Object Name="ml.zerox"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="mkmr">
-    <Package ID="bWttcl8wLjFfMjAxOS0xMC0yMyAyMzo0ODoyNV9NaWtlTW9yZW5vQXVkaW8="
-             Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
-             Version="0.1" URL="https://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="dnd-plugin">
     <Package ID="ZG5kLXBsdWdpbl8wLjMuMF8yMDIxLTA0LTE2IDAyOjA2OjM1X2x1Y2FyZGE="
              Author="lucarda" Timestamp="2021-04-16 02:06:35" Description="dnd-plugin[v0.3.0](Windows-i386-32)(Windows-amd64-32).dek"
@@ -17294,6 +17263,13 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="mkmr">
+    <Package ID="bWttcl8wLjFfMjAxOS0xMC0yMyAyMzo0ODoyNV9NaWtlTW9yZW5vQXVkaW8="
+             Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="Pd_Spectral_Toolkit">
     <Package ID="UGRfU3BlY3RyYWxfVG9vbGtpdF8xLjFfMjAxOS0xMS0wMyAyMzoxMjoxOF9jb29wZXJiYWtlcg=="
              Author="cooperbaker" Timestamp="2019-11-03 23:12:18" Description="Pd_Spectral_Toolkit[v1.1](Windows-amd64-32).dek"
@@ -18220,13 +18196,6 @@
         <Object Name="world_light"/>
         <Object Name="yuv2rgb"/>
       </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="lerdahl">
-    <Package ID="bGVyZGFobF8wLjFfMjAxNi0xMC0yNSAyMjo1MTo0NV9yaWNreQ==" Author="ricky"
-             Timestamp="2016-10-25 22:51:45" Description="lerdahl-v0.1-(Linux-x86_64-64)(Windows-x86_64-64)(Darwin-i386-32)(Darwin-x86_64)(Sources)-externals"
-             Version="0.1" URL="https://puredata.info/Members/ricky/lerdahl-v0.1-(Linux-x86_64-64)(Windows-x86_64-64)(Darwin-i386-32)(Darwin-x86_64)(Sources)-externals.zip">
-      <Objects/>
     </Package>
   </Packages>
   <Packages Name="earplug~">
@@ -20871,6 +20840,30 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="ml.lib">
+    <Package ID="bWwubGliXzEuMC4zXzIwMTktMTAtMjUgMDE6NTk6MjdfamI=" Author="jb"
+             Timestamp="2019-10-25 01:59:27" Description="ml.lib[v1.0.3](Windows-amd64-32).dek"
+             Version="1.0.3" URL="https://puredata.info/Members/jb/software/ml.lib/1.0.3/ml.lib[v1.0.3](Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="ml.adaboost"/>
+        <Object Name="ml.anbc"/>
+        <Object Name="ml.ann"/>
+        <Object Name="ml.dtree"/>
+        <Object Name="ml.dtw"/>
+        <Object Name="ml.gmm"/>
+        <Object Name="ml.hmmc"/>
+        <Object Name="ml.knn"/>
+        <Object Name="ml.linreg"/>
+        <Object Name="ml.logreg"/>
+        <Object Name="ml.mindist"/>
+        <Object Name="ml.minmax"/>
+        <Object Name="ml.randforest"/>
+        <Object Name="ml.softmax"/>
+        <Object Name="ml.svm"/>
+        <Object Name="ml.zerox"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="iemguts">
     <Package ID="aWVtZ3V0c18wLjQuM18yMDI0LTA3LTE2IDAwOjE5OjQzX3ptb2VsbmlnYm90"
              Author="zmoelnigbot" Timestamp="2024-07-16 00:19:43" Description="iemguts[v0.4.3](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
@@ -21188,13 +21181,6 @@
     <Package ID="Z2lnYXZlcmJ+XzAuNF8yMDIwLTAxLTA3IDE5OjA5OjM0X2Zqa3JhYW4="
              Author="fjkraan" Timestamp="2020-01-07 19:09:34" Description="gigaverb~[v0.4](Windows-amd64-32)(Sources).dek"
              Version="0.4" URL="https://puredata.info/Members/fjkraan/software/gigaverb~/0.4/gigaverb~[v0.4](Windows-amd64-32)(Sources).dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="grambilib">
-    <Package ID="Z3JhbWJpbGliXzFfMjAxNi0xMC0yNSAyMjo0ODoyOF9yaWNreQ==" Author="ricky"
-             Timestamp="2016-10-25 22:48:28" Description="grambilib-v1-(Linux-x86_64-64)(Windows-x86_64-64)(Darwin-i386-32)(Darwin-x86_64)(Sources)-externals"
-             Version="1" URL="https://puredata.info/Members/ricky/grambilib-v1-(Linux-x86_64-64)(Windows-x86_64-64)(Darwin-i386-32)(Darwin-x86_64)(Sources)-externals.zip">
       <Objects/>
     </Package>
   </Packages>
