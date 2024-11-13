@@ -6659,9 +6659,9 @@
     </Package>
   </Packages>
   <Packages Name="rfpg">
-    <Package ID="cmZwZ18wLjFfMjAyNC0xMS0xMCAyMjozNDo0OF9yaWNreQ==" Author="ricky"
-             Timestamp="2024-11-10 22:34:48" Description="rfpg[v0.1](Darwin-arm64-32)(Sources).dek"
-             Version="0.1" URL="https://puredata.info/Members/ricky/software/rfpg/0.1/rfpg[v0.1](Darwin-arm64-32)(Sources).dek">
+    <Package ID="cmZwZ18wLjFfMjAyNC0xMS0xMSAwMTo0ODoyN19yaWNreQ==" Author="ricky"
+             Timestamp="2024-11-11 01:48:27" Description="rfpg[v0.1](Darwin-amd64-32)(Darwin-arm64-32)(Sources).dek"
+             Version="0.1" URL="https://puredata.info/Members/ricky/software/rfpg/0.1/rfpg[v0.1](Darwin-amd64-32)(Darwin-arm64-32)(Sources).dek">
       <Objects>
         <Object Name="fibo"/>
         <Object Name="grambi"/>
