@@ -1028,9 +1028,9 @@
     </Package>
   </Packages>
   <Packages Name="simplex">
-    <Package ID="c2ltcGxleF9fMjAyNC0xMS0wNyAyMjoyMDowNV9iZW5fd2VzY2g=" Author="ben_wesch"
-             Timestamp="2024-11-07 22:20:05" Description="simplex(Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
-             Version="" URL="https://puredata.info/Members/ben_wesch/software/simplex/simplex(Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek">
+    <Package ID="c2ltcGxleF8wLjQuMl8yMDI0LTExLTE2IDIyOjAyOjMyX2Jlbl93ZXNjaA=="
+             Author="ben_wesch" Timestamp="2024-11-16 22:02:32" Description="simplex[v0.4.2](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
+             Version="0.4.2" URL="https://puredata.info/Members/ben_wesch/software/simplex/0.4.2/simplex[v0.4.2](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek">
       <Objects>
         <Object Name="simplex"/>
         <Object Name="simplex~"/>
