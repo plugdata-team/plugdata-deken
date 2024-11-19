@@ -3568,6 +3568,13 @@
     </Package>
   </Packages>
   <Packages Name="pd4web">
+    <Package ID="cGQ0d2ViXzIuMS4wXzIwMjQtMTEtMTggMTU6NTI6MThfY2hhcmxlc25laW1vZw=="
+             Author="charlesneimog" Timestamp="2024-11-18 15:52:18" Description="pd4web[v2.1.0](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Windows-amd64-32).dek"
+             Version="2.1.0" URL="https://puredata.info/Members/charlesneimog/software/pd4web/2.1.0/pd4web[v2.1.0](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="pd4web"/>
+      </Objects>
+    </Package>
     <Package ID="cGQ0d2ViXzIuMC41XzIwMjQtMTAtMTYgMTY6MTY6NDNfY2hhcmxlc25laW1vZw=="
              Author="charlesneimog" Timestamp="2024-10-16 16:16:43" Description="pd4web[v2.0.5](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Windows-amd64-32)(Sources).dek"
              Version="2.0.5" URL="https://puredata.info/Members/charlesneimog/software/pd4web/2.0.5/pd4web[v2.0.5](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Windows-amd64-32)(Sources).dek">
