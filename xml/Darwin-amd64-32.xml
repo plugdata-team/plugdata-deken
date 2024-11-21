@@ -1007,19 +1007,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="smspd">
-    <Package ID="c21zcGRfMC45NV8yMDIzLTA0LTAyIDIxOjEyOjE5X2NoYXJsZXNuZWltb2c="
-             Author="charlesneimog" Timestamp="2023-04-02 21:12:19" Description="smspd[v0.95](Darwin-amd64-32)(Sources).dek"
-             Version="0.95" URL="https://puredata.info/Members/charlesneimog/software/smspd/0.95/smspd[v0.95](Darwin-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="sms"/>
-        <Object Name="smsanal"/>
-        <Object Name="smsbuf"/>
-        <Object Name="smsedit"/>
-        <Object Name="smssynth~"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="slip">
     <Package ID="c2xpcF8wLjF+Z2l0MjAxNTExMThfMjAxNS0xMi0xNSAwOTo0NjowN19yZHo="
              Author="rdz" Timestamp="2015-12-15 09:46:07" Description="slip-v0.1~git20151118-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz"
@@ -2827,6 +2814,34 @@
     </Package>
   </Packages>
   <Packages Name="tdh.satk">
+    <Package ID="dGRoLnNhdGtfMC4xLjRfMjAyNC0xMS0yMCAyMTo1NzoyM190aG91bGRjcm9mdA=="
+             Author="thouldcroft" Timestamp="2024-11-20 21:57:23" Description="tdh.satk[v0.1.4].dek"
+             Version="0.1.4" URL="https://puredata.info/Members/thouldcroft/software/tdh.satk/0.1.4/tdh.satk[v0.1.4].dek">
+      <Objects>
+        <Object Name="satk.math.random2choices"/>
+        <Object Name="satk.seq.gesture"/>
+        <Object Name="satk.seq.stepSeq"/>
+        <Object Name="satk.sigproc.delay~"/>
+        <Object Name="satk.sigproc.granulate~"/>
+        <Object Name="satk.sigproc.mmfilt~"/>
+        <Object Name="satk.synth.1oscil~"/>
+        <Object Name="satk.synth.beep~"/>
+        <Object Name="satk.synth.LFOscil~"/>
+        <Object Name="satk.util.adsr~"/>
+        <Object Name="satk.util.ad~"/>
+        <Object Name="satk.util.audioFileSm~"/>
+        <Object Name="satk.util.audioFile~"/>
+        <Object Name="satk.util.audioIn~"/>
+        <Object Name="satk.util.audioOut~"/>
+        <Object Name="satk.util.channelstripMn~"/>
+        <Object Name="satk.util.channelstripSt~"/>
+        <Object Name="satk.util.clock"/>
+        <Object Name="satk.util.counter"/>
+        <Object Name="satk.util.curve"/>
+        <Object Name="satk.util.recorder~"/>
+        <Object Name="satk.util.signalMonitor~"/>
+      </Objects>
+    </Package>
     <Package ID="dGRoLnNhdGtfMC4xLjNfMjAyNC0xMS0xMyAyMDoxNTo1NF90aG91bGRjcm9mdA=="
              Author="thouldcroft" Timestamp="2024-11-13 20:15:54" Description="tdh.satk[v0.1.3].dek"
              Version="0.1.3" URL="https://puredata.info/Members/thouldcroft/software/tdh.satk/0.1.3/tdh.satk[v0.1.3].dek">
@@ -3658,6 +3673,29 @@
              Author="zmoelnig" Timestamp="2015-12-10 14:27:59" Description="motex-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/motex/0-0extended/motex-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
       <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="ml.lib">
+    <Package ID="bWwubGliXzEuMC4zXzIwMTktMTAtMjUgMDE6NDQ6MDdfamI=" Author="jb"
+             Timestamp="2019-10-25 01:44:07" Description="ml.lib[v1.0.3](Darwin-amd64-32).dek"
+             Version="1.0.3" URL="https://puredata.info/Members/jb/software/ml.lib/1.0.3/ml.lib[v1.0.3](Darwin-amd64-32).dek">
+      <Objects>
+        <Object Name="ml.adaboost"/>
+        <Object Name="ml.ann"/>
+        <Object Name="ml.dtree"/>
+        <Object Name="ml.dtw"/>
+        <Object Name="ml.gmm"/>
+        <Object Name="ml.hmmc"/>
+        <Object Name="ml.knn"/>
+        <Object Name="ml.linreg"/>
+        <Object Name="ml.logreg"/>
+        <Object Name="ml.mindist"/>
+        <Object Name="ml.minmax"/>
+        <Object Name="ml.randforest"/>
+        <Object Name="ml.softmax"/>
+        <Object Name="ml.svm"/>
+        <Object Name="ml.zerox"/>
+      </Objects>
     </Package>
   </Packages>
   <Packages Name="dnd-plugin">
@@ -25329,8 +25367,60 @@
     </Package>
   </Packages>
   <Packages Name="tdh.lib">
-    <Package ID="dGRoLmxpYl8wLjEuM18yMDI0LTExLTEzIDIwOjE1OjE2X3Rob3VsZGNyb2Z0"
-             Author="thouldcroft" Timestamp="2024-11-13 20:15:16" Description="tdh.lib[v0.1.3].dek"
+    <Package ID="dGRoLmxpYl8wLjEuNF8yMDI0LTExLTIwIDIxOjU2OjA0X3Rob3VsZGNyb2Z0"
+             Author="thouldcroft" Timestamp="2024-11-20 21:56:04" Description="tdh.lib[v0.1.4].dek"
+             Version="0.1.4" URL="https://puredata.info/Members/thouldcroft/software/tdh.lib/0.1.4/tdh.lib[v0.1.4].dek">
+      <Objects>
+        <Object Name="tdh.ac.eventCreation"/>
+        <Object Name="tdh.ac.eventCreation.ui"/>
+        <Object Name="tdh.math.dbfs2lin"/>
+        <Object Name="tdh.math.lin2dbfs"/>
+        <Object Name="tdh.math.random2choices"/>
+        <Object Name="tdh.math.random2choices.ui"/>
+        <Object Name="tdh.math.timeConversions"/>
+        <Object Name="tdh.seq.gesture.ui"/>
+        <Object Name="tdh.seq.stepSeq.ui"/>
+        <Object Name="tdh.sigproc.delay.ui~"/>
+        <Object Name="tdh.sigproc.granulate.ui~"/>
+        <Object Name="tdh.sigproc.mmfilt.ui~"/>
+        <Object Name="tdh.synth.1oscil.ui~"/>
+        <Object Name="tdh.synth.1oscil~"/>
+        <Object Name="tdh.synth.beep.ui~"/>
+        <Object Name="tdh.synth.beep~"/>
+        <Object Name="tdh.synth.LFOscil.ui~"/>
+        <Object Name="tdh.synth.oscilPulse~"/>
+        <Object Name="tdh.util.4chMixer.ui~"/>
+        <Object Name="tdh.util.ad.ui~"/>
+        <Object Name="tdh.util.adsr.ui~"/>
+        <Object Name="tdh.util.adsr~"/>
+        <Object Name="tdh.util.ad~"/>
+        <Object Name="tdh.util.audioFile.ui~"/>
+        <Object Name="tdh.util.audioFileSm.ui~"/>
+        <Object Name="tdh.util.audioInIn.ui~"/>
+        <Object Name="tdh.util.audioInUtility.ui~"/>
+        <Object Name="tdh.util.audioOut.ui~"/>
+        <Object Name="tdh.util.audioOutSm~"/>
+        <Object Name="tdh.util.channelstripMn~"/>
+        <Object Name="tdh.util.channelstripSt~"/>
+        <Object Name="tdh.util.clock.UI"/>
+        <Object Name="tdh.util.clockDiv.UI"/>
+        <Object Name="tdh.util.counter"/>
+        <Object Name="tdh.util.curve"/>
+        <Object Name="tdh.util.curve.ui"/>
+        <Object Name="tdh.util.debounce"/>
+        <Object Name="tdh.util.flipFlop"/>
+        <Object Name="tdh.util.framedCanvas"/>
+        <Object Name="tdh.util.recorder.ui~"/>
+        <Object Name="tdh.util.recorder~"/>
+        <Object Name="tdh.util.sigBypass~"/>
+        <Object Name="tdh.util.signalMonitor.ui~"/>
+        <Object Name="tdh.util.signalMonitor~"/>
+        <Object Name="tdh.util.snapshotter.ui~"/>
+        <Object Name="tdh.util.snapshotter~"/>
+      </Objects>
+    </Package>
+    <Package ID="dGRoLmxpYl8wLjEuM18yMDI0LTExLTIwIDIxOjU1OjAxX3Rob3VsZGNyb2Z0"
+             Author="thouldcroft" Timestamp="2024-11-20 21:55:01" Description="tdh.lib[v0.1.3].dek"
              Version="0.1.3" URL="https://puredata.info/Members/thouldcroft/software/tdh.lib/0.1.3/tdh.lib[v0.1.3].dek">
       <Objects>
         <Object Name="tdh.ac.eventCreation"/>
@@ -25838,29 +25928,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="ml.lib">
-    <Package ID="bWwubGliXzEuMC4zXzIwMTktMTAtMjUgMDE6NDQ6MDdfamI=" Author="jb"
-             Timestamp="2019-10-25 01:44:07" Description="ml.lib[v1.0.3](Darwin-amd64-32).dek"
-             Version="1.0.3" URL="https://puredata.info/Members/jb/software/ml.lib/1.0.3/ml.lib[v1.0.3](Darwin-amd64-32).dek">
-      <Objects>
-        <Object Name="ml.adaboost"/>
-        <Object Name="ml.ann"/>
-        <Object Name="ml.dtree"/>
-        <Object Name="ml.dtw"/>
-        <Object Name="ml.gmm"/>
-        <Object Name="ml.hmmc"/>
-        <Object Name="ml.knn"/>
-        <Object Name="ml.linreg"/>
-        <Object Name="ml.logreg"/>
-        <Object Name="ml.mindist"/>
-        <Object Name="ml.minmax"/>
-        <Object Name="ml.randforest"/>
-        <Object Name="ml.softmax"/>
-        <Object Name="ml.svm"/>
-        <Object Name="ml.zerox"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="iemguts">
     <Package ID="aWVtZ3V0c18wLjQuM18yMDI0LTA3LTE2IDAwOjE5OjIyX3ptb2VsbmlnYm90"
              Author="zmoelnigbot" Timestamp="2024-07-16 00:19:22" Description="iemguts[v0.4.3](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
@@ -26138,6 +26205,28 @@
              Timestamp="2016-02-16 18:05:52" Description="gigaverb~(Darwin-i386-32)(Sources)(Darwin-x86_64-32)-externals.tar.gz"
              Version="" URL="https://puredata.info/Members/dis/software/gigaverb~/gigaverb~(Darwin-i386-32)(Sources)(Darwin-x86_64-32)-externals.tar.gz">
       <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="smspd">
+    <Package ID="c21zcGRfMC45NV8yMDIzLTA0LTAyIDIxOjEyOjE5X2NoYXJsZXNuZWltb2c="
+             Author="charlesneimog" Timestamp="2023-04-02 21:12:19" Description="smspd[v0.95](Darwin-amd64-32)(Sources).dek"
+             Version="0.95" URL="https://puredata.info/Members/charlesneimog/software/smspd/0.95/smspd[v0.95](Darwin-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="sms"/>
+        <Object Name="smsanal"/>
+        <Object Name="smsbuf"/>
+        <Object Name="smsedit"/>
+        <Object Name="smssynth~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="gpmotion">
+    <Package ID="Z3Btb3Rpb25fMC4xLjBfMjAyNC0xMS0yMCAxMTo0MDoxNF9hZ3JhZWY="
+             Author="agraef" Timestamp="2024-11-20 11:40:14" Description="gpmotion[v0.1.0](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
+             Version="0.1.0" URL="https://puredata.info/Members/agraef/software/gpmotion/0.1.0/gpmotion[v0.1.0](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek">
+      <Objects>
+        <Object Name="gpmotion"/>
+      </Objects>
     </Package>
   </Packages>
   <Packages Name="tracker">
