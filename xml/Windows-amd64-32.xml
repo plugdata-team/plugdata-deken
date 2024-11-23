@@ -2207,6 +2207,34 @@
     </Package>
   </Packages>
   <Packages Name="tdh.satk">
+    <Package ID="dGRoLnNhdGtfMC4xLjVfMjAyNC0xMS0yMSAyMDoyOTo1NF90aG91bGRjcm9mdA=="
+             Author="thouldcroft" Timestamp="2024-11-21 20:29:54" Description="tdh.satk[v0.1.5].dek"
+             Version="0.1.5" URL="https://puredata.info/Members/thouldcroft/software/tdh.satk/0.1.5/tdh.satk[v0.1.5].dek">
+      <Objects>
+        <Object Name="satk.math.random2choices"/>
+        <Object Name="satk.seq.gesture"/>
+        <Object Name="satk.seq.stepSeq"/>
+        <Object Name="satk.sigproc.delay~"/>
+        <Object Name="satk.sigproc.granulate~"/>
+        <Object Name="satk.sigproc.mmfilt~"/>
+        <Object Name="satk.synth.1oscil~"/>
+        <Object Name="satk.synth.beep~"/>
+        <Object Name="satk.synth.LFOscil~"/>
+        <Object Name="satk.util.adsr~"/>
+        <Object Name="satk.util.ad~"/>
+        <Object Name="satk.util.audioFileSm~"/>
+        <Object Name="satk.util.audioFile~"/>
+        <Object Name="satk.util.audioIn~"/>
+        <Object Name="satk.util.audioOut~"/>
+        <Object Name="satk.util.channelstripMn~"/>
+        <Object Name="satk.util.channelstripSt~"/>
+        <Object Name="satk.util.clock"/>
+        <Object Name="satk.util.counter"/>
+        <Object Name="satk.util.curve"/>
+        <Object Name="satk.util.recorder~"/>
+        <Object Name="satk.util.signalMonitor~"/>
+      </Objects>
+    </Package>
     <Package ID="dGRoLnNhdGtfMC4xLjRfMjAyNC0xMS0yMCAyMTo1NzoyM190aG91bGRjcm9mdA=="
              Author="thouldcroft" Timestamp="2024-11-20 21:57:23" Description="tdh.satk[v0.1.4].dek"
              Version="0.1.4" URL="https://puredata.info/Members/thouldcroft/software/tdh.satk/0.1.4/tdh.satk[v0.1.4].dek">
@@ -20404,6 +20432,58 @@
     </Package>
   </Packages>
   <Packages Name="tdh.lib">
+    <Package ID="dGRoLmxpYl8wLjEuNV8yMDI0LTExLTIxIDIwOjMxOjIwX3Rob3VsZGNyb2Z0"
+             Author="thouldcroft" Timestamp="2024-11-21 20:31:20" Description="tdh.lib[v0.1.5].dek"
+             Version="0.1.5" URL="https://puredata.info/Members/thouldcroft/software/tdh.lib/0.1.5/tdh.lib[v0.1.5].dek">
+      <Objects>
+        <Object Name="tdh.ac.eventCreation"/>
+        <Object Name="tdh.ac.eventCreation.ui"/>
+        <Object Name="tdh.math.dbfs2lin"/>
+        <Object Name="tdh.math.lin2dbfs"/>
+        <Object Name="tdh.math.random2choices"/>
+        <Object Name="tdh.math.random2choices.ui"/>
+        <Object Name="tdh.math.timeConversions"/>
+        <Object Name="tdh.seq.gesture.ui"/>
+        <Object Name="tdh.seq.stepSeq.ui"/>
+        <Object Name="tdh.sigproc.delay.ui~"/>
+        <Object Name="tdh.sigproc.granulate.ui~"/>
+        <Object Name="tdh.sigproc.mmfilt.ui~"/>
+        <Object Name="tdh.synth.1oscil.ui~"/>
+        <Object Name="tdh.synth.1oscil~"/>
+        <Object Name="tdh.synth.beep.ui~"/>
+        <Object Name="tdh.synth.beep~"/>
+        <Object Name="tdh.synth.LFOscil.ui~"/>
+        <Object Name="tdh.synth.oscilPulse~"/>
+        <Object Name="tdh.util.4chMixer.ui~"/>
+        <Object Name="tdh.util.ad.ui~"/>
+        <Object Name="tdh.util.adsr.ui~"/>
+        <Object Name="tdh.util.adsr~"/>
+        <Object Name="tdh.util.ad~"/>
+        <Object Name="tdh.util.audioFile.ui~"/>
+        <Object Name="tdh.util.audioFileSm.ui~"/>
+        <Object Name="tdh.util.audioInIn.ui~"/>
+        <Object Name="tdh.util.audioInUtility.ui~"/>
+        <Object Name="tdh.util.audioOut.ui~"/>
+        <Object Name="tdh.util.audioOutSm~"/>
+        <Object Name="tdh.util.channelstripMn~"/>
+        <Object Name="tdh.util.channelstripSt~"/>
+        <Object Name="tdh.util.clock.UI"/>
+        <Object Name="tdh.util.clockDiv.UI"/>
+        <Object Name="tdh.util.counter"/>
+        <Object Name="tdh.util.curve"/>
+        <Object Name="tdh.util.curve.ui"/>
+        <Object Name="tdh.util.debounce"/>
+        <Object Name="tdh.util.flipFlop"/>
+        <Object Name="tdh.util.framedCanvas"/>
+        <Object Name="tdh.util.recorder.ui~"/>
+        <Object Name="tdh.util.recorder~"/>
+        <Object Name="tdh.util.sigBypass~"/>
+        <Object Name="tdh.util.signalMonitor.ui~"/>
+        <Object Name="tdh.util.signalMonitor~"/>
+        <Object Name="tdh.util.snapshotter.ui~"/>
+        <Object Name="tdh.util.snapshotter~"/>
+      </Objects>
+    </Package>
     <Package ID="dGRoLmxpYl8wLjEuNF8yMDI0LTExLTIwIDIxOjU2OjA0X3Rob3VsZGNyb2Z0"
              Author="thouldcroft" Timestamp="2024-11-20 21:56:04" Description="tdh.lib[v0.1.4].dek"
              Version="0.1.4" URL="https://puredata.info/Members/thouldcroft/software/tdh.lib/0.1.4/tdh.lib[v0.1.4].dek">
@@ -21352,6 +21432,13 @@
     </Package>
   </Packages>
   <Packages Name="gpmotion">
+    <Package ID="Z3Btb3Rpb25fMC4yLjBfMjAyNC0xMS0yMyAwMjoyNDoxN19hZ3JhZWY="
+             Author="agraef" Timestamp="2024-11-23 02:24:17" Description="gpmotion[v0.2.0](Windows-amd64-32)(Windows-amd64-64).dek"
+             Version="0.2.0" URL="https://puredata.info/Members/agraef/software/gpmotion/0.2.0/gpmotion[v0.2.0](Windows-amd64-32)(Windows-amd64-64).dek">
+      <Objects>
+        <Object Name="gpmotion"/>
+      </Objects>
+    </Package>
     <Package ID="Z3Btb3Rpb25fMC4xLjBfMjAyNC0xMS0yMCAxMTo0MDo0MV9hZ3JhZWY="
              Author="agraef" Timestamp="2024-11-20 11:40:41" Description="gpmotion[v0.1.0](Windows-amd64-32)(Windows-amd64-64).dek"
              Version="0.1.0" URL="https://puredata.info/Members/agraef/software/gpmotion/0.1.0/gpmotion[v0.1.0](Windows-amd64-32)(Windows-amd64-64).dek">
@@ -24863,9 +24950,23 @@
     </Package>
   </Packages>
   <Packages Name="midifile">
-    <Package ID="bWlkaWZpbGVfMC40MV8yMDIwLTA2LTA5IDIwOjI5OjAxX21hcnRpbnJw"
-             Author="martinrp" Timestamp="2020-06-09 20:29:01" Description="midifile[v0.41](Windows-amd64-32)(Sources).dek"
-             Version="0.41" URL="https://puredata.info/Members/martinrp/software/midifile/0.41/midifile[v0.41](Windows-amd64-32)(Sources).dek">
+    <Package ID="bWlkaWZpbGVfMC40LjJfMjAyNC0xMS0yMiAwOTozMzozOF9pZW1ib3Q="
+             Author="iembot" Timestamp="2024-11-22 09:33:38" Description="midifile[v0.4.2](Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.4.2" URL="https://puredata.info/Members/iembot/software/midifile/0.4.2/midifile[v0.4.2](Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="midifile"/>
+      </Objects>
+    </Package>
+    <Package ID="bWlkaWZpbGVfMC40LjFfMjAyNC0xMS0yMiAwOToyNDo0Nl9pZW1ib3Q="
+             Author="iembot" Timestamp="2024-11-22 09:24:46" Description="midifile[v0.4.1](Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.4.1" URL="https://puredata.info/Members/iembot/software/midifile/0.4.1/midifile[v0.4.1](Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="midifile"/>
+      </Objects>
+    </Package>
+    <Package ID="bWlkaWZpbGVfMC40LjFfMjAyMC0wNi0wOSAyMDoyOTowMV9tYXJ0aW5ycA=="
+             Author="martinrp" Timestamp="2020-06-09 20:29:01" Description="midifile[v0.4.1](Windows-amd64-32)(Sources).dek"
+             Version="0.4.1" URL="https://puredata.info/Members/martinrp/software/midifile/0.41/midifile[v0.4.1](Windows-amd64-32)(Sources).dek">
       <Objects>
         <Object Name="midifile"/>
       </Objects>
