@@ -50,13 +50,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="testtools">
-    <Package ID="dGVzdHRvb2xzXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjE4OjI5X2NocjE1bQ=="
-             Author="chr15m" Timestamp="2015-08-07 14:18:29" Description="testtools-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/testtools/testtools-v0.0.extended--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="tclprompt-plugin">
     <Package ID="dGNscHJvbXB0LXBsdWdpbl8wLjFfMjAxNi0wNy0yMSAxMzo0NDo0OV96bW9lbG5pZw=="
              Author="zmoelnig" Timestamp="2016-07-21 13:44:49" Description="tclprompt-plugin-v0.1--externals.zip"
@@ -557,6 +550,13 @@
     <Package ID="cGQtc2NvcmVfMC4wLjAtYmV0YV8yMDIzLTEyLTAxIDIyOjIwOjI4X2NoYXJsZXNuZWltb2c="
              Author="charlesneimog" Timestamp="2023-12-01 22:20:28" Description="pd-score[v0.0.0-beta].dek"
              Version="0.0.0-beta" URL="https://puredata.info/Members/charlesneimog/software/pd-score/0.0.0-beta/pd-score[v0.0.0-beta].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="testtools">
+    <Package ID="dGVzdHRvb2xzXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjE4OjI5X2NocjE1bQ=="
+             Author="chr15m" Timestamp="2015-08-07 14:18:29" Description="testtools-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/testtools/testtools-v0.0.extended--externals.zip">
       <Objects/>
     </Package>
   </Packages>
@@ -3767,6 +3767,11 @@
     </Package>
   </Packages>
   <Packages Name="deken-plugin">
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuMF8yMDI0LTEyLTAyIDE0OjQ3OjUwX3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2024-12-02 14:47:50" Description="deken-plugin[v0.10.0].dek"
+             Version="0.10.0" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.0/deken-plugin[v0.10.0].dek">
+      <Objects/>
+    </Package>
     <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4xOF8yMDI0LTAzLTE0IDE0OjM4OjUzX3ptb2VsbmlnYm90"
              Author="zmoelnigbot" Timestamp="2024-03-14 14:38:53" Description="deken-plugin[v0.9.18].dek"
              Version="0.9.18" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.18/deken-plugin[v0.9.18].dek">

@@ -986,13 +986,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="testtools">
-    <Package ID="dGVzdHRvb2xzXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjE4OjI5X2NocjE1bQ=="
-             Author="chr15m" Timestamp="2015-08-07 14:18:29" Description="testtools-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/testtools/testtools-v0.0.extended--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="tclprompt-plugin">
     <Package ID="dGNscHJvbXB0LXBsdWdpbl8wLjFfMjAxNi0wNy0yMSAxMzo0NDo0OV96bW9lbG5pZw=="
              Author="zmoelnig" Timestamp="2016-07-21 13:44:49" Description="tclprompt-plugin-v0.1--externals.zip"
@@ -2704,6 +2697,29 @@
              Version="0.2" URL="https://puredata.info/Members/jaioli/software/notesLib/0.2/notesLib[v0.2](Linux-amd64-32).dek">
       <Objects>
         <Object Name="notes"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="testtools">
+    <Package ID="dGVzdHRvb2xzXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjE4OjI5X2NocjE1bQ=="
+             Author="chr15m" Timestamp="2015-08-07 14:18:29" Description="testtools-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/testtools/testtools-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="nn~">
+    <Package ID="bm5+XzEuNS42LWJ3LWN1ZGFfMjAyNC0xMi0wMiAyMjo0OTo0OV9iZW5fd2VzY2g="
+             Author="ben_wesch" Timestamp="2024-12-02 22:49:49" Description="nn~[v1.5.6-bw-cuda](Linux-amd64-32).dek"
+             Version="1.5.6-bw-cuda" URL="https://puredata.info/Members/ben_wesch/software/nn~/1.5.6-bw-cuda/nn~[v1.5.6-bw-cuda](Linux-amd64-32).dek">
+      <Objects>
+        <Object Name="nn~"/>
+      </Objects>
+    </Package>
+    <Package ID="bm5+XzEuNS42LWJ3XzIwMjQtMTItMDIgMjI6NDI6NTVfYmVuX3dlc2No"
+             Author="ben_wesch" Timestamp="2024-12-02 22:42:55" Description="nn~[v1.5.6-bw](Linux-amd64-32).dek"
+             Version="1.5.6-bw" URL="https://puredata.info/Members/ben_wesch/software/nn~/1.5.6-bw/nn~[v1.5.6-bw](Linux-amd64-32).dek">
+      <Objects>
+        <Object Name="nn~"/>
       </Objects>
     </Package>
   </Packages>
@@ -17467,6 +17483,11 @@
     </Package>
   </Packages>
   <Packages Name="deken-plugin">
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuMF8yMDI0LTEyLTAyIDE0OjQ3OjUwX3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2024-12-02 14:47:50" Description="deken-plugin[v0.10.0].dek"
+             Version="0.10.0" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.0/deken-plugin[v0.10.0].dek">
+      <Objects/>
+    </Package>
     <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4xOF8yMDI0LTAzLTE0IDE0OjM4OjUzX3ptb2VsbmlnYm90"
              Author="zmoelnigbot" Timestamp="2024-03-14 14:38:53" Description="deken-plugin[v0.9.18].dek"
              Version="0.9.18" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.18/deken-plugin[v0.9.18].dek">
