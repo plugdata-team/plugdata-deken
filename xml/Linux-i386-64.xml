@@ -465,6 +465,35 @@
     </Package>
   </Packages>
   <Packages Name="tdh.satk">
+    <Package ID="dGRoLnNhdGtfMC4xLjhfMjAyNC0xMi0wNCAwMjoyNjoyOF90aG91bGRjcm9mdA=="
+             Author="thouldcroft" Timestamp="2024-12-04 02:26:28" Description="tdh.satk[v0.1.8].dek"
+             Version="0.1.8" URL="https://puredata.info/Members/thouldcroft/software/tdh.satk/0.1.8/tdh.satk[v0.1.8].dek">
+      <Objects>
+        <Object Name="satk.math.random2choices"/>
+        <Object Name="satk.seq.gesture"/>
+        <Object Name="satk.seq.stepSeq"/>
+        <Object Name="satk.sigproc.delay~"/>
+        <Object Name="satk.sigproc.granulate~"/>
+        <Object Name="satk.sigproc.mmfilt~"/>
+        <Object Name="satk.synth.1oscil~"/>
+        <Object Name="satk.synth.beep~"/>
+        <Object Name="satk.synth.LFOscil~"/>
+        <Object Name="satk.util.4chMixer~"/>
+        <Object Name="satk.util.adsr~"/>
+        <Object Name="satk.util.ad~"/>
+        <Object Name="satk.util.audioFileSm~"/>
+        <Object Name="satk.util.audioFile~"/>
+        <Object Name="satk.util.audioIn~"/>
+        <Object Name="satk.util.audioOut~"/>
+        <Object Name="satk.util.channelstripMn~"/>
+        <Object Name="satk.util.channelstripSt~"/>
+        <Object Name="satk.util.clock"/>
+        <Object Name="satk.util.counter"/>
+        <Object Name="satk.util.curve"/>
+        <Object Name="satk.util.recorder~"/>
+        <Object Name="satk.util.signalMonitor~"/>
+      </Objects>
+    </Package>
     <Package ID="dGRoLnNhdGtfMC4xLjdfMjAyNC0xMi0wMSAyMToyNjoyNF90aG91bGRjcm9mdA=="
              Author="thouldcroft" Timestamp="2024-12-01 21:26:24" Description="tdh.satk[v0.1.7].dek"
              Version="0.1.7" URL="https://puredata.info/Members/thouldcroft/software/tdh.satk/0.1.7/tdh.satk[v0.1.7].dek">
