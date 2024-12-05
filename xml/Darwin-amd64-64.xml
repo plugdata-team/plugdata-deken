@@ -11785,6 +11785,58 @@
     </Package>
   </Packages>
   <Packages Name="tdh.lib">
+    <Package ID="dGRoLmxpYl8wLjEuOF8yMDI0LTEyLTA0IDAyOjI5OjE0X3Rob3VsZGNyb2Z0"
+             Author="thouldcroft" Timestamp="2024-12-04 02:29:14" Description="tdh.lib[v0.1.8].dek"
+             Version="0.1.8" URL="https://puredata.info/Members/thouldcroft/software/tdh.lib/0.1.8/tdh.lib[v0.1.8].dek">
+      <Objects>
+        <Object Name="tdh.ac.eventCreation"/>
+        <Object Name="tdh.ac.eventCreation.ui"/>
+        <Object Name="tdh.math.dbfs2lin"/>
+        <Object Name="tdh.math.lin2dbfs"/>
+        <Object Name="tdh.math.random2choices"/>
+        <Object Name="tdh.math.random2choices.ui"/>
+        <Object Name="tdh.math.timeConversions"/>
+        <Object Name="tdh.seq.gesture.ui"/>
+        <Object Name="tdh.seq.stepSeq.ui"/>
+        <Object Name="tdh.sigproc.delay.ui~"/>
+        <Object Name="tdh.sigproc.granulate.ui~"/>
+        <Object Name="tdh.sigproc.mmfilt.ui~"/>
+        <Object Name="tdh.synth.1oscil.ui~"/>
+        <Object Name="tdh.synth.1oscil~"/>
+        <Object Name="tdh.synth.beep.ui~"/>
+        <Object Name="tdh.synth.beep~"/>
+        <Object Name="tdh.synth.LFOscil.ui~"/>
+        <Object Name="tdh.synth.oscilPulse~"/>
+        <Object Name="tdh.util.4chMixer.ui~"/>
+        <Object Name="tdh.util.ad.ui~"/>
+        <Object Name="tdh.util.adsr.ui~"/>
+        <Object Name="tdh.util.adsr~"/>
+        <Object Name="tdh.util.ad~"/>
+        <Object Name="tdh.util.audioFile.ui~"/>
+        <Object Name="tdh.util.audioFileSm.ui~"/>
+        <Object Name="tdh.util.audioInIn.ui~"/>
+        <Object Name="tdh.util.audioInUtility.ui~"/>
+        <Object Name="tdh.util.audioOut.ui~"/>
+        <Object Name="tdh.util.audioOutSm~"/>
+        <Object Name="tdh.util.channelstripMn~"/>
+        <Object Name="tdh.util.channelstripSt~"/>
+        <Object Name="tdh.util.clock.UI"/>
+        <Object Name="tdh.util.clockDiv.UI"/>
+        <Object Name="tdh.util.counter"/>
+        <Object Name="tdh.util.curve"/>
+        <Object Name="tdh.util.curve.ui"/>
+        <Object Name="tdh.util.debounce"/>
+        <Object Name="tdh.util.flipFlop"/>
+        <Object Name="tdh.util.framedCanvas"/>
+        <Object Name="tdh.util.recorder.ui~"/>
+        <Object Name="tdh.util.recorder~"/>
+        <Object Name="tdh.util.sigBypass~"/>
+        <Object Name="tdh.util.signalMonitor.ui~"/>
+        <Object Name="tdh.util.signalMonitor~"/>
+        <Object Name="tdh.util.snapshotter.ui~"/>
+        <Object Name="tdh.util.snapshotter~"/>
+      </Objects>
+    </Package>
     <Package ID="dGRoLmxpYl8wLjEuN18yMDI0LTEyLTAxIDIxOjI4OjQ2X3Rob3VsZGNyb2Z0"
              Author="thouldcroft" Timestamp="2024-12-01 21:28:46" Description="tdh.lib[v0.1.7].dek"
              Version="0.1.7" URL="https://puredata.info/Members/thouldcroft/software/tdh.lib/0.1.7/tdh.lib[v0.1.7].dek">
