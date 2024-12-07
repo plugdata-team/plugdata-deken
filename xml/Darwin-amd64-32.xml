@@ -3826,29 +3826,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="ml.lib">
-    <Package ID="bWwubGliXzEuMC4zXzIwMTktMTAtMjUgMDE6NDQ6MDdfamI=" Author="jb"
-             Timestamp="2019-10-25 01:44:07" Description="ml.lib[v1.0.3](Darwin-amd64-32).dek"
-             Version="1.0.3" URL="https://puredata.info/Members/jb/software/ml.lib/1.0.3/ml.lib[v1.0.3](Darwin-amd64-32).dek">
-      <Objects>
-        <Object Name="ml.adaboost"/>
-        <Object Name="ml.ann"/>
-        <Object Name="ml.dtree"/>
-        <Object Name="ml.dtw"/>
-        <Object Name="ml.gmm"/>
-        <Object Name="ml.hmmc"/>
-        <Object Name="ml.knn"/>
-        <Object Name="ml.linreg"/>
-        <Object Name="ml.logreg"/>
-        <Object Name="ml.mindist"/>
-        <Object Name="ml.minmax"/>
-        <Object Name="ml.randforest"/>
-        <Object Name="ml.softmax"/>
-        <Object Name="ml.svm"/>
-        <Object Name="ml.zerox"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="dnd-plugin">
     <Package ID="ZG5kLXBsdWdpbl8wLjMuMF8yMDIxLTA0LTE2IDAyOjAzOjUxX2x1Y2FyZGE="
              Author="lucarda" Timestamp="2021-04-16 02:03:51" Description="dnd-plugin[v0.3.0](Darwin-amd64-32)(Darwin-i386-32).dek"
@@ -18026,44 +18003,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="chaos">
-    <Package ID="Y2hhb3NfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxNTozNF96bW9lbG5pZw=="
-             Author="zmoelnig" Timestamp="2015-12-10 14:15:34" Description="chaos-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/chaos/0-0extended/chaos-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="pix_drum">
-    <Package ID="cGl4X2RydW1fMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDozMToyM196bW9lbG5pZw=="
-             Author="zmoelnig" Timestamp="2015-12-10 14:31:23" Description="pix_drum-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/pix_drum/0-0extended/pix_drum-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="flatgui">
-    <Package ID="ZmxhdGd1aV8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjE5OjAxX3ptb2Vsbmln"
-             Author="zmoelnig" Timestamp="2015-12-10 14:19:01" Description="flatgui-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/flatgui/0-0extended/flatgui-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="automatonism">
-    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmU0XzIwMjQtMDEtMTMgMTY6NDE6MTZfanln"
-             Author="jyg" Timestamp="2024-01-13 16:41:16" Description="automatonism[v0.4-pre4].dek"
-             Version="0.4-pre4" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4-pre4].dek">
-      <Objects/>
-    </Package>
-    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmUzXzIwMjMtMTEtMTUgMjM6NTU6MDdfanln"
-             Author="jyg" Timestamp="2023-11-15 23:55:07" Description="automatonism[v0.4-pre3].dek"
-             Version="0.4-pre3" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4-pre3].dek">
-      <Objects/>
-    </Package>
-    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmUxXzIwMjMtMDUtMTIgMjI6Mzc6NTRfanln"
-             Author="jyg" Timestamp="2023-05-12 22:37:54" Description="automatonism[v0.4-pre1].dek"
-             Version="0.4-pre1" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4-pre1].dek">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="cicmtools">
     <Package ID="Y2ljbXRvb2xzXzEuNV8yMDIxLTAyLTA2IDIwOjAwOjU0X3BvcnJlcw=="
              Author="porres" Timestamp="2021-02-06 20:00:54" Description="cicmtools[v1.5](Darwin-amd64-32)(Darwin-i386-32).dek"
@@ -18073,20 +18012,6 @@
         <Object Name="ambipan~"/>
         <Object Name="vbapan~"/>
       </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="syslog">
-    <Package ID="c3lzbG9nXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MzM6NTFfem1vZWxuaWc="
-             Author="zmoelnig" Timestamp="2015-12-10 14:33:51" Description="syslog-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/syslog/0-0extended/syslog-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="Fraise-toolchain">
-    <Package ID="RnJhaXNlLXRvb2xjaGFpbl8wLjEuMF8yMDI0LTEwLTA5IDE1OjQzOjAwX2FudDFy"
-             Author="ant1r" Timestamp="2024-10-09 15:43:00" Description="Fraise-toolchain[v0.1.0](Darwin-amd64-32)(Darwin-arm64-32).dek"
-             Version="0.1.0" URL="https://puredata.info/Members/ant1r/software/Fraise-toolchain/0.1.0/Fraise-toolchain[v0.1.0](Darwin-amd64-32).dek">
-      <Objects/>
     </Package>
   </Packages>
   <Packages Name="rfpg">
@@ -22280,6 +22205,20 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="syslog">
+    <Package ID="c3lzbG9nXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MzM6NTFfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:33:51" Description="syslog-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/syslog/0-0extended/syslog-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="Fraise-toolchain">
+    <Package ID="RnJhaXNlLXRvb2xjaGFpbl8wLjEuMF8yMDI0LTEwLTA5IDE1OjQzOjAwX2FudDFy"
+             Author="ant1r" Timestamp="2024-10-09 15:43:00" Description="Fraise-toolchain[v0.1.0](Darwin-amd64-32)(Darwin-arm64-32).dek"
+             Version="0.1.0" URL="https://puredata.info/Members/ant1r/software/Fraise-toolchain/0.1.0/Fraise-toolchain[v0.1.0](Darwin-amd64-32).dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="echocurve~">
     <Package ID="ZWNob2N1cnZlfl8wLjFfMjAxOC0wOC0wNiAwNzozNjowN19qd21hdHRoeXM="
              Author="jwmatthys" Timestamp="2018-08-06 07:36:07" Description="echocurve~[v0.1](Darwin-amd64-32)(Darwin-i386-32)(Sources).dek"
@@ -24374,6 +24313,65 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="ekext">
+    <Package ID="ZWtleHRfMC4yXzIwMTgtMDUtMjQgMDk6MjI6MzFfZWRrZWxseQ==" Author="edkelly"
+             Timestamp="2018-05-24 09:22:31" Description="ekext[v0.2](Darwin-amd64-32)(Darwin-i386-32)(Sources).dek"
+             Version="0.2" URL="https://puredata.info/Members/edkelly/software/ekext/0.2/ekext[v0.2](Darwin-amd64-32)(Darwin-i386-32)(Sources).dek">
+      <Objects>
+        <Object Name="bmt~"/>
+        <Object Name="count"/>
+        <Object Name="cup"/>
+        <Object Name="cupd"/>
+        <Object Name="doubledelta"/>
+        <Object Name="floatcount"/>
+        <Object Name="framescore~"/>
+        <Object Name="framespect~"/>
+        <Object Name="hasc~"/>
+        <Object Name="hssc~"/>
+        <Object Name="ihisto"/>
+        <Object Name="lcmgcd"/>
+        <Object Name="list_sum"/>
+        <Object Name="lpc~"/>
+        <Object Name="maskxor"/>
+        <Object Name="mvcf~"/>
+        <Object Name="polymap"/>
+        <Object Name="polystat"/>
+        <Object Name="positive"/>
+        <Object Name="scalefilter"/>
+        <Object Name="sieve"/>
+        <Object Name="simile"/>
+        <Object Name="simile~"/>
+        <Object Name="steady"/>
+        <Object Name="valve"/>
+        <Object Name="voicing_detector~"/>
+        <Object Name="wavecutter~"/>
+        <Object Name="wavefolder~"/>
+        <Object Name="wavestretcher~"/>
+        <Object Name="weightonset"/>
+        <Object Name="wfold~"/>
+        <Object Name="zeroxpos~"/>
+      </Objects>
+    </Package>
+    <Package ID="ZWtleHRfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxNzo1Ml96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:17:52" Description="ekext-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/ekext/0-0extended/ekext-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="jit_expr">
+    <Package ID="aml0X2V4cHJfMC4xLjFfMjAxOC0wNC0wMiAxODoxODoyOV94Mzd2" Author="x37v"
+             Timestamp="2018-04-02 18:18:29" Description="jit_expr[v0.1.1](Darwin-amd64-32)(Darwin-i386-32).dek"
+             Version="0.1.1" URL="https://puredata.info/Members/x37v/software/jit_expr/0.1.1/jit_expr[v0.1.1](Darwin-amd64-32)(Darwin-i386-32).dek">
+      <Objects>
+        <Object Name="jit_expr"/>
+      </Objects>
+    </Package>
+    <Package ID="aml0X2V4cHJfMC4xXzIwMTgtMDMtMTEgMDA6MjM6NDRfeDM3dg==" Author="x37v"
+             Timestamp="2018-03-11 00:23:44" Description="jit_expr[v0.1](Darwin-amd64-32).dek"
+             Version="0.1" URL="https://puredata.info/Members/x37v/software/jit_expr/0.1/jit_expr[v0.1](Darwin-amd64-32).dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="spring22">
     <Package ID="c3ByaW5nMjJfMC4yMDIyMDYxN18yMDIyLTA2LTE3IDE1OjAwOjIxX3ptb2Vsbmln"
              Author="zmoelnig" Timestamp="2022-06-17 15:00:21" Description="spring22[v0.20220617].dek"
@@ -25637,7 +25635,97 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="chaos">
+    <Package ID="Y2hhb3NfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxNTozNF96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:15:34" Description="chaos-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/chaos/0-0extended/chaos-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="pix_drum">
+    <Package ID="cGl4X2RydW1fMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDozMToyM196bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:31:23" Description="pix_drum-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/pix_drum/0-0extended/pix_drum-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="flatgui">
+    <Package ID="ZmxhdGd1aV8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjE5OjAxX3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2015-12-10 14:19:01" Description="flatgui-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/flatgui/0-0extended/flatgui-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="automatonism">
+    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmU0XzIwMjQtMDEtMTMgMTY6NDE6MTZfanln"
+             Author="jyg" Timestamp="2024-01-13 16:41:16" Description="automatonism[v0.4-pre4].dek"
+             Version="0.4-pre4" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4-pre4].dek">
+      <Objects/>
+    </Package>
+    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmUzXzIwMjMtMTEtMTUgMjM6NTU6MDdfanln"
+             Author="jyg" Timestamp="2023-11-15 23:55:07" Description="automatonism[v0.4-pre3].dek"
+             Version="0.4-pre3" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4-pre3].dek">
+      <Objects/>
+    </Package>
+    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmUxXzIwMjMtMDUtMTIgMjI6Mzc6NTRfanln"
+             Author="jyg" Timestamp="2023-05-12 22:37:54" Description="automatonism[v0.4-pre1].dek"
+             Version="0.4-pre1" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4-pre1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="tdh.lib">
+    <Package ID="dGRoLmxpYl8wLjEuOV8yMDI0LTEyLTA2IDE0OjA0OjA4X3Rob3VsZGNyb2Z0"
+             Author="thouldcroft" Timestamp="2024-12-06 14:04:08" Description="tdh.lib[v0.1.9].dek"
+             Version="0.1.9" URL="https://puredata.info/Members/thouldcroft/software/tdh.lib/0.1.9/tdh.lib[v0.1.9].dek">
+      <Objects>
+        <Object Name="tdh.ac.eventCreation"/>
+        <Object Name="tdh.ac.eventCreation.ui"/>
+        <Object Name="tdh.math.dbfs2lin"/>
+        <Object Name="tdh.math.lin2dbfs"/>
+        <Object Name="tdh.math.random2choices"/>
+        <Object Name="tdh.math.random2choices.ui"/>
+        <Object Name="tdh.math.timeConversions"/>
+        <Object Name="tdh.seq.gesture.ui"/>
+        <Object Name="tdh.seq.stepSeq.ui"/>
+        <Object Name="tdh.sigproc.delay.ui~"/>
+        <Object Name="tdh.sigproc.granulate.ui~"/>
+        <Object Name="tdh.sigproc.mmfilt.ui~"/>
+        <Object Name="tdh.synth.1oscil.ui~"/>
+        <Object Name="tdh.synth.1oscil~"/>
+        <Object Name="tdh.synth.beep.ui~"/>
+        <Object Name="tdh.synth.beep~"/>
+        <Object Name="tdh.synth.LFOscil.ui~"/>
+        <Object Name="tdh.synth.oscilPulse~"/>
+        <Object Name="tdh.util.4chMixer.ui~"/>
+        <Object Name="tdh.util.ad.ui~"/>
+        <Object Name="tdh.util.adsr.ui~"/>
+        <Object Name="tdh.util.adsr~"/>
+        <Object Name="tdh.util.ad~"/>
+        <Object Name="tdh.util.audioFile.ui~"/>
+        <Object Name="tdh.util.audioFileSm.ui~"/>
+        <Object Name="tdh.util.audioInIn.ui~"/>
+        <Object Name="tdh.util.audioInUtility.ui~"/>
+        <Object Name="tdh.util.audioOut.ui~"/>
+        <Object Name="tdh.util.audioOutSm~"/>
+        <Object Name="tdh.util.channelstripMn~"/>
+        <Object Name="tdh.util.channelstripSt~"/>
+        <Object Name="tdh.util.clock.UI"/>
+        <Object Name="tdh.util.clockDiv.UI"/>
+        <Object Name="tdh.util.counter"/>
+        <Object Name="tdh.util.curve"/>
+        <Object Name="tdh.util.curve.ui"/>
+        <Object Name="tdh.util.debounce"/>
+        <Object Name="tdh.util.flipFlop"/>
+        <Object Name="tdh.util.framedCanvas"/>
+        <Object Name="tdh.util.recorder.ui~"/>
+        <Object Name="tdh.util.recorder~"/>
+        <Object Name="tdh.util.sigBypass~"/>
+        <Object Name="tdh.util.signalMonitor.ui~"/>
+        <Object Name="tdh.util.signalMonitor~"/>
+        <Object Name="tdh.util.snapshotter.ui~"/>
+        <Object Name="tdh.util.snapshotter~"/>
+      </Objects>
+    </Package>
     <Package ID="dGRoLmxpYl8wLjEuOF8yMDI0LTEyLTA0IDAyOjI5OjE0X3Rob3VsZGNyb2Z0"
              Author="thouldcroft" Timestamp="2024-12-04 02:29:14" Description="tdh.lib[v0.1.8].dek"
              Version="0.1.8" URL="https://puredata.info/Members/thouldcroft/software/tdh.lib/0.1.8/tdh.lib[v0.1.8].dek">
@@ -26110,65 +26198,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="jit_expr">
-    <Package ID="aml0X2V4cHJfMC4xLjFfMjAxOC0wNC0wMiAxODoxODoyOV94Mzd2" Author="x37v"
-             Timestamp="2018-04-02 18:18:29" Description="jit_expr[v0.1.1](Darwin-amd64-32)(Darwin-i386-32).dek"
-             Version="0.1.1" URL="https://puredata.info/Members/x37v/software/jit_expr/0.1.1/jit_expr[v0.1.1](Darwin-amd64-32)(Darwin-i386-32).dek">
-      <Objects>
-        <Object Name="jit_expr"/>
-      </Objects>
-    </Package>
-    <Package ID="aml0X2V4cHJfMC4xXzIwMTgtMDMtMTEgMDA6MjM6NDRfeDM3dg==" Author="x37v"
-             Timestamp="2018-03-11 00:23:44" Description="jit_expr[v0.1](Darwin-amd64-32).dek"
-             Version="0.1" URL="https://puredata.info/Members/x37v/software/jit_expr/0.1/jit_expr[v0.1](Darwin-amd64-32).dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="ekext">
-    <Package ID="ZWtleHRfMC4yXzIwMTgtMDUtMjQgMDk6MjI6MzFfZWRrZWxseQ==" Author="edkelly"
-             Timestamp="2018-05-24 09:22:31" Description="ekext[v0.2](Darwin-amd64-32)(Darwin-i386-32)(Sources).dek"
-             Version="0.2" URL="https://puredata.info/Members/edkelly/software/ekext/0.2/ekext[v0.2](Darwin-amd64-32)(Darwin-i386-32)(Sources).dek">
-      <Objects>
-        <Object Name="bmt~"/>
-        <Object Name="count"/>
-        <Object Name="cup"/>
-        <Object Name="cupd"/>
-        <Object Name="doubledelta"/>
-        <Object Name="floatcount"/>
-        <Object Name="framescore~"/>
-        <Object Name="framespect~"/>
-        <Object Name="hasc~"/>
-        <Object Name="hssc~"/>
-        <Object Name="ihisto"/>
-        <Object Name="lcmgcd"/>
-        <Object Name="list_sum"/>
-        <Object Name="lpc~"/>
-        <Object Name="maskxor"/>
-        <Object Name="mvcf~"/>
-        <Object Name="polymap"/>
-        <Object Name="polystat"/>
-        <Object Name="positive"/>
-        <Object Name="scalefilter"/>
-        <Object Name="sieve"/>
-        <Object Name="simile"/>
-        <Object Name="simile~"/>
-        <Object Name="steady"/>
-        <Object Name="valve"/>
-        <Object Name="voicing_detector~"/>
-        <Object Name="wavecutter~"/>
-        <Object Name="wavefolder~"/>
-        <Object Name="wavestretcher~"/>
-        <Object Name="weightonset"/>
-        <Object Name="wfold~"/>
-        <Object Name="zeroxpos~"/>
-      </Objects>
-    </Package>
-    <Package ID="ZWtleHRfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxNzo1Ml96bW9lbG5pZw=="
-             Author="zmoelnig" Timestamp="2015-12-10 14:17:52" Description="ekext-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/ekext/0-0extended/ekext-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="bsaylor">
     <Package ID="YnNheWxvcl8wLjEuNV8yMDIyLTExLTI4IDE3OjQ5OjQ0X2llbWJvdA=="
              Author="iembot" Timestamp="2022-11-28 17:49:44" Description="bsaylor[v0.1.5](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
@@ -26405,6 +26434,29 @@
              Author="zmoelnig" Timestamp="2015-12-10 14:19:28" Description="freeverb~-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/freeverb~/0-0extended/freeverb~-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
       <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="ml.lib">
+    <Package ID="bWwubGliXzEuMC4zXzIwMTktMTAtMjUgMDE6NDQ6MDdfamI=" Author="jb"
+             Timestamp="2019-10-25 01:44:07" Description="ml.lib[v1.0.3](Darwin-amd64-32).dek"
+             Version="1.0.3" URL="https://puredata.info/Members/jb/software/ml.lib/1.0.3/ml.lib[v1.0.3](Darwin-amd64-32).dek">
+      <Objects>
+        <Object Name="ml.adaboost"/>
+        <Object Name="ml.ann"/>
+        <Object Name="ml.dtree"/>
+        <Object Name="ml.dtw"/>
+        <Object Name="ml.gmm"/>
+        <Object Name="ml.hmmc"/>
+        <Object Name="ml.knn"/>
+        <Object Name="ml.linreg"/>
+        <Object Name="ml.logreg"/>
+        <Object Name="ml.mindist"/>
+        <Object Name="ml.minmax"/>
+        <Object Name="ml.randforest"/>
+        <Object Name="ml.softmax"/>
+        <Object Name="ml.svm"/>
+        <Object Name="ml.zerox"/>
+      </Objects>
     </Package>
   </Packages>
   <Packages Name="iemguts">
@@ -28857,7 +28909,44 @@
     <Package ID="dG9mXzAuMi40XzIwMjAtMDktMTQgMjA6NTA6MTNfZmprcmFhbg==" Author="fjkraan"
              Timestamp="2020-09-14 20:50:13" Description="tof[v0.2.4](Darwin-amd64-32)(Darwin-i386-32)(Sources).dek"
              Version="0.2.4" URL="https://puredata.info/Members/fjkraan/software/tof/0.2.4/tof[v0.2.4](Darwin-amd64-32)(Darwin-i386-32)(Sources).dek">
-      <Objects/>
+      <Objects>
+        <Object Name="animate"/>
+        <Object Name="argument"/>
+        <Object Name="arguments"/>
+        <Object Name="breakpoints"/>
+        <Object Name="breakpoints~"/>
+        <Object Name="common~"/>
+        <Object Name="crossfade~"/>
+        <Object Name="folderpanel"/>
+        <Object Name="from_ascii_code"/>
+        <Object Name="gemwin+"/>
+        <Object Name="getdollarzero"/>
+        <Object Name="imagebang"/>
+        <Object Name="increment"/>
+        <Object Name="iterate"/>
+        <Object Name="list_accum"/>
+        <Object Name="list_unfold"/>
+        <Object Name="listUnfold"/>
+        <Object Name="menubutton"/>
+        <Object Name="onlyone"/>
+        <Object Name="open_help"/>
+        <Object Name="openHelp"/>
+        <Object Name="OSCToParam"/>
+        <Object Name="param"/>
+        <Object Name="path"/>
+        <Object Name="phasorshot~"/>
+        <Object Name="pix_film+"/>
+        <Object Name="pmenu"/>
+        <Object Name="sample"/>
+        <Object Name="sample_granule~"/>
+        <Object Name="sample_packel"/>
+        <Object Name="sample_play~"/>
+        <Object Name="sample_record~"/>
+        <Object Name="sample_shifft~"/>
+        <Object Name="sample_unpack"/>
+        <Object Name="streamMinMax"/>
+        <Object Name="to_ascii_code"/>
+      </Objects>
     </Package>
     <Package ID="dG9mXzAuMi4zXzIwMjAtMDktMTQgMjA6NDY6MTlfZmprcmFhbg==" Author="fjkraan"
              Timestamp="2020-09-14 20:46:19" Description="tof[v0.2.3](Darwin-amd64-32)(Darwin-i386-32)(Sources).dek"
@@ -29886,7 +29975,40 @@
     <Package ID="cG1wZF8wLjEzLjJfMjAyNC0wNC0wNiAxNDowNTo0Nl9jaG5yeQ==" Author="chnry"
              Timestamp="2024-04-06 14:05:46" Description="pmpd[v0.13.2](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
              Version="0.13.2" URL="https://puredata.info/Members/chnry/software/pmpd/0.13.2/pmpd[v0.13.2](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek">
-      <Objects/>
+      <Objects>
+        <Object Name="iAmbient2D"/>
+        <Object Name="iAmbient3D"/>
+        <Object Name="iCircle2D"/>
+        <Object Name="iCircle3D"/>
+        <Object Name="iCylinder3D"/>
+        <Object Name="iLine2D"/>
+        <Object Name="iPlane3D"/>
+        <Object Name="iSeg2D"/>
+        <Object Name="iSphere3D"/>
+        <Object Name="link"/>
+        <Object Name="link2D"/>
+        <Object Name="link3D"/>
+        <Object Name="mass"/>
+        <Object Name="mass2D"/>
+        <Object Name="mass3D"/>
+        <Object Name="pmpd"/>
+        <Object Name="pmpd2d"/>
+        <Object Name="pmpd2d~"/>
+        <Object Name="pmpd3d"/>
+        <Object Name="pmpd3d~"/>
+        <Object Name="pmpd~"/>
+        <Object Name="tCircle2D"/>
+        <Object Name="tCircle3D"/>
+        <Object Name="tCube3D"/>
+        <Object Name="tCylinder3D"/>
+        <Object Name="tLine2D"/>
+        <Object Name="tLink2D"/>
+        <Object Name="tLink3D"/>
+        <Object Name="tPlane3D"/>
+        <Object Name="tSeg2D"/>
+        <Object Name="tSphere3D"/>
+        <Object Name="tSquare2D"/>
+      </Objects>
     </Package>
     <Package ID="cG1wZF8wLjEzLjFfMjAyNC0wMy0xMiAwODozNDoyNF9jaG5yeQ==" Author="chnry"
              Timestamp="2024-03-12 08:34:24" Description="pmpd[v0.13.1](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
@@ -30265,6 +30387,11 @@
     </Package>
   </Packages>
   <Packages Name="deken-plugin">
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuMl8yMDI0LTEyLTA2IDIyOjQ4OjAzX3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2024-12-06 22:48:03" Description="deken-plugin[v0.10.2].dek"
+             Version="0.10.2" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.2/deken-plugin[v0.10.2].dek">
+      <Objects/>
+    </Package>
     <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuMF8yMDI0LTEyLTAyIDE0OjQ3OjUwX3ptb2VsbmlnYm90"
              Author="zmoelnigbot" Timestamp="2024-12-02 14:47:50" Description="deken-plugin[v0.10.0].dek"
              Version="0.10.0" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.0/deken-plugin[v0.10.0].dek">
