@@ -6898,6 +6898,18 @@
     </Package>
   </Packages>
   <Packages Name="rfpg">
+    <Package ID="cmZwZ18wLjJfMjAyNC0xMi0xMSAwMToyMDoyN19yaWNreQ==" Author="ricky"
+             Timestamp="2024-12-11 01:20:27" Description="rfpg[v0.2](Darwin-amd64-32)(Darwin-arm64-32)(Sources).dek"
+             Version="0.2" URL="https://puredata.info/Members/ricky/software/rfpg/0.2/rfpg[v0.2](Darwin-amd64-32)(Darwin-arm64-32)(Sources).dek">
+      <Objects>
+        <Object Name="cipher"/>
+        <Object Name="fibo"/>
+        <Object Name="grambi"/>
+        <Object Name="gramulator~"/>
+        <Object Name="lerdahl"/>
+        <Object Name="sinedelay~"/>
+      </Objects>
+    </Package>
     <Package ID="cmZwZ18wLjFfMjAyNC0xMS0xMSAwMTo0ODoyN19yaWNreQ==" Author="ricky"
              Timestamp="2024-11-11 01:48:27" Description="rfpg[v0.1](Darwin-amd64-32)(Darwin-arm64-32)(Sources).dek"
              Version="0.1" URL="https://puredata.info/Members/ricky/software/rfpg/0.1/rfpg[v0.1](Darwin-amd64-32)(Darwin-arm64-32)(Sources).dek">
