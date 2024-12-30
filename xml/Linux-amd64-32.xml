@@ -10543,8 +10543,8 @@
     </Package>
   </Packages>
   <Packages Name="Gem">
-    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNC0xMS0zMCAxNzowNzozOV9pZW1ib3Q="
-             Author="iembot" Timestamp="2024-11-30 17:07:39" Description="Gem[v0.94-snapshot](Linux-amd64-32)(Linux-amd64-64).dek"
+    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNC0xMi0yOSAwMDoyOTo1OV9pZW1ib3Q="
+             Author="iembot" Timestamp="2024-12-29 00:29:59" Description="Gem[v0.94-snapshot](Linux-amd64-32)(Linux-amd64-64).dek"
              Version="0.94-snapshot" URL="https://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Linux-amd64-32)(Linux-amd64-64).dek">
       <Objects>
         <Object Name="accumrotate"/>
