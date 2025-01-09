@@ -2,9 +2,9 @@
 
 <Windows-arm64-32>
   <Packages Name="zexy">
-    <Package ID="emV4eV8wLjQuM18yMDI1LTAxLTA3IDE3OjM0OjQ3X3ptb2Vsbmln" Author="zmoelnig"
-             Timestamp="2025-01-07 17:34:47" Description="zexy[v0.4.3](Windows-arm64-32).dek"
-             Version="0.4.3" URL="https://puredata.info/Members/zmoelnig/software/zexy/0.4.3/zexy[v0.4.3](Windows-arm64-32).dek">
+    <Package ID="emV4eV8yLjQuM18yMDI1LTAxLTA4IDExOjA2OjUwX3ptb2Vsbmln" Author="zmoelnig"
+             Timestamp="2025-01-08 11:06:50" Description="zexy[v2.4.3](Windows-arm64-32)(Windows-arm64-64).dek"
+             Version="2.4.3" URL="https://puredata.info/Members/zmoelnig/software/zexy/2.4.3/zexy[v2.4.3](Windows-arm64-32)(Windows-arm64-64).dek">
       <Objects>
         <Object Name="&amp;&amp;~"/>
         <Object Name="&lt;~"/>

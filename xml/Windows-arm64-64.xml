@@ -1,6 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Windows-arm64-64>
+  <Packages Name="zexy">
+    <Package ID="emV4eV8yLjQuM18yMDI1LTAxLTA4IDExOjA2OjUwX3ptb2Vsbmln" Author="zmoelnig"
+             Timestamp="2025-01-08 11:06:50" Description="zexy[v2.4.3](Windows-arm64-32)(Windows-arm64-64).dek"
+             Version="2.4.3" URL="https://puredata.info/Members/zmoelnig/software/zexy/2.4.3/zexy[v2.4.3](Windows-arm64-32)(Windows-arm64-64).dek">
+      <Objects>
+        <Object Name="&amp;&amp;~"/>
+        <Object Name="&lt;~"/>
+        <Object Name="==~"/>
+        <Object Name="&gt;~"/>
+        <Object Name="a2l"/>
+        <Object Name="absgn~"/>
+        <Object Name="abs~"/>
+        <Object Name="any2list"/>
+        <Object Name="atof"/>
+        <Object Name="atoi"/>
+        <Object Name="avg~"/>
+        <Object Name="blockmirror~"/>
+        <Object Name="blockswap~"/>
+        <Object Name="cart2pol"/>
+        <Object Name="cart2sph"/>
+        <Object Name="coordinates"/>
+        <Object Name="date"/>
+        <Object Name="deg2rad"/>
+        <Object Name="demultiplex"/>
+        <Object Name="demultiplex~"/>
+        <Object Name="demux"/>
+        <Object Name="demux~"/>
+        <Object Name="dfreq~"/>
+        <Object Name="digidistort"/>
+        <Object Name="dirac~"/>
+        <Object Name="drip"/>
+        <Object Name="envrms~"/>
+        <Object Name="fifop"/>
+        <Object Name="freadln"/>
+        <Object Name="fwriteln"/>
+        <Object Name="glue"/>
+        <Object Name="index"/>
+        <Object Name="l"/>
+        <Object Name="l2i"/>
+        <Object Name="l2s"/>
+        <Object Name="length"/>
+        <Object Name="lifop"/>
+        <Object Name="limiter~"/>
+        <Object Name="list2int"/>
+        <Object Name="list2lists"/>
+        <Object Name="list2symbol"/>
+        <Object Name="lister"/>
+        <Object Name="listfind"/>
+        <Object Name="longload"/>
+        <Object Name="lpt"/>
+        <Object Name="makesymbol"/>
+        <Object Name="matchbox"/>
+        <Object Name="mavg"/>
+        <Object Name="mean"/>
+        <Object Name="minmax"/>
+        <Object Name="msgfile"/>
+        <Object Name="multiline~"/>
+        <Object Name="multiplex"/>
+        <Object Name="multiplex~"/>
+        <Object Name="multireceive"/>
+        <Object Name="mux"/>
+        <Object Name="mux~"/>
+        <Object Name="niagara"/>
+        <Object Name="noish~"/>
+        <Object Name="noisi~"/>
+        <Object Name="nop"/>
+        <Object Name="nop~"/>
+        <Object Name="operating_system"/>
+        <Object Name="pack"/>
+        <Object Name="packel"/>
+        <Object Name="pack~"/>
+        <Object Name="pdf~"/>
+        <Object Name="pol2cart"/>
+        <Object Name="pol2sph"/>
+        <Object Name="polyfun"/>
+        <Object Name="prime"/>
+        <Object Name="quantize~"/>
+        <Object Name="rad2deg"/>
+        <Object Name="rawprint"/>
+        <Object Name="regex"/>
+        <Object Name="regex-help"/>
+        <Object Name="relay"/>
+        <Object Name="repack"/>
+        <Object Name="repeat"/>
+        <Object Name="route~"/>
+        <Object Name="s2l"/>
+        <Object Name="scalarmult"/>
+        <Object Name="segregate"/>
+        <Object Name="sf-play_record"/>
+        <Object Name="sgn~"/>
+        <Object Name="sigzero~"/>
+        <Object Name="sort"/>
+        <Object Name="sph2cart"/>
+        <Object Name="sph2pol"/>
+        <Object Name="step~"/>
+        <Object Name="strcmp"/>
+        <Object Name="sum"/>
+        <Object Name="swap~"/>
+        <Object Name="symbol2list"/>
+        <Object Name="tabdump"/>
+        <Object Name="tabminmax"/>
+        <Object Name="tabset"/>
+        <Object Name="tavg~"/>
+        <Object Name="time"/>
+        <Object Name="uniqsym"/>
+        <Object Name="unpack"/>
+        <Object Name="unpack~"/>
+        <Object Name="urn"/>
+        <Object Name="wrap"/>
+        <Object Name="zigbinops"/>
+        <Object Name="z~"/>
+        <Object Name="||~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="unicode">
     <Package ID="dW5pY29kZV8wLjEuMF8yMDIxLTAzLTIyIDE2OjQxOjA4X3ptb2VsbmlnYm90"
              Author="zmoelnigbot" Timestamp="2021-03-22 16:41:08" Description="unicode[v0.1.0].dek"
