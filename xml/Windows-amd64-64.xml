@@ -10216,6 +10216,13 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="scroll-test-plugin">
+    <Package ID="c2Nyb2xsLXRlc3QtcGx1Z2luXzAuMV8yMDI1LTAxLTE3IDEzOjAyOjUyX3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2025-01-17 13:02:52" Description="scroll-test-plugin[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/zmoelnig/software/scroll-test-plugin/0.1/scroll-test-plugin[v0.1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="iemlib">
     <Package ID="aWVtbGliXzEuMjItM18yMDIzLTA3LTA3IDIwOjI1OjU0X2llbWJvdA=="
              Author="iembot" Timestamp="2023-07-07 20:25:54" Description="iemlib[v1.22-3](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Linux-i386-64)(Windows-amd64-64).dek"

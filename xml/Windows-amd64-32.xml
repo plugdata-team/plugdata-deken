@@ -23673,6 +23673,13 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="scroll-test-plugin">
+    <Package ID="c2Nyb2xsLXRlc3QtcGx1Z2luXzAuMV8yMDI1LTAxLTE3IDEzOjAyOjUyX3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2025-01-17 13:02:52" Description="scroll-test-plugin[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/zmoelnig/software/scroll-test-plugin/0.1/scroll-test-plugin[v0.1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="moonlib">
     <Package ID="bW9vbmxpYl8wLjdfMjAyMy0wNC0yMSAxNTowMjowMl9hbnQxcg==" Author="ant1r"
              Timestamp="2023-04-21 15:02:02" Description="moonlib[v0.7](Windows-amd64-32).dek"

@@ -3851,6 +3851,13 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="scroll-test-plugin">
+    <Package ID="c2Nyb2xsLXRlc3QtcGx1Z2luXzAuMV8yMDI1LTAxLTE3IDEzOjAyOjUyX3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2025-01-17 13:02:52" Description="scroll-test-plugin[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/zmoelnig/software/scroll-test-plugin/0.1/scroll-test-plugin[v0.1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="moonlib">
     <Package ID="bW9vbmxpYl8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjI3OjQyX3ptb2Vsbmln"
              Author="zmoelnig" Timestamp="2015-12-10 14:27:42" Description="moonlib-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"

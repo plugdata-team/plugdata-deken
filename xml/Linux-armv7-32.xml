@@ -13871,6 +13871,18 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="scroll-test-plugin">
+    <Package ID="c2Nyb2xsLXRlc3QtcGx1Z2luXzAuMV8yMDI1LTAxLTE3IDEzOjAyOjUyX3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2025-01-17 13:02:52" Description="scroll-test-plugin[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/zmoelnig/software/scroll-test-plugin/0.1/scroll-test-plugin[v0.1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="c2Nyb2xsLXRlc3QtcGx1Z2luXzAuMV8yMDI1LTAxLTE3IDEzOjAyOjUyX3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2025-01-17 13:02:52" Description="scroll-test-plugin[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/zmoelnig/software/scroll-test-plugin/0.1/scroll-test-plugin[v0.1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="moonlib">
     <Package ID="bW9vbmxpYl8wLjRfMjAxOS0wMS0wMyAxMjozMjo0N19hbnQxcg==" Author="ant1r"
              Timestamp="2019-01-03 12:32:47" Description="moonlib[v0.4](Linux-armv7-32).dek"
