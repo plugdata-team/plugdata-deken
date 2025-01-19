@@ -6380,6 +6380,11 @@
     </Package>
   </Packages>
   <Packages Name="scroll-test-plugin">
+    <Package ID="c2Nyb2xsLXRlc3QtcGx1Z2luXzAuMl8yMDI1LTAxLTE4IDIyOjEwOjI3X2llbWJvdA=="
+             Author="iembot" Timestamp="2025-01-18 22:10:27" Description="scroll-test-plugin[v0.2].dek"
+             Version="0.2" URL="https://puredata.info/Members/iembot/software/scroll-test-plugin/0.2/scroll-test-plugin[v0.2].dek">
+      <Objects/>
+    </Package>
     <Package ID="c2Nyb2xsLXRlc3QtcGx1Z2luXzAuMV8yMDI1LTAxLTE3IDEzOjAyOjUyX3ptb2Vsbmln"
              Author="zmoelnig" Timestamp="2025-01-17 13:02:52" Description="scroll-test-plugin[v0.1].dek"
              Version="0.1" URL="https://puredata.info/Members/zmoelnig/software/scroll-test-plugin/0.1/scroll-test-plugin[v0.1].dek">
