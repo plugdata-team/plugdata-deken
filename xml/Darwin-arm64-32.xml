@@ -11235,6 +11235,15 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="ultraleap">
+    <Package ID="dWx0cmFsZWFwXzAuMS4xXzIwMjUtMDEtMjIgMTY6NDU6NDRfd21icmVudA=="
+             Author="wmbrent" Timestamp="2025-01-22 16:45:44" Description="ultraleap[v0.1.1](Darwin-arm64-32).dek"
+             Version="0.1.1" URL="https://puredata.info/Members/wmbrent/software/ultraleap/0.1.1/ultraleap[v0.1.1](Darwin-arm64-32).dek">
+      <Objects>
+        <Object Name="ultraleap"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="nsend">
     <Package ID="bnNlbmRfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mzk6NTRfY2hyMTVt"
              Author="chr15m" Timestamp="2015-08-07 14:39:54" Description="nsend-v0.0.extended--externals.zip"
