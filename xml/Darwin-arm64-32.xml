@@ -8943,6 +8943,22 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="algo~">
+    <Package ID="YWxnb35fMS4wLjFfMjAyNS0wMS0yMyAxNzozODowM193bWJyZW50" Author="wmbrent"
+             Timestamp="2025-01-23 17:38:03" Description="algo~[v1.0.1](Darwin-arm64-32).dek"
+             Version="1.0.1" URL="https://puredata.info/Members/wmbrent/software/algo~/1.0.1/algo~[v1.0.1](Darwin-arm64-32).dek">
+      <Objects>
+        <Object Name="algo~"/>
+      </Objects>
+    </Package>
+    <Package ID="YWxnb35fMS4wLjBfMjAyNS0wMS0yMyAxNzoyMzowOF93bWJyZW50" Author="wmbrent"
+             Timestamp="2025-01-23 17:23:08" Description="algo~[v1.0.0](Darwin-arm64-32).dek"
+             Version="1.0.0" URL="https://puredata.info/Members/wmbrent/software/algo~/1.0.0/algo~[v1.0.0](Darwin-arm64-32).dek">
+      <Objects>
+        <Object Name="algo~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="completion-plugin">
     <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40OS4xXzIwMjMtMDMtMTggMjA6MzY6MzlfcG9ycmVz"
              Author="porres" Timestamp="2023-03-18 20:36:39" Description="completion-plugin[v0.49.1].dek"
