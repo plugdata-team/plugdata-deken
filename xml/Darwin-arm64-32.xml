@@ -1477,6 +1477,15 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="convolve~">
+    <Package ID="Y29udm9sdmV+XzAuMTMuMV8yMDI1LTAxLTI5IDE1OjUwOjQwX3dtYnJlbnQ="
+             Author="wmbrent" Timestamp="2025-01-29 15:50:40" Description="convolve~[v0.13.1](Darwin-arm64-32).dek"
+             Version="0.13.1" URL="https://puredata.info/Members/wmbrent/software/convolve~/0.13.1/convolve~[v0.13.1](Darwin-arm64-32).dek">
+      <Objects>
+        <Object Name="convolve~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="ceammc">
     <Package ID="Y2VhbW1jXzAuOS43XzIwMjMtMTAtMjIgMTY6MjU6MTdfYW5hZGphcm92"
              Author="anadjarov" Timestamp="2023-10-22 16:25:17" Description="ceammc[v0.9.7](Darwin-arm64-32).dek"
