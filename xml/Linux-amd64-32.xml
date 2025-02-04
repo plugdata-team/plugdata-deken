@@ -3338,6 +3338,30 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="ml.lib">
+    <Package ID="bWwubGliXzEuMC4zXzIwMTktMTAtMjUgMDE6NTY6NTRfamI=" Author="jb"
+             Timestamp="2019-10-25 01:56:54" Description="ml.lib[v1.0.3](Linux-amd64-32).dek"
+             Version="1.0.3" URL="https://puredata.info/Members/jb/software/ml.lib/1.0.3/ml.lib[v1.0.3](Linux-amd64-32).dek">
+      <Objects>
+        <Object Name="ml.adaboost"/>
+        <Object Name="ml.anbc"/>
+        <Object Name="ml.ann"/>
+        <Object Name="ml.dtree"/>
+        <Object Name="ml.dtw"/>
+        <Object Name="ml.gmm"/>
+        <Object Name="ml.hmmc"/>
+        <Object Name="ml.knn"/>
+        <Object Name="ml.linreg"/>
+        <Object Name="ml.logreg"/>
+        <Object Name="ml.mindist"/>
+        <Object Name="ml.minmax"/>
+        <Object Name="ml.randforest"/>
+        <Object Name="ml.softmax"/>
+        <Object Name="ml.svm"/>
+        <Object Name="ml.zerox"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="dnd-plugin">
     <Package ID="ZG5kLXBsdWdpbl8wLjMuMF8yMDIxLTA0LTE2IDAyOjA0OjQxX2x1Y2FyZGE="
              Author="lucarda" Timestamp="2021-04-16 02:04:41" Description="dnd-plugin[v0.3.0](Linux-amd64-32).dek"
@@ -6627,6 +6651,44 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="chaos">
+    <Package ID="Y2hhb3NfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6NTQ6MDVfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-08-07 14:54:05" Description="chaos-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
+             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/chaos/chaos-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="pix_drum">
+    <Package ID="cGl4X2RydW1fMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6NDc6NDFfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-08-07 14:47:41" Description="pix_drum-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
+             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/pix_drum/pix_drum-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="flatgui">
+    <Package ID="ZmxhdGd1aV8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNDo1MjowMF9jaHIxNW0="
+             Author="chr15m" Timestamp="2015-08-07 14:52:00" Description="flatgui-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
+             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/flatgui/flatgui-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="automatonism">
+    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmU0XzIwMjQtMDEtMTMgMTY6NDE6MTZfanln"
+             Author="jyg" Timestamp="2024-01-13 16:41:16" Description="automatonism[v0.4-pre4].dek"
+             Version="0.4-pre4" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4-pre4].dek">
+      <Objects/>
+    </Package>
+    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmUzXzIwMjMtMTEtMTUgMjM6NTU6MDdfanln"
+             Author="jyg" Timestamp="2023-11-15 23:55:07" Description="automatonism[v0.4-pre3].dek"
+             Version="0.4-pre3" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4-pre3].dek">
+      <Objects/>
+    </Package>
+    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmUxXzIwMjMtMDUtMTIgMjI6Mzc6NTRfanln"
+             Author="jyg" Timestamp="2023-05-12 22:37:54" Description="automatonism[v0.4-pre1].dek"
+             Version="0.4-pre1" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4-pre1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="cicmtools">
     <Package ID="Y2ljbXRvb2xzXzEuNV8yMDIxLTAyLTA3IDEzOjExOjQyX3BvcnJlcw=="
              Author="porres" Timestamp="2021-02-07 13:11:42" Description="cicmtools[v1.5](Linux-amd64-32).dek"
@@ -6636,6 +6698,20 @@
         <Object Name="ambipan~"/>
         <Object Name="vbapan~"/>
       </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="syslog">
+    <Package ID="c3lzbG9nXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjEwOjEyX2NocjE1bQ=="
+             Author="chr15m" Timestamp="2015-08-07 14:10:12" Description="syslog-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
+             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/syslog/syslog-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="Fraise-toolchain">
+    <Package ID="RnJhaXNlLXRvb2xjaGFpbl8wLjEuMF8yMDI0LTA2LTE0IDA5OjU0OjQ5X2FudDFy"
+             Author="ant1r" Timestamp="2024-06-14 09:54:49" Description="Fraise-toolchain[v0.1.0](Linux-amd64-32).dek"
+             Version="0.1.0" URL="https://puredata.info/Members/ant1r/software/Fraise-toolchain/0.1.0/Fraise-toolchain[v0.1.0](Linux-amd64-32).dek">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="abl_link~">
@@ -10327,20 +10403,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="syslog">
-    <Package ID="c3lzbG9nXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjEwOjEyX2NocjE1bQ=="
-             Author="chr15m" Timestamp="2015-08-07 14:10:12" Description="syslog-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
-             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/syslog/syslog-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="Fraise-toolchain">
-    <Package ID="RnJhaXNlLXRvb2xjaGFpbl8wLjEuMF8yMDI0LTA2LTE0IDA5OjU0OjQ5X2FudDFy"
-             Author="ant1r" Timestamp="2024-06-14 09:54:49" Description="Fraise-toolchain[v0.1.0](Linux-amd64-32).dek"
-             Version="0.1.0" URL="https://puredata.info/Members/ant1r/software/Fraise-toolchain/0.1.0/Fraise-toolchain[v0.1.0](Linux-amd64-32).dek">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="echocurve~">
     <Package ID="ZWNob2N1cnZlfl8wLjFfMjAxOC0wOC0wNiAwNjoxNjo0Ml9qd21hdHRoeXM="
              Author="jwmatthys" Timestamp="2018-08-06 06:16:42" Description="echocurve~[v0.1](Linux-amd64-32)(Sources).dek"
@@ -11748,58 +11810,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="ekext">
-    <Package ID="ZWtleHRfMC4yXzIwMTgtMDUtMTkgMTY6MzQ6MzJfZWRrZWxseQ==" Author="edkelly"
-             Timestamp="2018-05-19 16:34:32" Description="ekext[v0.2](Linux-amd64-32)(Sources).dek"
-             Version="0.2" URL="https://puredata.info/Members/edkelly/software/ekext/0.2/ekext[v0.2](Linux-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="bmt~"/>
-        <Object Name="count"/>
-        <Object Name="cup"/>
-        <Object Name="cupd"/>
-        <Object Name="doubledelta"/>
-        <Object Name="floatcount"/>
-        <Object Name="framescore~"/>
-        <Object Name="framespect~"/>
-        <Object Name="hasc~"/>
-        <Object Name="hssc~"/>
-        <Object Name="ihisto"/>
-        <Object Name="lcmgcd"/>
-        <Object Name="list_sum"/>
-        <Object Name="lpc~"/>
-        <Object Name="maskxor"/>
-        <Object Name="mvcf~"/>
-        <Object Name="polymap"/>
-        <Object Name="polystat"/>
-        <Object Name="positive"/>
-        <Object Name="scalefilter"/>
-        <Object Name="sieve"/>
-        <Object Name="simile"/>
-        <Object Name="simile~"/>
-        <Object Name="steady"/>
-        <Object Name="valve"/>
-        <Object Name="voicing_detector~"/>
-        <Object Name="wavecutter~"/>
-        <Object Name="wavefolder~"/>
-        <Object Name="wavestretcher~"/>
-        <Object Name="weightonset"/>
-        <Object Name="wfold~"/>
-        <Object Name="zeroxpos~"/>
-      </Objects>
-    </Package>
-    <Package ID="ZWtleHRfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6NDA6NDdfY2hyMTVt"
-             Author="chr15m" Timestamp="2015-08-07 14:40:47" Description="ekext-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
-             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/ekext/ekext-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="jit_expr">
-    <Package ID="aml0X2V4cHJfMC4xXzIwMTgtMDMtMTAgMTk6NTY6MThfeDM3dg==" Author="x37v"
-             Timestamp="2018-03-10 19:56:18" Description="jit_expr[v0.1](Linux-amd64-32).dek"
-             Version="0.1" URL="https://puredata.info/Members/x37v/software/jit_expr/0.1/jit_expr[v0.1](Linux-amd64-32).dek">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="spring22">
     <Package ID="c3ByaW5nMjJfMC4yMDIyMDYxN18yMDIyLTA2LTE3IDE1OjAwOjIxX3ptb2Vsbmln"
              Author="zmoelnig" Timestamp="2022-06-17 15:00:21" Description="spring22[v0.20220617].dek"
@@ -13029,44 +13039,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="chaos">
-    <Package ID="Y2hhb3NfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6NTQ6MDVfY2hyMTVt"
-             Author="chr15m" Timestamp="2015-08-07 14:54:05" Description="chaos-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
-             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/chaos/chaos-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="pix_drum">
-    <Package ID="cGl4X2RydW1fMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6NDc6NDFfY2hyMTVt"
-             Author="chr15m" Timestamp="2015-08-07 14:47:41" Description="pix_drum-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
-             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/pix_drum/pix_drum-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="flatgui">
-    <Package ID="ZmxhdGd1aV8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNDo1MjowMF9jaHIxNW0="
-             Author="chr15m" Timestamp="2015-08-07 14:52:00" Description="flatgui-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
-             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/flatgui/flatgui-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="automatonism">
-    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmU0XzIwMjQtMDEtMTMgMTY6NDE6MTZfanln"
-             Author="jyg" Timestamp="2024-01-13 16:41:16" Description="automatonism[v0.4-pre4].dek"
-             Version="0.4-pre4" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4-pre4].dek">
-      <Objects/>
-    </Package>
-    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmUzXzIwMjMtMTEtMTUgMjM6NTU6MDdfanln"
-             Author="jyg" Timestamp="2023-11-15 23:55:07" Description="automatonism[v0.4-pre3].dek"
-             Version="0.4-pre3" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4-pre3].dek">
-      <Objects/>
-    </Package>
-    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmUxXzIwMjMtMDUtMTIgMjI6Mzc6NTRfanln"
-             Author="jyg" Timestamp="2023-05-12 22:37:54" Description="automatonism[v0.4-pre1].dek"
-             Version="0.4-pre1" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4-pre1].dek">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="tdh.lib">
     <Package ID="dGRoLmxpYl8wLjEuOV8yMDI0LTEyLTA2IDE0OjA0OjA4X3Rob3VsZGNyb2Z0"
              Author="thouldcroft" Timestamp="2024-12-06 14:04:08" Description="tdh.lib[v0.1.9].dek"
@@ -13602,6 +13574,58 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="jit_expr">
+    <Package ID="aml0X2V4cHJfMC4xXzIwMTgtMDMtMTAgMTk6NTY6MThfeDM3dg==" Author="x37v"
+             Timestamp="2018-03-10 19:56:18" Description="jit_expr[v0.1](Linux-amd64-32).dek"
+             Version="0.1" URL="https://puredata.info/Members/x37v/software/jit_expr/0.1/jit_expr[v0.1](Linux-amd64-32).dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="ekext">
+    <Package ID="ZWtleHRfMC4yXzIwMTgtMDUtMTkgMTY6MzQ6MzJfZWRrZWxseQ==" Author="edkelly"
+             Timestamp="2018-05-19 16:34:32" Description="ekext[v0.2](Linux-amd64-32)(Sources).dek"
+             Version="0.2" URL="https://puredata.info/Members/edkelly/software/ekext/0.2/ekext[v0.2](Linux-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="bmt~"/>
+        <Object Name="count"/>
+        <Object Name="cup"/>
+        <Object Name="cupd"/>
+        <Object Name="doubledelta"/>
+        <Object Name="floatcount"/>
+        <Object Name="framescore~"/>
+        <Object Name="framespect~"/>
+        <Object Name="hasc~"/>
+        <Object Name="hssc~"/>
+        <Object Name="ihisto"/>
+        <Object Name="lcmgcd"/>
+        <Object Name="list_sum"/>
+        <Object Name="lpc~"/>
+        <Object Name="maskxor"/>
+        <Object Name="mvcf~"/>
+        <Object Name="polymap"/>
+        <Object Name="polystat"/>
+        <Object Name="positive"/>
+        <Object Name="scalefilter"/>
+        <Object Name="sieve"/>
+        <Object Name="simile"/>
+        <Object Name="simile~"/>
+        <Object Name="steady"/>
+        <Object Name="valve"/>
+        <Object Name="voicing_detector~"/>
+        <Object Name="wavecutter~"/>
+        <Object Name="wavefolder~"/>
+        <Object Name="wavestretcher~"/>
+        <Object Name="weightonset"/>
+        <Object Name="wfold~"/>
+        <Object Name="zeroxpos~"/>
+      </Objects>
+    </Package>
+    <Package ID="ZWtleHRfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6NDA6NDdfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-08-07 14:40:47" Description="ekext-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
+             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/ekext/ekext-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="bsaylor">
     <Package ID="YnNheWxvcl8wLjEuNV8yMDIyLTExLTI4IDE3OjQ5OjQ0X2llbWJvdA=="
              Author="iembot" Timestamp="2022-11-28 17:49:44" Description="bsaylor[v0.1.5](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
@@ -13840,30 +13864,6 @@
              Author="chr15m" Timestamp="2015-08-07 14:05:33" Description="freeverb~-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/freeverb~/freeverb~-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz">
       <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="ml.lib">
-    <Package ID="bWwubGliXzEuMC4zXzIwMTktMTAtMjUgMDE6NTY6NTRfamI=" Author="jb"
-             Timestamp="2019-10-25 01:56:54" Description="ml.lib[v1.0.3](Linux-amd64-32).dek"
-             Version="1.0.3" URL="https://puredata.info/Members/jb/software/ml.lib/1.0.3/ml.lib[v1.0.3](Linux-amd64-32).dek">
-      <Objects>
-        <Object Name="ml.adaboost"/>
-        <Object Name="ml.anbc"/>
-        <Object Name="ml.ann"/>
-        <Object Name="ml.dtree"/>
-        <Object Name="ml.dtw"/>
-        <Object Name="ml.gmm"/>
-        <Object Name="ml.hmmc"/>
-        <Object Name="ml.knn"/>
-        <Object Name="ml.linreg"/>
-        <Object Name="ml.logreg"/>
-        <Object Name="ml.mindist"/>
-        <Object Name="ml.minmax"/>
-        <Object Name="ml.randforest"/>
-        <Object Name="ml.softmax"/>
-        <Object Name="ml.svm"/>
-        <Object Name="ml.zerox"/>
-      </Objects>
     </Package>
   </Packages>
   <Packages Name="Cream">

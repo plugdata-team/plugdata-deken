@@ -1128,6 +1128,30 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="ml.lib">
+    <Package ID="bWwubGliXzEuMC4zXzIwMTktMTAtMjUgMTM6NDI6MjNfamI=" Author="jb"
+             Timestamp="2019-10-25 13:42:23" Description="ml.lib[v1.0.3](Linux-armv6-32).dek"
+             Version="1.0.3" URL="https://puredata.info/Members/jb/software/ml.lib/1.0.3/ml.lib[v1.0.3](Linux-armv6-32).dek">
+      <Objects>
+        <Object Name="ml.adaboost"/>
+        <Object Name="ml.anbc"/>
+        <Object Name="ml.ann"/>
+        <Object Name="ml.dtree"/>
+        <Object Name="ml.dtw"/>
+        <Object Name="ml.gmm"/>
+        <Object Name="ml.hmmc"/>
+        <Object Name="ml.knn"/>
+        <Object Name="ml.linreg"/>
+        <Object Name="ml.logreg"/>
+        <Object Name="ml.mindist"/>
+        <Object Name="ml.minmax"/>
+        <Object Name="ml.randforest"/>
+        <Object Name="ml.softmax"/>
+        <Object Name="ml.svm"/>
+        <Object Name="ml.zerox"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="DEAPd">
     <Package ID="REVBUGRfMC4xXzIwMjMtMDMtMDIgMDc6NTg6NDRfY2FsYmFzc2lzdA=="
              Author="calbassist" Timestamp="2023-03-02 07:58:44" Description="DEAPd[v0.1].dek"
@@ -1761,6 +1785,23 @@
         <Object Name="xplay~"/>
         <Object Name="xrecord~"/>
       </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="automatonism">
+    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmU0XzIwMjQtMDEtMTMgMTY6NDE6MTZfanln"
+             Author="jyg" Timestamp="2024-01-13 16:41:16" Description="automatonism[v0.4-pre4].dek"
+             Version="0.4-pre4" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4-pre4].dek">
+      <Objects/>
+    </Package>
+    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmUzXzIwMjMtMTEtMTUgMjM6NTU6MDdfanln"
+             Author="jyg" Timestamp="2023-11-15 23:55:07" Description="automatonism[v0.4-pre3].dek"
+             Version="0.4-pre3" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4-pre3].dek">
+      <Objects/>
+    </Package>
+    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmUxXzIwMjMtMDUtMTIgMjI6Mzc6NTRfanln"
+             Author="jyg" Timestamp="2023-05-12 22:37:54" Description="automatonism[v0.4-pre1].dek"
+             Version="0.4-pre1" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4-pre1].dek">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="cyclone">
@@ -5470,23 +5511,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="automatonism">
-    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmU0XzIwMjQtMDEtMTMgMTY6NDE6MTZfanln"
-             Author="jyg" Timestamp="2024-01-13 16:41:16" Description="automatonism[v0.4-pre4].dek"
-             Version="0.4-pre4" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4-pre4].dek">
-      <Objects/>
-    </Package>
-    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmUzXzIwMjMtMTEtMTUgMjM6NTU6MDdfanln"
-             Author="jyg" Timestamp="2023-11-15 23:55:07" Description="automatonism[v0.4-pre3].dek"
-             Version="0.4-pre3" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4-pre3].dek">
-      <Objects/>
-    </Package>
-    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmUxXzIwMjMtMDUtMTIgMjI6Mzc6NTRfanln"
-             Author="jyg" Timestamp="2023-05-12 22:37:54" Description="automatonism[v0.4-pre1].dek"
-             Version="0.4-pre1" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4-pre1].dek">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="tdh.lib">
     <Package ID="dGRoLmxpYl8wLjEuOV8yMDI0LTEyLTA2IDE0OjA0OjA4X3Rob3VsZGNyb2Z0"
              Author="thouldcroft" Timestamp="2024-12-06 14:04:08" Description="tdh.lib[v0.1.9].dek"
@@ -6024,30 +6048,6 @@
              Author="iembot" Timestamp="2022-07-13 22:14:03" Description="scrollpage-plugin[v0.1].dek"
              Version="0.1" URL="https://puredata.info/Members/iembot/software/scrollpage-plugin/0.1/scrollpage-plugin[v0.1].dek">
       <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="ml.lib">
-    <Package ID="bWwubGliXzEuMC4zXzIwMTktMTAtMjUgMTM6NDI6MjNfamI=" Author="jb"
-             Timestamp="2019-10-25 13:42:23" Description="ml.lib[v1.0.3](Linux-armv6-32).dek"
-             Version="1.0.3" URL="https://puredata.info/Members/jb/software/ml.lib/1.0.3/ml.lib[v1.0.3](Linux-armv6-32).dek">
-      <Objects>
-        <Object Name="ml.adaboost"/>
-        <Object Name="ml.anbc"/>
-        <Object Name="ml.ann"/>
-        <Object Name="ml.dtree"/>
-        <Object Name="ml.dtw"/>
-        <Object Name="ml.gmm"/>
-        <Object Name="ml.hmmc"/>
-        <Object Name="ml.knn"/>
-        <Object Name="ml.linreg"/>
-        <Object Name="ml.logreg"/>
-        <Object Name="ml.mindist"/>
-        <Object Name="ml.minmax"/>
-        <Object Name="ml.randforest"/>
-        <Object Name="ml.softmax"/>
-        <Object Name="ml.svm"/>
-        <Object Name="ml.zerox"/>
-      </Objects>
     </Package>
   </Packages>
   <Packages Name="Cream">

@@ -2356,6 +2356,30 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="ml.lib">
+    <Package ID="bWwubGliXzEuMC4zXzIwMTktMTAtMjUgMDE6NTI6NDdfamI=" Author="jb"
+             Timestamp="2019-10-25 01:52:47" Description="ml.lib[v1.0.3](Windows-i386-32).dek"
+             Version="1.0.3" URL="https://puredata.info/Members/jb/software/ml.lib/1.0.3/ml.lib[v1.0.3](Windows-i386-32).dek">
+      <Objects>
+        <Object Name="ml.adaboost"/>
+        <Object Name="ml.anbc"/>
+        <Object Name="ml.ann"/>
+        <Object Name="ml.dtree"/>
+        <Object Name="ml.dtw"/>
+        <Object Name="ml.gmm"/>
+        <Object Name="ml.hmmc"/>
+        <Object Name="ml.knn"/>
+        <Object Name="ml.linreg"/>
+        <Object Name="ml.logreg"/>
+        <Object Name="ml.mindist"/>
+        <Object Name="ml.minmax"/>
+        <Object Name="ml.randforest"/>
+        <Object Name="ml.softmax"/>
+        <Object Name="ml.svm"/>
+        <Object Name="ml.zerox"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="dnd-plugin">
     <Package ID="ZG5kLXBsdWdpbl8wLjMuMF8yMDIxLTA0LTE2IDAyOjA2OjM1X2x1Y2FyZGE="
              Author="lucarda" Timestamp="2021-04-16 02:06:35" Description="dnd-plugin[v0.3.0](Windows-i386-32)(Windows-amd64-32).dek"
@@ -5635,6 +5659,44 @@
     <Package ID="YmFuZGxpbWl0ZWRfMS4wLjBfMjAxNi0wNy0zMCAyMDo1MTozN19zYXR1cm5v"
              Author="saturno" Timestamp="2016-07-30 20:51:37" Description="bandlimited-v1.0.0-(Darwin-i386-32)(Sources)(Darwin-x86_64-32)(Linux-amd64-64)(Windows-i386-32)-externals.zip"
              Version="1.0.0" URL="https://puredata.info/Members/saturno/software/bandlimited/1.0.0/bandlimited-v1.0.0-(Darwin-i386-32)(Sources)(Darwin-x86_64-32)(Linux-amd64-64)(Windows-i386-32)-externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="chaos">
+    <Package ID="Y2hhb3NfMC4wLmV4dGVuZGVkXzIwMTUtMDctMzAgMTU6MjU6NTJfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-07-30 15:25:52" Description="chaos-v0.0.extended-(Windows-i386-32)-externals.zip"
+             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/chaos/chaos-v0.0.extended-(Windows-i386-32)-externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="pix_drum">
+    <Package ID="cGl4X2RydW1fMC4wLmV4dGVuZGVkXzIwMTUtMDctMzAgMTU6MjA6MjdfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-07-30 15:20:27" Description="pix_drum-v0.0.extended-(Windows-i386-32)-externals.zip"
+             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/pix_drum/pix_drum-v0.0.extended-(Windows-i386-32)-externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="flatgui">
+    <Package ID="ZmxhdGd1aV8wLjAuZXh0ZW5kZWRfMjAxNS0wNy0zMCAxNToyMzo1OF9jaHIxNW0="
+             Author="chr15m" Timestamp="2015-07-30 15:23:58" Description="flatgui-v0.0.extended-(Windows-i386-32)-externals.zip"
+             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/flatgui/flatgui-v0.0.extended-(Windows-i386-32)-externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="automatonism">
+    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmU0XzIwMjQtMDEtMTMgMTY6NDE6MTZfanln"
+             Author="jyg" Timestamp="2024-01-13 16:41:16" Description="automatonism[v0.4-pre4].dek"
+             Version="0.4-pre4" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4-pre4].dek">
+      <Objects/>
+    </Package>
+    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmUzXzIwMjMtMTEtMTUgMjM6NTU6MDdfanln"
+             Author="jyg" Timestamp="2023-11-15 23:55:07" Description="automatonism[v0.4-pre3].dek"
+             Version="0.4-pre3" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4-pre3].dek">
+      <Objects/>
+    </Package>
+    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmUxXzIwMjMtMDUtMTIgMjI6Mzc6NTRfanln"
+             Author="jyg" Timestamp="2023-05-12 22:37:54" Description="automatonism[v0.4-pre1].dek"
+             Version="0.4-pre1" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4-pre1].dek">
       <Objects/>
     </Package>
   </Packages>
@@ -9290,13 +9352,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="ekext">
-    <Package ID="ZWtleHRfMC4wLmV4dGVuZGVkXzIwMTUtMDctMzAgMTU6MTQ6MzJfY2hyMTVt"
-             Author="chr15m" Timestamp="2015-07-30 15:14:32" Description="ekext-v0.0.extended-(Windows-i386-32)-externals.zip"
-             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/ekext/ekext-v0.0.extended-(Windows-i386-32)-externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="spring22">
     <Package ID="c3ByaW5nMjJfMC4yMDIyMDYxN18yMDIyLTA2LTE3IDE1OjAwOjIxX3ptb2Vsbmln"
              Author="zmoelnig" Timestamp="2022-06-17 15:00:21" Description="spring22[v0.20220617].dek"
@@ -10544,44 +10599,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="chaos">
-    <Package ID="Y2hhb3NfMC4wLmV4dGVuZGVkXzIwMTUtMDctMzAgMTU6MjU6NTJfY2hyMTVt"
-             Author="chr15m" Timestamp="2015-07-30 15:25:52" Description="chaos-v0.0.extended-(Windows-i386-32)-externals.zip"
-             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/chaos/chaos-v0.0.extended-(Windows-i386-32)-externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="pix_drum">
-    <Package ID="cGl4X2RydW1fMC4wLmV4dGVuZGVkXzIwMTUtMDctMzAgMTU6MjA6MjdfY2hyMTVt"
-             Author="chr15m" Timestamp="2015-07-30 15:20:27" Description="pix_drum-v0.0.extended-(Windows-i386-32)-externals.zip"
-             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/pix_drum/pix_drum-v0.0.extended-(Windows-i386-32)-externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="flatgui">
-    <Package ID="ZmxhdGd1aV8wLjAuZXh0ZW5kZWRfMjAxNS0wNy0zMCAxNToyMzo1OF9jaHIxNW0="
-             Author="chr15m" Timestamp="2015-07-30 15:23:58" Description="flatgui-v0.0.extended-(Windows-i386-32)-externals.zip"
-             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/flatgui/flatgui-v0.0.extended-(Windows-i386-32)-externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="automatonism">
-    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmU0XzIwMjQtMDEtMTMgMTY6NDE6MTZfanln"
-             Author="jyg" Timestamp="2024-01-13 16:41:16" Description="automatonism[v0.4-pre4].dek"
-             Version="0.4-pre4" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4-pre4].dek">
-      <Objects/>
-    </Package>
-    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmUzXzIwMjMtMTEtMTUgMjM6NTU6MDdfanln"
-             Author="jyg" Timestamp="2023-11-15 23:55:07" Description="automatonism[v0.4-pre3].dek"
-             Version="0.4-pre3" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4-pre3].dek">
-      <Objects/>
-    </Package>
-    <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmUxXzIwMjMtMDUtMTIgMjI6Mzc6NTRfanln"
-             Author="jyg" Timestamp="2023-05-12 22:37:54" Description="automatonism[v0.4-pre1].dek"
-             Version="0.4-pre1" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4-pre1].dek">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="tdh.lib">
     <Package ID="dGRoLmxpYl8wLjEuOV8yMDI0LTEyLTA2IDE0OjA0OjA4X3Rob3VsZGNyb2Z0"
              Author="thouldcroft" Timestamp="2024-12-06 14:04:08" Description="tdh.lib[v0.1.9].dek"
@@ -11107,6 +11124,13 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="ekext">
+    <Package ID="ZWtleHRfMC4wLmV4dGVuZGVkXzIwMTUtMDctMzAgMTU6MTQ6MzJfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-07-30 15:14:32" Description="ekext-v0.0.extended-(Windows-i386-32)-externals.zip"
+             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/ekext/ekext-v0.0.extended-(Windows-i386-32)-externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="bsaylor">
     <Package ID="YnNheWxvcl8wLjEuNV8yMDIyLTExLTI4IDE3OjQ5OjQ0X2llbWJvdA=="
              Author="iembot" Timestamp="2022-11-28 17:49:44" Description="bsaylor[v0.1.5](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
@@ -11315,30 +11339,6 @@
              Author="chr15m" Timestamp="2015-07-30 14:46:55" Description="freeverb~-v0.0.extended-(Windows-i386-32)-externals.zip"
              Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/freeverb~/freeverb~-v0.0.extended-(Windows-i386-32)-externals.zip">
       <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="ml.lib">
-    <Package ID="bWwubGliXzEuMC4zXzIwMTktMTAtMjUgMDE6NTI6NDdfamI=" Author="jb"
-             Timestamp="2019-10-25 01:52:47" Description="ml.lib[v1.0.3](Windows-i386-32).dek"
-             Version="1.0.3" URL="https://puredata.info/Members/jb/software/ml.lib/1.0.3/ml.lib[v1.0.3](Windows-i386-32).dek">
-      <Objects>
-        <Object Name="ml.adaboost"/>
-        <Object Name="ml.anbc"/>
-        <Object Name="ml.ann"/>
-        <Object Name="ml.dtree"/>
-        <Object Name="ml.dtw"/>
-        <Object Name="ml.gmm"/>
-        <Object Name="ml.hmmc"/>
-        <Object Name="ml.knn"/>
-        <Object Name="ml.linreg"/>
-        <Object Name="ml.logreg"/>
-        <Object Name="ml.mindist"/>
-        <Object Name="ml.minmax"/>
-        <Object Name="ml.randforest"/>
-        <Object Name="ml.softmax"/>
-        <Object Name="ml.svm"/>
-        <Object Name="ml.zerox"/>
-      </Objects>
     </Package>
   </Packages>
   <Packages Name="iemguts">
