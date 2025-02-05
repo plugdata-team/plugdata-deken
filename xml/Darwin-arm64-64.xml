@@ -1098,6 +1098,13 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="mkmr">
+    <Package ID="bWttcl8wLjFfMjAxOS0xMC0yMyAyMzo0ODoyNV9NaWtlTW9yZW5vQXVkaW8="
+             Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="ceammc">
     <Package ID="Y2VhbW1jXzAuOS43XzIwMjMtMTAtMjMgMDI6MTQ6NTFfYW5hZGphcm92"
              Author="anadjarov" Timestamp="2023-10-23 02:14:51" Description="ceammc[v0.9.7](Darwin-arm64-64).dek"
@@ -3818,13 +3825,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="search-plugin">
-    <Package ID="c2VhcmNoLXBsdWdpbl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNTowMzoyNV9jaHIxNW0="
-             Author="chr15m" Timestamp="2015-08-07 15:03:25" Description="search-plugin-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/search-plugin/search-plugin-v0.0.extended--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="xsample">
     <Package ID="eHNhbXBsZV8wLjMuMl8yMDIyLTA3LTEwIDAxOjE0OjQ2X3Rob21hcw=="
              Author="thomas" Timestamp="2022-07-10 01:14:46" Description="xsample[v0.3.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek"
@@ -4253,13 +4253,6 @@
         <Object Name="zerox~"/>
         <Object Name="zl"/>
       </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="mkmr">
-    <Package ID="bWttcl8wLjFfMjAxOS0xMC0yMyAyMzo0ODoyNV9NaWtlTW9yZW5vQXVkaW8="
-             Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
-             Version="0.1" URL="https://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
-      <Objects/>
     </Package>
   </Packages>
   <Packages Name="array-abs">
@@ -7814,6 +7807,20 @@
         <Object Name="mtx_window"/>
         <Object Name="mtx_zeros"/>
       </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="search-plugin">
+    <Package ID="c2VhcmNoLXBsdWdpbl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNTowMzoyNV9jaHIxNW0="
+             Author="chr15m" Timestamp="2015-08-07 15:03:25" Description="search-plugin-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/search-plugin/search-plugin-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="jsobj">
+    <Package ID="anNvYmpfMC4xXzIwMjUtMDItMDQgMTQ6NTQ6NTRfY2hyMTVt" Author="chr15m"
+             Timestamp="2025-02-04 14:54:54" Description="jsobj[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/chr15m/software/jsobj/0.1/jsobj[v0.1].dek">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="scroll-test-plugin">

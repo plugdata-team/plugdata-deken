@@ -2515,6 +2515,18 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="mkmr">
+    <Package ID="bWttcl8wLjFfMjAxOS0xMC0yMyAyMzo0ODoyNV9NaWtlTW9yZW5vQXVkaW8="
+             Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="bWttcl8wLjFfMjAxOS0xMC0yMyAyMzo0ODoyNV9NaWtlTW9yZW5vQXVkaW8="
+             Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="creb">
     <Package ID="Y3JlYl8wLjkuMl9kYXJjc18yMDE2LTAxLTA4IDIxOjQ4OjUzX2Zqa3JhYW4="
              Author="fjkraan" Timestamp="2016-01-08 21:48:53" Description="creb-v0.9.2_darcs-(Linux-armv7l-32)(Sources)-externals.tgz"
@@ -2819,18 +2831,6 @@
       <Objects>
         <Object Name="iempluginOSC"/>
       </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="search-plugin">
-    <Package ID="c2VhcmNoLXBsdWdpbl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNTowMzoyNV9jaHIxNW0="
-             Author="chr15m" Timestamp="2015-08-07 15:03:25" Description="search-plugin-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/search-plugin/search-plugin-v0.0.extended--externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="c2VhcmNoLXBsdWdpbl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNTowMzoyNV9jaHIxNW0="
-             Author="chr15m" Timestamp="2015-08-07 15:03:25" Description="search-plugin-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/search-plugin/search-plugin-v0.0.extended--externals.zip">
-      <Objects/>
     </Package>
   </Packages>
   <Packages Name="else">
@@ -8170,18 +8170,6 @@
         <Object Name="version"/>
         <Object Name="window_name"/>
       </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="mkmr">
-    <Package ID="bWttcl8wLjFfMjAxOS0xMC0yMyAyMzo0ODoyNV9NaWtlTW9yZW5vQXVkaW8="
-             Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
-             Version="0.1" URL="https://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
-      <Objects/>
-    </Package>
-    <Package ID="bWttcl8wLjFfMjAxOS0xMC0yMyAyMzo0ODoyNV9NaWtlTW9yZW5vQXVkaW8="
-             Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
-             Version="0.1" URL="https://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
-      <Objects/>
     </Package>
   </Packages>
   <Packages Name="echocurve~">
@@ -13709,6 +13697,30 @@
     <Package ID="aWVtbmV0XzAuMi4xfmdpdDIwMTUxMTE4XzIwMTUtMTEtMTggMTM6MzI6NDNfcmR6"
              Author="rdz" Timestamp="2015-11-18 13:32:43" Description="iemnet-v0.2.1~git20151118-(Linux-armv6-32)-externals.tar.gz"
              Version="0.2.1~git20151118" URL="https://puredata.info/Members/rdz/software/iemnet-v0.2.1~git20151118-(Linux-armv6-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="search-plugin">
+    <Package ID="c2VhcmNoLXBsdWdpbl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNTowMzoyNV9jaHIxNW0="
+             Author="chr15m" Timestamp="2015-08-07 15:03:25" Description="search-plugin-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/search-plugin/search-plugin-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="c2VhcmNoLXBsdWdpbl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNTowMzoyNV9jaHIxNW0="
+             Author="chr15m" Timestamp="2015-08-07 15:03:25" Description="search-plugin-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/search-plugin/search-plugin-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="jsobj">
+    <Package ID="anNvYmpfMC4xXzIwMjUtMDItMDQgMTQ6NTQ6NTRfY2hyMTVt" Author="chr15m"
+             Timestamp="2025-02-04 14:54:54" Description="jsobj[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/chr15m/software/jsobj/0.1/jsobj[v0.1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="anNvYmpfMC4xXzIwMjUtMDItMDQgMTQ6NTQ6NTRfY2hyMTVt" Author="chr15m"
+             Timestamp="2025-02-04 14:54:54" Description="jsobj[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/chr15m/software/jsobj/0.1/jsobj[v0.1].dek">
       <Objects/>
     </Package>
   </Packages>

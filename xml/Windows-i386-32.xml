@@ -2380,6 +2380,13 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="mkmr">
+    <Package ID="bWttcl8wLjFfMjAxOS0xMC0yMyAyMzo0ODoyNV9NaWtlTW9yZW5vQXVkaW8="
+             Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="dnd-plugin">
     <Package ID="ZG5kLXBsdWdpbl8wLjMuMF8yMDIxLTA0LTE2IDAyOjA2OjM1X2x1Y2FyZGE="
              Author="lucarda" Timestamp="2021-04-16 02:06:35" Description="dnd-plugin[v0.3.0](Windows-i386-32)(Windows-amd64-32).dek"
@@ -5598,13 +5605,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="search-plugin">
-    <Package ID="c2VhcmNoLXBsdWdpbl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNTowMzoyNV9jaHIxNW0="
-             Author="chr15m" Timestamp="2015-08-07 15:03:25" Description="search-plugin-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/search-plugin/search-plugin-v0.0.extended--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="xsample">
     <Package ID="eHNhbXBsZV8wLjMuMl8yMDIwLTAzLTA0IDEyOjI2OjQ2X3Rob21hcw=="
              Author="thomas" Timestamp="2020-03-04 12:26:46" Description="xsample[v0.3.2](Windows-i386-32).dek"
@@ -8177,13 +8177,6 @@
     <Package ID="aGNzXzAuMC5leHRlbmRlZF8yMDE1LTA3LTMwIDE1OjE3OjQ4X2NocjE1bQ=="
              Author="chr15m" Timestamp="2015-07-30 15:17:48" Description="hcs-v0.0.extended-(Windows-i386-32)-externals.zip"
              Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/hcs/hcs-v0.0.extended-(Windows-i386-32)-externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="mkmr">
-    <Package ID="bWttcl8wLjFfMjAxOS0xMC0yMyAyMzo0ODoyNV9NaWtlTW9yZW5vQXVkaW8="
-             Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
-             Version="0.1" URL="https://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
       <Objects/>
     </Package>
   </Packages>
@@ -13148,6 +13141,20 @@
     <Package ID="amFzY2hfbGliXzAuMC5leHRlbmRlZF8yMDE1LTA3LTMwIDE0OjQ5OjMyX2NocjE1bQ=="
              Author="chr15m" Timestamp="2015-07-30 14:49:32" Description="jasch_lib-v0.0.extended-(Windows-i386-32)-externals.zip"
              Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/jasch_lib/jasch_lib-v0.0.extended-(Windows-i386-32)-externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="search-plugin">
+    <Package ID="c2VhcmNoLXBsdWdpbl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNTowMzoyNV9jaHIxNW0="
+             Author="chr15m" Timestamp="2015-08-07 15:03:25" Description="search-plugin-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/search-plugin/search-plugin-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="jsobj">
+    <Package ID="anNvYmpfMC4xXzIwMjUtMDItMDQgMTQ6NTQ6NTRfY2hyMTVt" Author="chr15m"
+             Timestamp="2025-02-04 14:54:54" Description="jsobj[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/chr15m/software/jsobj/0.1/jsobj[v0.1].dek">
       <Objects/>
     </Package>
   </Packages>

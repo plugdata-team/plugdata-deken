@@ -759,6 +759,13 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="mkmr">
+    <Package ID="bWttcl8wLjFfMjAxOS0xMC0yMyAyMzo0ODoyNV9NaWtlTW9yZW5vQXVkaW8="
+             Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="cxc">
     <Package ID="Y3hjXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MTY6NDFfem1vZWxuaWc="
              Author="zmoelnig" Timestamp="2015-12-10 14:16:41" Description="cxc-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
@@ -944,13 +951,6 @@
       <Objects>
         <Object Name="iempluginOSC"/>
       </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="search-plugin">
-    <Package ID="c2VhcmNoLXBsdWdpbl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNTowMzoyNV9jaHIxNW0="
-             Author="chr15m" Timestamp="2015-08-07 15:03:25" Description="search-plugin-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/search-plugin/search-plugin-v0.0.extended--externals.zip">
-      <Objects/>
     </Package>
   </Packages>
   <Packages Name="chaos">
@@ -1173,13 +1173,6 @@
     <Package ID="aGNzXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MjA6MDNfem1vZWxuaWc="
              Author="zmoelnig" Timestamp="2015-12-10 14:20:03" Description="hcs-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/hcs/0-0extended/hcs-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="mkmr">
-    <Package ID="bWttcl8wLjFfMjAxOS0xMC0yMyAyMzo0ODoyNV9NaWtlTW9yZW5vQXVkaW8="
-             Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
-             Version="0.1" URL="https://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
       <Objects/>
     </Package>
   </Packages>
@@ -3806,6 +3799,20 @@
     <Package ID="amFzY2hfbGliXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MjU6MTdfem1vZWxuaWc="
              Author="zmoelnig" Timestamp="2015-12-10 14:25:17" Description="jasch_lib-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/jasch_lib/0-0extended/jasch_lib-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="search-plugin">
+    <Package ID="c2VhcmNoLXBsdWdpbl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNTowMzoyNV9jaHIxNW0="
+             Author="chr15m" Timestamp="2015-08-07 15:03:25" Description="search-plugin-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/search-plugin/search-plugin-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="jsobj">
+    <Package ID="anNvYmpfMC4xXzIwMjUtMDItMDQgMTQ6NTQ6NTRfY2hyMTVt" Author="chr15m"
+             Timestamp="2025-02-04 14:54:54" Description="jsobj[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/chr15m/software/jsobj/0.1/jsobj[v0.1].dek">
       <Objects/>
     </Package>
   </Packages>

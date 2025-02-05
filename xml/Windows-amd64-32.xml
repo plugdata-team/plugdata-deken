@@ -3288,6 +3288,13 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="mkmr">
+    <Package ID="bWttcl8wLjFfMjAxOS0xMC0yMyAyMzo0ODoyNV9NaWtlTW9yZW5vQXVkaW8="
+             Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="dnd-plugin">
     <Package ID="ZG5kLXBsdWdpbl8wLjMuMF8yMDIxLTA0LTE2IDAyOjA2OjM1X2x1Y2FyZGE="
              Author="lucarda" Timestamp="2021-04-16 02:06:35" Description="dnd-plugin[v0.3.0](Windows-i386-32)(Windows-amd64-32).dek"
@@ -11460,31 +11467,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="search-plugin">
-    <Package ID="c2VhcmNoLXBsdWdpbl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNTowMzoyNV9jaHIxNW0="
-             Author="chr15m" Timestamp="2015-08-07 15:03:25" Description="search-plugin-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/search-plugin/search-plugin-v0.0.extended--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="PDContainer">
-    <Package ID="UERDb250YWluZXJfMC4wLmV4dGVuZGVkXzIwMTgtMDktMjYgMDM6NDg6MzdfbHVjYXJkYQ=="
-             Author="lucarda" Timestamp="2018-09-26 03:48:37" Description="PDContainer[v0.0.extended](Windows-amd64-32)(Sources).dek"
-             Version="0.0.extended" URL="https://puredata.info/Members/lucarda/software/PDContainer[v0.0.extended](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="h_deque"/>
-        <Object Name="h_list"/>
-        <Object Name="h_map"/>
-        <Object Name="h_multimap"/>
-        <Object Name="h_multiset"/>
-        <Object Name="h_priority_queue"/>
-        <Object Name="h_queue"/>
-        <Object Name="h_set"/>
-        <Object Name="h_stack"/>
-        <Object Name="h_vector"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="else">
     <Package ID="ZWxzZV8xLjAtMF9yYzEyLXdpdGhfbGl2ZV9lbGVjdHJvbmljc190dXRvcmlhbF8yMDI0LTA5LTI0IDIxOjIxOjQxX3BvcnJlcw=="
              Author="porres" Timestamp="2024-09-24 21:21:41" Description="else[v1.0-0_rc12-with_live_electronics_tutorial](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek"
@@ -17548,13 +17530,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="mkmr">
-    <Package ID="bWttcl8wLjFfMjAxOS0xMC0yMyAyMzo0ODoyNV9NaWtlTW9yZW5vQXVkaW8="
-             Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
-             Version="0.1" URL="https://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="Pd_Spectral_Toolkit">
     <Package ID="UGRfU3BlY3RyYWxfVG9vbGtpdF8xLjFfMjAxOS0xMS0wMyAyMzoxMjoxOF9jb29wZXJiYWtlcg=="
              Author="cooperbaker" Timestamp="2019-11-03 23:12:18" Description="Pd_Spectral_Toolkit[v1.1](Windows-amd64-32).dek"
@@ -23511,6 +23486,38 @@
         <Object Name="ws.client"/>
         <Object Name="ws.server"/>
       </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="search-plugin">
+    <Package ID="c2VhcmNoLXBsdWdpbl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNTowMzoyNV9jaHIxNW0="
+             Author="chr15m" Timestamp="2015-08-07 15:03:25" Description="search-plugin-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/search-plugin/search-plugin-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="PDContainer">
+    <Package ID="UERDb250YWluZXJfMC4wLmV4dGVuZGVkXzIwMTgtMDktMjYgMDM6NDg6MzdfbHVjYXJkYQ=="
+             Author="lucarda" Timestamp="2018-09-26 03:48:37" Description="PDContainer[v0.0.extended](Windows-amd64-32)(Sources).dek"
+             Version="0.0.extended" URL="https://puredata.info/Members/lucarda/software/PDContainer[v0.0.extended](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="h_deque"/>
+        <Object Name="h_list"/>
+        <Object Name="h_map"/>
+        <Object Name="h_multimap"/>
+        <Object Name="h_multiset"/>
+        <Object Name="h_priority_queue"/>
+        <Object Name="h_queue"/>
+        <Object Name="h_set"/>
+        <Object Name="h_stack"/>
+        <Object Name="h_vector"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="jsobj">
+    <Package ID="anNvYmpfMC4xXzIwMjUtMDItMDQgMTQ6NTQ6NTRfY2hyMTVt" Author="chr15m"
+             Timestamp="2025-02-04 14:54:54" Description="jsobj[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/chr15m/software/jsobj/0.1/jsobj[v0.1].dek">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="tof">
