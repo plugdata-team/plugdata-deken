@@ -10609,8 +10609,8 @@
     </Package>
   </Packages>
   <Packages Name="Gem">
-    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNC0xMi0yOSAwMDoyOTo1OV9pZW1ib3Q="
-             Author="iembot" Timestamp="2024-12-29 00:29:59" Description="Gem[v0.94-snapshot](Linux-amd64-32)(Linux-amd64-64).dek"
+    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNS0wMi0xNCAwODo1MDo1OF9pZW1ib3Q="
+             Author="iembot" Timestamp="2025-02-14 08:50:58" Description="Gem[v0.94-snapshot](Linux-amd64-32)(Linux-amd64-64).dek"
              Version="0.94-snapshot" URL="https://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Linux-amd64-32)(Linux-amd64-64).dek">
       <Objects>
         <Object Name="accumrotate"/>
@@ -10686,8 +10686,10 @@
         <Object Name="part_gravity"/>
         <Object Name="part_head"/>
         <Object Name="part_info"/>
+        <Object Name="part_information"/>
         <Object Name="part_killold"/>
         <Object Name="part_killslow"/>
+        <Object Name="part_move"/>
         <Object Name="part_orbitpoint"/>
         <Object Name="part_render"/>
         <Object Name="part_sink"/>

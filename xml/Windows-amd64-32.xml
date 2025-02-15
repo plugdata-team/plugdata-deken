@@ -17736,8 +17736,8 @@
     </Package>
   </Packages>
   <Packages Name="Gem">
-    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNC0xMS0zMCAxNzowNzo1NF9pZW1ib3Q="
-             Author="iembot" Timestamp="2024-11-30 17:07:54" Description="Gem[v0.94-snapshot](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
+    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNS0wMi0xNCAwODo1MToxMl9pZW1ib3Q="
+             Author="iembot" Timestamp="2025-02-14 08:51:12" Description="Gem[v0.94-snapshot](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
              Version="0.94-snapshot" URL="https://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
       <Objects>
         <Object Name="accumrotate"/>
@@ -17813,8 +17813,10 @@
         <Object Name="part_gravity"/>
         <Object Name="part_head"/>
         <Object Name="part_info"/>
+        <Object Name="part_information"/>
         <Object Name="part_killold"/>
         <Object Name="part_killslow"/>
+        <Object Name="part_move"/>
         <Object Name="part_orbitpoint"/>
         <Object Name="part_render"/>
         <Object Name="part_sink"/>
