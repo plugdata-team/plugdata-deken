@@ -1552,6 +1552,86 @@
     </Package>
   </Packages>
   <Packages Name="audiolab">
+    <Package ID="YXVkaW9sYWJfMC42My4xXzIwMjUtMDItMjQgMTM6MTU6MDBfc29saXBk"
+             Author="solipd" Timestamp="2025-02-24 13:15:00" Description="audiolab[v0.63.1].dek"
+             Version="0.63.1" URL="https://puredata.info/Members/solipd/software/audiolab/0.63.1/audiolab[v0.63.1].dek">
+      <Objects>
+        <Object Name="pp.butterkreuz3-st~"/>
+        <Object Name="pp.butterkreuz3~"/>
+        <Object Name="pp.clop-st~"/>
+        <Object Name="pp.clop~"/>
+        <Object Name="pp.dopplerxy~"/>
+        <Object Name="pp.doppler~"/>
+        <Object Name="pp.dynamics-st~"/>
+        <Object Name="pp.dynamics~"/>
+        <Object Name="pp.echo~"/>
+        <Object Name="pp.env-st~"/>
+        <Object Name="pp.env~"/>
+        <Object Name="pp.eqfilter-st~"/>
+        <Object Name="pp.eqfilter~"/>
+        <Object Name="pp.fft-block-st~"/>
+        <Object Name="pp.fft-block~"/>
+        <Object Name="pp.fft-freeze-st~"/>
+        <Object Name="pp.fft-freeze~"/>
+        <Object Name="pp.fft-gate-st~"/>
+        <Object Name="pp.fft-gate~"/>
+        <Object Name="pp.fft-partconv-st~"/>
+        <Object Name="pp.fft-partconv~"/>
+        <Object Name="pp.fft-pitchshift-st~"/>
+        <Object Name="pp.fft-pitchshift~"/>
+        <Object Name="pp.fft-profile-st~"/>
+        <Object Name="pp.fft-profile~"/>
+        <Object Name="pp.fft-split-st~"/>
+        <Object Name="pp.fft-split~"/>
+        <Object Name="pp.fft-stretch~"/>
+        <Object Name="pp.fft-timbre-st~"/>
+        <Object Name="pp.fft-timbre~"/>
+        <Object Name="pp.freqshift-st~"/>
+        <Object Name="pp.freqshift~"/>
+        <Object Name="pp.graindelay~"/>
+        <Object Name="pp.grainer-mc~"/>
+        <Object Name="pp.grainer~"/>
+        <Object Name="pp.grainrev~"/>
+        <Object Name="pp.in~"/>
+        <Object Name="pp.ladder-st~"/>
+        <Object Name="pp.ladder~"/>
+        <Object Name="pp.lfnoise~"/>
+        <Object Name="pp.limit-st~"/>
+        <Object Name="pp.limit~"/>
+        <Object Name="pp.loop.play~"/>
+        <Object Name="pp.loop.rec~"/>
+        <Object Name="pp.midside~"/>
+        <Object Name="pp.out-4~"/>
+        <Object Name="pp.out-8~"/>
+        <Object Name="pp.out~"/>
+        <Object Name="pp.pantd~"/>
+        <Object Name="pp.pan~"/>
+        <Object Name="pp.parameq-st~"/>
+        <Object Name="pp.parameq~"/>
+        <Object Name="pp.phiverb~"/>
+        <Object Name="pp.pitchshift-st~"/>
+        <Object Name="pp.pitchshift~"/>
+        <Object Name="pp.rev~"/>
+        <Object Name="pp.sdel-st~"/>
+        <Object Name="pp.sdel~"/>
+        <Object Name="pp.sfplayer~"/>
+        <Object Name="pp.shepphaser-st~"/>
+        <Object Name="pp.shepphaser~"/>
+        <Object Name="pp.spacer~"/>
+        <Object Name="pp.spat4~"/>
+        <Object Name="pp.spat8~"/>
+        <Object Name="pp.spectrum~"/>
+        <Object Name="pp.twisted-delays2-st~"/>
+        <Object Name="pp.twisted-delays2~"/>
+        <Object Name="pp.twisted-delays~"/>
+        <Object Name="pp.vcfilter-st~"/>
+        <Object Name="pp.vcfilter~"/>
+        <Object Name="pp.waveform"/>
+        <Object Name="pp.xfade-st~"/>
+        <Object Name="pp.xfade~"/>
+        <Object Name="pp.xycurve"/>
+      </Objects>
+    </Package>
     <Package ID="YXVkaW9sYWJfMC42M18yMDI1LTAyLTIyIDEwOjM1OjEzX3NvbGlwZA=="
              Author="solipd" Timestamp="2025-02-22 10:35:13" Description="audiolab[v0.63].dek"
              Version="0.63" URL="https://puredata.info/Members/solipd/software/audiolab/0.63/audiolab[v0.63].dek">
