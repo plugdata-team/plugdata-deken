@@ -643,18 +643,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="AutoPreset">
-    <Package ID="QXV0b1ByZXNldF8wLjEwXzIwMTYtMTEtMDcgMjM6MDc6MjRfYW50MXI="
-             Author="ant1r" Timestamp="2016-11-07 23:07:24" Description="AutoPreset-v0.10--externals.zip"
-             Version="0.10" URL="https://puredata.info/Members/ant1r/software/AutoPreset/0.10/AutoPreset-v0.10--externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="QXV0b1ByZXNldF8wLjlfMjAxNS0xMi0xOCAwMDowNjoxOF9hbnQxcg=="
-             Author="ant1r" Timestamp="2015-12-18 00:06:18" Description="AutoPreset-v0.9--externals.zip"
-             Version="0.9" URL="https://puredata.info/Members/ant1r/software/AutoPreset/0.9/AutoPreset-v0.9--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="nGui">
     <Package ID="bkd1aV8wLjFfMjAyMC0wNS0yOCAyMzozOTowMV9tYXJpb19idW9uaW5mYW50ZQ=="
              Author="mario_buoninfante" Timestamp="2020-05-28 23:39:01" Description="nGui[v0.1].dek"
@@ -685,600 +673,6 @@
     <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmUxXzIwMjMtMDUtMTIgMjI6Mzc6NTRfanln"
              Author="jyg" Timestamp="2023-05-12 22:37:54" Description="automatonism[v0.4-pre1].dek"
              Version="0.4-pre1" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4-pre1].dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="array-abs">
-    <Package ID="YXJyYXktYWJzXzAuMS4wXzIwMjMtMDMtMjAgMjM6NDE6NTNfd21icmVudA=="
-             Author="wmbrent" Timestamp="2023-03-20 23:41:53" Description="array-abs[v0.1.0].dek"
-             Version="0.1.0" URL="https://puredata.info/Members/wmbrent/software/array-abs/0.1.0/array-abs[v0.1.0].dek">
-      <Objects>
-        <Object Name="array-abs-val"/>
-        <Object Name="array-append"/>
-        <Object Name="array-between"/>
-        <Object Name="array-bintofreq"/>
-        <Object Name="array-ceil"/>
-        <Object Name="array-clip"/>
-        <Object Name="array-copy"/>
-        <Object Name="array-copy-range"/>
-        <Object Name="array-dbtorms"/>
-        <Object Name="array-delete"/>
-        <Object Name="array-differentiate"/>
-        <Object Name="array-drip"/>
-        <Object Name="array-equals"/>
-        <Object Name="array-floor"/>
-        <Object Name="array-freqtobin"/>
-        <Object Name="array-ftom"/>
-        <Object Name="array-geomean"/>
-        <Object Name="array-greater"/>
-        <Object Name="array-insert"/>
-        <Object Name="array-integrate"/>
-        <Object Name="array-lesser"/>
-        <Object Name="array-maxk"/>
-        <Object Name="array-mean"/>
-        <Object Name="array-median"/>
-        <Object Name="array-mink"/>
-        <Object Name="array-mode"/>
-        <Object Name="array-mtof"/>
-        <Object Name="array-nearest"/>
-        <Object Name="array-offset"/>
-        <Object Name="array-pow"/>
-        <Object Name="array-prepend"/>
-        <Object Name="array-rand-fill"/>
-        <Object Name="array-random-walk"/>
-        <Object Name="array-range"/>
-        <Object Name="array-rerange"/>
-        <Object Name="array-reverse"/>
-        <Object Name="array-rmstodb"/>
-        <Object Name="array-round"/>
-        <Object Name="array-scale"/>
-        <Object Name="array-scramble"/>
-        <Object Name="array-series"/>
-        <Object Name="array-shift"/>
-        <Object Name="array-shift0"/>
-        <Object Name="array-sort"/>
-        <Object Name="array-std"/>
-        <Object Name="array-unique"/>
-        <Object Name="array-window"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="Fraise">
-    <Package ID="RnJhaXNlXzAuMy4zXzIwMjQtMTAtMDkgMTU6MzU6MjFfYW50MXI=" Author="ant1r"
-             Timestamp="2024-10-09 15:35:21" Description="Fraise[v0.3.3].dek"
-             Version="0.3.3" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.3/Fraise[v0.3.3].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMy4yXzIwMjQtMTAtMDkgMTQ6NDE6MDdfYW50MXI=" Author="ant1r"
-             Timestamp="2024-10-09 14:41:07" Description="Fraise[v0.3.2].dek"
-             Version="0.3.2" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.2/Fraise[v0.3.2].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMy4xXzIwMjQtMDgtMjEgMTg6MzQ6NDJfYW50MXI=" Author="ant1r"
-             Timestamp="2024-08-21 18:34:42" Description="Fraise[v0.3.1].dek"
-             Version="0.3.1" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.1/Fraise[v0.3.1].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMy4wXzIwMjQtMDMtMjkgMTc6NTY6NTlfYW50MXI=" Author="ant1r"
-             Timestamp="2024-03-29 17:56:59" Description="Fraise[v0.3.0].dek"
-             Version="0.3.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.0/Fraise[v0.3.0].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMS4xXzIwMjEtMDMtMjUgMTU6Mzk6MjlfYW50MXI=" Author="ant1r"
-             Timestamp="2021-03-25 15:39:29" Description="Fraise[v0.1.1].dek"
-             Version="0.1.1" URL="https://puredata.info/Members/ant1r/software/Fraise/0.1.1/Fraise[v0.1.1].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMS4wXzIwMjEtMDEtMDcgMTI6MzI6MzVfYW50MXI=" Author="ant1r"
-             Timestamp="2021-01-07 12:32:35" Description="Fraise[v0.1.0].dek"
-             Version="0.1.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.1.0/Fraise[v0.1.0].dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="DRFX">
-    <Package ID="RFJGWF8wLjUuMV8yMDE4LTAzLTI2IDA0OjI2OjA3X3dtYnJlbnQ=" Author="wmbrent"
-             Timestamp="2018-03-26 04:26:07" Description="DRFX[v0.5.1].dek"
-             Version="0.5.1" URL="https://puredata.info/Members/wmbrent/software/DRFX/0.5.1/DRFX[v0.5.1].dek">
-      <Objects>
-        <Object Name="DRFX"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="piloslib">
-    <Package ID="cGlsb3NsaWJfMS4wLjRfMjAyMy0wNi0wNCAxNjozOToyNV9ha3VudWxs"
-             Author="akunull" Timestamp="2023-06-04 16:39:25" Description="piloslib[v1.0.4].dek"
-             Version="1.0.4" URL="https://puredata.info/Members/akunull/software/piloslib/1.0.4/piloslib[v1.0.4].dek">
-      <Objects/>
-    </Package>
-    <Package ID="cGlsb3NsaWJfMS4wLjNfMjAyMy0wNi0wMSAwNDoyMDo0M19ha3VudWxs"
-             Author="akunull" Timestamp="2023-06-01 04:20:43" Description="piloslib[v1.0.3].dek"
-             Version="1.0.3" URL="https://puredata.info/Members/akunull/software/piloslib/1.0.3/piloslib[v1.0.3].dek">
-      <Objects/>
-    </Package>
-    <Package ID="cGlsb3NsaWJfMS4wLjJfMjAyMi0wOC0yMyAyMDo0MzoxNl9ha3VudWxs"
-             Author="akunull" Timestamp="2022-08-23 20:43:16" Description="piloslib[v1.0.2].dek"
-             Version="1.0.2" URL="https://puredata.info/Members/akunull/software/piloslib/1.0.2/piloslib[v1.0.2].dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="easyflow">
-    <Package ID="ZWFzeWZsb3dfMC4zLjBfMjAxOS0wOS0yNyAwNjoyODo0NV9IZW5yaQ=="
-             Author="Henri" Timestamp="2019-09-27 06:28:45" Description="easyflow[v0.3.0].dek"
-             Version="0.3.0" URL="https://puredata.info/Members/Henri/software/easyflow/0.3.0/easyflow[v0.3.0].dek">
-      <Objects>
-        <Object Name="++v"/>
-        <Object Name="++value"/>
-        <Object Name="--v"/>
-        <Object Name="--value"/>
-        <Object Name="addList"/>
-        <Object Name="addNoise"/>
-        <Object Name="alternate"/>
-        <Object Name="any"/>
-        <Object Name="arrayList"/>
-        <Object Name="callMethod"/>
-        <Object Name="chanceBang"/>
-        <Object Name="colorCirc"/>
-        <Object Name="colorCircF"/>
-        <Object Name="colorCnv"/>
-        <Object Name="colorCnvF"/>
-        <Object Name="colorDef"/>
-        <Object Name="colorHighlighting"/>
-        <Object Name="colorNames"/>
-        <Object Name="colorSyntax"/>
-        <Object Name="colorTri"/>
-        <Object Name="colorTriF"/>
-        <Object Name="compare"/>
-        <Object Name="copyList"/>
-        <Object Name="counter"/>
-        <Object Name="curves"/>
-        <Object Name="curvesmap"/>
-        <Object Name="curvesmap~"/>
-        <Object Name="curves~"/>
-        <Object Name="dbg"/>
-        <Object Name="deleteScalar"/>
-        <Object Name="dictionary"/>
-        <Object Name="digitCount"/>
-        <Object Name="doubleClick"/>
-        <Object Name="easyflow-info"/>
-        <Object Name="error"/>
-        <Object Name="for"/>
-        <Object Name="funnel"/>
-        <Object Name="gateCounter"/>
-        <Object Name="getAllScalars"/>
-        <Object Name="getFile"/>
-        <Object Name="getFolder"/>
-        <Object Name="getMember"/>
-        <Object Name="getNofScalars"/>
-        <Object Name="getNthScalar"/>
-        <Object Name="gopTool"/>
-        <Object Name="hexCharToDec"/>
-        <Object Name="hexColor"/>
-        <Object Name="hold"/>
-        <Object Name="hsb"/>
-        <Object Name="hsl"/>
-        <Object Name="hueSaturationBrightness"/>
-        <Object Name="hueSaturationLuminosity"/>
-        <Object Name="ifValue"/>
-        <Object Name="iterator"/>
-        <Object Name="keepMax"/>
-        <Object Name="keepMin"/>
-        <Object Name="keyChange"/>
-        <Object Name="l2r"/>
-        <Object Name="labelCnv"/>
-        <Object Name="labelCnvF"/>
-        <Object Name="left2right"/>
-        <Object Name="listCollect"/>
-        <Object Name="listCompare"/>
-        <Object Name="listConcatenate"/>
-        <Object Name="listIntersection"/>
-        <Object Name="listMax"/>
-        <Object Name="listMin"/>
-        <Object Name="listMoses"/>
-        <Object Name="listOperator"/>
-        <Object Name="listPick"/>
-        <Object Name="listRandom"/>
-        <Object Name="listRemove"/>
-        <Object Name="listReplace"/>
-        <Object Name="listReplaceAtIndex"/>
-        <Object Name="listReverse"/>
-        <Object Name="listSearch"/>
-        <Object Name="listSearchAndRemove"/>
-        <Object Name="listSearchIterator"/>
-        <Object Name="listShuffle"/>
-        <Object Name="listsOfLength"/>
-        <Object Name="listSplitOnChar"/>
-        <Object Name="listToSymbol"/>
-        <Object Name="listUniques"/>
-        <Object Name="lowerCase"/>
-        <Object Name="map"/>
-        <Object Name="map~"/>
-        <Object Name="member"/>
-        <Object Name="method"/>
-        <Object Name="methodInput"/>
-        <Object Name="methodOutput"/>
-        <Object Name="metrosnap~"/>
-        <Object Name="mixAB"/>
-        <Object Name="mixAB~"/>
-        <Object Name="nearest"/>
-        <Object Name="numbersBetween"/>
-        <Object Name="numberSymbol"/>
-        <Object Name="objAccess"/>
-        <Object Name="passNthElement"/>
-        <Object Name="passPair"/>
-        <Object Name="popLastN"/>
-        <Object Name="printHere"/>
-        <Object Name="private"/>
-        <Object Name="public"/>
-        <Object Name="r2l"/>
-        <Object Name="randomList"/>
-        <Object Name="redGreenBlue"/>
-        <Object Name="repeat"/>
-        <Object Name="rgb"/>
-        <Object Name="right2left"/>
-        <Object Name="roundIfVeryClose"/>
-        <Object Name="sample~"/>
-        <Object Name="scope~"/>
-        <Object Name="searchIncomingLists"/>
-        <Object Name="searchIncomingStrings"/>
-        <Object Name="setMember"/>
-        <Object Name="spigot~"/>
-        <Object Name="stringLength"/>
-        <Object Name="stringReplace"/>
-        <Object Name="stringSearch"/>
-        <Object Name="sublist"/>
-        <Object Name="sublistIterator"/>
-        <Object Name="substring"/>
-        <Object Name="switch2"/>
-        <Object Name="switch2~"/>
-        <Object Name="switch3"/>
-        <Object Name="switch3~"/>
-        <Object Name="switch4"/>
-        <Object Name="switch4~"/>
-        <Object Name="switch5"/>
-        <Object Name="switch5~"/>
-        <Object Name="switch6"/>
-        <Object Name="switch6~"/>
-        <Object Name="switch7"/>
-        <Object Name="switch7~"/>
-        <Object Name="symbolize"/>
-        <Object Name="symbolSplit"/>
-        <Object Name="symbolToFloat"/>
-        <Object Name="tabCopy"/>
-        <Object Name="tabReverse"/>
-        <Object Name="tabReverseCopy"/>
-        <Object Name="unitTesting"/>
-        <Object Name="upperCase"/>
-        <Object Name="v++"/>
-        <Object Name="v--"/>
-        <Object Name="value++"/>
-        <Object Name="value--"/>
-        <Object Name="valueOp"/>
-        <Object Name="valueOpSet"/>
-        <Object Name="var"/>
-        <Object Name="weightedRandom"/>
-      </Objects>
-    </Package>
-    <Package ID="ZWFzeWZsb3dfMC4yLjBfMjAxOC0wOC0xMiAwNzoxNjozN19IZW5yaQ=="
-             Author="Henri" Timestamp="2018-08-12 07:16:37" Description="easyflow[v0.2.0].dek"
-             Version="0.2.0" URL="https://puredata.info/Members/Henri/software/easyflow/0.2.0/easyflow[v0.2.0].dek">
-      <Objects>
-        <Object Name="addList"/>
-        <Object Name="alternate"/>
-        <Object Name="any"/>
-        <Object Name="arrayList"/>
-        <Object Name="audioSpigot~"/>
-        <Object Name="colorCirc"/>
-        <Object Name="colorCircF"/>
-        <Object Name="colorCnv"/>
-        <Object Name="colorCnvF"/>
-        <Object Name="colorDef"/>
-        <Object Name="colorHighlighting"/>
-        <Object Name="colorNames"/>
-        <Object Name="colorSyntax"/>
-        <Object Name="colorTri"/>
-        <Object Name="colorTriF"/>
-        <Object Name="compare"/>
-        <Object Name="copyList"/>
-        <Object Name="counter"/>
-        <Object Name="curves"/>
-        <Object Name="curvesmap"/>
-        <Object Name="curvesmap~"/>
-        <Object Name="curves~"/>
-        <Object Name="deleteScalar"/>
-        <Object Name="doubleClick"/>
-        <Object Name="easyflow-info"/>
-        <Object Name="for"/>
-        <Object Name="funnel"/>
-        <Object Name="getAllScalars"/>
-        <Object Name="getFile"/>
-        <Object Name="getFolder"/>
-        <Object Name="getNofScalars"/>
-        <Object Name="getNthScalar"/>
-        <Object Name="GOPTool"/>
-        <Object Name="hexCharToDec"/>
-        <Object Name="hexColor"/>
-        <Object Name="hold"/>
-        <Object Name="hsb"/>
-        <Object Name="hsl"/>
-        <Object Name="huesaturationbrightness"/>
-        <Object Name="huesaturationluminosity"/>
-        <Object Name="keepMax"/>
-        <Object Name="keepMin"/>
-        <Object Name="keychange"/>
-        <Object Name="l2r"/>
-        <Object Name="labelCnv"/>
-        <Object Name="labelCnvF"/>
-        <Object Name="left2right"/>
-        <Object Name="listCompare"/>
-        <Object Name="listConcatenate"/>
-        <Object Name="listPick"/>
-        <Object Name="listPickPair"/>
-        <Object Name="listPlus"/>
-        <Object Name="listReplace"/>
-        <Object Name="listReplaceAtIndex"/>
-        <Object Name="listsOfLength"/>
-        <Object Name="listSplit"/>
-        <Object Name="listToSymbol"/>
-        <Object Name="lowerCase"/>
-        <Object Name="map"/>
-        <Object Name="map~"/>
-        <Object Name="metrosnap~"/>
-        <Object Name="mixAB"/>
-        <Object Name="mixAB~"/>
-        <Object Name="nearest"/>
-        <Object Name="numbersbetween"/>
-        <Object Name="numberSymbol"/>
-        <Object Name="passNthElement"/>
-        <Object Name="passPair"/>
-        <Object Name="popLastN"/>
-        <Object Name="printHere"/>
-        <Object Name="r2l"/>
-        <Object Name="redGreenBlue"/>
-        <Object Name="rgb"/>
-        <Object Name="right2left"/>
-        <Object Name="roundIfVeryClose"/>
-        <Object Name="sample~"/>
-        <Object Name="scope~"/>
-        <Object Name="searchElem"/>
-        <Object Name="spigot~"/>
-        <Object Name="stringLength"/>
-        <Object Name="stringReplace"/>
-        <Object Name="sublist"/>
-        <Object Name="substring"/>
-        <Object Name="substringFromStart"/>
-        <Object Name="switch2"/>
-        <Object Name="switch2~"/>
-        <Object Name="switch3"/>
-        <Object Name="switch3~"/>
-        <Object Name="switch4"/>
-        <Object Name="switch4~"/>
-        <Object Name="switch5"/>
-        <Object Name="switch5~"/>
-        <Object Name="switch6"/>
-        <Object Name="switch6~"/>
-        <Object Name="switch7"/>
-        <Object Name="switch7~"/>
-        <Object Name="symbolize"/>
-        <Object Name="symbolSplit"/>
-        <Object Name="tabCopy"/>
-        <Object Name="tabReverse"/>
-        <Object Name="tabReverseCopy"/>
-        <Object Name="upperCase"/>
-        <Object Name="var"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="completion-plugin">
-    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40OS4xXzIwMjMtMDMtMTggMjA6MzY6MzlfcG9ycmVz"
-             Author="porres" Timestamp="2023-03-18 20:36:39" Description="completion-plugin[v0.49.1].dek"
-             Version="0.49.1" URL="https://puredata.info/Members/porres/software/completion-plugin/0.49.1/completion-plugin[v0.49.1].dek">
-      <Objects/>
-    </Package>
-    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40OS4wXzIwMjMtMDMtMTYgMDM6MzU6MDNfcG9ycmVz"
-             Author="porres" Timestamp="2023-03-16 03:35:03" Description="completion-plugin[v0.49.0].dek"
-             Version="0.49.0" URL="https://puredata.info/Members/porres/software/completion-plugin/0.49.0/completion-plugin[v0.49.0].dek">
-      <Objects/>
-    </Package>
-    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40OC4wXzIwMjMtMDMtMDcgMDI6Mzg6NDJfcG9ycmVz"
-             Author="porres" Timestamp="2023-03-07 02:38:42" Description="completion-plugin[v0.48.0].dek"
-             Version="0.48.0" URL="https://puredata.info/Members/porres/software/completion-plugin/0.48.0/completion-plugin[v0.48.0].dek">
-      <Objects>
-        <Object Name="Completion"/>
-      </Objects>
-    </Package>
-    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40Ny4xXzIwMTktMDktMTggMTM6Mzc6MjdfSGVucmk="
-             Author="Henri" Timestamp="2019-09-18 13:37:27" Description="completion-plugin[v0.47.1].dek"
-             Version="0.47.1" URL="https://puredata.info/Members/Henri/software/completion-plugin/0.47.1/completion-plugin[v0.47.1].dek">
-      <Objects/>
-    </Package>
-    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40Ny4wXzIwMTktMDktMDggMDE6MTM6NDFfSGVucmk="
-             Author="Henri" Timestamp="2019-09-08 01:13:41" Description="completion-plugin[v0.47.0].dek"
-             Version="0.47.0" URL="https://puredata.info/Members/Henri/software/completion-plugin/0.47.0/completion-plugin[v0.47.0].dek">
-      <Objects/>
-    </Package>
-    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40Ni4xXzIwMTgtMDktMTIgMjI6MDU6NDdfSGVucmk="
-             Author="Henri" Timestamp="2018-09-12 22:05:47" Description="completion-plugin[v0.46.1].dek"
-             Version="0.46.1" URL="https://puredata.info/Members/Henri/software/completion-plugin/0.46.1/completion-plugin[v0.46.1].dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="mc">
-    <Package ID="bWNfMC4wLjFfMjAyMS0xMi0wNiAwMDowNzoxMV90aG9tYXM=" Author="thomas"
-             Timestamp="2021-12-06 00:07:11" Description="mc[v0.0.1].dek"
-             Version="0.0.1" URL="https://puredata.info/Members/thomas/software/mc/0.0.1/mc[v0.0.1].dek">
-      <Objects>
-        <Object Name="mc"/>
-        <Object Name="mc._dsp"/>
-        <Object Name="mc.concat"/>
-        <Object Name="mc.dist~"/>
-        <Object Name="mc.effect"/>
-        <Object Name="mc.index"/>
-        <Object Name="mc.map"/>
-        <Object Name="mc.op"/>
-        <Object Name="mc.sink"/>
-        <Object Name="mc.slice"/>
-        <Object Name="mc.source"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="missive~">
-    <Package ID="bWlzc2l2ZX5fMC40XzIwMjEtMTItMjggMTc6MjQ6MDVfd21icmVudA=="
-             Author="wmbrent" Timestamp="2021-12-28 17:24:05" Description="missive~[v0.4].dek"
-             Version="0.4" URL="https://puredata.info/Members/wmbrent/software/missive~/0.4/missive~[v0.4].dek">
-      <Objects>
-        <Object Name="missive~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="bf-pd">
-    <Package ID="YmYtcGRfMS4wXzIwMjEtMDgtMDMgMTI6MTQ6MTZfZmJlcnRoYXV0" Author="fberthaut"
-             Timestamp="2021-08-03 12:14:16" Description="bf-pd[v1.0].dek"
-             Version="1.0" URL="https://puredata.info/Members/fberthaut/software/bf-pd/1.0/bf-pd[v1.0].dek">
-      <Objects>
-        <Object Name="bf-clock"/>
-        <Object Name="bf-instrument"/>
-        <Object Name="bf-output"/>
-        <Object Name="bf-param"/>
-        <Object Name="boeuf"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="acre">
-    <Package ID="YWNyZV8yLjAtcmM1XzIwMjQtMDgtMjIgMTM6Mjk6NTBfcml0c2No" Author="ritsch"
-             Timestamp="2024-08-22 13:29:50" Description="acre[v2.0-rc5].dek"
-             Version="2.0-rc5" URL="https://puredata.info/Members/ritsch/software/acre/2.0-rc5/acre[v2.0-rc5].dek">
-      <Objects/>
-    </Package>
-    <Package ID="YWNyZV8xLjAzXzIwMjAtMTItMDMgMDk6MzE6MzJfcml0c2No" Author="ritsch"
-             Timestamp="2020-12-03 09:31:32" Description="acre[v1.03].dek"
-             Version="1.03" URL="https://puredata.info/Members/ritsch/software/acre/1.0/acre[v1.03].dek">
-      <Objects/>
-    </Package>
-    <Package ID="YWNyZV8xLjAxXzIwMTYtMTAtMjEgMjM6Mzk6MzJfcml0c2No" Author="ritsch"
-             Timestamp="2016-10-21 23:39:32" Description="acre-v1.01--externals.zip"
-             Version="1.01" URL="https://puredata.info/Members/ritsch/software/acre/1.0/acre-v1.01--externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="YWNyZV8xLjBfMjAxNi0wNy0xMSAwMDo0OToxNV9yaXRzY2g=" Author="ritsch"
-             Timestamp="2016-07-11 00:49:15" Description="acre-v1.0--externals.zip"
-             Version="1.0" URL="https://puredata.info/Members/ritsch/software/acre/1.0/acre-v1.0--externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="YWNyZV8wLjY5XzIwMTYtMDUtMDggMjI6NDU6NThfcml0c2No" Author="ritsch"
-             Timestamp="2016-05-08 22:45:58" Description="acre-v0.69--externals.zip"
-             Version="0.69" URL="https://puredata.info/Members/ritsch/software/acre/0.69/acre-v0.69--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="acre-amb">
-    <Package ID="YWNyZS1hbWJfMC45XzIwMjQtMDgtMjIgMTM6MzY6MDRfcml0c2No" Author="ritsch"
-             Timestamp="2024-08-22 13:36:04" Description="acre-amb[v0.9].dek"
-             Version="0.9" URL="https://puredata.info/Members/ritsch/software/acre-amb/0.9/acre-amb[v0.9].dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="spring22">
-    <Package ID="c3ByaW5nMjJfMC4yMDIyMDYxN18yMDIyLTA2LTE3IDE1OjAwOjIxX3ptb2Vsbmln"
-             Author="zmoelnig" Timestamp="2022-06-17 15:00:21" Description="spring22[v0.20220617].dek"
-             Version="0.20220617" URL="https://puredata.info/Members/zmoelnig/software/spring22/0.20220617/spring22[v0.20220617].dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="chair">
-    <Package ID="Y2hhaXJfMC44MV8yMDIwLTAyLTE0IDIwOjQxOjMwX0NIQUlS" Author="CHAIR"
-             Timestamp="2020-02-14 20:41:30" Description="chair[v0.81].dek"
-             Version="0.81" URL="https://puredata.info/Members/CHAIR/software/chair/0.81/chair[v0.81].dek">
-      <Objects>
-        <Object Name="chair.14bit-ctlin"/>
-        <Object Name="chair.angle"/>
-        <Object Name="chair.chrismoore-reverb~"/>
-        <Object Name="chair.dc-offset~"/>
-        <Object Name="chair.distance"/>
-        <Object Name="chair.dynamics~"/>
-        <Object Name="chair.encoders"/>
-        <Object Name="chair.feedback-cancellation~"/>
-        <Object Name="chair.gain~"/>
-        <Object Name="chair.gesture"/>
-        <Object Name="chair.hex-hold"/>
-        <Object Name="chair.hex-mapping"/>
-        <Object Name="chair.hex-tuning"/>
-        <Object Name="chair.increment"/>
-        <Object Name="chair.mtocv~"/>
-        <Object Name="chair.peak-env~"/>
-        <Object Name="chair.rotary-limit-range"/>
-        <Object Name="chair.rotary-relative"/>
-        <Object Name="chair.singleton"/>
-        <Object Name="chair.speed"/>
-        <Object Name="chair.stereogain~"/>
-        <Object Name="chair.touchgate~"/>
-        <Object Name="chair.transpose-oct"/>
-        <Object Name="chair.vfreeverb~"/>
-      </Objects>
-    </Package>
-    <Package ID="Y2hhaXJfMC44MF8yMDE5LTEwLTI4IDAwOjEyOjEyX0NIQUlS" Author="CHAIR"
-             Timestamp="2019-10-28 00:12:12" Description="chair[v0.80].dek"
-             Version="0.80" URL="https://puredata.info/Members/CHAIR/software/chair/0.80/chair[v0.80].dek">
-      <Objects>
-        <Object Name="chair.angle"/>
-        <Object Name="chair.capsense"/>
-        <Object Name="chair.chrismoore-reverb~"/>
-        <Object Name="chair.cleanposdata"/>
-        <Object Name="chair.dc-offset~"/>
-        <Object Name="chair.distance"/>
-        <Object Name="chair.dynamics~"/>
-        <Object Name="chair.encoders"/>
-        <Object Name="chair.feedback-cancellation~"/>
-        <Object Name="chair.gain~"/>
-        <Object Name="chair.gesture"/>
-        <Object Name="chair.hex-hold"/>
-        <Object Name="chair.hex-mapping"/>
-        <Object Name="chair.hex-tuning"/>
-        <Object Name="chair.modifier"/>
-        <Object Name="chair.mtocv~"/>
-        <Object Name="chair.peak-env~"/>
-        <Object Name="chair.rotary-limit-range"/>
-        <Object Name="chair.singleton"/>
-        <Object Name="chair.speed"/>
-        <Object Name="chair.stereogain~"/>
-        <Object Name="chair.touchgate~"/>
-        <Object Name="chair.transpose-oct"/>
-        <Object Name="chair.vfreeverb~"/>
-      </Objects>
-    </Package>
-    <Package ID="Y2hhaXJfMC43M18yMDE5LTA2LTE1IDAwOjUyOjI3X0NIQUlS" Author="CHAIR"
-             Timestamp="2019-06-15 00:52:27" Description="chair[v0.73].dek"
-             Version="0.73" URL="https://puredata.info/Members/CHAIR/software/chair/0.73/chair[v0.73].dek">
-      <Objects>
-        <Object Name="cair.modifier"/>
-        <Object Name="chair.angle"/>
-        <Object Name="chair.capsense"/>
-        <Object Name="chair.chrismoore-reverb~"/>
-        <Object Name="chair.cleanposdata"/>
-        <Object Name="chair.dc-offset~"/>
-        <Object Name="chair.distance"/>
-        <Object Name="chair.dynamics~"/>
-        <Object Name="chair.feedback-cancellation~"/>
-        <Object Name="chair.gain~"/>
-        <Object Name="chair.gesture"/>
-        <Object Name="chair.hex-mapping"/>
-        <Object Name="chair.hex-tuning"/>
-        <Object Name="chair.mtocv~"/>
-        <Object Name="chair.peak-env~"/>
-        <Object Name="chair.rotary-limit-range"/>
-        <Object Name="chair.singleton"/>
-        <Object Name="chair.speed"/>
-        <Object Name="chair.stereogain~"/>
-        <Object Name="chair.touchgate~"/>
-        <Object Name="chair.transpose-oct"/>
-        <Object Name="chair.vfreeverb~"/>
-        <Object Name="tickle~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="acre-wg">
-    <Package ID="YWNyZS13Z18xLjAzXzIwMjQtMDgtMjIgMTM6Mzc6NDRfcml0c2No" Author="ritsch"
-             Timestamp="2024-08-22 13:37:44" Description="acre-wg[v1.03].dek"
-             Version="1.03" URL="https://puredata.info/Members/ritsch/software/acre-wg/1.03/acre-wg[v1.03].dek">
       <Objects/>
     </Package>
   </Packages>
@@ -2293,6 +1687,612 @@
         <Object Name="pp.vcfilter-st~"/>
         <Object Name="pp.vcfilter~"/>
         <Object Name="pp.waveform"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="array-abs">
+    <Package ID="YXJyYXktYWJzXzAuMS4wXzIwMjMtMDMtMjAgMjM6NDE6NTNfd21icmVudA=="
+             Author="wmbrent" Timestamp="2023-03-20 23:41:53" Description="array-abs[v0.1.0].dek"
+             Version="0.1.0" URL="https://puredata.info/Members/wmbrent/software/array-abs/0.1.0/array-abs[v0.1.0].dek">
+      <Objects>
+        <Object Name="array-abs-val"/>
+        <Object Name="array-append"/>
+        <Object Name="array-between"/>
+        <Object Name="array-bintofreq"/>
+        <Object Name="array-ceil"/>
+        <Object Name="array-clip"/>
+        <Object Name="array-copy"/>
+        <Object Name="array-copy-range"/>
+        <Object Name="array-dbtorms"/>
+        <Object Name="array-delete"/>
+        <Object Name="array-differentiate"/>
+        <Object Name="array-drip"/>
+        <Object Name="array-equals"/>
+        <Object Name="array-floor"/>
+        <Object Name="array-freqtobin"/>
+        <Object Name="array-ftom"/>
+        <Object Name="array-geomean"/>
+        <Object Name="array-greater"/>
+        <Object Name="array-insert"/>
+        <Object Name="array-integrate"/>
+        <Object Name="array-lesser"/>
+        <Object Name="array-maxk"/>
+        <Object Name="array-mean"/>
+        <Object Name="array-median"/>
+        <Object Name="array-mink"/>
+        <Object Name="array-mode"/>
+        <Object Name="array-mtof"/>
+        <Object Name="array-nearest"/>
+        <Object Name="array-offset"/>
+        <Object Name="array-pow"/>
+        <Object Name="array-prepend"/>
+        <Object Name="array-rand-fill"/>
+        <Object Name="array-random-walk"/>
+        <Object Name="array-range"/>
+        <Object Name="array-rerange"/>
+        <Object Name="array-reverse"/>
+        <Object Name="array-rmstodb"/>
+        <Object Name="array-round"/>
+        <Object Name="array-scale"/>
+        <Object Name="array-scramble"/>
+        <Object Name="array-series"/>
+        <Object Name="array-shift"/>
+        <Object Name="array-shift0"/>
+        <Object Name="array-sort"/>
+        <Object Name="array-std"/>
+        <Object Name="array-unique"/>
+        <Object Name="array-window"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="Fraise">
+    <Package ID="RnJhaXNlXzAuMy4zXzIwMjQtMTAtMDkgMTU6MzU6MjFfYW50MXI=" Author="ant1r"
+             Timestamp="2024-10-09 15:35:21" Description="Fraise[v0.3.3].dek"
+             Version="0.3.3" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.3/Fraise[v0.3.3].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy4yXzIwMjQtMTAtMDkgMTQ6NDE6MDdfYW50MXI=" Author="ant1r"
+             Timestamp="2024-10-09 14:41:07" Description="Fraise[v0.3.2].dek"
+             Version="0.3.2" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.2/Fraise[v0.3.2].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy4xXzIwMjQtMDgtMjEgMTg6MzQ6NDJfYW50MXI=" Author="ant1r"
+             Timestamp="2024-08-21 18:34:42" Description="Fraise[v0.3.1].dek"
+             Version="0.3.1" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.1/Fraise[v0.3.1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy4wXzIwMjQtMDMtMjkgMTc6NTY6NTlfYW50MXI=" Author="ant1r"
+             Timestamp="2024-03-29 17:56:59" Description="Fraise[v0.3.0].dek"
+             Version="0.3.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.0/Fraise[v0.3.0].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMS4xXzIwMjEtMDMtMjUgMTU6Mzk6MjlfYW50MXI=" Author="ant1r"
+             Timestamp="2021-03-25 15:39:29" Description="Fraise[v0.1.1].dek"
+             Version="0.1.1" URL="https://puredata.info/Members/ant1r/software/Fraise/0.1.1/Fraise[v0.1.1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMS4wXzIwMjEtMDEtMDcgMTI6MzI6MzVfYW50MXI=" Author="ant1r"
+             Timestamp="2021-01-07 12:32:35" Description="Fraise[v0.1.0].dek"
+             Version="0.1.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.1.0/Fraise[v0.1.0].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="piloslib">
+    <Package ID="cGlsb3NsaWJfMS4wLjRfMjAyMy0wNi0wNCAxNjozOToyNV9ha3VudWxs"
+             Author="akunull" Timestamp="2023-06-04 16:39:25" Description="piloslib[v1.0.4].dek"
+             Version="1.0.4" URL="https://puredata.info/Members/akunull/software/piloslib/1.0.4/piloslib[v1.0.4].dek">
+      <Objects/>
+    </Package>
+    <Package ID="cGlsb3NsaWJfMS4wLjNfMjAyMy0wNi0wMSAwNDoyMDo0M19ha3VudWxs"
+             Author="akunull" Timestamp="2023-06-01 04:20:43" Description="piloslib[v1.0.3].dek"
+             Version="1.0.3" URL="https://puredata.info/Members/akunull/software/piloslib/1.0.3/piloslib[v1.0.3].dek">
+      <Objects/>
+    </Package>
+    <Package ID="cGlsb3NsaWJfMS4wLjJfMjAyMi0wOC0yMyAyMDo0MzoxNl9ha3VudWxs"
+             Author="akunull" Timestamp="2022-08-23 20:43:16" Description="piloslib[v1.0.2].dek"
+             Version="1.0.2" URL="https://puredata.info/Members/akunull/software/piloslib/1.0.2/piloslib[v1.0.2].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="easyflow">
+    <Package ID="ZWFzeWZsb3dfMC4zLjBfMjAxOS0wOS0yNyAwNjoyODo0NV9IZW5yaQ=="
+             Author="Henri" Timestamp="2019-09-27 06:28:45" Description="easyflow[v0.3.0].dek"
+             Version="0.3.0" URL="https://puredata.info/Members/Henri/software/easyflow/0.3.0/easyflow[v0.3.0].dek">
+      <Objects>
+        <Object Name="++v"/>
+        <Object Name="++value"/>
+        <Object Name="--v"/>
+        <Object Name="--value"/>
+        <Object Name="addList"/>
+        <Object Name="addNoise"/>
+        <Object Name="alternate"/>
+        <Object Name="any"/>
+        <Object Name="arrayList"/>
+        <Object Name="callMethod"/>
+        <Object Name="chanceBang"/>
+        <Object Name="colorCirc"/>
+        <Object Name="colorCircF"/>
+        <Object Name="colorCnv"/>
+        <Object Name="colorCnvF"/>
+        <Object Name="colorDef"/>
+        <Object Name="colorHighlighting"/>
+        <Object Name="colorNames"/>
+        <Object Name="colorSyntax"/>
+        <Object Name="colorTri"/>
+        <Object Name="colorTriF"/>
+        <Object Name="compare"/>
+        <Object Name="copyList"/>
+        <Object Name="counter"/>
+        <Object Name="curves"/>
+        <Object Name="curvesmap"/>
+        <Object Name="curvesmap~"/>
+        <Object Name="curves~"/>
+        <Object Name="dbg"/>
+        <Object Name="deleteScalar"/>
+        <Object Name="dictionary"/>
+        <Object Name="digitCount"/>
+        <Object Name="doubleClick"/>
+        <Object Name="easyflow-info"/>
+        <Object Name="error"/>
+        <Object Name="for"/>
+        <Object Name="funnel"/>
+        <Object Name="gateCounter"/>
+        <Object Name="getAllScalars"/>
+        <Object Name="getFile"/>
+        <Object Name="getFolder"/>
+        <Object Name="getMember"/>
+        <Object Name="getNofScalars"/>
+        <Object Name="getNthScalar"/>
+        <Object Name="gopTool"/>
+        <Object Name="hexCharToDec"/>
+        <Object Name="hexColor"/>
+        <Object Name="hold"/>
+        <Object Name="hsb"/>
+        <Object Name="hsl"/>
+        <Object Name="hueSaturationBrightness"/>
+        <Object Name="hueSaturationLuminosity"/>
+        <Object Name="ifValue"/>
+        <Object Name="iterator"/>
+        <Object Name="keepMax"/>
+        <Object Name="keepMin"/>
+        <Object Name="keyChange"/>
+        <Object Name="l2r"/>
+        <Object Name="labelCnv"/>
+        <Object Name="labelCnvF"/>
+        <Object Name="left2right"/>
+        <Object Name="listCollect"/>
+        <Object Name="listCompare"/>
+        <Object Name="listConcatenate"/>
+        <Object Name="listIntersection"/>
+        <Object Name="listMax"/>
+        <Object Name="listMin"/>
+        <Object Name="listMoses"/>
+        <Object Name="listOperator"/>
+        <Object Name="listPick"/>
+        <Object Name="listRandom"/>
+        <Object Name="listRemove"/>
+        <Object Name="listReplace"/>
+        <Object Name="listReplaceAtIndex"/>
+        <Object Name="listReverse"/>
+        <Object Name="listSearch"/>
+        <Object Name="listSearchAndRemove"/>
+        <Object Name="listSearchIterator"/>
+        <Object Name="listShuffle"/>
+        <Object Name="listsOfLength"/>
+        <Object Name="listSplitOnChar"/>
+        <Object Name="listToSymbol"/>
+        <Object Name="listUniques"/>
+        <Object Name="lowerCase"/>
+        <Object Name="map"/>
+        <Object Name="map~"/>
+        <Object Name="member"/>
+        <Object Name="method"/>
+        <Object Name="methodInput"/>
+        <Object Name="methodOutput"/>
+        <Object Name="metrosnap~"/>
+        <Object Name="mixAB"/>
+        <Object Name="mixAB~"/>
+        <Object Name="nearest"/>
+        <Object Name="numbersBetween"/>
+        <Object Name="numberSymbol"/>
+        <Object Name="objAccess"/>
+        <Object Name="passNthElement"/>
+        <Object Name="passPair"/>
+        <Object Name="popLastN"/>
+        <Object Name="printHere"/>
+        <Object Name="private"/>
+        <Object Name="public"/>
+        <Object Name="r2l"/>
+        <Object Name="randomList"/>
+        <Object Name="redGreenBlue"/>
+        <Object Name="repeat"/>
+        <Object Name="rgb"/>
+        <Object Name="right2left"/>
+        <Object Name="roundIfVeryClose"/>
+        <Object Name="sample~"/>
+        <Object Name="scope~"/>
+        <Object Name="searchIncomingLists"/>
+        <Object Name="searchIncomingStrings"/>
+        <Object Name="setMember"/>
+        <Object Name="spigot~"/>
+        <Object Name="stringLength"/>
+        <Object Name="stringReplace"/>
+        <Object Name="stringSearch"/>
+        <Object Name="sublist"/>
+        <Object Name="sublistIterator"/>
+        <Object Name="substring"/>
+        <Object Name="switch2"/>
+        <Object Name="switch2~"/>
+        <Object Name="switch3"/>
+        <Object Name="switch3~"/>
+        <Object Name="switch4"/>
+        <Object Name="switch4~"/>
+        <Object Name="switch5"/>
+        <Object Name="switch5~"/>
+        <Object Name="switch6"/>
+        <Object Name="switch6~"/>
+        <Object Name="switch7"/>
+        <Object Name="switch7~"/>
+        <Object Name="symbolize"/>
+        <Object Name="symbolSplit"/>
+        <Object Name="symbolToFloat"/>
+        <Object Name="tabCopy"/>
+        <Object Name="tabReverse"/>
+        <Object Name="tabReverseCopy"/>
+        <Object Name="unitTesting"/>
+        <Object Name="upperCase"/>
+        <Object Name="v++"/>
+        <Object Name="v--"/>
+        <Object Name="value++"/>
+        <Object Name="value--"/>
+        <Object Name="valueOp"/>
+        <Object Name="valueOpSet"/>
+        <Object Name="var"/>
+        <Object Name="weightedRandom"/>
+      </Objects>
+    </Package>
+    <Package ID="ZWFzeWZsb3dfMC4yLjBfMjAxOC0wOC0xMiAwNzoxNjozN19IZW5yaQ=="
+             Author="Henri" Timestamp="2018-08-12 07:16:37" Description="easyflow[v0.2.0].dek"
+             Version="0.2.0" URL="https://puredata.info/Members/Henri/software/easyflow/0.2.0/easyflow[v0.2.0].dek">
+      <Objects>
+        <Object Name="addList"/>
+        <Object Name="alternate"/>
+        <Object Name="any"/>
+        <Object Name="arrayList"/>
+        <Object Name="audioSpigot~"/>
+        <Object Name="colorCirc"/>
+        <Object Name="colorCircF"/>
+        <Object Name="colorCnv"/>
+        <Object Name="colorCnvF"/>
+        <Object Name="colorDef"/>
+        <Object Name="colorHighlighting"/>
+        <Object Name="colorNames"/>
+        <Object Name="colorSyntax"/>
+        <Object Name="colorTri"/>
+        <Object Name="colorTriF"/>
+        <Object Name="compare"/>
+        <Object Name="copyList"/>
+        <Object Name="counter"/>
+        <Object Name="curves"/>
+        <Object Name="curvesmap"/>
+        <Object Name="curvesmap~"/>
+        <Object Name="curves~"/>
+        <Object Name="deleteScalar"/>
+        <Object Name="doubleClick"/>
+        <Object Name="easyflow-info"/>
+        <Object Name="for"/>
+        <Object Name="funnel"/>
+        <Object Name="getAllScalars"/>
+        <Object Name="getFile"/>
+        <Object Name="getFolder"/>
+        <Object Name="getNofScalars"/>
+        <Object Name="getNthScalar"/>
+        <Object Name="GOPTool"/>
+        <Object Name="hexCharToDec"/>
+        <Object Name="hexColor"/>
+        <Object Name="hold"/>
+        <Object Name="hsb"/>
+        <Object Name="hsl"/>
+        <Object Name="huesaturationbrightness"/>
+        <Object Name="huesaturationluminosity"/>
+        <Object Name="keepMax"/>
+        <Object Name="keepMin"/>
+        <Object Name="keychange"/>
+        <Object Name="l2r"/>
+        <Object Name="labelCnv"/>
+        <Object Name="labelCnvF"/>
+        <Object Name="left2right"/>
+        <Object Name="listCompare"/>
+        <Object Name="listConcatenate"/>
+        <Object Name="listPick"/>
+        <Object Name="listPickPair"/>
+        <Object Name="listPlus"/>
+        <Object Name="listReplace"/>
+        <Object Name="listReplaceAtIndex"/>
+        <Object Name="listsOfLength"/>
+        <Object Name="listSplit"/>
+        <Object Name="listToSymbol"/>
+        <Object Name="lowerCase"/>
+        <Object Name="map"/>
+        <Object Name="map~"/>
+        <Object Name="metrosnap~"/>
+        <Object Name="mixAB"/>
+        <Object Name="mixAB~"/>
+        <Object Name="nearest"/>
+        <Object Name="numbersbetween"/>
+        <Object Name="numberSymbol"/>
+        <Object Name="passNthElement"/>
+        <Object Name="passPair"/>
+        <Object Name="popLastN"/>
+        <Object Name="printHere"/>
+        <Object Name="r2l"/>
+        <Object Name="redGreenBlue"/>
+        <Object Name="rgb"/>
+        <Object Name="right2left"/>
+        <Object Name="roundIfVeryClose"/>
+        <Object Name="sample~"/>
+        <Object Name="scope~"/>
+        <Object Name="searchElem"/>
+        <Object Name="spigot~"/>
+        <Object Name="stringLength"/>
+        <Object Name="stringReplace"/>
+        <Object Name="sublist"/>
+        <Object Name="substring"/>
+        <Object Name="substringFromStart"/>
+        <Object Name="switch2"/>
+        <Object Name="switch2~"/>
+        <Object Name="switch3"/>
+        <Object Name="switch3~"/>
+        <Object Name="switch4"/>
+        <Object Name="switch4~"/>
+        <Object Name="switch5"/>
+        <Object Name="switch5~"/>
+        <Object Name="switch6"/>
+        <Object Name="switch6~"/>
+        <Object Name="switch7"/>
+        <Object Name="switch7~"/>
+        <Object Name="symbolize"/>
+        <Object Name="symbolSplit"/>
+        <Object Name="tabCopy"/>
+        <Object Name="tabReverse"/>
+        <Object Name="tabReverseCopy"/>
+        <Object Name="upperCase"/>
+        <Object Name="var"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="completion-plugin">
+    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40OS4xXzIwMjMtMDMtMTggMjA6MzY6MzlfcG9ycmVz"
+             Author="porres" Timestamp="2023-03-18 20:36:39" Description="completion-plugin[v0.49.1].dek"
+             Version="0.49.1" URL="https://puredata.info/Members/porres/software/completion-plugin/0.49.1/completion-plugin[v0.49.1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40OS4wXzIwMjMtMDMtMTYgMDM6MzU6MDNfcG9ycmVz"
+             Author="porres" Timestamp="2023-03-16 03:35:03" Description="completion-plugin[v0.49.0].dek"
+             Version="0.49.0" URL="https://puredata.info/Members/porres/software/completion-plugin/0.49.0/completion-plugin[v0.49.0].dek">
+      <Objects/>
+    </Package>
+    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40OC4wXzIwMjMtMDMtMDcgMDI6Mzg6NDJfcG9ycmVz"
+             Author="porres" Timestamp="2023-03-07 02:38:42" Description="completion-plugin[v0.48.0].dek"
+             Version="0.48.0" URL="https://puredata.info/Members/porres/software/completion-plugin/0.48.0/completion-plugin[v0.48.0].dek">
+      <Objects>
+        <Object Name="Completion"/>
+      </Objects>
+    </Package>
+    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40Ny4xXzIwMTktMDktMTggMTM6Mzc6MjdfSGVucmk="
+             Author="Henri" Timestamp="2019-09-18 13:37:27" Description="completion-plugin[v0.47.1].dek"
+             Version="0.47.1" URL="https://puredata.info/Members/Henri/software/completion-plugin/0.47.1/completion-plugin[v0.47.1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40Ny4wXzIwMTktMDktMDggMDE6MTM6NDFfSGVucmk="
+             Author="Henri" Timestamp="2019-09-08 01:13:41" Description="completion-plugin[v0.47.0].dek"
+             Version="0.47.0" URL="https://puredata.info/Members/Henri/software/completion-plugin/0.47.0/completion-plugin[v0.47.0].dek">
+      <Objects/>
+    </Package>
+    <Package ID="Y29tcGxldGlvbi1wbHVnaW5fMC40Ni4xXzIwMTgtMDktMTIgMjI6MDU6NDdfSGVucmk="
+             Author="Henri" Timestamp="2018-09-12 22:05:47" Description="completion-plugin[v0.46.1].dek"
+             Version="0.46.1" URL="https://puredata.info/Members/Henri/software/completion-plugin/0.46.1/completion-plugin[v0.46.1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="mc">
+    <Package ID="bWNfMC4wLjFfMjAyMS0xMi0wNiAwMDowNzoxMV90aG9tYXM=" Author="thomas"
+             Timestamp="2021-12-06 00:07:11" Description="mc[v0.0.1].dek"
+             Version="0.0.1" URL="https://puredata.info/Members/thomas/software/mc/0.0.1/mc[v0.0.1].dek">
+      <Objects>
+        <Object Name="mc"/>
+        <Object Name="mc._dsp"/>
+        <Object Name="mc.concat"/>
+        <Object Name="mc.dist~"/>
+        <Object Name="mc.effect"/>
+        <Object Name="mc.index"/>
+        <Object Name="mc.map"/>
+        <Object Name="mc.op"/>
+        <Object Name="mc.sink"/>
+        <Object Name="mc.slice"/>
+        <Object Name="mc.source"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="missive~">
+    <Package ID="bWlzc2l2ZX5fMC40XzIwMjEtMTItMjggMTc6MjQ6MDVfd21icmVudA=="
+             Author="wmbrent" Timestamp="2021-12-28 17:24:05" Description="missive~[v0.4].dek"
+             Version="0.4" URL="https://puredata.info/Members/wmbrent/software/missive~/0.4/missive~[v0.4].dek">
+      <Objects>
+        <Object Name="missive~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="bf-pd">
+    <Package ID="YmYtcGRfMS4wXzIwMjEtMDgtMDMgMTI6MTQ6MTZfZmJlcnRoYXV0" Author="fberthaut"
+             Timestamp="2021-08-03 12:14:16" Description="bf-pd[v1.0].dek"
+             Version="1.0" URL="https://puredata.info/Members/fberthaut/software/bf-pd/1.0/bf-pd[v1.0].dek">
+      <Objects>
+        <Object Name="bf-clock"/>
+        <Object Name="bf-instrument"/>
+        <Object Name="bf-output"/>
+        <Object Name="bf-param"/>
+        <Object Name="boeuf"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="AutoPreset">
+    <Package ID="QXV0b1ByZXNldF8wLjEwXzIwMTYtMTEtMDcgMjM6MDc6MjRfYW50MXI="
+             Author="ant1r" Timestamp="2016-11-07 23:07:24" Description="AutoPreset-v0.10--externals.zip"
+             Version="0.10" URL="https://puredata.info/Members/ant1r/software/AutoPreset/0.10/AutoPreset-v0.10--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="QXV0b1ByZXNldF8wLjlfMjAxNS0xMi0xOCAwMDowNjoxOF9hbnQxcg=="
+             Author="ant1r" Timestamp="2015-12-18 00:06:18" Description="AutoPreset-v0.9--externals.zip"
+             Version="0.9" URL="https://puredata.info/Members/ant1r/software/AutoPreset/0.9/AutoPreset-v0.9--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="acre">
+    <Package ID="YWNyZV8yLjAtcmM1XzIwMjQtMDgtMjIgMTM6Mjk6NTBfcml0c2No" Author="ritsch"
+             Timestamp="2024-08-22 13:29:50" Description="acre[v2.0-rc5].dek"
+             Version="2.0-rc5" URL="https://puredata.info/Members/ritsch/software/acre/2.0-rc5/acre[v2.0-rc5].dek">
+      <Objects/>
+    </Package>
+    <Package ID="YWNyZV8xLjAzXzIwMjAtMTItMDMgMDk6MzE6MzJfcml0c2No" Author="ritsch"
+             Timestamp="2020-12-03 09:31:32" Description="acre[v1.03].dek"
+             Version="1.03" URL="https://puredata.info/Members/ritsch/software/acre/1.0/acre[v1.03].dek">
+      <Objects/>
+    </Package>
+    <Package ID="YWNyZV8xLjAxXzIwMTYtMTAtMjEgMjM6Mzk6MzJfcml0c2No" Author="ritsch"
+             Timestamp="2016-10-21 23:39:32" Description="acre-v1.01--externals.zip"
+             Version="1.01" URL="https://puredata.info/Members/ritsch/software/acre/1.0/acre-v1.01--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="YWNyZV8xLjBfMjAxNi0wNy0xMSAwMDo0OToxNV9yaXRzY2g=" Author="ritsch"
+             Timestamp="2016-07-11 00:49:15" Description="acre-v1.0--externals.zip"
+             Version="1.0" URL="https://puredata.info/Members/ritsch/software/acre/1.0/acre-v1.0--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="YWNyZV8wLjY5XzIwMTYtMDUtMDggMjI6NDU6NThfcml0c2No" Author="ritsch"
+             Timestamp="2016-05-08 22:45:58" Description="acre-v0.69--externals.zip"
+             Version="0.69" URL="https://puredata.info/Members/ritsch/software/acre/0.69/acre-v0.69--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="acre-amb">
+    <Package ID="YWNyZS1hbWJfMC45XzIwMjQtMDgtMjIgMTM6MzY6MDRfcml0c2No" Author="ritsch"
+             Timestamp="2024-08-22 13:36:04" Description="acre-amb[v0.9].dek"
+             Version="0.9" URL="https://puredata.info/Members/ritsch/software/acre-amb/0.9/acre-amb[v0.9].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="spring22">
+    <Package ID="c3ByaW5nMjJfMC4yMDIyMDYxN18yMDIyLTA2LTE3IDE1OjAwOjIxX3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2022-06-17 15:00:21" Description="spring22[v0.20220617].dek"
+             Version="0.20220617" URL="https://puredata.info/Members/zmoelnig/software/spring22/0.20220617/spring22[v0.20220617].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="chair">
+    <Package ID="Y2hhaXJfMC44MV8yMDIwLTAyLTE0IDIwOjQxOjMwX0NIQUlS" Author="CHAIR"
+             Timestamp="2020-02-14 20:41:30" Description="chair[v0.81].dek"
+             Version="0.81" URL="https://puredata.info/Members/CHAIR/software/chair/0.81/chair[v0.81].dek">
+      <Objects>
+        <Object Name="chair.14bit-ctlin"/>
+        <Object Name="chair.angle"/>
+        <Object Name="chair.chrismoore-reverb~"/>
+        <Object Name="chair.dc-offset~"/>
+        <Object Name="chair.distance"/>
+        <Object Name="chair.dynamics~"/>
+        <Object Name="chair.encoders"/>
+        <Object Name="chair.feedback-cancellation~"/>
+        <Object Name="chair.gain~"/>
+        <Object Name="chair.gesture"/>
+        <Object Name="chair.hex-hold"/>
+        <Object Name="chair.hex-mapping"/>
+        <Object Name="chair.hex-tuning"/>
+        <Object Name="chair.increment"/>
+        <Object Name="chair.mtocv~"/>
+        <Object Name="chair.peak-env~"/>
+        <Object Name="chair.rotary-limit-range"/>
+        <Object Name="chair.rotary-relative"/>
+        <Object Name="chair.singleton"/>
+        <Object Name="chair.speed"/>
+        <Object Name="chair.stereogain~"/>
+        <Object Name="chair.touchgate~"/>
+        <Object Name="chair.transpose-oct"/>
+        <Object Name="chair.vfreeverb~"/>
+      </Objects>
+    </Package>
+    <Package ID="Y2hhaXJfMC44MF8yMDE5LTEwLTI4IDAwOjEyOjEyX0NIQUlS" Author="CHAIR"
+             Timestamp="2019-10-28 00:12:12" Description="chair[v0.80].dek"
+             Version="0.80" URL="https://puredata.info/Members/CHAIR/software/chair/0.80/chair[v0.80].dek">
+      <Objects>
+        <Object Name="chair.angle"/>
+        <Object Name="chair.capsense"/>
+        <Object Name="chair.chrismoore-reverb~"/>
+        <Object Name="chair.cleanposdata"/>
+        <Object Name="chair.dc-offset~"/>
+        <Object Name="chair.distance"/>
+        <Object Name="chair.dynamics~"/>
+        <Object Name="chair.encoders"/>
+        <Object Name="chair.feedback-cancellation~"/>
+        <Object Name="chair.gain~"/>
+        <Object Name="chair.gesture"/>
+        <Object Name="chair.hex-hold"/>
+        <Object Name="chair.hex-mapping"/>
+        <Object Name="chair.hex-tuning"/>
+        <Object Name="chair.modifier"/>
+        <Object Name="chair.mtocv~"/>
+        <Object Name="chair.peak-env~"/>
+        <Object Name="chair.rotary-limit-range"/>
+        <Object Name="chair.singleton"/>
+        <Object Name="chair.speed"/>
+        <Object Name="chair.stereogain~"/>
+        <Object Name="chair.touchgate~"/>
+        <Object Name="chair.transpose-oct"/>
+        <Object Name="chair.vfreeverb~"/>
+      </Objects>
+    </Package>
+    <Package ID="Y2hhaXJfMC43M18yMDE5LTA2LTE1IDAwOjUyOjI3X0NIQUlS" Author="CHAIR"
+             Timestamp="2019-06-15 00:52:27" Description="chair[v0.73].dek"
+             Version="0.73" URL="https://puredata.info/Members/CHAIR/software/chair/0.73/chair[v0.73].dek">
+      <Objects>
+        <Object Name="cair.modifier"/>
+        <Object Name="chair.angle"/>
+        <Object Name="chair.capsense"/>
+        <Object Name="chair.chrismoore-reverb~"/>
+        <Object Name="chair.cleanposdata"/>
+        <Object Name="chair.dc-offset~"/>
+        <Object Name="chair.distance"/>
+        <Object Name="chair.dynamics~"/>
+        <Object Name="chair.feedback-cancellation~"/>
+        <Object Name="chair.gain~"/>
+        <Object Name="chair.gesture"/>
+        <Object Name="chair.hex-mapping"/>
+        <Object Name="chair.hex-tuning"/>
+        <Object Name="chair.mtocv~"/>
+        <Object Name="chair.peak-env~"/>
+        <Object Name="chair.rotary-limit-range"/>
+        <Object Name="chair.singleton"/>
+        <Object Name="chair.speed"/>
+        <Object Name="chair.stereogain~"/>
+        <Object Name="chair.touchgate~"/>
+        <Object Name="chair.transpose-oct"/>
+        <Object Name="chair.vfreeverb~"/>
+        <Object Name="tickle~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="acre-wg">
+    <Package ID="YWNyZS13Z18xLjAzXzIwMjQtMDgtMjIgMTM6Mzc6NDRfcml0c2No" Author="ritsch"
+             Timestamp="2024-08-22 13:37:44" Description="acre-wg[v1.03].dek"
+             Version="1.03" URL="https://puredata.info/Members/ritsch/software/acre-wg/1.03/acre-wg[v1.03].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="DRFX">
+    <Package ID="RFJGWF8wLjUuMV8yMDE4LTAzLTI2IDA0OjI2OjA3X3dtYnJlbnQ=" Author="wmbrent"
+             Timestamp="2018-03-26 04:26:07" Description="DRFX[v0.5.1].dek"
+             Version="0.5.1" URL="https://puredata.info/Members/wmbrent/software/DRFX/0.5.1/DRFX[v0.5.1].dek">
+      <Objects>
+        <Object Name="DRFX"/>
       </Objects>
     </Package>
   </Packages>
