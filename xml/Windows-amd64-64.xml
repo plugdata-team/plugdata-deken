@@ -10839,4 +10839,13 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="midifile">
+    <Package ID="bWlkaWZpbGVfMC40LjNfMjAyNS0wMy0wNCAyMzoyODowN19pZW1ib3Q="
+             Author="iembot" Timestamp="2025-03-04 23:28:07" Description="midifile[v0.4.3](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
+             Version="0.4.3" URL="https://puredata.info/Members/iembot/software/midifile/0.4.3/midifile[v0.4.3](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="midifile"/>
+      </Objects>
+    </Package>
+  </Packages>
 </Windows-amd64-64>

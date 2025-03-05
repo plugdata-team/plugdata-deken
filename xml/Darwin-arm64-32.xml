@@ -13209,6 +13209,13 @@
     </Package>
   </Packages>
   <Packages Name="midifile">
+    <Package ID="bWlkaWZpbGVfMC40LjNfMjAyNS0wMy0wNCAyMzoyNjoyMl9pZW1ib3Q="
+             Author="iembot" Timestamp="2025-03-04 23:26:22" Description="midifile[v0.4.3](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
+             Version="0.4.3" URL="https://puredata.info/Members/iembot/software/midifile/0.4.3/midifile[v0.4.3](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek">
+      <Objects>
+        <Object Name="midifile"/>
+      </Objects>
+    </Package>
     <Package ID="bWlkaWZpbGVfMC40LjJfMjAyNC0xMS0yMiAwOTozMzoxM19pZW1ib3Q="
              Author="iembot" Timestamp="2024-11-22 09:33:13" Description="midifile[v0.4.2](Darwin-amd64-32)(Darwin-arm64-32).dek"
              Version="0.4.2" URL="https://puredata.info/Members/iembot/software/midifile/0.4.2/midifile[v0.4.2](Darwin-amd64-32)(Darwin-arm64-32).dek">
