@@ -1548,6 +1548,147 @@
     </Package>
   </Packages>
   <Packages Name="planifolia">
+    <Package ID="cGxhbmlmb2xpYV8wLjMyXzIwMjUtMDMtMTYgMTM6NTc6NDBfemVwYWRvdmFuaQ=="
+             Author="zepadovani" Timestamp="2025-03-16 13:57:40" Description="planifolia[v0.32].dek"
+             Version="0.32" URL="https://puredata.info/Members/zepadovani/software/planifolia/0.32/planifolia[v0.32].dek">
+      <Objects>
+        <Object Name="any.=="/>
+        <Object Name="array.binop"/>
+        <Object Name="array.rand"/>
+        <Object Name="array.unop"/>
+        <Object Name="ls.binop"/>
+        <Object Name="ls.butlast"/>
+        <Object Name="ls.choose"/>
+        <Object Name="ls.circgroup"/>
+        <Object Name="ls.get"/>
+        <Object Name="ls.getRotate"/>
+        <Object Name="ls.group"/>
+        <Object Name="ls.iter"/>
+        <Object Name="ls.last"/>
+        <Object Name="ls.max"/>
+        <Object Name="ls.mean"/>
+        <Object Name="ls.min"/>
+        <Object Name="ls.mode"/>
+        <Object Name="ls.nearest"/>
+        <Object Name="ls.quicksort"/>
+        <Object Name="ls.removeAt"/>
+        <Object Name="ls.rotate"/>
+        <Object Name="ls.scramble"/>
+        <Object Name="ls.ser.arithm"/>
+        <Object Name="ls.shuffle"/>
+        <Object Name="ls.splice"/>
+        <Object Name="ls.unop"/>
+        <Object Name="mtxgui"/>
+        <Object Name="mtxstep"/>
+        <Object Name="osc.in"/>
+        <Object Name="osc.io"/>
+        <Object Name="osc.match"/>
+        <Object Name="osc.out"/>
+        <Object Name="osc.route"/>
+        <Object Name="packOSC"/>
+        <Object Name="slash.oscformat"/>
+        <Object Name="slash.oscroute"/>
+        <Object Name="slash.rawlist"/>
+        <Object Name="symbol.=="/>
+        <Object Name="symbol.split"/>
+        <Object Name="symbol.v"/>
+        <Object Name="symbol.value"/>
+      </Objects>
+    </Package>
+    <Package ID="cGxhbmlmb2xpYV8wLjMxXzIwMjUtMDMtMTYgMTM6MDM6MThfemVwYWRvdmFuaQ=="
+             Author="zepadovani" Timestamp="2025-03-16 13:03:18" Description="planifolia[v0.31].dek"
+             Version="0.31" URL="https://puredata.info/Members/zepadovani/software/planifolia/0.31/planifolia[v0.31].dek">
+      <Objects>
+        <Object Name="any.=="/>
+        <Object Name="array.binop"/>
+        <Object Name="array.rand"/>
+        <Object Name="array.unop"/>
+        <Object Name="ls.binop"/>
+        <Object Name="ls.butlast"/>
+        <Object Name="ls.choose"/>
+        <Object Name="ls.circgroup"/>
+        <Object Name="ls.get"/>
+        <Object Name="ls.getRotate"/>
+        <Object Name="ls.group"/>
+        <Object Name="ls.iter"/>
+        <Object Name="ls.last"/>
+        <Object Name="ls.max"/>
+        <Object Name="ls.mean"/>
+        <Object Name="ls.min"/>
+        <Object Name="ls.mode"/>
+        <Object Name="ls.nearest"/>
+        <Object Name="ls.quicksort"/>
+        <Object Name="ls.removeAt"/>
+        <Object Name="ls.rotate"/>
+        <Object Name="ls.scramble"/>
+        <Object Name="ls.ser.arithm"/>
+        <Object Name="ls.shuffle"/>
+        <Object Name="ls.splice"/>
+        <Object Name="ls.unop"/>
+        <Object Name="mtxgui"/>
+        <Object Name="mtxstep"/>
+        <Object Name="osc.in"/>
+        <Object Name="osc.io"/>
+        <Object Name="osc.match"/>
+        <Object Name="osc.out"/>
+        <Object Name="osc.route"/>
+        <Object Name="packOSC"/>
+        <Object Name="slash.oscformat"/>
+        <Object Name="slash.oscroute"/>
+        <Object Name="slash.rawlist"/>
+        <Object Name="symbol.=="/>
+        <Object Name="symbol.split"/>
+        <Object Name="symbol.v"/>
+        <Object Name="symbol.value"/>
+      </Objects>
+    </Package>
+    <Package ID="cGxhbmlmb2xpYV8wLjMuMV8yMDI1LTAzLTE2IDEyOjUzOjUwX3plcGFkb3Zhbmk="
+             Author="zepadovani" Timestamp="2025-03-16 12:53:50" Description="planifolia[v0.3.1].dek"
+             Version="0.3.1" URL="https://puredata.info/Members/zepadovani/software/planifolia/0.3.1/planifolia[v0.3.1].dek">
+      <Objects>
+        <Object Name="any.=="/>
+        <Object Name="array.binop"/>
+        <Object Name="array.rand"/>
+        <Object Name="array.unop"/>
+        <Object Name="ls.binop"/>
+        <Object Name="ls.butlast"/>
+        <Object Name="ls.choose"/>
+        <Object Name="ls.circgroup"/>
+        <Object Name="ls.get"/>
+        <Object Name="ls.getRotate"/>
+        <Object Name="ls.group"/>
+        <Object Name="ls.iter"/>
+        <Object Name="ls.last"/>
+        <Object Name="ls.max"/>
+        <Object Name="ls.mean"/>
+        <Object Name="ls.min"/>
+        <Object Name="ls.mode"/>
+        <Object Name="ls.nearest"/>
+        <Object Name="ls.quicksort"/>
+        <Object Name="ls.removeAt"/>
+        <Object Name="ls.rotate"/>
+        <Object Name="ls.scramble"/>
+        <Object Name="ls.ser.arithm"/>
+        <Object Name="ls.shuffle"/>
+        <Object Name="ls.splice"/>
+        <Object Name="ls.unop"/>
+        <Object Name="mtxgui"/>
+        <Object Name="mtxstep"/>
+        <Object Name="osc.in"/>
+        <Object Name="osc.io"/>
+        <Object Name="osc.match"/>
+        <Object Name="osc.out"/>
+        <Object Name="osc.route"/>
+        <Object Name="packOSC"/>
+        <Object Name="slash.oscformat"/>
+        <Object Name="slash.oscroute"/>
+        <Object Name="slash.rawlist"/>
+        <Object Name="symbol.=="/>
+        <Object Name="symbol.split"/>
+        <Object Name="symbol.v"/>
+        <Object Name="symbol.value"/>
+      </Objects>
+    </Package>
     <Package ID="cGxhbmlmb2xpYV8wLjIxXzIwMjItMTEtMzAgMjE6MTI6MTNfemVwYWRvdmFuaQ=="
              Author="zepadovani" Timestamp="2022-11-30 21:12:13" Description="planifolia[v0.21].dek"
              Version="0.21" URL="https://puredata.info/Members/zepadovani/software/planifolia/0.21/planifolia[v0.21].dek">
