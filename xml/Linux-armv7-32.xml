@@ -2767,9 +2767,9 @@
     </Package>
   </Packages>
   <Packages Name="mrpeach">
-    <Package ID="bXJwZWFjaF8yMDIwMDYxNV8yMDIwLTA2LTE4IDIxOjI1OjI2X21hcnRpbnJw"
-             Author="martinrp" Timestamp="2020-06-18 21:25:26" Description="mrpeach[v20200615](Linux-armv7-32)(Sources).dek"
-             Version="20200615" URL="https://puredata.info/Members/martinrp/software/mrpeach/20200615/mrpeach[v20200615](Linux-armv7-32)(Sources).dek">
+    <Package ID="bXJwZWFjaF8wLjAuMjAyMDA2MTVfMjAyMC0wNi0xOCAyMToyNToyNl9tYXJ0aW5ycA=="
+             Author="martinrp" Timestamp="2020-06-18 21:25:26" Description="mrpeach[v0.0.20200615](Linux-armv7-32)(Sources).dek"
+             Version="0.0.20200615" URL="https://puredata.info/Members/martinrp/software/mrpeach/20200615/mrpeach[v0.0.20200615](Linux-armv7-32)(Sources).dek">
       <Objects/>
     </Package>
   </Packages>

@@ -3314,9 +3314,9 @@
     </Package>
   </Packages>
   <Packages Name="mrpeach">
-    <Package ID="bXJwZWFjaF8yMDIwMDYxNV8yMDIwLTA2LTE0IDE5OjAxOjU0X21hcnRpbnJw"
-             Author="martinrp" Timestamp="2020-06-14 19:01:54" Description="mrpeach[v20200615](Windows-amd64-32)(Sources).dek"
-             Version="20200615" URL="https://puredata.info/Members/martinrp/software/mrpeach/20200615/mrpeach[v20200615](Windows-amd64-32)(Sources).dek">
+    <Package ID="bXJwZWFjaF8wLjAuMjAyMDA2MTVfMjAyMC0wNi0xNCAxOTowMTo1NF9tYXJ0aW5ycA=="
+             Author="martinrp" Timestamp="2020-06-14 19:01:54" Description="mrpeach[v0.0.20200615](Windows-amd64-32)(Sources).dek"
+             Version="0.0.20200615" URL="https://puredata.info/Members/martinrp/software/mrpeach/20200615/mrpeach[v0.0.20200615](Windows-amd64-32)(Sources).dek">
       <Objects/>
     </Package>
     <Package ID="bXJwZWFjaF8wLjAuZXh0ZW5kZWRfMjAxOC0wOS0yNiAwMzo0Nzo1MF9sdWNhcmRh"
@@ -25816,9 +25816,9 @@
         <Object Name="midifile"/>
       </Objects>
     </Package>
-    <Package ID="bWlkaWZpbGVfMC4yMDIwMDMxMl8yMDIwLTAzLTExIDE3OjEzOjAxX21hcnRpbnJw"
-             Author="martinrp" Timestamp="2020-03-11 17:13:01" Description="midifile[v0.20200312](Windows-amd64-32)(Sources).dek"
-             Version="0.20200312" URL="https://puredata.info/Members/martinrp/software/midifile/0.20200312/midifile[v0.20200312](Windows-amd64-32)(Sources).dek">
+    <Package ID="bWlkaWZpbGVfMC4wLjIwMjAwMzEyXzIwMjAtMDMtMTEgMTc6MTM6MDFfbWFydGlucnA="
+             Author="martinrp" Timestamp="2020-03-11 17:13:01" Description="midifile[v0.0.20200312](Windows-amd64-32)(Sources).dek"
+             Version="0.0.20200312" URL="https://puredata.info/Members/martinrp/software/midifile/0.20200312/midifile[v0.0.20200312](Windows-amd64-32)(Sources).dek">
       <Objects>
         <Object Name="midifile"/>
       </Objects>

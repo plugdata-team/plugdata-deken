@@ -3960,9 +3960,9 @@
     </Package>
   </Packages>
   <Packages Name="mrpeach">
-    <Package ID="bXJwZWFjaF8yMDIwMDYxNV8yMDIwLTExLTEyIDE1OjUxOjM0X21hcnRpbnJw"
-             Author="martinrp" Timestamp="2020-11-12 15:51:34" Description="mrpeach[v20200615](Darwin-amd64-32)(Sources).dek"
-             Version="20200615" URL="https://puredata.info/Members/martinrp/software/mrpeach/20200615/mrpeach[v20200615](Darwin-amd64-32)(Sources).dek">
+    <Package ID="bXJwZWFjaF8wLjAuMjAyMDA2MTVfMjAyMC0xMS0xMiAxNTo1MTozNF9tYXJ0aW5ycA=="
+             Author="martinrp" Timestamp="2020-11-12 15:51:34" Description="mrpeach[v0.0.20200615](Darwin-amd64-32)(Sources).dek"
+             Version="0.0.20200615" URL="https://puredata.info/Members/martinrp/software/mrpeach/20200615/mrpeach[v0.0.20200615](Darwin-amd64-32)(Sources).dek">
       <Objects/>
     </Package>
     <Package ID="bXJwZWFjaF8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjI4OjE2X3ptb2Vsbmln"
