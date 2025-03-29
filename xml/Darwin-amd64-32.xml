@@ -4955,8 +4955,8 @@
     </Package>
   </Packages>
   <Packages Name="Gem">
-    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNS0wMy0yNyAxNjo0OTo0OV9pZW1ib3Q="
-             Author="iembot" Timestamp="2025-03-27 16:49:49" Description="Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
+    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNS0wMy0yOCAyMjowMjoyNF9pZW1ib3Q="
+             Author="iembot" Timestamp="2025-03-28 22:02:24" Description="Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
              Version="0.94-snapshot" URL="https://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek">
       <Objects>
         <Object Name="_textbbox"/>
