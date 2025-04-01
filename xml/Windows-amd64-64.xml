@@ -2180,8 +2180,8 @@
     </Package>
   </Packages>
   <Packages Name="Gem">
-    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNS0wMy0yOCAyMjowMjo0M19pZW1ib3Q="
-             Author="iembot" Timestamp="2025-03-28 22:02:43" Description="Gem[v0.94-snapshot](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
+    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNS0wMy0zMSAyMDoxMjo1M19pZW1ib3Q="
+             Author="iembot" Timestamp="2025-03-31 20:12:53" Description="Gem[v0.94-snapshot](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
              Version="0.94-snapshot" URL="https://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
       <Objects>
         <Object Name="_textbbox"/>
@@ -2238,6 +2238,7 @@
         <Object Name="gemw32window"/>
         <Object Name="gemwin"/>
         <Object Name="GLdefine"/>
+        <Object Name="glsl"/>
         <Object Name="glsl_fragment"/>
         <Object Name="glsl_geometry"/>
         <Object Name="glsl_program"/>
