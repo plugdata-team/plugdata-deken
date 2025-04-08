@@ -2068,24 +2068,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="hexloader">
-    <Package ID="aGV4bG9hZGVyXzEuOF8yMDI0LTAzLTE4IDE4OjE5OjMxX2llbWJvdA=="
-             Author="iembot" Timestamp="2024-03-18 18:19:31" Description="hexloader[v1.8](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
-             Version="1.8" URL="https://puredata.info/Members/iembot/software/hexloader/1.8/hexloader[v1.8](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
-      <Objects>
-        <Object Name="hexloader"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="missive~">
-    <Package ID="bWlzc2l2ZX5fMC40XzIwMjEtMTItMjggMTc6MjQ6MDVfd21icmVudA=="
-             Author="wmbrent" Timestamp="2021-12-28 17:24:05" Description="missive~[v0.4].dek"
-             Version="0.4" URL="https://puredata.info/Members/wmbrent/software/missive~/0.4/missive~[v0.4].dek">
-      <Objects>
-        <Object Name="missive~"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="mc">
     <Package ID="bWNfMC4wLjFfMjAyMS0xMi0wNiAwMDowNzoxMV90aG9tYXM=" Author="thomas"
              Timestamp="2021-12-06 00:07:11" Description="mc[v0.0.1].dek"
@@ -9567,6 +9549,24 @@
         <Object Name="xfade~"/>
         <Object Name="||'"/>
         <Object Name="~-&gt;"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="hexloader">
+    <Package ID="aGV4bG9hZGVyXzEuOF8yMDI0LTAzLTE4IDE4OjE5OjMxX2llbWJvdA=="
+             Author="iembot" Timestamp="2024-03-18 18:19:31" Description="hexloader[v1.8](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
+             Version="1.8" URL="https://puredata.info/Members/iembot/software/hexloader/1.8/hexloader[v1.8](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="hexloader"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="missive~">
+    <Package ID="bWlzc2l2ZX5fMC40XzIwMjEtMTItMjggMTc6MjQ6MDVfd21icmVudA=="
+             Author="wmbrent" Timestamp="2021-12-28 17:24:05" Description="missive~[v0.4].dek"
+             Version="0.4" URL="https://puredata.info/Members/wmbrent/software/missive~/0.4/missive~[v0.4].dek">
+      <Objects>
+        <Object Name="missive~"/>
       </Objects>
     </Package>
   </Packages>

@@ -8,6 +8,15 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="zconf">
+    <Package ID="emNvbmZfMC4yLjFfMjAyMC0wMy0wMyAwOToyOTozNF90aG9tYXM=" Author="thomas"
+             Timestamp="2020-03-03 09:29:34" Description="zconf[v0.2.1](Linux-armv6-32).dek"
+             Version="0.2.1" URL="https://puredata.info/Members/thomas/software/zconf/0.2.1/zconf[v0.2.1](Linux-armv6-32).dek">
+      <Objects>
+        <Object Name="zconf"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="mediasettings">
     <Package ID="bWVkaWFzZXR0aW5nc18wLjFfMjAxNS0xMS0yMyAxNjozMDo1M19hdmlsbGVyZXQ="
              Author="avilleret" Timestamp="2015-11-23 16:30:53" Description="mediasettings-v0.1-(Linux-armv6-32)-externals.tar.gz"
@@ -305,15 +314,6 @@
         <Object Name="kaiser"/>
         <Object Name="lanczos"/>
         <Object Name="welch"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="zconf">
-    <Package ID="emNvbmZfMC4yLjFfMjAyMC0wMy0wMyAwOToyOTozNF90aG9tYXM=" Author="thomas"
-             Timestamp="2020-03-03 09:29:34" Description="zconf[v0.2.1](Linux-armv6-32).dek"
-             Version="0.2.1" URL="https://puredata.info/Members/thomas/software/zconf/0.2.1/zconf[v0.2.1](Linux-armv6-32).dek">
-      <Objects>
-        <Object Name="zconf"/>
       </Objects>
     </Package>
   </Packages>
@@ -1110,15 +1110,6 @@
         <Object Name="bf-output"/>
         <Object Name="bf-param"/>
         <Object Name="boeuf"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="missive~">
-    <Package ID="bWlzc2l2ZX5fMC40XzIwMjEtMTItMjggMTc6MjQ6MDVfd21icmVudA=="
-             Author="wmbrent" Timestamp="2021-12-28 17:24:05" Description="missive~[v0.4].dek"
-             Version="0.4" URL="https://puredata.info/Members/wmbrent/software/missive~/0.4/missive~[v0.4].dek">
-      <Objects>
-        <Object Name="missive~"/>
       </Objects>
     </Package>
   </Packages>
@@ -2969,6 +2960,15 @@
         <Object Name="oct~"/>
         <Object Name="quad~"/>
         <Object Name="stereo~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="missive~">
+    <Package ID="bWlzc2l2ZX5fMC40XzIwMjEtMTItMjggMTc6MjQ6MDVfd21icmVudA=="
+             Author="wmbrent" Timestamp="2021-12-28 17:24:05" Description="missive~[v0.4].dek"
+             Version="0.4" URL="https://puredata.info/Members/wmbrent/software/missive~/0.4/missive~[v0.4].dek">
+      <Objects>
+        <Object Name="missive~"/>
       </Objects>
     </Package>
   </Packages>

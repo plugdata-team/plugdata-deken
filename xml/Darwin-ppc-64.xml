@@ -909,15 +909,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="missive~">
-    <Package ID="bWlzc2l2ZX5fMC40XzIwMjEtMTItMjggMTc6MjQ6MDVfd21icmVudA=="
-             Author="wmbrent" Timestamp="2021-12-28 17:24:05" Description="missive~[v0.4].dek"
-             Version="0.4" URL="https://puredata.info/Members/wmbrent/software/missive~/0.4/missive~[v0.4].dek">
-      <Objects>
-        <Object Name="missive~"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="mc">
     <Package ID="bWNfMC4wLjFfMjAyMS0xMi0wNiAwMDowNzoxMV90aG9tYXM=" Author="thomas"
              Timestamp="2021-12-06 00:07:11" Description="mc[v0.0.1].dek"
@@ -2167,6 +2158,15 @@
         <Object Name="oct~"/>
         <Object Name="quad~"/>
         <Object Name="stereo~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="missive~">
+    <Package ID="bWlzc2l2ZX5fMC40XzIwMjEtMTItMjggMTc6MjQ6MDVfd21icmVudA=="
+             Author="wmbrent" Timestamp="2021-12-28 17:24:05" Description="missive~[v0.4].dek"
+             Version="0.4" URL="https://puredata.info/Members/wmbrent/software/missive~/0.4/missive~[v0.4].dek">
+      <Objects>
+        <Object Name="missive~"/>
       </Objects>
     </Package>
   </Packages>

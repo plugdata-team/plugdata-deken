@@ -130,6 +130,15 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="zconf">
+    <Package ID="emNvbmZfMC4yLjFfMjAyMi0wMi0xNSAyMzowNTo1NV90aG9tYXM=" Author="thomas"
+             Timestamp="2022-02-15 23:05:55" Description="zconf[v0.2.1](Darwin-amd64-32)(Darwin-i386-32).dek"
+             Version="0.2.1" URL="https://puredata.info/Members/thomas/software/zconf/0.2.1/zconf[v0.2.1](Darwin-amd64-32)(Darwin-i386-32).dek">
+      <Objects>
+        <Object Name="zconf"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="mediasettings">
     <Package ID="bWVkaWFzZXR0aW5nc18wLjEuMl8yMDIyLTA3LTA3IDIyOjA5OjE3X2llbWJvdA=="
              Author="iembot" Timestamp="2022-07-07 22:09:17" Description="mediasettings[v0.1.2](Linux/macOS/Windows) - MIMIMUM VERSION REQUIRED for Pd&gt;=0.52 (and requires Pd&gt;=0.52)"
@@ -964,15 +973,6 @@
              Author="zmoelnig" Timestamp="2015-12-10 14:35:45" Description="windowing-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/windowing/0-0extended/windowing-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
       <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="zconf">
-    <Package ID="emNvbmZfMC4yLjFfMjAyMi0wMi0xNSAyMzowNTo1NV90aG9tYXM=" Author="thomas"
-             Timestamp="2022-02-15 23:05:55" Description="zconf[v0.2.1](Darwin-amd64-32)(Darwin-i386-32).dek"
-             Version="0.2.1" URL="https://puredata.info/Members/thomas/software/zconf/0.2.1/zconf[v0.2.1](Darwin-amd64-32)(Darwin-i386-32).dek">
-      <Objects>
-        <Object Name="zconf"/>
-      </Objects>
     </Package>
   </Packages>
   <Packages Name="boids">
@@ -2207,29 +2207,6 @@
         <Object Name="bf-output"/>
         <Object Name="bf-param"/>
         <Object Name="boeuf"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="iem_delay">
-    <Package ID="aWVtX2RlbGF5XzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MjI6MTRfem1vZWxuaWc="
-             Author="zmoelnig" Timestamp="2015-12-10 14:22:14" Description="iem_delay-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/iem_delay/0-0extended/iem_delay-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="hexloader">
-    <Package ID="aGV4bG9hZGVyXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MjA6MjBfem1vZWxuaWc="
-             Author="zmoelnig" Timestamp="2015-12-10 14:20:20" Description="hexloader-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/hexloader/0-0extended/hexloader-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="missive~">
-    <Package ID="bWlzc2l2ZX5fMC40XzIwMjEtMTItMjggMTc6MjQ6MDVfd21icmVudA=="
-             Author="wmbrent" Timestamp="2021-12-28 17:24:05" Description="missive~[v0.4].dek"
-             Version="0.4" URL="https://puredata.info/Members/wmbrent/software/missive~/0.4/missive~[v0.4].dek">
-      <Objects>
-        <Object Name="missive~"/>
       </Objects>
     </Package>
   </Packages>
@@ -4670,6 +4647,29 @@
              Author="lucarda" Timestamp="2018-10-31 00:13:56" Description="dnd-plugin[v0.2](Darwin-amd64-32)(Darwin-i386-32).dek"
              Version="0.2" URL="https://puredata.info/Members/lucarda/software/dnd-plugin[v0.2](Darwin-amd64-32)(Darwin-i386-32).dek">
       <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="iem_delay">
+    <Package ID="aWVtX2RlbGF5XzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MjI6MTRfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:22:14" Description="iem_delay-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/iem_delay/0-0extended/iem_delay-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="hexloader">
+    <Package ID="aGV4bG9hZGVyXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MjA6MjBfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:20:20" Description="hexloader-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/hexloader/0-0extended/hexloader-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="missive~">
+    <Package ID="bWlzc2l2ZX5fMC40XzIwMjEtMTItMjggMTc6MjQ6MDVfd21icmVudA=="
+             Author="wmbrent" Timestamp="2021-12-28 17:24:05" Description="missive~[v0.4].dek"
+             Version="0.4" URL="https://puredata.info/Members/wmbrent/software/missive~/0.4/missive~[v0.4].dek">
+      <Objects>
+        <Object Name="missive~"/>
+      </Objects>
     </Package>
   </Packages>
   <Packages Name="mkmr">
