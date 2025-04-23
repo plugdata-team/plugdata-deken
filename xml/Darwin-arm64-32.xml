@@ -2983,8 +2983,8 @@
     </Package>
   </Packages>
   <Packages Name="Gem">
-    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNS0wMy0zMSAyMDoxMjoyOF9pZW1ib3Q="
-             Author="iembot" Timestamp="2025-03-31 20:12:28" Description="Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
+    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNS0wNC0yMiAxNzoyNjo1MV9pZW1ib3Q="
+             Author="iembot" Timestamp="2025-04-22 17:26:51" Description="Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
              Version="0.94-snapshot" URL="https://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek">
       <Objects>
         <Object Name="_textbbox"/>
@@ -3053,6 +3053,7 @@
         <Object Name="mesh_line"/>
         <Object Name="mesh_square"/>
         <Object Name="model"/>
+        <Object Name="modelfiler"/>
         <Object Name="multimodel"/>
         <Object Name="newWave"/>
         <Object Name="ortho"/>
@@ -10843,6 +10844,13 @@
     </Package>
   </Packages>
   <Packages Name="nn~">
+    <Package ID="bm5+XzEuNi4wXzIwMjUtMDQtMjIgMTg6NDM6NDZfYmVuX3dlc2No" Author="ben_wesch"
+             Timestamp="2025-04-22 18:43:46" Description="nn~[v1.6.0](Darwin-arm64-32).dek"
+             Version="1.6.0" URL="https://puredata.info/Members/ben_wesch/software/nn~/1.6.0/nn~[v1.6.0](Darwin-arm64-32).dek">
+      <Objects>
+        <Object Name="nn~"/>
+      </Objects>
+    </Package>
     <Package ID="bm5+XzEuNS42LWJ3XzIwMjQtMTItMDIgMjI6Mzg6MTBfYmVuX3dlc2No"
              Author="ben_wesch" Timestamp="2024-12-02 22:38:10" Description="nn~[v1.5.6-bw](Darwin-arm64-32).dek"
              Version="1.5.6-bw" URL="https://puredata.info/Members/ben_wesch/software/nn~/1.5.6-bw/nn~[v1.5.6-bw](Darwin-arm64-32).dek">

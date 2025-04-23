@@ -5253,8 +5253,8 @@
     </Package>
   </Packages>
   <Packages Name="Gem">
-    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNS0wMy0zMSAyMDoxMjo1M19pZW1ib3Q="
-             Author="iembot" Timestamp="2025-03-31 20:12:53" Description="Gem[v0.94-snapshot](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
+    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNS0wNC0yMiAxNzoyNzoxNl9pZW1ib3Q="
+             Author="iembot" Timestamp="2025-04-22 17:27:16" Description="Gem[v0.94-snapshot](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
              Version="0.94-snapshot" URL="https://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
       <Objects>
         <Object Name="_textbbox"/>
@@ -5323,6 +5323,7 @@
         <Object Name="mesh_line"/>
         <Object Name="mesh_square"/>
         <Object Name="model"/>
+        <Object Name="modelfiler"/>
         <Object Name="multimodel"/>
         <Object Name="newWave"/>
         <Object Name="ortho"/>
@@ -20197,6 +20198,13 @@
     </Package>
   </Packages>
   <Packages Name="nn~">
+    <Package ID="bm5+XzEuNi4wXzIwMjUtMDQtMjIgMTg6NDg6MzBfYmVuX3dlc2No" Author="ben_wesch"
+             Timestamp="2025-04-22 18:48:30" Description="nn~[v1.6.0](Windows-amd64-32).dek"
+             Version="1.6.0" URL="https://puredata.info/Members/ben_wesch/software/nn~/1.6.0/nn~[v1.6.0](Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="nn~"/>
+      </Objects>
+    </Package>
     <Package ID="bm5+XzEuNS42LWJ3LWN1ZGFfMjAyNC0xMi0wMiAyMjo0NzoyNl9iZW5fd2VzY2g="
              Author="ben_wesch" Timestamp="2024-12-02 22:47:26" Description="nn~[v1.5.6-bw-cuda](Windows-amd64-32).dek"
              Version="1.5.6-bw-cuda" URL="https://puredata.info/Members/ben_wesch/software/nn~/1.5.6-bw-cuda/nn~[v1.5.6-bw-cuda](Windows-amd64-32).dek">

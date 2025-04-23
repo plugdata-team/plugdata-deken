@@ -4933,8 +4933,8 @@
     </Package>
   </Packages>
   <Packages Name="Gem">
-    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNS0wMy0zMSAyMDoxMjozNl9pZW1ib3Q="
-             Author="iembot" Timestamp="2025-03-31 20:12:36" Description="Gem[v0.94-snapshot](Linux-amd64-32)(Linux-amd64-64).dek"
+    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNS0wNC0yMiAxNzoyNzowMF9pZW1ib3Q="
+             Author="iembot" Timestamp="2025-04-22 17:27:00" Description="Gem[v0.94-snapshot](Linux-amd64-32)(Linux-amd64-64).dek"
              Version="0.94-snapshot" URL="https://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Linux-amd64-32)(Linux-amd64-64).dek">
       <Objects>
         <Object Name="_textbbox"/>
@@ -5003,6 +5003,7 @@
         <Object Name="mesh_line"/>
         <Object Name="mesh_square"/>
         <Object Name="model"/>
+        <Object Name="modelfiler"/>
         <Object Name="multimodel"/>
         <Object Name="newWave"/>
         <Object Name="ortho"/>
@@ -11775,6 +11776,13 @@
     </Package>
   </Packages>
   <Packages Name="nn~">
+    <Package ID="bm5+XzEuNi4wXzIwMjUtMDQtMjIgMTg6NDU6MTRfYmVuX3dlc2No" Author="ben_wesch"
+             Timestamp="2025-04-22 18:45:14" Description="nn~[v1.6.0](Linux-amd64-32).dek"
+             Version="1.6.0" URL="https://puredata.info/Members/ben_wesch/software/nn~/1.6.0/nn~[v1.6.0](Linux-amd64-32).dek">
+      <Objects>
+        <Object Name="nn~"/>
+      </Objects>
+    </Package>
     <Package ID="bm5+XzEuNS42LWJ3LWN1ZGFfMjAyNC0xMi0wMiAyMjo0OTo0OV9iZW5fd2VzY2g="
              Author="ben_wesch" Timestamp="2024-12-02 22:49:49" Description="nn~[v1.5.6-bw-cuda](Linux-amd64-32).dek"
              Version="1.5.6-bw-cuda" URL="https://puredata.info/Members/ben_wesch/software/nn~/1.5.6-bw-cuda/nn~[v1.5.6-bw-cuda](Linux-amd64-32).dek">

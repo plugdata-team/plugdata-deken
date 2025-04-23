@@ -5706,6 +5706,13 @@
     </Package>
   </Packages>
   <Packages Name="nn~">
+    <Package ID="bm5+XzEuNi4wXzIwMjUtMDQtMjIgMTg6NDY6MjBfYmVuX3dlc2No" Author="ben_wesch"
+             Timestamp="2025-04-22 18:46:20" Description="nn~[v1.6.0](Linux-arm64-32).dek"
+             Version="1.6.0" URL="https://puredata.info/Members/ben_wesch/software/nn~/1.6.0/nn~[v1.6.0](Linux-arm64-32).dek">
+      <Objects>
+        <Object Name="nn~"/>
+      </Objects>
+    </Package>
     <Package ID="bm5+XzEuNS42LWJ3XzIwMjQtMTItMDIgMjI6NDM6MjdfYmVuX3dlc2No"
              Author="ben_wesch" Timestamp="2024-12-02 22:43:27" Description="nn~[v1.5.6-bw](Linux-arm64-32).dek"
              Version="1.5.6-bw" URL="https://puredata.info/Members/ben_wesch/software/nn~/1.5.6-bw/nn~[v1.5.6-bw](Linux-arm64-32).dek">
