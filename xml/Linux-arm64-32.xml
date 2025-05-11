@@ -568,6 +568,26 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="xsample">
+    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIyLTA3LTEwIDAxOjE0OjI4X3Rob21hcw=="
+             Author="thomas" Timestamp="2022-07-10 01:14:28" Description="xsample[v0.3.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Windows-amd64-32).dek"
+             Version="0.3.2" URL="https://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="xgroove~"/>
+        <Object Name="xplay~"/>
+        <Object Name="xrecord~"/>
+      </Objects>
+    </Package>
+    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIwLTAzLTA0IDEwOjQwOjA4X3Rob21hcw=="
+             Author="thomas" Timestamp="2020-03-04 10:40:08" Description="xsample[v0.3.2](Linux-arm64-32).dek"
+             Version="0.3.2" URL="https://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Linux-arm64-32).dek">
+      <Objects>
+        <Object Name="xgroove~"/>
+        <Object Name="xplay~"/>
+        <Object Name="xrecord~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="midifile">
     <Package ID="bWlkaWZpbGVfMC40LjNfMjAyNS0wMy0wNCAyMzoyNzowNF9pZW1ib3Q="
              Author="iembot" Timestamp="2025-03-04 23:27:04" Description="midifile[v0.4.3](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek"
@@ -4250,26 +4270,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="xsample">
-    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIyLTA3LTEwIDAxOjE0OjI4X3Rob21hcw=="
-             Author="thomas" Timestamp="2022-07-10 01:14:28" Description="xsample[v0.3.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Windows-amd64-32).dek"
-             Version="0.3.2" URL="https://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Windows-amd64-32).dek">
-      <Objects>
-        <Object Name="xgroove~"/>
-        <Object Name="xplay~"/>
-        <Object Name="xrecord~"/>
-      </Objects>
-    </Package>
-    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIwLTAzLTA0IDEwOjQwOjA4X3Rob21hcw=="
-             Author="thomas" Timestamp="2020-03-04 10:40:08" Description="xsample[v0.3.2](Linux-arm64-32).dek"
-             Version="0.3.2" URL="https://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Linux-arm64-32).dek">
-      <Objects>
-        <Object Name="xgroove~"/>
-        <Object Name="xplay~"/>
-        <Object Name="xrecord~"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="iempluginOSC">
     <Package ID="aWVtcGx1Z2luT1NDXzAuMV8yMDE5LTA0LTEyIDEyOjQzOjU1X3NwYWNlY2hpbGQx"
              Author="spacechild1" Timestamp="2019-04-12 12:43:55" Description="iempluginOSC[v0.1].dek"
@@ -4677,6 +4677,22 @@
              Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
              Version="0.1" URL="https://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
       <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="pd-push-and-hold">
+    <Package ID="cGQtcHVzaC1hbmQtaG9sZF8wLjJfMjAxOS0wMy0xNyAxNDoyMTowMV9jaHIxNW0="
+             Author="chr15m" Timestamp="2019-03-17 14:21:01" Description="pd-push-and-hold[v0.2].dek"
+             Version="0.2" URL="https://puredata.info/Members/chr15m/software/pd-push-and-hold/0.2/pd-push-and-hold[v0.2].dek">
+      <Objects>
+        <Object Name="push-and-hold"/>
+      </Objects>
+    </Package>
+    <Package ID="cGQtcHVzaC1hbmQtaG9sZF8wLjFfMjAxOS0wMy0xNyAxMzoxNjo0M19jaHIxNW0="
+             Author="chr15m" Timestamp="2019-03-17 13:16:43" Description="pd-push-and-hold[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/chr15m/software/pd-push-and-hold/0.1/pd-push-and-hold[v0.1].dek">
+      <Objects>
+        <Object Name="push-and-hold"/>
+      </Objects>
     </Package>
   </Packages>
   <Packages Name="aoo">
@@ -6070,22 +6086,6 @@
              Version="0.1.0" URL="https://puredata.info/Members/charlesneimog/software/pd-ji/0.1.0/pd-ji[v0.1.0].dek">
       <Objects>
         <Object Name="pd-ji"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="pd-push-and-hold">
-    <Package ID="cGQtcHVzaC1hbmQtaG9sZF8wLjJfMjAxOS0wMy0xNyAxNDoyMTowMV9jaHIxNW0="
-             Author="chr15m" Timestamp="2019-03-17 14:21:01" Description="pd-push-and-hold[v0.2].dek"
-             Version="0.2" URL="https://puredata.info/Members/chr15m/software/pd-push-and-hold/0.2/pd-push-and-hold[v0.2].dek">
-      <Objects>
-        <Object Name="push-and-hold"/>
-      </Objects>
-    </Package>
-    <Package ID="cGQtcHVzaC1hbmQtaG9sZF8wLjFfMjAxOS0wMy0xNyAxMzoxNjo0M19jaHIxNW0="
-             Author="chr15m" Timestamp="2019-03-17 13:16:43" Description="pd-push-and-hold[v0.1].dek"
-             Version="0.1" URL="https://puredata.info/Members/chr15m/software/pd-push-and-hold/0.1/pd-push-and-hold[v0.1].dek">
-      <Objects>
-        <Object Name="push-and-hold"/>
       </Objects>
     </Package>
   </Packages>

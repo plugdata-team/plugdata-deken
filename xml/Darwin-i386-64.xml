@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Darwin-i386-64>
+  <Packages Name="xsample">
+    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIwLTAzLTA0IDAwOjUwOjM3X3Rob21hcw=="
+             Author="thomas" Timestamp="2020-03-04 00:50:37" Description="xsample[v0.3.2](Darwin-amd64-64)(Darwin-i386-64).dek"
+             Version="0.3.2" URL="https://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Darwin-amd64-64)(Darwin-i386-64).dek">
+      <Objects>
+        <Object Name="xgroove~"/>
+        <Object Name="xplay~"/>
+        <Object Name="xrecord~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="deken-plugin">
     <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuMl8yMDI0LTEyLTA2IDIyOjQ4OjAzX3ptb2VsbmlnYm90"
              Author="zmoelnigbot" Timestamp="2024-12-06 22:48:03" Description="deken-plugin[v0.10.2].dek"
@@ -2042,17 +2053,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="xsample">
-    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIwLTAzLTA0IDAwOjUwOjM3X3Rob21hcw=="
-             Author="thomas" Timestamp="2020-03-04 00:50:37" Description="xsample[v0.3.2](Darwin-amd64-64)(Darwin-i386-64).dek"
-             Version="0.3.2" URL="https://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Darwin-amd64-64)(Darwin-i386-64).dek">
-      <Objects>
-        <Object Name="xgroove~"/>
-        <Object Name="xplay~"/>
-        <Object Name="xrecord~"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="iempluginOSC">
     <Package ID="aWVtcGx1Z2luT1NDXzAuMV8yMDE5LTA0LTEyIDEyOjQzOjU1X3NwYWNlY2hpbGQx"
              Author="spacechild1" Timestamp="2019-04-12 12:43:55" Description="iempluginOSC[v0.1].dek"
@@ -2186,6 +2186,22 @@
              Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
              Version="0.1" URL="https://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
       <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="pd-push-and-hold">
+    <Package ID="cGQtcHVzaC1hbmQtaG9sZF8wLjJfMjAxOS0wMy0xNyAxNDoyMTowMV9jaHIxNW0="
+             Author="chr15m" Timestamp="2019-03-17 14:21:01" Description="pd-push-and-hold[v0.2].dek"
+             Version="0.2" URL="https://puredata.info/Members/chr15m/software/pd-push-and-hold/0.2/pd-push-and-hold[v0.2].dek">
+      <Objects>
+        <Object Name="push-and-hold"/>
+      </Objects>
+    </Package>
+    <Package ID="cGQtcHVzaC1hbmQtaG9sZF8wLjFfMjAxOS0wMy0xNyAxMzoxNjo0M19jaHIxNW0="
+             Author="chr15m" Timestamp="2019-03-17 13:16:43" Description="pd-push-and-hold[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/chr15m/software/pd-push-and-hold/0.1/pd-push-and-hold[v0.1].dek">
+      <Objects>
+        <Object Name="push-and-hold"/>
+      </Objects>
     </Package>
   </Packages>
   <Packages Name="planifolia">
@@ -3033,22 +3049,6 @@
              Version="0.1.0" URL="https://puredata.info/Members/charlesneimog/software/pd-ji/0.1.0/pd-ji[v0.1.0].dek">
       <Objects>
         <Object Name="pd-ji"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="pd-push-and-hold">
-    <Package ID="cGQtcHVzaC1hbmQtaG9sZF8wLjJfMjAxOS0wMy0xNyAxNDoyMTowMV9jaHIxNW0="
-             Author="chr15m" Timestamp="2019-03-17 14:21:01" Description="pd-push-and-hold[v0.2].dek"
-             Version="0.2" URL="https://puredata.info/Members/chr15m/software/pd-push-and-hold/0.2/pd-push-and-hold[v0.2].dek">
-      <Objects>
-        <Object Name="push-and-hold"/>
-      </Objects>
-    </Package>
-    <Package ID="cGQtcHVzaC1hbmQtaG9sZF8wLjFfMjAxOS0wMy0xNyAxMzoxNjo0M19jaHIxNW0="
-             Author="chr15m" Timestamp="2019-03-17 13:16:43" Description="pd-push-and-hold[v0.1].dek"
-             Version="0.1" URL="https://puredata.info/Members/chr15m/software/pd-push-and-hold/0.1/pd-push-and-hold[v0.1].dek">
-      <Objects>
-        <Object Name="push-and-hold"/>
       </Objects>
     </Package>
   </Packages>

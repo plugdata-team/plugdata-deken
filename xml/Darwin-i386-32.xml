@@ -139,6 +139,17 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="xsample">
+    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIwLTAzLTA0IDAxOjAwOjE3X3Rob21hcw=="
+             Author="thomas" Timestamp="2020-03-04 01:00:17" Description="xsample[v0.3.2](Darwin-amd64-32)(Darwin-i386-32).dek"
+             Version="0.3.2" URL="https://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Darwin-amd64-32)(Darwin-i386-32).dek">
+      <Objects>
+        <Object Name="xgroove~"/>
+        <Object Name="xplay~"/>
+        <Object Name="xrecord~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="mediasettings">
     <Package ID="bWVkaWFzZXR0aW5nc18wLjEuMl8yMDIyLTA3LTA3IDIyOjA5OjE3X2llbWJvdA=="
              Author="iembot" Timestamp="2022-07-07 22:09:17" Description="mediasettings[v0.1.2](Linux/macOS/Windows) - MIMIMUM VERSION REQUIRED for Pd&gt;=0.52 (and requires Pd&gt;=0.52)"
@@ -3848,17 +3859,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="xsample">
-    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIwLTAzLTA0IDAxOjAwOjE3X3Rob21hcw=="
-             Author="thomas" Timestamp="2020-03-04 01:00:17" Description="xsample[v0.3.2](Darwin-amd64-32)(Darwin-i386-32).dek"
-             Version="0.3.2" URL="https://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Darwin-amd64-32)(Darwin-i386-32).dek">
-      <Objects>
-        <Object Name="xgroove~"/>
-        <Object Name="xplay~"/>
-        <Object Name="xrecord~"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="iempluginOSC">
     <Package ID="aWVtcGx1Z2luT1NDXzAuMV8yMDE5LTA0LTEyIDEyOjQzOjU1X3NwYWNlY2hpbGQx"
              Author="spacechild1" Timestamp="2019-04-12 12:43:55" Description="iempluginOSC[v0.1].dek"
@@ -4684,6 +4684,22 @@
              Author="zmoelnig" Timestamp="2015-12-10 14:27:59" Description="motex-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/motex/0-0extended/motex-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
       <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="pd-push-and-hold">
+    <Package ID="cGQtcHVzaC1hbmQtaG9sZF8wLjJfMjAxOS0wMy0xNyAxNDoyMTowMV9jaHIxNW0="
+             Author="chr15m" Timestamp="2019-03-17 14:21:01" Description="pd-push-and-hold[v0.2].dek"
+             Version="0.2" URL="https://puredata.info/Members/chr15m/software/pd-push-and-hold/0.2/pd-push-and-hold[v0.2].dek">
+      <Objects>
+        <Object Name="push-and-hold"/>
+      </Objects>
+    </Package>
+    <Package ID="cGQtcHVzaC1hbmQtaG9sZF8wLjFfMjAxOS0wMy0xNyAxMzoxNjo0M19jaHIxNW0="
+             Author="chr15m" Timestamp="2019-03-17 13:16:43" Description="pd-push-and-hold[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/chr15m/software/pd-push-and-hold/0.1/pd-push-and-hold[v0.1].dek">
+      <Objects>
+        <Object Name="push-and-hold"/>
+      </Objects>
     </Package>
   </Packages>
   <Packages Name="mrpeach">
@@ -6166,22 +6182,6 @@
              Version="0.1.0" URL="https://puredata.info/Members/charlesneimog/software/pd-ji/0.1.0/pd-ji[v0.1.0].dek">
       <Objects>
         <Object Name="pd-ji"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="pd-push-and-hold">
-    <Package ID="cGQtcHVzaC1hbmQtaG9sZF8wLjJfMjAxOS0wMy0xNyAxNDoyMTowMV9jaHIxNW0="
-             Author="chr15m" Timestamp="2019-03-17 14:21:01" Description="pd-push-and-hold[v0.2].dek"
-             Version="0.2" URL="https://puredata.info/Members/chr15m/software/pd-push-and-hold/0.2/pd-push-and-hold[v0.2].dek">
-      <Objects>
-        <Object Name="push-and-hold"/>
-      </Objects>
-    </Package>
-    <Package ID="cGQtcHVzaC1hbmQtaG9sZF8wLjFfMjAxOS0wMy0xNyAxMzoxNjo0M19jaHIxNW0="
-             Author="chr15m" Timestamp="2019-03-17 13:16:43" Description="pd-push-and-hold[v0.1].dek"
-             Version="0.1" URL="https://puredata.info/Members/chr15m/software/pd-push-and-hold/0.1/pd-push-and-hold[v0.1].dek">
-      <Objects>
-        <Object Name="push-and-hold"/>
       </Objects>
     </Package>
   </Packages>

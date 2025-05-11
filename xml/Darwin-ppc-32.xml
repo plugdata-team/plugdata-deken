@@ -2914,6 +2914,22 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="pd-push-and-hold">
+    <Package ID="cGQtcHVzaC1hbmQtaG9sZF8wLjJfMjAxOS0wMy0xNyAxNDoyMTowMV9jaHIxNW0="
+             Author="chr15m" Timestamp="2019-03-17 14:21:01" Description="pd-push-and-hold[v0.2].dek"
+             Version="0.2" URL="https://puredata.info/Members/chr15m/software/pd-push-and-hold/0.2/pd-push-and-hold[v0.2].dek">
+      <Objects>
+        <Object Name="push-and-hold"/>
+      </Objects>
+    </Package>
+    <Package ID="cGQtcHVzaC1hbmQtaG9sZF8wLjFfMjAxOS0wMy0xNyAxMzoxNjo0M19jaHIxNW0="
+             Author="chr15m" Timestamp="2019-03-17 13:16:43" Description="pd-push-and-hold[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/chr15m/software/pd-push-and-hold/0.1/pd-push-and-hold[v0.1].dek">
+      <Objects>
+        <Object Name="push-and-hold"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="mrpeach">
     <Package ID="bXJwZWFjaF8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjI4OjE2X3ptb2Vsbmln"
              Author="zmoelnig" Timestamp="2015-12-10 14:28:16" Description="mrpeach-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
@@ -3865,22 +3881,6 @@
              Version="0.1.0" URL="https://puredata.info/Members/charlesneimog/software/pd-ji/0.1.0/pd-ji[v0.1.0].dek">
       <Objects>
         <Object Name="pd-ji"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="pd-push-and-hold">
-    <Package ID="cGQtcHVzaC1hbmQtaG9sZF8wLjJfMjAxOS0wMy0xNyAxNDoyMTowMV9jaHIxNW0="
-             Author="chr15m" Timestamp="2019-03-17 14:21:01" Description="pd-push-and-hold[v0.2].dek"
-             Version="0.2" URL="https://puredata.info/Members/chr15m/software/pd-push-and-hold/0.2/pd-push-and-hold[v0.2].dek">
-      <Objects>
-        <Object Name="push-and-hold"/>
-      </Objects>
-    </Package>
-    <Package ID="cGQtcHVzaC1hbmQtaG9sZF8wLjFfMjAxOS0wMy0xNyAxMzoxNjo0M19jaHIxNW0="
-             Author="chr15m" Timestamp="2019-03-17 13:16:43" Description="pd-push-and-hold[v0.1].dek"
-             Version="0.1" URL="https://puredata.info/Members/chr15m/software/pd-push-and-hold/0.1/pd-push-and-hold[v0.1].dek">
-      <Objects>
-        <Object Name="push-and-hold"/>
       </Objects>
     </Package>
   </Packages>
