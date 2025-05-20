@@ -166,6 +166,11 @@
     </Package>
   </Packages>
   <Packages Name="deken-plugin">
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuNl8yMDI1LTA1LTE5IDEyOjI2OjI0X3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2025-05-19 12:26:24" Description="deken-plugin[v0.10.6].dek"
+             Version="0.10.6" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.6/deken-plugin[v0.10.6].dek">
+      <Objects/>
+    </Package>
     <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuMl8yMDI0LTEyLTA2IDIyOjQ4OjAzX3ptb2VsbmlnYm90"
              Author="zmoelnigbot" Timestamp="2024-12-06 22:48:03" Description="deken-plugin[v0.10.2].dek"
              Version="0.10.2" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.2/deken-plugin[v0.10.2].dek">
@@ -2240,6 +2245,28 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="comport">
+    <Package ID="Y29tcG9ydF8xLjEuMV8yMDE3LTAzLTE4IDE4OjU4OjE3X3Jkeg==" Author="rdz"
+             Timestamp="2017-03-18 18:58:17" Description="comport-v1.1.1-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="1.1.1" URL="https://puredata.info/Members/rdz/software/comport/1.1.1/comport-v1.1.1-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+    <Package ID="Y29tcG9ydF8xLjFfMjAxNy0wMy0wMyAxNjowOToyM19yZHo=" Author="rdz"
+             Timestamp="2017-03-03 16:09:23" Description="comport-v1.1-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="1.1" URL="https://puredata.info/Members/rdz/software/comport/1.1/comport-v1.1-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+    <Package ID="Y29tcG9ydF8wLjItMjAxNTA1MjlpZW1fMjAxNi0wOC0zMCAxNDozMToxNF96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2016-08-30 14:31:14" Description="comport-v0.2-20150529iem-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0.2-20150529iem" URL="https://puredata.info/Members/zmoelnig/software/iem/20150529.2247/comport-v0.2-20150529iem-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+    <Package ID="Y29tcG9ydF8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjE1OjU4X3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2015-12-10 14:15:58" Description="comport-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/comport/0-0extended/comport-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="doublechord-plugin">
     <Package ID="ZG91YmxlY2hvcmQtcGx1Z2luXzAuMi4yXzIwMTgtMTAtMDEgMjE6MzY6MzZfem1vZWxuaWdib3Q="
              Author="zmoelnigbot" Timestamp="2018-10-01 21:36:36" Description="doublechord-plugin[v0.2.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"
@@ -2265,28 +2292,6 @@
     <Package ID="bXV1Z18xLjAuMF8yMDE2LTA3LTMxIDAwOjE3OjI0X3NhdHVybm8=" Author="saturno"
              Timestamp="2016-07-31 00:17:24" Description="muug-v1.0.0-(Darwin-i386-32)(Sources)(Darwin-x86_64-32)(Linux-amd64-64)(Windows-i386-32)-externals.zip"
              Version="1.0.0" URL="https://puredata.info/Members/saturno/software/muug/1.0.0/muug-v1.0.0-(Darwin-i386-32)(Sources)(Darwin-x86_64-32)(Linux-amd64-64)(Windows-i386-32)-externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="comport">
-    <Package ID="Y29tcG9ydF8xLjEuMV8yMDE3LTAzLTE4IDE4OjU4OjE3X3Jkeg==" Author="rdz"
-             Timestamp="2017-03-18 18:58:17" Description="comport-v1.1.1-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="1.1.1" URL="https://puredata.info/Members/rdz/software/comport/1.1.1/comport-v1.1.1-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-    <Package ID="Y29tcG9ydF8xLjFfMjAxNy0wMy0wMyAxNjowOToyM19yZHo=" Author="rdz"
-             Timestamp="2017-03-03 16:09:23" Description="comport-v1.1-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="1.1" URL="https://puredata.info/Members/rdz/software/comport/1.1/comport-v1.1-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-    <Package ID="Y29tcG9ydF8wLjItMjAxNTA1MjlpZW1fMjAxNi0wOC0zMCAxNDozMToxNF96bW9lbG5pZw=="
-             Author="zmoelnig" Timestamp="2016-08-30 14:31:14" Description="comport-v0.2-20150529iem-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0.2-20150529iem" URL="https://puredata.info/Members/zmoelnig/software/iem/20150529.2247/comport-v0.2-20150529iem-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-    <Package ID="Y29tcG9ydF8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjE1OjU4X3ptb2Vsbmln"
-             Author="zmoelnig" Timestamp="2015-12-10 14:15:58" Description="comport-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/comport/0-0extended/comport-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
       <Objects/>
     </Package>
   </Packages>
@@ -6838,6 +6843,13 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="nsend">
+    <Package ID="bnNlbmRfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mzk6NTRfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-08-07 14:39:54" Description="nsend-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/nsend/nsend-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="soundtouch~">
     <Package ID="c291bmR0b3VjaH5fMC45XzIwMjEtMDEtMjggMDI6MTI6NTJfcG9ycmVz"
              Author="porres" Timestamp="2021-01-28 02:12:52" Description="soundtouch~[v0.9](Darwin-i386-32)(Darwin-ppc-32).dek"
@@ -6852,13 +6864,6 @@
       <Objects>
         <Object Name="soundtouch~"/>
       </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="nsend">
-    <Package ID="bnNlbmRfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mzk6NTRfY2hyMTVt"
-             Author="chr15m" Timestamp="2015-08-07 14:39:54" Description="nsend-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/nsend/nsend-v0.0.extended--externals.zip">
-      <Objects/>
     </Package>
   </Packages>
   <Packages Name="psycho">
