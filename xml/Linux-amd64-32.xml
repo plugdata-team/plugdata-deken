@@ -4908,6 +4908,11 @@
     </Package>
   </Packages>
   <Packages Name="Fraise">
+    <Package ID="RnJhaXNlXzAuNC4wXzIwMjUtMDUtMjMgMTc6MjA6MjRfYW50MXI=" Author="ant1r"
+             Timestamp="2025-05-23 17:20:24" Description="Fraise[v0.4.0].dek"
+             Version="0.4.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.4.0/Fraise[v0.4.0].dek">
+      <Objects/>
+    </Package>
     <Package ID="RnJhaXNlXzAuMy40XzIwMjUtMDUtMTIgMTM6MzI6NTVfYW50MXI=" Author="ant1r"
              Timestamp="2025-05-12 13:32:55" Description="Fraise[v0.3.4].dek"
              Version="0.3.4" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.4/Fraise[v0.3.4].dek">
@@ -5287,6 +5292,11 @@
     </Package>
   </Packages>
   <Packages Name="Fraise-toolchain">
+    <Package ID="RnJhaXNlLXRvb2xjaGFpbl8wLjIuMF8yMDI1LTA1LTIzIDE3OjE4OjA5X2FudDFy"
+             Author="ant1r" Timestamp="2025-05-23 17:18:09" Description="Fraise-toolchain[v0.2.0](Linux-amd64-32).dek"
+             Version="0.2.0" URL="https://puredata.info/Members/ant1r/software/Fraise-toolchain/0.2.0/Fraise-toolchain[v0.2.0](Linux-amd64-32).dek">
+      <Objects/>
+    </Package>
     <Package ID="RnJhaXNlLXRvb2xjaGFpbl8wLjEuMF8yMDI0LTA2LTE0IDA5OjU0OjQ5X2FudDFy"
              Author="ant1r" Timestamp="2024-06-14 09:54:49" Description="Fraise-toolchain[v0.1.0](Linux-amd64-32).dek"
              Version="0.1.0" URL="https://puredata.info/Members/ant1r/software/Fraise-toolchain/0.1.0/Fraise-toolchain[v0.1.0](Linux-amd64-32).dek">
