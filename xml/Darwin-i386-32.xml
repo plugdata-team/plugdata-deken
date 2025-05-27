@@ -896,6 +896,34 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="windowing">
+    <Package ID="d2luZG93aW5nXzAuMi4wXzIwMTktMTItMjggMjE6MjE6MjNfZmprcmFhbg=="
+             Author="fjkraan" Timestamp="2019-12-28 21:21:23" Description="windowing[v0.2.0](Darwin-amd64-32)(Darwin-i386-32)(Sources).dek"
+             Version="0.2.0" URL="https://puredata.info/Members/fjkraan/software/windowing/0.2.0/windowing[v0.2.0](Darwin-amd64-32)(Darwin-i386-32)(Sources).dek">
+      <Objects>
+        <Object Name="bartlett"/>
+        <Object Name="blackman"/>
+        <Object Name="connes"/>
+        <Object Name="cosine"/>
+        <Object Name="gaussian"/>
+        <Object Name="hamming"/>
+        <Object Name="hanning"/>
+        <Object Name="kaiser"/>
+        <Object Name="lanczos"/>
+        <Object Name="welch"/>
+      </Objects>
+    </Package>
+    <Package ID="d2luZG93aW5nXzAuMS4xLTIwMTUwNTI5aWVtXzIwMTYtMDgtMzAgMTQ6Mzc6MzJfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2016-08-30 14:37:32" Description="windowing-v0.1.1-20150529iem-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0.1.1-20150529iem" URL="https://puredata.info/Members/zmoelnig/software/iem/20150529.2247/windowing-v0.1.1-20150529iem-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+    <Package ID="d2luZG93aW5nXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MzU6NDVfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:35:45" Description="windowing-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/windowing/0-0extended/windowing-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="iem_tab">
     <Package ID="aWVtX3RhYl8xLjIxXzIwMTgtMTEtMjkgMTY6MTY6NDRfbXVzaWw=" Author="musil"
              Timestamp="2018-11-29 16:16:44" Description="iem_tab[v1.21](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32)(Sources).dek"
@@ -960,34 +988,6 @@
     <Package ID="aWVtX3RhYl8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjI0OjQxX3ptb2Vsbmln"
              Author="zmoelnig" Timestamp="2015-12-10 14:24:41" Description="iem_tab-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/iem_tab/0-0extended/iem_tab-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="windowing">
-    <Package ID="d2luZG93aW5nXzAuMi4wXzIwMTktMTItMjggMjE6MjE6MjNfZmprcmFhbg=="
-             Author="fjkraan" Timestamp="2019-12-28 21:21:23" Description="windowing[v0.2.0](Darwin-amd64-32)(Darwin-i386-32)(Sources).dek"
-             Version="0.2.0" URL="https://puredata.info/Members/fjkraan/software/windowing/0.2.0/windowing[v0.2.0](Darwin-amd64-32)(Darwin-i386-32)(Sources).dek">
-      <Objects>
-        <Object Name="bartlett"/>
-        <Object Name="blackman"/>
-        <Object Name="connes"/>
-        <Object Name="cosine"/>
-        <Object Name="gaussian"/>
-        <Object Name="hamming"/>
-        <Object Name="hanning"/>
-        <Object Name="kaiser"/>
-        <Object Name="lanczos"/>
-        <Object Name="welch"/>
-      </Objects>
-    </Package>
-    <Package ID="d2luZG93aW5nXzAuMS4xLTIwMTUwNTI5aWVtXzIwMTYtMDgtMzAgMTQ6Mzc6MzJfem1vZWxuaWc="
-             Author="zmoelnig" Timestamp="2016-08-30 14:37:32" Description="windowing-v0.1.1-20150529iem-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0.1.1-20150529iem" URL="https://puredata.info/Members/zmoelnig/software/iem/20150529.2247/windowing-v0.1.1-20150529iem-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-    <Package ID="d2luZG93aW5nXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MzU6NDVfem1vZWxuaWc="
-             Author="zmoelnig" Timestamp="2015-12-10 14:35:45" Description="windowing-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/windowing/0-0extended/windowing-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
       <Objects/>
     </Package>
   </Packages>
@@ -6846,6 +6846,13 @@
       <Objects>
         <Object Name="pool"/>
       </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="project">
+    <Package ID="cHJvamVjdF8wLjEuMF8yMDI1LTA1LTI2IDE2OjIyOjM3X2pvc2VwaGxhcnJhbGRl"
+             Author="josephlarralde" Timestamp="2025-05-26 16:22:37" Description="project[v0.1.0].dek"
+             Version="0.1.0" URL="https://puredata.info/Members/josephlarralde/software/project/0.1.0/project[v0.1.0].dek">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="nsend">

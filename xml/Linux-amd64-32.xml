@@ -3031,13 +3031,27 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="ultraleap">
-    <Package ID="dWx0cmFsZWFwXzAuMS4xXzIwMjMtMDEtMDkgMTk6Mzg6MzFfd21icmVudA=="
-             Author="wmbrent" Timestamp="2023-01-09 19:38:31" Description="ultraleap[v0.1.1](Linux-amd64-32).dek"
-             Version="0.1.1" URL="https://puredata.info/Members/wmbrent/software/ultraleap/0.1.1/ultraleap[v0.1.1](Linux-amd64-32).dek">
+  <Packages Name="windowing">
+    <Package ID="d2luZG93aW5nXzAuMi4wXzIwMTktMTItMjggMjE6MjI6MDhfZmprcmFhbg=="
+             Author="fjkraan" Timestamp="2019-12-28 21:22:08" Description="windowing[v0.2.0](Linux-amd64-32)(Sources).dek"
+             Version="0.2.0" URL="https://puredata.info/Members/fjkraan/software/windowing/0.2.0/windowing[v0.2.0](Linux-amd64-32)(Sources).dek">
       <Objects>
-        <Object Name="ultraleap"/>
+        <Object Name="bartlett"/>
+        <Object Name="blackman"/>
+        <Object Name="connes"/>
+        <Object Name="cosine"/>
+        <Object Name="gaussian"/>
+        <Object Name="hamming"/>
+        <Object Name="hanning"/>
+        <Object Name="kaiser"/>
+        <Object Name="lanczos"/>
+        <Object Name="welch"/>
       </Objects>
+    </Package>
+    <Package ID="d2luZG93aW5nXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjExOjUxX2NocjE1bQ=="
+             Author="chr15m" Timestamp="2015-08-07 14:11:51" Description="windowing-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
+             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/windowing/windowing-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="iem_tab">
@@ -3147,27 +3161,13 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="windowing">
-    <Package ID="d2luZG93aW5nXzAuMi4wXzIwMTktMTItMjggMjE6MjI6MDhfZmprcmFhbg=="
-             Author="fjkraan" Timestamp="2019-12-28 21:22:08" Description="windowing[v0.2.0](Linux-amd64-32)(Sources).dek"
-             Version="0.2.0" URL="https://puredata.info/Members/fjkraan/software/windowing/0.2.0/windowing[v0.2.0](Linux-amd64-32)(Sources).dek">
+  <Packages Name="ultraleap">
+    <Package ID="dWx0cmFsZWFwXzAuMS4xXzIwMjMtMDEtMDkgMTk6Mzg6MzFfd21icmVudA=="
+             Author="wmbrent" Timestamp="2023-01-09 19:38:31" Description="ultraleap[v0.1.1](Linux-amd64-32).dek"
+             Version="0.1.1" URL="https://puredata.info/Members/wmbrent/software/ultraleap/0.1.1/ultraleap[v0.1.1](Linux-amd64-32).dek">
       <Objects>
-        <Object Name="bartlett"/>
-        <Object Name="blackman"/>
-        <Object Name="connes"/>
-        <Object Name="cosine"/>
-        <Object Name="gaussian"/>
-        <Object Name="hamming"/>
-        <Object Name="hanning"/>
-        <Object Name="kaiser"/>
-        <Object Name="lanczos"/>
-        <Object Name="welch"/>
+        <Object Name="ultraleap"/>
       </Objects>
-    </Package>
-    <Package ID="d2luZG93aW5nXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjExOjUxX2NocjE1bQ=="
-             Author="chr15m" Timestamp="2015-08-07 14:11:51" Description="windowing-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
-             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/windowing/windowing-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz">
-      <Objects/>
     </Package>
   </Packages>
   <Packages Name="boids">
@@ -11925,6 +11925,11 @@
     </Package>
   </Packages>
   <Packages Name="nn~">
+    <Package ID="bm5+XzEuNi4wXzIwMjUtMDUtMjYgMTY6NTQ6NTNfYmVuX3dlc2No" Author="ben_wesch"
+             Timestamp="2025-05-26 16:54:53" Description="nn~[v1.6.0](Linux-amd64-32).dek"
+             Version="1.6.0" URL="https://puredata.info/Members/ben_wesch/software/nn~/1.6.0/nn~[v1.6.0](Linux-amd64-32).dek">
+      <Objects/>
+    </Package>
     <Package ID="bm5+XzEuNS42LWJ3LWN1ZGFfMjAyNC0xMi0wMiAyMjo0OTo0OV9iZW5fd2VzY2g="
              Author="ben_wesch" Timestamp="2024-12-02 22:49:49" Description="nn~[v1.5.6-bw-cuda](Linux-amd64-32).dek"
              Version="1.5.6-bw-cuda" URL="https://puredata.info/Members/ben_wesch/software/nn~/1.5.6-bw-cuda/nn~[v1.5.6-bw-cuda](Linux-amd64-32).dek">
@@ -13260,6 +13265,13 @@
       <Objects>
         <Object Name="pool"/>
       </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="project">
+    <Package ID="cHJvamVjdF8wLjEuMF8yMDI1LTA1LTI2IDE2OjIyOjM3X2pvc2VwaGxhcnJhbGRl"
+             Author="josephlarralde" Timestamp="2025-05-26 16:22:37" Description="project[v0.1.0].dek"
+             Version="0.1.0" URL="https://puredata.info/Members/josephlarralde/software/project/0.1.0/project[v0.1.0].dek">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="nsend">

@@ -3211,12 +3211,38 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="ultraleap">
-    <Package ID="dWx0cmFsZWFwXzAuMS4xXzIwMjMtMDEtMDkgMTk6MzQ6MDNfd21icmVudA=="
-             Author="wmbrent" Timestamp="2023-01-09 19:34:03" Description="ultraleap[v0.1.1](Windows-amd64-32).dek"
-             Version="0.1.1" URL="https://puredata.info/Members/wmbrent/software/ultraleap/0.1.1/ultraleap[v0.1.1](Windows-amd64-32).dek">
+  <Packages Name="windowing">
+    <Package ID="d2luZG93aW5nXzAuMi4wXzIwMTktMTItMjggMjE6MjQ6MTBfZmprcmFhbg=="
+             Author="fjkraan" Timestamp="2019-12-28 21:24:10" Description="windowing[v0.2.0](Windows-amd64-32)(Sources).dek"
+             Version="0.2.0" URL="https://puredata.info/Members/fjkraan/software/windowing/0.2.0/windowing[v0.2.0](Windows-amd64-32)(Sources).dek">
       <Objects>
-        <Object Name="ultraleap"/>
+        <Object Name="bartlett"/>
+        <Object Name="blackman"/>
+        <Object Name="connes"/>
+        <Object Name="cosine"/>
+        <Object Name="gaussian"/>
+        <Object Name="hamming"/>
+        <Object Name="hanning"/>
+        <Object Name="kaiser"/>
+        <Object Name="lanczos"/>
+        <Object Name="welch"/>
+      </Objects>
+    </Package>
+    <Package ID="d2luZG93aW5nXzAuMi4wXzIwMTktMDEtMTIgMDA6NDg6MDRfbHVjYXJkYQ=="
+             Author="lucarda" Timestamp="2019-01-12 00:48:04" Description="windowing[v0.2.0](Windows-amd64-32)(Sources).dek"
+             Version="0.2.0" URL="https://puredata.info/Members/lucarda/software/windowing[v0.2.0](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="bartlett~"/>
+        <Object Name="blackman~"/>
+        <Object Name="connes~"/>
+        <Object Name="cosine~"/>
+        <Object Name="gaussian~"/>
+        <Object Name="hamming~"/>
+        <Object Name="hanning~"/>
+        <Object Name="kaiser~"/>
+        <Object Name="lanczos~"/>
+        <Object Name="welch~"/>
+        <Object Name="windowing"/>
       </Objects>
     </Package>
   </Packages>
@@ -3372,38 +3398,12 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="windowing">
-    <Package ID="d2luZG93aW5nXzAuMi4wXzIwMTktMTItMjggMjE6MjQ6MTBfZmprcmFhbg=="
-             Author="fjkraan" Timestamp="2019-12-28 21:24:10" Description="windowing[v0.2.0](Windows-amd64-32)(Sources).dek"
-             Version="0.2.0" URL="https://puredata.info/Members/fjkraan/software/windowing/0.2.0/windowing[v0.2.0](Windows-amd64-32)(Sources).dek">
+  <Packages Name="ultraleap">
+    <Package ID="dWx0cmFsZWFwXzAuMS4xXzIwMjMtMDEtMDkgMTk6MzQ6MDNfd21icmVudA=="
+             Author="wmbrent" Timestamp="2023-01-09 19:34:03" Description="ultraleap[v0.1.1](Windows-amd64-32).dek"
+             Version="0.1.1" URL="https://puredata.info/Members/wmbrent/software/ultraleap/0.1.1/ultraleap[v0.1.1](Windows-amd64-32).dek">
       <Objects>
-        <Object Name="bartlett"/>
-        <Object Name="blackman"/>
-        <Object Name="connes"/>
-        <Object Name="cosine"/>
-        <Object Name="gaussian"/>
-        <Object Name="hamming"/>
-        <Object Name="hanning"/>
-        <Object Name="kaiser"/>
-        <Object Name="lanczos"/>
-        <Object Name="welch"/>
-      </Objects>
-    </Package>
-    <Package ID="d2luZG93aW5nXzAuMi4wXzIwMTktMDEtMTIgMDA6NDg6MDRfbHVjYXJkYQ=="
-             Author="lucarda" Timestamp="2019-01-12 00:48:04" Description="windowing[v0.2.0](Windows-amd64-32)(Sources).dek"
-             Version="0.2.0" URL="https://puredata.info/Members/lucarda/software/windowing[v0.2.0](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="bartlett~"/>
-        <Object Name="blackman~"/>
-        <Object Name="connes~"/>
-        <Object Name="cosine~"/>
-        <Object Name="gaussian~"/>
-        <Object Name="hamming~"/>
-        <Object Name="hanning~"/>
-        <Object Name="kaiser~"/>
-        <Object Name="lanczos~"/>
-        <Object Name="welch~"/>
-        <Object Name="windowing"/>
+        <Object Name="ultraleap"/>
       </Objects>
     </Package>
   </Packages>
@@ -20340,6 +20340,11 @@
     </Package>
   </Packages>
   <Packages Name="nn~">
+    <Package ID="bm5+XzEuNi4wXzIwMjUtMDUtMjYgMTY6NTc6MjFfYmVuX3dlc2No" Author="ben_wesch"
+             Timestamp="2025-05-26 16:57:21" Description="nn~[v1.6.0](Windows-amd64-32).dek"
+             Version="1.6.0" URL="https://puredata.info/Members/ben_wesch/software/nn~/1.6.0/nn~[v1.6.0](Windows-amd64-32).dek">
+      <Objects/>
+    </Package>
     <Package ID="bm5+XzEuNS42LWJ3LWN1ZGFfMjAyNC0xMi0wMiAyMjo0NzoyNl9iZW5fd2VzY2g="
              Author="ben_wesch" Timestamp="2024-12-02 22:47:26" Description="nn~[v1.5.6-bw-cuda](Windows-amd64-32).dek"
              Version="1.5.6-bw-cuda" URL="https://puredata.info/Members/ben_wesch/software/nn~/1.5.6-bw-cuda/nn~[v1.5.6-bw-cuda](Windows-amd64-32).dek">
@@ -21263,6 +21268,13 @@
       <Objects>
         <Object Name="pool"/>
       </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="project">
+    <Package ID="cHJvamVjdF8wLjEuMF8yMDI1LTA1LTI2IDE2OjIyOjM3X2pvc2VwaGxhcnJhbGRl"
+             Author="josephlarralde" Timestamp="2025-05-26 16:22:37" Description="project[v0.1.0].dek"
+             Version="0.1.0" URL="https://puredata.info/Members/josephlarralde/software/project/0.1.0/project[v0.1.0].dek">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="nsend">

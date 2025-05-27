@@ -1718,15 +1718,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="ultraleap">
-    <Package ID="dWx0cmFsZWFwXzAuMS4xXzIwMjUtMDEtMjIgMTY6NDU6NDRfd21icmVudA=="
-             Author="wmbrent" Timestamp="2025-01-22 16:45:44" Description="ultraleap[v0.1.1](Darwin-arm64-32).dek"
-             Version="0.1.1" URL="https://puredata.info/Members/wmbrent/software/ultraleap/0.1.1/ultraleap[v0.1.1](Darwin-arm64-32).dek">
-      <Objects>
-        <Object Name="ultraleap"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="iem_tab">
     <Package ID="aWVtX3RhYl8xLjIxLTFfMjAyNC0wMy0xOCAxODozOToyM19pZW1ib3Q="
              Author="iembot" Timestamp="2024-03-18 18:39:23" Description="iem_tab[v1.21-1](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
@@ -1776,6 +1767,15 @@
         <Object Name="tab_sqrt"/>
         <Object Name="tab_sub"/>
         <Object Name="tab_sum"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="ultraleap">
+    <Package ID="dWx0cmFsZWFwXzAuMS4xXzIwMjUtMDEtMjIgMTY6NDU6NDRfd21icmVudA=="
+             Author="wmbrent" Timestamp="2025-01-22 16:45:44" Description="ultraleap[v0.1.1](Darwin-arm64-32).dek"
+             Version="0.1.1" URL="https://puredata.info/Members/wmbrent/software/ultraleap/0.1.1/ultraleap[v0.1.1](Darwin-arm64-32).dek">
+      <Objects>
+        <Object Name="ultraleap"/>
       </Objects>
     </Package>
   </Packages>
@@ -10981,6 +10981,11 @@
     </Package>
   </Packages>
   <Packages Name="nn~">
+    <Package ID="bm5+XzEuNi4wXzIwMjUtMDUtMjYgMTY6NTM6MzJfYmVuX3dlc2No" Author="ben_wesch"
+             Timestamp="2025-05-26 16:53:32" Description="nn~[v1.6.0](Darwin-amd64-32)(Darwin-arm64-32).dek"
+             Version="1.6.0" URL="https://puredata.info/Members/ben_wesch/software/nn~/1.6.0/nn~[v1.6.0](Darwin-amd64-32)(Darwin-arm64-32).dek">
+      <Objects/>
+    </Package>
     <Package ID="bm5+XzEuNS42LWJ3XzIwMjQtMTItMDIgMjI6Mzg6MTBfYmVuX3dlc2No"
              Author="ben_wesch" Timestamp="2024-12-02 22:38:10" Description="nn~[v1.5.6-bw](Darwin-arm64-32).dek"
              Version="1.5.6-bw" URL="https://puredata.info/Members/ben_wesch/software/nn~/1.5.6-bw/nn~[v1.5.6-bw](Darwin-arm64-32).dek">
@@ -11651,6 +11656,13 @@
       <Objects>
         <Object Name="pool"/>
       </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="project">
+    <Package ID="cHJvamVjdF8wLjEuMF8yMDI1LTA1LTI2IDE2OjIyOjM3X2pvc2VwaGxhcnJhbGRl"
+             Author="josephlarralde" Timestamp="2025-05-26 16:22:37" Description="project[v0.1.0].dek"
+             Version="0.1.0" URL="https://puredata.info/Members/josephlarralde/software/project/0.1.0/project[v0.1.0].dek">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="nsend">
