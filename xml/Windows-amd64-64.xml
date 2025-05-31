@@ -10811,6 +10811,11 @@
     </Package>
   </Packages>
   <Packages Name="project">
+    <Package ID="cHJvamVjdF8wLjEuMV8yMDI1LTA1LTMwIDE4OjUwOjMwX2pvc2VwaGxhcnJhbGRl"
+             Author="josephlarralde" Timestamp="2025-05-30 18:50:30" Description="project[v0.1.1].dek"
+             Version="0.1.1" URL="https://puredata.info/Members/josephlarralde/software/project/0.1.1/project[v0.1.1].dek">
+      <Objects/>
+    </Package>
     <Package ID="cHJvamVjdF8wLjEuMF8yMDI1LTA1LTI2IDE2OjIyOjM3X2pvc2VwaGxhcnJhbGRl"
              Author="josephlarralde" Timestamp="2025-05-26 16:22:37" Description="project[v0.1.0].dek"
              Version="0.1.0" URL="https://puredata.info/Members/josephlarralde/software/project/0.1.0/project[v0.1.0].dek">
