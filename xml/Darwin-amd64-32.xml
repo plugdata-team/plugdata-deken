@@ -3283,6 +3283,18 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="pd-neimog">
+    <Package ID="cGQtbmVpbW9nXzAuMl8yMDI1LTA2LTAyIDIxOjEzOjI2X2NoYXJsZXNuZWltb2c="
+             Author="charlesneimog" Timestamp="2025-06-02 21:13:26" Description="pd-neimog[v0.2](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Windows-amd64-32)(Windows-amd64-64)(Sources).dek"
+             Version="0.2" URL="https://puredata.info/Members/charlesneimog/software/pd-neimog/0.2/pd-neimog[v0.2](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Windows-amd64-32)(Windows-amd64-64)(Sources).dek">
+      <Objects>
+        <Object Name="follower~"/>
+        <Object Name="kalman"/>
+        <Object Name="musesampler~"/>
+        <Object Name="onsetsds~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="command">
     <Package ID="Y29tbWFuZF8wLjRfMjAyMy0wMS0wNiAxNToyNToyMF9yZHo=" Author="rdz"
              Timestamp="2023-01-06 15:25:20" Description="command[v0.4](Darwin-amd64-32).dek"
@@ -7234,6 +7246,22 @@
     <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmUxXzIwMjMtMDUtMTIgMjI6Mzc6NTRfanln"
              Author="jyg" Timestamp="2023-05-12 22:37:54" Description="automatonism[v0.4-pre1].dek"
              Version="0.4-pre1" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4-pre1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="websocketserver">
+    <Package ID="d2Vic29ja2V0c2VydmVyXzAuMC4yXzIwMjEtMTEtMTYgMTA6MDc6NDVfbHVjYXJkYQ=="
+             Author="lucarda" Timestamp="2021-11-16 10:07:45" Description="websocketserver[v0.0.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.0.2" URL="https://puredata.info/Members/lucarda/software/websocketserver/0.0.2/websocketserver[v0.0.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="websocketserver"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="flatgui">
+    <Package ID="ZmxhdGd1aV8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjE5OjAxX3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2015-12-10 14:19:01" Description="flatgui-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/flatgui/0-0extended/flatgui-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
       <Objects/>
     </Package>
   </Packages>
@@ -25178,22 +25206,6 @@
              URL="https://puredata.info/Members/chr15m/software/ws/0.1/ws[v0.1].dek">
       <Objects>
         <Object Name="websocket-server"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="flatgui">
-    <Package ID="ZmxhdGd1aV8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjE5OjAxX3ptb2Vsbmln"
-             Author="zmoelnig" Timestamp="2015-12-10 14:19:01" Description="flatgui-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/flatgui/0-0extended/flatgui-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="websocketserver">
-    <Package ID="d2Vic29ja2V0c2VydmVyXzAuMC4yXzIwMjEtMTEtMTYgMTA6MDc6NDVfbHVjYXJkYQ=="
-             Author="lucarda" Timestamp="2021-11-16 10:07:45" Description="websocketserver[v0.0.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="0.0.2" URL="https://puredata.info/Members/lucarda/software/websocketserver/0.0.2/websocketserver[v0.0.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects>
-        <Object Name="websocketserver"/>
       </Objects>
     </Package>
   </Packages>

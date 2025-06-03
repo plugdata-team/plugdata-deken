@@ -3572,6 +3572,18 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="pd-neimog">
+    <Package ID="cGQtbmVpbW9nXzAuMl8yMDI1LTA2LTAyIDIxOjEzOjI2X2NoYXJsZXNuZWltb2c="
+             Author="charlesneimog" Timestamp="2025-06-02 21:13:26" Description="pd-neimog[v0.2](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Windows-amd64-32)(Windows-amd64-64)(Sources).dek"
+             Version="0.2" URL="https://puredata.info/Members/charlesneimog/software/pd-neimog/0.2/pd-neimog[v0.2](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Windows-amd64-32)(Windows-amd64-64)(Sources).dek">
+      <Objects>
+        <Object Name="follower~"/>
+        <Object Name="kalman"/>
+        <Object Name="musesampler~"/>
+        <Object Name="onsetsds~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="soundhack">
     <Package ID="c291bmRoYWNrXzAuMC44XzIwMTktMTAtMjkgMTU6MzI6MTlfbHVjYXJkYQ=="
              Author="lucarda" Timestamp="2019-10-29 15:32:19" Description="soundhack[v0.0.8](Windows-i386-32)(Windows-amd64-32)(Sources).dek"
@@ -7306,6 +7318,29 @@
              Author="jyg" Timestamp="2023-05-12 22:37:54" Description="automatonism[v0.4-pre1].dek"
              Version="0.4-pre1" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4-pre1].dek">
       <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="websocketserver">
+    <Package ID="d2Vic29ja2V0c2VydmVyXzAuMC4yXzIwMjEtMTEtMTYgMTA6MDc6NDVfbHVjYXJkYQ=="
+             Author="lucarda" Timestamp="2021-11-16 10:07:45" Description="websocketserver[v0.0.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.0.2" URL="https://puredata.info/Members/lucarda/software/websocketserver/0.0.2/websocketserver[v0.0.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="websocketserver"/>
+      </Objects>
+    </Package>
+    <Package ID="d2Vic29ja2V0c2VydmVyXzAuMC4xXzIwMjEtMDYtMjEgMDA6MzQ6NDdfbHVjYXJkYQ=="
+             Author="lucarda" Timestamp="2021-06-21 00:34:47" Description="websocketserver[v0.0.1](Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.0.1" URL="https://puredata.info/Members/lucarda/software/websocketserver/0.0.1/websocketserver[v0.0.1](Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="websocketserver"/>
+      </Objects>
+    </Package>
+    <Package ID="d2Vic29ja2V0c2VydmVyXzAuMC4wXzIwMjEtMDYtMDEgMTM6MDM6MjFfbHVjYXJkYQ=="
+             Author="lucarda" Timestamp="2021-06-01 13:03:21" Description="websocketserver[v0.0.0](Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.0.0" URL="https://puredata.info/Members/lucarda/software/websocketserver/0.0.0/websocketserver[v0.0.0](Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="websocketserver"/>
+      </Objects>
     </Package>
   </Packages>
   <Packages Name="chaos">
@@ -21424,29 +21459,6 @@
              URL="https://puredata.info/Members/chr15m/software/ws/0.1/ws[v0.1].dek">
       <Objects>
         <Object Name="websocket-server"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="websocketserver">
-    <Package ID="d2Vic29ja2V0c2VydmVyXzAuMC4yXzIwMjEtMTEtMTYgMTA6MDc6NDVfbHVjYXJkYQ=="
-             Author="lucarda" Timestamp="2021-11-16 10:07:45" Description="websocketserver[v0.0.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="0.0.2" URL="https://puredata.info/Members/lucarda/software/websocketserver/0.0.2/websocketserver[v0.0.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects>
-        <Object Name="websocketserver"/>
-      </Objects>
-    </Package>
-    <Package ID="d2Vic29ja2V0c2VydmVyXzAuMC4xXzIwMjEtMDYtMjEgMDA6MzQ6NDdfbHVjYXJkYQ=="
-             Author="lucarda" Timestamp="2021-06-21 00:34:47" Description="websocketserver[v0.0.1](Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="0.0.1" URL="https://puredata.info/Members/lucarda/software/websocketserver/0.0.1/websocketserver[v0.0.1](Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects>
-        <Object Name="websocketserver"/>
-      </Objects>
-    </Package>
-    <Package ID="d2Vic29ja2V0c2VydmVyXzAuMC4wXzIwMjEtMDYtMDEgMTM6MDM6MjFfbHVjYXJkYQ=="
-             Author="lucarda" Timestamp="2021-06-01 13:03:21" Description="websocketserver[v0.0.0](Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="0.0.0" URL="https://puredata.info/Members/lucarda/software/websocketserver/0.0.0/websocketserver[v0.0.0](Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects>
-        <Object Name="websocketserver"/>
       </Objects>
     </Package>
   </Packages>

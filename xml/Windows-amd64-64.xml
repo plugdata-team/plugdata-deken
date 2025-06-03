@@ -1270,6 +1270,18 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="pd-neimog">
+    <Package ID="cGQtbmVpbW9nXzAuMl8yMDI1LTA2LTAyIDIxOjEzOjI2X2NoYXJsZXNuZWltb2c="
+             Author="charlesneimog" Timestamp="2025-06-02 21:13:26" Description="pd-neimog[v0.2](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Windows-amd64-32)(Windows-amd64-64)(Sources).dek"
+             Version="0.2" URL="https://puredata.info/Members/charlesneimog/software/pd-neimog/0.2/pd-neimog[v0.2](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Windows-amd64-32)(Windows-amd64-64)(Sources).dek">
+      <Objects>
+        <Object Name="follower~"/>
+        <Object Name="kalman"/>
+        <Object Name="musesampler~"/>
+        <Object Name="onsetsds~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="iem_adaptfilt">
     <Package ID="aWVtX2FkYXB0ZmlsdF8xLjIxLjFfMjAyNC0wOS0wMyAxMzo1MzoxNV9pZW1ib3Q="
              Author="iembot" Timestamp="2024-09-03 13:53:15" Description="iem_adaptfilt[v1.21.1](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
