@@ -4772,6 +4772,23 @@
     </Package>
   </Packages>
   <Packages Name="mc">
+    <Package ID="bWNfMC4wLjJfMjAyNS0wNi0wNSAyMTo1ODoxOF90aG9tYXM=" Author="thomas"
+             Timestamp="2025-06-05 21:58:18" Description="mc[v0.0.2].dek"
+             Version="0.0.2" URL="https://puredata.info/Members/thomas/software/mc/0.0.2/mc[v0.0.2].dek">
+      <Objects>
+        <Object Name="mc"/>
+        <Object Name="mc._dsp"/>
+        <Object Name="mc.concat"/>
+        <Object Name="mc.copy~"/>
+        <Object Name="mc.effect"/>
+        <Object Name="mc.index"/>
+        <Object Name="mc.map"/>
+        <Object Name="mc.op"/>
+        <Object Name="mc.sink"/>
+        <Object Name="mc.slice"/>
+        <Object Name="mc.source"/>
+      </Objects>
+    </Package>
     <Package ID="bWNfMC4wLjFfMjAyMS0xMi0wNiAwMDowNzoxMV90aG9tYXM=" Author="thomas"
              Timestamp="2021-12-06 00:07:11" Description="mc[v0.0.1].dek"
              Version="0.0.1" URL="https://puredata.info/Members/thomas/software/mc/0.0.1/mc[v0.0.1].dek">
@@ -13294,8 +13311,8 @@
     </Package>
   </Packages>
   <Packages Name="pool">
-    <Package ID="cG9vbF8wLjIuMl8yMDIyLTA3LTEwIDE1OjU4OjM2X3Rob21hcw==" Author="thomas"
-             Timestamp="2022-07-10 15:58:36" Description="pool[v0.2.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Windows-amd64-32).dek"
+    <Package ID="cG9vbF8wLjIuMl8yMDI1LTA2LTA1IDIxOjMzOjE0X3Rob21hcw==" Author="thomas"
+             Timestamp="2025-06-05 21:33:14" Description="pool[v0.2.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Windows-amd64-32).dek"
              Version="0.2.2" URL="https://puredata.info/Members/thomas/software/pool/0.2.2/pool[v0.2.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Windows-amd64-32).dek">
       <Objects>
         <Object Name="pool"/>
