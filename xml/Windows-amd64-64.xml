@@ -10928,6 +10928,44 @@
     </Package>
   </Packages>
   <Packages Name="pmpd">
+    <Package ID="cG1wZF8wLjE0LjJfMjAyNS0wNi0xMiAxNjowNDoyMF9jaG5yeQ==" Author="chnry"
+             Timestamp="2025-06-12 16:04:20" Description="pmpd[v0.14.2](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
+             Version="0.14.2" URL="https://puredata.info/Members/chnry/software/pmpd/0.14.2/pmpd[v0.14.2](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="iAmbient2D"/>
+        <Object Name="iAmbient3D"/>
+        <Object Name="iCircle2D"/>
+        <Object Name="iCircle3D"/>
+        <Object Name="iCylinder3D"/>
+        <Object Name="iLine2D"/>
+        <Object Name="iPlane3D"/>
+        <Object Name="iSeg2D"/>
+        <Object Name="iSphere3D"/>
+        <Object Name="link"/>
+        <Object Name="link2D"/>
+        <Object Name="link3D"/>
+        <Object Name="mass"/>
+        <Object Name="mass2D"/>
+        <Object Name="mass3D"/>
+        <Object Name="pmpd"/>
+        <Object Name="pmpd2d"/>
+        <Object Name="pmpd2d~"/>
+        <Object Name="pmpd3d"/>
+        <Object Name="pmpd3d~"/>
+        <Object Name="pmpd~"/>
+        <Object Name="tCircle2D"/>
+        <Object Name="tCircle3D"/>
+        <Object Name="tCube3D"/>
+        <Object Name="tCylinder3D"/>
+        <Object Name="tLine2D"/>
+        <Object Name="tLink2D"/>
+        <Object Name="tLink3D"/>
+        <Object Name="tPlane3D"/>
+        <Object Name="tSeg2D"/>
+        <Object Name="tSphere3D"/>
+        <Object Name="tSquare2D"/>
+      </Objects>
+    </Package>
     <Package ID="cG1wZF8wLjE0LjFfMjAyNC0wNy0wMyAxMDo1Mjo1OV9jaG5yeQ==" Author="chnry"
              Timestamp="2024-07-03 10:52:59" Description="pmpd[v0.14.1](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
              Version="0.14.1" URL="https://puredata.info/Members/chnry/software/pmpd/0.14.1/pmpd[v0.14.1](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
