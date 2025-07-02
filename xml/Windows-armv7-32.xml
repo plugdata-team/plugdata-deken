@@ -2036,8 +2036,8 @@
     </Package>
   </Packages>
   <Packages Name="audiolab">
-    <Package ID="YXVkaW9sYWJfMC43MF8yMDI1LTA2LTIzIDEwOjAxOjA2X3NvbGlwZA=="
-             Author="solipd" Timestamp="2025-06-23 10:01:06" Description="audiolab[v0.70].dek"
+    <Package ID="YXVkaW9sYWJfMC43MF8yMDI1LTA3LTAxIDE0OjE1OjU0X3NvbGlwZA=="
+             Author="solipd" Timestamp="2025-07-01 14:15:54" Description="audiolab[v0.70].dek"
              Version="0.70" URL="https://puredata.info/Members/solipd/software/audiolab/0.70/audiolab[v0.70].dek">
       <Objects>
         <Object Name="pp.adsr~"/>
@@ -2120,8 +2120,8 @@
         <Object Name="pp.xycurve"/>
       </Objects>
     </Package>
-    <Package ID="YXVkaW9sYWJfMC43MF8yMDI1LTA2LTIzIDEwOjAxOjA2X3NvbGlwZA=="
-             Author="solipd" Timestamp="2025-06-23 10:01:06" Description="audiolab[v0.70].dek"
+    <Package ID="YXVkaW9sYWJfMC43MF8yMDI1LTA3LTAxIDE0OjE1OjU0X3NvbGlwZA=="
+             Author="solipd" Timestamp="2025-07-01 14:15:54" Description="audiolab[v0.70].dek"
              Version="0.70" URL="https://puredata.info/Members/solipd/software/audiolab/0.70/audiolab[v0.70].dek">
       <Objects>
         <Object Name="pp.adsr~"/>
