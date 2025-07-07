@@ -7306,6 +7306,22 @@
     </Package>
   </Packages>
   <Packages Name="RabbitControl">
+    <Package ID="UmFiYml0Q29udHJvbF8xLjAuNV8yMDI1LTA3LTA2IDE2OjUxOjU3X2lfbl9nX28="
+             Author="i_n_g_o" Timestamp="2025-07-06 16:51:57" Description="RabbitControl[v1.0.5](Darwin-amd64-32)(Darwin-arm64-32)(Sources).dek"
+             Version="1.0.5" URL="https://puredata.info/Members/i_n_g_o/software/RabbitControl/1.0.5/RabbitControl[v1.0.5](Darwin-amd64-32)(Darwin-arm64-32)(Sources).dek">
+      <Objects>
+        <Object Name="rcp.client"/>
+        <Object Name="rcp.format"/>
+        <Object Name="rcp.parse"/>
+        <Object Name="rcp.server"/>
+        <Object Name="sizeprefix"/>
+        <Object Name="slipdecoder"/>
+        <Object Name="slipencoder"/>
+        <Object Name="sppp"/>
+        <Object Name="ws.client"/>
+        <Object Name="ws.server"/>
+      </Objects>
+    </Package>
     <Package ID="UmFiYml0Q29udHJvbF8xLjAuNF8yMDIyLTA2LTExIDE0OjM3OjI0X2lfbl9nX28="
              Author="i_n_g_o" Timestamp="2022-06-11 14:37:24" Description="RabbitControl[v1.0.4](Darwin-amd64-32)(Darwin-arm64-32)(Sources).dek"
              Version="1.0.4" URL="https://puredata.info/Members/i_n_g_o/software/RabbitControl/1.0.4/RabbitControl[v1.0.4](Darwin-amd64-32)(Darwin-arm64-32)(Sources).dek">
