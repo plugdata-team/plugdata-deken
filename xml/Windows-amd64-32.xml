@@ -21065,6 +21065,14 @@
     </Package>
   </Packages>
   <Packages Name="pdlua">
+    <Package ID="cGRsdWFfMC4xMi4yNF8yMDI1LTA3LTMwIDE2OjUzOjAyX2Jlbl93ZXNjaA=="
+             Author="ben_wesch" Timestamp="2025-07-30 16:53:02" Description="pdlua[v0.12.24](Windows-amd64-32)(Windows-amd64-64).dek"
+             Version="0.12.24" URL="https://puredata.info/Members/ben_wesch/software/pdlua/0.12.24/pdlua[v0.12.24](Windows-amd64-32)(Windows-amd64-64).dek">
+      <Objects>
+        <Object Name="pdlua"/>
+        <Object Name="pdluax"/>
+      </Objects>
+    </Package>
     <Package ID="cGRsdWFfMC4xMi4yM18yMDI0LTEwLTE4IDIzOjQ5OjA0X2FncmFlZg=="
              Author="agraef" Timestamp="2024-10-18 23:49:04" Description="pdlua[v0.12.23](Windows-amd64-32)(Windows-amd64-64).dek"
              Version="0.12.23" URL="https://puredata.info/Members/agraef/software/pdlua/0.12.23/pdlua[v0.12.23](Windows-amd64-32)(Windows-amd64-64).dek">
