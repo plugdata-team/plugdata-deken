@@ -9120,6 +9120,13 @@
     </Package>
   </Packages>
   <Packages Name="wavview">
+    <Package ID="d2F2dmlld18wLjJfMjAyNS0wOC0xMCAwMDoxNDo1OF9hbnQxcg==" Author="ant1r"
+             Timestamp="2025-08-10 00:14:58" Description="wavview[v0.2].dek"
+             Version="0.2" URL="https://puredata.info/Members/ant1r/software/wavview/0.2/wavview[v0.2].dek">
+      <Objects>
+        <Object Name="wavview"/>
+      </Objects>
+    </Package>
     <Package ID="d2F2dmlld18wLjFfMjAyNS0wOC0wOCAxNzoxOTowNV9hbnQxcg==" Author="ant1r"
              Timestamp="2025-08-08 17:19:05" Description="wavview[v0.1].dek"
              Version="0.1" URL="https://puredata.info/Members/ant1r/software/wavview/0.1/wavview[v0.1].dek">
