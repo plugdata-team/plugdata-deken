@@ -3428,13 +3428,7 @@
     <Package ID="c21zcGRfMC45NV8yMDIzLTA0LTAyIDE5OjU5OjQxX2NoYXJsZXNuZWltb2c="
              Author="charlesneimog" Timestamp="2023-04-02 19:59:41" Description="smspd[v0.95](Linux-amd64-32)(Sources).dek"
              Version="0.95" URL="https://puredata.info/Members/charlesneimog/software/smspd/0.95/smspd[v0.95](Linux-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="sms"/>
-        <Object Name="smsanal"/>
-        <Object Name="smsbuf"/>
-        <Object Name="smsedit"/>
-        <Object Name="smssynth~"/>
-      </Objects>
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="gigaverb~">

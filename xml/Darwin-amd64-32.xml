@@ -24407,14 +24407,7 @@
     <Package ID="c3NyXzAuNi4wXzIwMjMtMDItMDEgMjE6NTA6NTFfbWdlaWVy" Author="mgeier"
              Timestamp="2023-02-01 21:50:51" Description="ssr[v0.6.0](Darwin-amd64-32)(Linux-amd64-32)(Windows-amd64-32).dek"
              Version="0.6.0" URL="https://puredata.info/Members/mgeier/software/ssr/0.6.0/ssr[v0.6.0](Darwin-amd64-32)(Linux-amd64-32)(Windows-amd64-32).dek">
-      <Objects>
-        <Object Name="ssr_aap~"/>
-        <Object Name="ssr_binaural~"/>
-        <Object Name="ssr_brs~"/>
-        <Object Name="ssr_dca~"/>
-        <Object Name="ssr_vbap~"/>
-        <Object Name="ssr_wfs~"/>
-      </Objects>
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="rtc">
