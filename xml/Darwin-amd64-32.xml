@@ -24407,7 +24407,14 @@
     <Package ID="c3NyXzAuNi4wXzIwMjMtMDItMDEgMjE6NTA6NTFfbWdlaWVy" Author="mgeier"
              Timestamp="2023-02-01 21:50:51" Description="ssr[v0.6.0](Darwin-amd64-32)(Linux-amd64-32)(Windows-amd64-32).dek"
              Version="0.6.0" URL="https://puredata.info/Members/mgeier/software/ssr/0.6.0/ssr[v0.6.0](Darwin-amd64-32)(Linux-amd64-32)(Windows-amd64-32).dek">
-      <Objects/>
+      <Objects>
+        <Object Name="ssr_aap~"/>
+        <Object Name="ssr_binaural~"/>
+        <Object Name="ssr_brs~"/>
+        <Object Name="ssr_dca~"/>
+        <Object Name="ssr_vbap~"/>
+        <Object Name="ssr_wfs~"/>
+      </Objects>
     </Package>
   </Packages>
   <Packages Name="rtc">
@@ -31560,6 +31567,14 @@
     </Package>
   </Packages>
   <Packages Name="wavview">
+    <Package ID="d2F2dmlld18wLjNfMjAyNS0wOC0xMyAxMjo0Njo1OV9hbnQxcg==" Author="ant1r"
+             Timestamp="2025-08-13 12:46:59" Description="wavview[v0.3].dek"
+             Version="0.3" URL="https://puredata.info/Members/ant1r/software/wavview/0.3/wavview[v0.3].dek">
+      <Objects>
+        <Object Name="wavview"/>
+        <Object Name="wavview_timeline"/>
+      </Objects>
+    </Package>
     <Package ID="d2F2dmlld18wLjJfMjAyNS0wOC0xMCAwMDoxNDo1OF9hbnQxcg==" Author="ant1r"
              Timestamp="2025-08-10 00:14:58" Description="wavview[v0.2].dek"
              Version="0.2" URL="https://puredata.info/Members/ant1r/software/wavview/0.2/wavview[v0.2].dek">

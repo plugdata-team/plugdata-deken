@@ -3428,7 +3428,13 @@
     <Package ID="c21zcGRfMC45NV8yMDIzLTA0LTAyIDE5OjU5OjQxX2NoYXJsZXNuZWltb2c="
              Author="charlesneimog" Timestamp="2023-04-02 19:59:41" Description="smspd[v0.95](Linux-amd64-32)(Sources).dek"
              Version="0.95" URL="https://puredata.info/Members/charlesneimog/software/smspd/0.95/smspd[v0.95](Linux-amd64-32)(Sources).dek">
-      <Objects/>
+      <Objects>
+        <Object Name="sms"/>
+        <Object Name="smsanal"/>
+        <Object Name="smsbuf"/>
+        <Object Name="smsedit"/>
+        <Object Name="smssynth~"/>
+      </Objects>
     </Package>
   </Packages>
   <Packages Name="gigaverb~">
@@ -18637,6 +18643,14 @@
     </Package>
   </Packages>
   <Packages Name="wavview">
+    <Package ID="d2F2dmlld18wLjNfMjAyNS0wOC0xMyAxMjo0Njo1OV9hbnQxcg==" Author="ant1r"
+             Timestamp="2025-08-13 12:46:59" Description="wavview[v0.3].dek"
+             Version="0.3" URL="https://puredata.info/Members/ant1r/software/wavview/0.3/wavview[v0.3].dek">
+      <Objects>
+        <Object Name="wavview"/>
+        <Object Name="wavview_timeline"/>
+      </Objects>
+    </Package>
     <Package ID="d2F2dmlld18wLjJfMjAyNS0wOC0xMCAwMDoxNDo1OF9hbnQxcg==" Author="ant1r"
              Timestamp="2025-08-10 00:14:58" Description="wavview[v0.2].dek"
              Version="0.2" URL="https://puredata.info/Members/ant1r/software/wavview/0.2/wavview[v0.2].dek">
