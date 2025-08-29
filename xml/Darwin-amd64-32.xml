@@ -853,6 +853,36 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="midifile">
+    <Package ID="bWlkaWZpbGVfMC40LjNfMjAyNS0wMy0wNCAyMzoyNjoyMl9pZW1ib3Q="
+             Author="iembot" Timestamp="2025-03-04 23:26:22" Description="midifile[v0.4.3](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
+             Version="0.4.3" URL="https://puredata.info/Members/iembot/software/midifile/0.4.3/midifile[v0.4.3](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek">
+      <Objects>
+        <Object Name="midifile"/>
+      </Objects>
+    </Package>
+    <Package ID="bWlkaWZpbGVfMC40LjJfMjAyNC0xMS0yMiAwOTozMzoxM19pZW1ib3Q="
+             Author="iembot" Timestamp="2024-11-22 09:33:13" Description="midifile[v0.4.2](Darwin-amd64-32)(Darwin-arm64-32).dek"
+             Version="0.4.2" URL="https://puredata.info/Members/iembot/software/midifile/0.4.2/midifile[v0.4.2](Darwin-amd64-32)(Darwin-arm64-32).dek">
+      <Objects>
+        <Object Name="midifile"/>
+      </Objects>
+    </Package>
+    <Package ID="bWlkaWZpbGVfMC40LjFfMjAyNC0xMS0yMiAwOToyNDoxM19pZW1ib3Q="
+             Author="iembot" Timestamp="2024-11-22 09:24:13" Description="midifile[v0.4.1](Darwin-amd64-32)(Darwin-arm64-32).dek"
+             Version="0.4.1" URL="https://puredata.info/Members/iembot/software/midifile/0.4.1/midifile[v0.4.1](Darwin-amd64-32)(Darwin-arm64-32).dek">
+      <Objects>
+        <Object Name="midifile"/>
+      </Objects>
+    </Package>
+    <Package ID="bWlkaWZpbGVfMC40LjFfMjAyMC0wNi0wOSAyMDoxMjoyNl9tYXJ0aW5ycA=="
+             Author="martinrp" Timestamp="2020-06-09 20:12:26" Description="midifile[v0.4.1](Darwin-amd64-32)(Sources).dek"
+             Version="0.4.1" URL="https://puredata.info/Members/martinrp/software/midifile/0.41/midifile[v0.4.1](Darwin-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="midifile"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="mediasettings">
     <Package ID="bWVkaWFzZXR0aW5nc18wLjEuMl8yMDIyLTA3LTA3IDIyOjA5OjE3X2llbWJvdA=="
              Author="iembot" Timestamp="2022-07-07 22:09:17" Description="mediasettings[v0.1.2](Linux/macOS/Windows) - MIMIMUM VERSION REQUIRED for Pd&gt;=0.52 (and requires Pd&gt;=0.52)"
@@ -3800,6 +3830,96 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="Pd_Spectral_Toolkit">
+    <Package ID="UGRfU3BlY3RyYWxfVG9vbGtpdF8xLjFfMjAxOS0xMS0wMyAyMzoxMDo0MF9jb29wZXJiYWtlcg=="
+             Author="cooperbaker" Timestamp="2019-11-03 23:10:40" Description="Pd_Spectral_Toolkit[v1.1](Darwin-amd64-32).dek"
+             Version="1.1" URL="https://puredata.info/Members/cooperbaker/software/Pd_Spectral_Toolkit/1.1/Pd_Spectral_Toolkit[v1.1](Darwin-amd64-32).dek">
+      <Objects>
+        <Object Name="amptodb~"/>
+        <Object Name="amptomag~"/>
+        <Object Name="and~"/>
+        <Object Name="binindex~"/>
+        <Object Name="binmax~"/>
+        <Object Name="binmin~"/>
+        <Object Name="binmix~"/>
+        <Object Name="binmonitor~"/>
+        <Object Name="binsort~"/>
+        <Object Name="bintrim~"/>
+        <Object Name="bitsafe~"/>
+        <Object Name="blocksmooth~"/>
+        <Object Name="cartoamp~"/>
+        <Object Name="cartodb~"/>
+        <Object Name="cartofreq~"/>
+        <Object Name="cartomag~"/>
+        <Object Name="cartophase~"/>
+        <Object Name="cartopolar~"/>
+        <Object Name="cmplxabs~"/>
+        <Object Name="cmplxadd~"/>
+        <Object Name="cmplxdiv~"/>
+        <Object Name="cmplxmult~"/>
+        <Object Name="cmplxsqrt~"/>
+        <Object Name="cmplxsub~"/>
+        <Object Name="countwrap"/>
+        <Object Name="ctltosig~"/>
+        <Object Name="dbtoamp~"/>
+        <Object Name="dbtomag~"/>
+        <Object Name="degtorad~"/>
+        <Object Name="degtoturn~"/>
+        <Object Name="dspbang~"/>
+        <Object Name="eq~"/>
+        <Object Name="freqsieve~"/>
+        <Object Name="freqtocar~"/>
+        <Object Name="freqtophase~"/>
+        <Object Name="freqtopolar~"/>
+        <Object Name="fundfreq~"/>
+        <Object Name="geq~"/>
+        <Object Name="gt~"/>
+        <Object Name="harmprod~"/>
+        <Object Name="leq~"/>
+        <Object Name="lt~"/>
+        <Object Name="magtoamp~"/>
+        <Object Name="magtodb~"/>
+        <Object Name="magtrim~"/>
+        <Object Name="mod~"/>
+        <Object Name="monitor~"/>
+        <Object Name="nand~"/>
+        <Object Name="neq~"/>
+        <Object Name="nor~"/>
+        <Object Name="not~"/>
+        <Object Name="or~"/>
+        <Object Name="oscbank~"/>
+        <Object Name="pafft~"/>
+        <Object Name="paifft~"/>
+        <Object Name="partconv~"/>
+        <Object Name="pd_spectral_toolkit"/>
+        <Object Name="peaks~"/>
+        <Object Name="phaseaccum~"/>
+        <Object Name="phasedelta~"/>
+        <Object Name="phasetofreq~"/>
+        <Object Name="piwrap~"/>
+        <Object Name="polartocar~"/>
+        <Object Name="polartofreq~"/>
+        <Object Name="radtodeg~"/>
+        <Object Name="radtoturn~"/>
+        <Object Name="recip~"/>
+        <Object Name="rgbtable"/>
+        <Object Name="rotate~"/>
+        <Object Name="rounder~"/>
+        <Object Name="scale~"/>
+        <Object Name="sigtoctl~"/>
+        <Object Name="softclip~"/>
+        <Object Name="tabindex~"/>
+        <Object Name="terminal"/>
+        <Object Name="trunc~"/>
+        <Object Name="turntodeg~"/>
+        <Object Name="turntorad~"/>
+        <Object Name="valleys~"/>
+        <Object Name="windower"/>
+        <Object Name="winfft~"/>
+        <Object Name="winifft~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="jsobj">
     <Package ID="anNvYmpfMC4xXzIwMjUtMDItMDQgMTQ6NTQ6NTRfY2hyMTVt" Author="chr15m"
              Timestamp="2025-02-04 14:54:54" Description="jsobj[v0.1].dek"
@@ -4332,96 +4452,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="Pd_Spectral_Toolkit">
-    <Package ID="UGRfU3BlY3RyYWxfVG9vbGtpdF8xLjFfMjAxOS0xMS0wMyAyMzoxMDo0MF9jb29wZXJiYWtlcg=="
-             Author="cooperbaker" Timestamp="2019-11-03 23:10:40" Description="Pd_Spectral_Toolkit[v1.1](Darwin-amd64-32).dek"
-             Version="1.1" URL="https://puredata.info/Members/cooperbaker/software/Pd_Spectral_Toolkit/1.1/Pd_Spectral_Toolkit[v1.1](Darwin-amd64-32).dek">
-      <Objects>
-        <Object Name="amptodb~"/>
-        <Object Name="amptomag~"/>
-        <Object Name="and~"/>
-        <Object Name="binindex~"/>
-        <Object Name="binmax~"/>
-        <Object Name="binmin~"/>
-        <Object Name="binmix~"/>
-        <Object Name="binmonitor~"/>
-        <Object Name="binsort~"/>
-        <Object Name="bintrim~"/>
-        <Object Name="bitsafe~"/>
-        <Object Name="blocksmooth~"/>
-        <Object Name="cartoamp~"/>
-        <Object Name="cartodb~"/>
-        <Object Name="cartofreq~"/>
-        <Object Name="cartomag~"/>
-        <Object Name="cartophase~"/>
-        <Object Name="cartopolar~"/>
-        <Object Name="cmplxabs~"/>
-        <Object Name="cmplxadd~"/>
-        <Object Name="cmplxdiv~"/>
-        <Object Name="cmplxmult~"/>
-        <Object Name="cmplxsqrt~"/>
-        <Object Name="cmplxsub~"/>
-        <Object Name="countwrap"/>
-        <Object Name="ctltosig~"/>
-        <Object Name="dbtoamp~"/>
-        <Object Name="dbtomag~"/>
-        <Object Name="degtorad~"/>
-        <Object Name="degtoturn~"/>
-        <Object Name="dspbang~"/>
-        <Object Name="eq~"/>
-        <Object Name="freqsieve~"/>
-        <Object Name="freqtocar~"/>
-        <Object Name="freqtophase~"/>
-        <Object Name="freqtopolar~"/>
-        <Object Name="fundfreq~"/>
-        <Object Name="geq~"/>
-        <Object Name="gt~"/>
-        <Object Name="harmprod~"/>
-        <Object Name="leq~"/>
-        <Object Name="lt~"/>
-        <Object Name="magtoamp~"/>
-        <Object Name="magtodb~"/>
-        <Object Name="magtrim~"/>
-        <Object Name="mod~"/>
-        <Object Name="monitor~"/>
-        <Object Name="nand~"/>
-        <Object Name="neq~"/>
-        <Object Name="nor~"/>
-        <Object Name="not~"/>
-        <Object Name="or~"/>
-        <Object Name="oscbank~"/>
-        <Object Name="pafft~"/>
-        <Object Name="paifft~"/>
-        <Object Name="partconv~"/>
-        <Object Name="pd_spectral_toolkit"/>
-        <Object Name="peaks~"/>
-        <Object Name="phaseaccum~"/>
-        <Object Name="phasedelta~"/>
-        <Object Name="phasetofreq~"/>
-        <Object Name="piwrap~"/>
-        <Object Name="polartocar~"/>
-        <Object Name="polartofreq~"/>
-        <Object Name="radtodeg~"/>
-        <Object Name="radtoturn~"/>
-        <Object Name="recip~"/>
-        <Object Name="rgbtable"/>
-        <Object Name="rotate~"/>
-        <Object Name="rounder~"/>
-        <Object Name="scale~"/>
-        <Object Name="sigtoctl~"/>
-        <Object Name="softclip~"/>
-        <Object Name="tabindex~"/>
-        <Object Name="terminal"/>
-        <Object Name="trunc~"/>
-        <Object Name="turntodeg~"/>
-        <Object Name="turntorad~"/>
-        <Object Name="valleys~"/>
-        <Object Name="windower"/>
-        <Object Name="winfft~"/>
-        <Object Name="winifft~"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="adaptive">
     <Package ID="YWRhcHRpdmVfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxMzozNl96bW9lbG5pZw=="
              Author="zmoelnig" Timestamp="2015-12-10 14:13:36" Description="adaptive-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
@@ -4786,40 +4816,13 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="comport">
-    <Package ID="Y29tcG9ydF8xLjNfMjAyNC0xMC0xMCAxNzo0MjozMl9pZW1ib3Q=" Author="iembot"
-             Timestamp="2024-10-10 17:42:32" Description="comport[v1.3](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
-             Version="1.3" URL="https://puredata.info/Members/iembot/software/comport/1.3/comport[v1.3](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek">
+  <Packages Name="algo~">
+    <Package ID="YWxnb35fMS4wLjFfMjAyMC0wOS0wMiAxNToxMDoxMl93bWJyZW50" Author="wmbrent"
+             Timestamp="2020-09-02 15:10:12" Description="algo~[v1.0.1](Darwin-amd64-32).dek"
+             Version="1.0.1" URL="https://puredata.info/Members/wmbrent/software/algo~/1.0.1/algo~[v1.0.1](Darwin-amd64-32).dek">
       <Objects>
-        <Object Name="comport"/>
+        <Object Name="algo~"/>
       </Objects>
-    </Package>
-    <Package ID="Y29tcG9ydF8xLjJfMjAyMi0wMy0yMSAxMTo1MjoyN19pZW1ib3Q=" Author="iembot"
-             Timestamp="2022-03-21 11:52:27" Description="comport[v1.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="1.2" URL="https://puredata.info/Members/iembot/software/comport/1.2/comport[v1.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects>
-        <Object Name="comport"/>
-      </Objects>
-    </Package>
-    <Package ID="Y29tcG9ydF8xLjEuMV8yMDE3LTAzLTE4IDE4OjU4OjE3X3Jkeg==" Author="rdz"
-             Timestamp="2017-03-18 18:58:17" Description="comport-v1.1.1-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="1.1.1" URL="https://puredata.info/Members/rdz/software/comport/1.1.1/comport-v1.1.1-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-    <Package ID="Y29tcG9ydF8xLjFfMjAxNy0wMy0wMyAxNjowOToyM19yZHo=" Author="rdz"
-             Timestamp="2017-03-03 16:09:23" Description="comport-v1.1-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="1.1" URL="https://puredata.info/Members/rdz/software/comport/1.1/comport-v1.1-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-    <Package ID="Y29tcG9ydF8wLjItMjAxNTA1MjlpZW1fMjAxNi0wOC0zMCAxNDozMToxNF96bW9lbG5pZw=="
-             Author="zmoelnig" Timestamp="2016-08-30 14:31:14" Description="comport-v0.2-20150529iem-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0.2-20150529iem" URL="https://puredata.info/Members/zmoelnig/software/iem/20150529.2247/comport-v0.2-20150529iem-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-    <Package ID="Y29tcG9ydF8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjE1OjU4X3ptb2Vsbmln"
-             Author="zmoelnig" Timestamp="2015-12-10 14:15:58" Description="comport-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/comport/0-0extended/comport-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
     </Package>
   </Packages>
   <Packages Name="doublechord-plugin">
@@ -4866,13 +4869,40 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="algo~">
-    <Package ID="YWxnb35fMS4wLjFfMjAyMC0wOS0wMiAxNToxMDoxMl93bWJyZW50" Author="wmbrent"
-             Timestamp="2020-09-02 15:10:12" Description="algo~[v1.0.1](Darwin-amd64-32).dek"
-             Version="1.0.1" URL="https://puredata.info/Members/wmbrent/software/algo~/1.0.1/algo~[v1.0.1](Darwin-amd64-32).dek">
+  <Packages Name="comport">
+    <Package ID="Y29tcG9ydF8xLjNfMjAyNC0xMC0xMCAxNzo0MjozMl9pZW1ib3Q=" Author="iembot"
+             Timestamp="2024-10-10 17:42:32" Description="comport[v1.3](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
+             Version="1.3" URL="https://puredata.info/Members/iembot/software/comport/1.3/comport[v1.3](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek">
       <Objects>
-        <Object Name="algo~"/>
+        <Object Name="comport"/>
       </Objects>
+    </Package>
+    <Package ID="Y29tcG9ydF8xLjJfMjAyMi0wMy0yMSAxMTo1MjoyN19pZW1ib3Q=" Author="iembot"
+             Timestamp="2022-03-21 11:52:27" Description="comport[v1.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="1.2" URL="https://puredata.info/Members/iembot/software/comport/1.2/comport[v1.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="comport"/>
+      </Objects>
+    </Package>
+    <Package ID="Y29tcG9ydF8xLjEuMV8yMDE3LTAzLTE4IDE4OjU4OjE3X3Jkeg==" Author="rdz"
+             Timestamp="2017-03-18 18:58:17" Description="comport-v1.1.1-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="1.1.1" URL="https://puredata.info/Members/rdz/software/comport/1.1.1/comport-v1.1.1-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+    <Package ID="Y29tcG9ydF8xLjFfMjAxNy0wMy0wMyAxNjowOToyM19yZHo=" Author="rdz"
+             Timestamp="2017-03-03 16:09:23" Description="comport-v1.1-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="1.1" URL="https://puredata.info/Members/rdz/software/comport/1.1/comport-v1.1-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+    <Package ID="Y29tcG9ydF8wLjItMjAxNTA1MjlpZW1fMjAxNi0wOC0zMCAxNDozMToxNF96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2016-08-30 14:31:14" Description="comport-v0.2-20150529iem-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0.2-20150529iem" URL="https://puredata.info/Members/zmoelnig/software/iem/20150529.2247/comport-v0.2-20150529iem-(Darwin-i386-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+    <Package ID="Y29tcG9ydF8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjE1OjU4X3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2015-12-10 14:15:58" Description="comport-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/comport/0-0extended/comport-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="piloslib">
@@ -5981,6 +6011,18 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="Fraise-toolchain">
+    <Package ID="RnJhaXNlLXRvb2xjaGFpbl8wLjIuMF8yMDI1LTA1LTIzIDE3OjE4OjU5X2FudDFy"
+             Author="ant1r" Timestamp="2025-05-23 17:18:59" Description="Fraise-toolchain[v0.2.0](Darwin-amd64-32).dek"
+             Version="0.2.0" URL="https://puredata.info/Members/ant1r/software/Fraise-toolchain/0.2.0/Fraise-toolchain[v0.2.0](Darwin-amd64-32).dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlLXRvb2xjaGFpbl8wLjEuMF8yMDI0LTEwLTA5IDE1OjQzOjAwX2FudDFy"
+             Author="ant1r" Timestamp="2024-10-09 15:43:00" Description="Fraise-toolchain[v0.1.0](Darwin-amd64-32)(Darwin-arm64-32).dek"
+             Version="0.1.0" URL="https://puredata.info/Members/ant1r/software/Fraise-toolchain/0.1.0/Fraise-toolchain[v0.1.0](Darwin-amd64-32).dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="abl_link~">
     <Package ID="YWJsX2xpbmt+XzAuNl8yMDIzLTAxLTI0IDExOjE1OjM2X2FudDFy" Author="ant1r"
              Timestamp="2023-01-24 11:15:36" Description="abl_link~[v0.6](Darwin-amd64-32).dek"
@@ -6025,18 +6067,6 @@
         <Object Name="lerdahl"/>
         <Object Name="sinedelay~"/>
       </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="Fraise-toolchain">
-    <Package ID="RnJhaXNlLXRvb2xjaGFpbl8wLjIuMF8yMDI1LTA1LTIzIDE3OjE4OjU5X2FudDFy"
-             Author="ant1r" Timestamp="2025-05-23 17:18:59" Description="Fraise-toolchain[v0.2.0](Darwin-amd64-32).dek"
-             Version="0.2.0" URL="https://puredata.info/Members/ant1r/software/Fraise-toolchain/0.2.0/Fraise-toolchain[v0.2.0](Darwin-amd64-32).dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlLXRvb2xjaGFpbl8wLjEuMF8yMDI0LTEwLTA5IDE1OjQzOjAwX2FudDFy"
-             Author="ant1r" Timestamp="2024-10-09 15:43:00" Description="Fraise-toolchain[v0.1.0](Darwin-amd64-32)(Darwin-arm64-32).dek"
-             Version="0.1.0" URL="https://puredata.info/Members/ant1r/software/Fraise-toolchain/0.1.0/Fraise-toolchain[v0.1.0](Darwin-amd64-32).dek">
-      <Objects/>
     </Package>
   </Packages>
   <Packages Name="cicmtools">
@@ -6288,9 +6318,9 @@
     </Package>
   </Packages>
   <Packages Name="else">
-    <Package ID="ZWxzZV8xLjAtMF9yYzE0LXRlc3Qtd2l0aF9saXZlX2VsZWN0cm9uaWNzX3R1dG9yaWFsXzIwMjUtMDgtMjcgMDQ6MDc6NDZfcG9ycmVz"
-             Author="porres" Timestamp="2025-08-27 04:07:46" Description="else[v1.0-0_rc14-test-with_live_electronics_tutorial](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek"
-             Version="1.0-0_rc14-test-with_live_electronics_tutorial" URL="https://puredata.info/Members/porres/software/else/1.0-0_rc14-test-with_live_electronics_tutorial/else[v1.0-0_rc14-test-with_live_electronics_tutorial](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek">
+    <Package ID="ZWxzZV8xLjAtMF9yYzE0LXRlc3QyLXdpdGhfbGl2ZV9lbGVjdHJvbmljc190dXRvcmlhbF8yMDI1LTA4LTI4IDA2OjI1OjM2X3BvcnJlcw=="
+             Author="porres" Timestamp="2025-08-28 06:25:36" Description="else[v1.0-0_rc14-test2-with_live_electronics_tutorial](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek"
+             Version="1.0-0_rc14-test2-with_live_electronics_tutorial" URL="https://puredata.info/Members/porres/software/else/1.0-0_rc14-test2-with_live_electronics_tutorial/else[v1.0-0_rc14-test2-with_live_electronics_tutorial](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek">
       <Objects>
         <Object Name="above"/>
         <Object Name="above~"/>
@@ -21348,36 +21378,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="midifile">
-    <Package ID="bWlkaWZpbGVfMC40LjNfMjAyNS0wMy0wNCAyMzoyNjoyMl9pZW1ib3Q="
-             Author="iembot" Timestamp="2025-03-04 23:26:22" Description="midifile[v0.4.3](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
-             Version="0.4.3" URL="https://puredata.info/Members/iembot/software/midifile/0.4.3/midifile[v0.4.3](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek">
-      <Objects>
-        <Object Name="midifile"/>
-      </Objects>
-    </Package>
-    <Package ID="bWlkaWZpbGVfMC40LjJfMjAyNC0xMS0yMiAwOTozMzoxM19pZW1ib3Q="
-             Author="iembot" Timestamp="2024-11-22 09:33:13" Description="midifile[v0.4.2](Darwin-amd64-32)(Darwin-arm64-32).dek"
-             Version="0.4.2" URL="https://puredata.info/Members/iembot/software/midifile/0.4.2/midifile[v0.4.2](Darwin-amd64-32)(Darwin-arm64-32).dek">
-      <Objects>
-        <Object Name="midifile"/>
-      </Objects>
-    </Package>
-    <Package ID="bWlkaWZpbGVfMC40LjFfMjAyNC0xMS0yMiAwOToyNDoxM19pZW1ib3Q="
-             Author="iembot" Timestamp="2024-11-22 09:24:13" Description="midifile[v0.4.1](Darwin-amd64-32)(Darwin-arm64-32).dek"
-             Version="0.4.1" URL="https://puredata.info/Members/iembot/software/midifile/0.4.1/midifile[v0.4.1](Darwin-amd64-32)(Darwin-arm64-32).dek">
-      <Objects>
-        <Object Name="midifile"/>
-      </Objects>
-    </Package>
-    <Package ID="bWlkaWZpbGVfMC40LjFfMjAyMC0wNi0wOSAyMDoxMjoyNl9tYXJ0aW5ycA=="
-             Author="martinrp" Timestamp="2020-06-09 20:12:26" Description="midifile[v0.4.1](Darwin-amd64-32)(Sources).dek"
-             Version="0.4.1" URL="https://puredata.info/Members/martinrp/software/midifile/0.41/midifile[v0.4.1](Darwin-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="midifile"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="iem_delay">
     <Package ID="aWVtX2RlbGF5XzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MjI6MTRfem1vZWxuaWc="
              Author="zmoelnig" Timestamp="2015-12-10 14:22:14" Description="iem_delay-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
@@ -24168,13 +24168,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="nsend">
-    <Package ID="bnNlbmRfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mzk6NTRfY2hyMTVt"
-             Author="chr15m" Timestamp="2015-08-07 14:39:54" Description="nsend-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/nsend/nsend-v0.0.extended--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="soundtouch~">
     <Package ID="c291bmR0b3VjaH5fMC45XzIwMjEtMDEtMjggMDI6MTE6MTBfcG9ycmVz"
              Author="porres" Timestamp="2021-01-28 02:11:10" Description="soundtouch~[v0.9](Darwin-amd64-32).dek"
@@ -24182,6 +24175,13 @@
       <Objects>
         <Object Name="soundtouch~"/>
       </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="nsend">
+    <Package ID="bnNlbmRfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mzk6NTRfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-08-07 14:39:54" Description="nsend-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/nsend/nsend-v0.0.extended--externals.zip">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="psycho">

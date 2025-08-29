@@ -1667,13 +1667,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="XXX-deken-test">
-    <Package ID="WFhYLWRla2VuLXRlc3RfMC4xMC4yLTExLWdmOWI4OTk3X2RvY2tlcl8yMDI1LTAyLTAzIDE2OjE0OjM0X3ptb2VsbmlnYm90"
-             Author="zmoelnigbot" Timestamp="2025-02-03 16:14:34" Description="XXX-deken-test[v0.10.2-11-gf9b8997_docker](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
-             Version="0.10.2-11-gf9b8997_docker" URL="https://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/15749/0.10.2-11-gf9b8997_docker/XXX-deken-test[v0.10.2-11-gf9b8997_docker](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="apple">
     <Package ID="YXBwbGVfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxMzo1NV96bW9lbG5pZw=="
              Author="zmoelnig" Timestamp="2015-12-10 14:13:55" Description="apple-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
@@ -3014,13 +3007,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="nsend">
-    <Package ID="bnNlbmRfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mzk6NTRfY2hyMTVt"
-             Author="chr15m" Timestamp="2015-08-07 14:39:54" Description="nsend-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/nsend/nsend-v0.0.extended--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="soundtouch~">
     <Package ID="c291bmR0b3VjaH5fMC45XzIwMjEtMDEtMjggMDI6MTI6NTJfcG9ycmVz"
              Author="porres" Timestamp="2021-01-28 02:12:52" Description="soundtouch~[v0.9](Darwin-i386-32)(Darwin-ppc-32).dek"
@@ -3035,6 +3021,13 @@
       <Objects>
         <Object Name="soundtouch~"/>
       </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="nsend">
+    <Package ID="bnNlbmRfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mzk6NTRfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-08-07 14:39:54" Description="nsend-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/nsend/nsend-v0.0.extended--externals.zip">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="smlib">

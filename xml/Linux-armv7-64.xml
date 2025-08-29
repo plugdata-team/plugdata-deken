@@ -249,6 +249,15 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="midifile">
+    <Package ID="bWlkaWZpbGVfMC40LjNfMjAyNS0wMy0wNCAyMzoyNzowNF9pZW1ib3Q="
+             Author="iembot" Timestamp="2025-03-04 23:27:04" Description="midifile[v0.4.3](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek"
+             Version="0.4.3" URL="https://puredata.info/Members/iembot/software/midifile/0.4.3/midifile[v0.4.3](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek">
+      <Objects>
+        <Object Name="midifile"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="deken-plugin">
     <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuNl8yMDI1LTA1LTE5IDEyOjI2OjI0X3ptb2VsbmlnYm90"
              Author="zmoelnigbot" Timestamp="2025-05-19 12:26:24" Description="deken-plugin[v0.10.6].dek"
@@ -3590,15 +3599,6 @@
         <Object Name="sendcanvas"/>
         <Object Name="sendcanvasobject"/>
         <Object Name="try"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="midifile">
-    <Package ID="bWlkaWZpbGVfMC40LjNfMjAyNS0wMy0wNCAyMzoyNzowNF9pZW1ib3Q="
-             Author="iembot" Timestamp="2025-03-04 23:27:04" Description="midifile[v0.4.3](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek"
-             Version="0.4.3" URL="https://puredata.info/Members/iembot/software/midifile/0.4.3/midifile[v0.4.3](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek">
-      <Objects>
-        <Object Name="midifile"/>
       </Objects>
     </Package>
   </Packages>

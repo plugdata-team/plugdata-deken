@@ -1651,13 +1651,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="XXX-deken-test">
-    <Package ID="WFhYLWRla2VuLXRlc3RfMC4xMC4yLTExLWdmOWI4OTk3X2RvY2tlcl8yMDI1LTAyLTAzIDE2OjE0OjM0X3ptb2VsbmlnYm90"
-             Author="zmoelnigbot" Timestamp="2025-02-03 16:14:34" Description="XXX-deken-test[v0.10.2-11-gf9b8997_docker](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
-             Version="0.10.2-11-gf9b8997_docker" URL="https://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/15749/0.10.2-11-gf9b8997_docker/XXX-deken-test[v0.10.2-11-gf9b8997_docker](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="hotfix732-deadkeys-plugin">
     <Package ID="aG90Zml4NzMyLWRlYWRrZXlzLXBsdWdpbl8wLjUwLjAuMV8yMDE5LTA5LTAyIDE3OjAzOjU1X3ptb2Vsbmln"
              Author="zmoelnig" Timestamp="2019-09-02 17:03:55" Description="hotfix732-deadkeys-plugin/0.50.0.1 (Hotfix#732 for non-functional DeadKeys (including '~') on Pd-0.50.0/Windows with spanish/portuguese/french/... keyboards)"

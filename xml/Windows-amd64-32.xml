@@ -818,6 +818,50 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="midifile">
+    <Package ID="bWlkaWZpbGVfMC40LjNfMjAyNS0wMy0wNCAyMzoyODowN19pZW1ib3Q="
+             Author="iembot" Timestamp="2025-03-04 23:28:07" Description="midifile[v0.4.3](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
+             Version="0.4.3" URL="https://puredata.info/Members/iembot/software/midifile/0.4.3/midifile[v0.4.3](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="midifile"/>
+      </Objects>
+    </Package>
+    <Package ID="bWlkaWZpbGVfMC40LjJfMjAyNC0xMS0yMiAwOTozMzozOF9pZW1ib3Q="
+             Author="iembot" Timestamp="2024-11-22 09:33:38" Description="midifile[v0.4.2](Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.4.2" URL="https://puredata.info/Members/iembot/software/midifile/0.4.2/midifile[v0.4.2](Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="midifile"/>
+      </Objects>
+    </Package>
+    <Package ID="bWlkaWZpbGVfMC40LjFfMjAyNC0xMS0yMiAwOToyNDo0Nl9pZW1ib3Q="
+             Author="iembot" Timestamp="2024-11-22 09:24:46" Description="midifile[v0.4.1](Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.4.1" URL="https://puredata.info/Members/iembot/software/midifile/0.4.1/midifile[v0.4.1](Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="midifile"/>
+      </Objects>
+    </Package>
+    <Package ID="bWlkaWZpbGVfMC40LjFfMjAyMC0wNi0wOSAyMDoyOTowMV9tYXJ0aW5ycA=="
+             Author="martinrp" Timestamp="2020-06-09 20:29:01" Description="midifile[v0.4.1](Windows-amd64-32)(Sources).dek"
+             Version="0.4.1" URL="https://puredata.info/Members/martinrp/software/midifile/0.41/midifile[v0.4.1](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="midifile"/>
+      </Objects>
+    </Package>
+    <Package ID="bWlkaWZpbGVfMC40XzIwMjAtMDQtMDIgMDI6NTQ6MjdfbWFydGlucnA="
+             Author="martinrp" Timestamp="2020-04-02 02:54:27" Description="midifile[v0.4](Windows-amd64-32)(Sources).dek"
+             Version="0.4" URL="https://puredata.info/Members/martinrp/software/midifile/0.4/midifile[v0.4](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="midifile"/>
+      </Objects>
+    </Package>
+    <Package ID="bWlkaWZpbGVfMC4wLjIwMjAwMzEyXzIwMjAtMDMtMTEgMTc6MTM6MDFfbWFydGlucnA="
+             Author="martinrp" Timestamp="2020-03-11 17:13:01" Description="midifile[v0.0.20200312](Windows-amd64-32)(Sources).dek"
+             Version="0.0.20200312" URL="https://puredata.info/Members/martinrp/software/midifile/0.20200312/midifile[v0.0.20200312](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="midifile"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="mediasettings">
     <Package ID="bWVkaWFzZXR0aW5nc18wLjEuMl8yMDIyLTA3LTA3IDIyOjA5OjE3X2llbWJvdA=="
              Author="iembot" Timestamp="2022-07-07 22:09:17" Description="mediasettings[v0.1.2](Linux/macOS/Windows) - MIMIMUM VERSION REQUIRED for Pd&gt;=0.52 (and requires Pd&gt;=0.52)"
@@ -4160,6 +4204,96 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="Pd_Spectral_Toolkit">
+    <Package ID="UGRfU3BlY3RyYWxfVG9vbGtpdF8xLjFfMjAxOS0xMS0wMyAyMzoxMjoxOF9jb29wZXJiYWtlcg=="
+             Author="cooperbaker" Timestamp="2019-11-03 23:12:18" Description="Pd_Spectral_Toolkit[v1.1](Windows-amd64-32).dek"
+             Version="1.1" URL="https://puredata.info/Members/cooperbaker/software/Pd_Spectral_Toolkit/1.1/Pd_Spectral_Toolkit[v1.1](Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="amptodb~"/>
+        <Object Name="amptomag~"/>
+        <Object Name="and~"/>
+        <Object Name="binindex~"/>
+        <Object Name="binmax~"/>
+        <Object Name="binmin~"/>
+        <Object Name="binmix~"/>
+        <Object Name="binmonitor~"/>
+        <Object Name="binsort~"/>
+        <Object Name="bintrim~"/>
+        <Object Name="bitsafe~"/>
+        <Object Name="blocksmooth~"/>
+        <Object Name="cartoamp~"/>
+        <Object Name="cartodb~"/>
+        <Object Name="cartofreq~"/>
+        <Object Name="cartomag~"/>
+        <Object Name="cartophase~"/>
+        <Object Name="cartopolar~"/>
+        <Object Name="cmplxabs~"/>
+        <Object Name="cmplxadd~"/>
+        <Object Name="cmplxdiv~"/>
+        <Object Name="cmplxmult~"/>
+        <Object Name="cmplxsqrt~"/>
+        <Object Name="cmplxsub~"/>
+        <Object Name="countwrap"/>
+        <Object Name="ctltosig~"/>
+        <Object Name="dbtoamp~"/>
+        <Object Name="dbtomag~"/>
+        <Object Name="degtorad~"/>
+        <Object Name="degtoturn~"/>
+        <Object Name="dspbang~"/>
+        <Object Name="eq~"/>
+        <Object Name="freqsieve~"/>
+        <Object Name="freqtocar~"/>
+        <Object Name="freqtophase~"/>
+        <Object Name="freqtopolar~"/>
+        <Object Name="fundfreq~"/>
+        <Object Name="geq~"/>
+        <Object Name="gt~"/>
+        <Object Name="harmprod~"/>
+        <Object Name="leq~"/>
+        <Object Name="lt~"/>
+        <Object Name="magtoamp~"/>
+        <Object Name="magtodb~"/>
+        <Object Name="magtrim~"/>
+        <Object Name="mod~"/>
+        <Object Name="monitor~"/>
+        <Object Name="nand~"/>
+        <Object Name="neq~"/>
+        <Object Name="nor~"/>
+        <Object Name="not~"/>
+        <Object Name="or~"/>
+        <Object Name="oscbank~"/>
+        <Object Name="pafft~"/>
+        <Object Name="paifft~"/>
+        <Object Name="partconv~"/>
+        <Object Name="pd_spectral_toolkit"/>
+        <Object Name="peaks~"/>
+        <Object Name="phaseaccum~"/>
+        <Object Name="phasedelta~"/>
+        <Object Name="phasetofreq~"/>
+        <Object Name="piwrap~"/>
+        <Object Name="polartocar~"/>
+        <Object Name="polartofreq~"/>
+        <Object Name="radtodeg~"/>
+        <Object Name="radtoturn~"/>
+        <Object Name="recip~"/>
+        <Object Name="rgbtable"/>
+        <Object Name="rotate~"/>
+        <Object Name="rounder~"/>
+        <Object Name="scale~"/>
+        <Object Name="sigtoctl~"/>
+        <Object Name="softclip~"/>
+        <Object Name="tabindex~"/>
+        <Object Name="terminal"/>
+        <Object Name="trunc~"/>
+        <Object Name="turntodeg~"/>
+        <Object Name="turntorad~"/>
+        <Object Name="valleys~"/>
+        <Object Name="windower"/>
+        <Object Name="winfft~"/>
+        <Object Name="winifft~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="jsobj">
     <Package ID="anNvYmpfMC4xXzIwMjUtMDItMDQgMTQ6NTQ6NTRfY2hyMTVt" Author="chr15m"
              Timestamp="2025-02-04 14:54:54" Description="jsobj[v0.1].dek"
@@ -4692,96 +4826,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="Pd_Spectral_Toolkit">
-    <Package ID="UGRfU3BlY3RyYWxfVG9vbGtpdF8xLjFfMjAxOS0xMS0wMyAyMzoxMjoxOF9jb29wZXJiYWtlcg=="
-             Author="cooperbaker" Timestamp="2019-11-03 23:12:18" Description="Pd_Spectral_Toolkit[v1.1](Windows-amd64-32).dek"
-             Version="1.1" URL="https://puredata.info/Members/cooperbaker/software/Pd_Spectral_Toolkit/1.1/Pd_Spectral_Toolkit[v1.1](Windows-amd64-32).dek">
-      <Objects>
-        <Object Name="amptodb~"/>
-        <Object Name="amptomag~"/>
-        <Object Name="and~"/>
-        <Object Name="binindex~"/>
-        <Object Name="binmax~"/>
-        <Object Name="binmin~"/>
-        <Object Name="binmix~"/>
-        <Object Name="binmonitor~"/>
-        <Object Name="binsort~"/>
-        <Object Name="bintrim~"/>
-        <Object Name="bitsafe~"/>
-        <Object Name="blocksmooth~"/>
-        <Object Name="cartoamp~"/>
-        <Object Name="cartodb~"/>
-        <Object Name="cartofreq~"/>
-        <Object Name="cartomag~"/>
-        <Object Name="cartophase~"/>
-        <Object Name="cartopolar~"/>
-        <Object Name="cmplxabs~"/>
-        <Object Name="cmplxadd~"/>
-        <Object Name="cmplxdiv~"/>
-        <Object Name="cmplxmult~"/>
-        <Object Name="cmplxsqrt~"/>
-        <Object Name="cmplxsub~"/>
-        <Object Name="countwrap"/>
-        <Object Name="ctltosig~"/>
-        <Object Name="dbtoamp~"/>
-        <Object Name="dbtomag~"/>
-        <Object Name="degtorad~"/>
-        <Object Name="degtoturn~"/>
-        <Object Name="dspbang~"/>
-        <Object Name="eq~"/>
-        <Object Name="freqsieve~"/>
-        <Object Name="freqtocar~"/>
-        <Object Name="freqtophase~"/>
-        <Object Name="freqtopolar~"/>
-        <Object Name="fundfreq~"/>
-        <Object Name="geq~"/>
-        <Object Name="gt~"/>
-        <Object Name="harmprod~"/>
-        <Object Name="leq~"/>
-        <Object Name="lt~"/>
-        <Object Name="magtoamp~"/>
-        <Object Name="magtodb~"/>
-        <Object Name="magtrim~"/>
-        <Object Name="mod~"/>
-        <Object Name="monitor~"/>
-        <Object Name="nand~"/>
-        <Object Name="neq~"/>
-        <Object Name="nor~"/>
-        <Object Name="not~"/>
-        <Object Name="or~"/>
-        <Object Name="oscbank~"/>
-        <Object Name="pafft~"/>
-        <Object Name="paifft~"/>
-        <Object Name="partconv~"/>
-        <Object Name="pd_spectral_toolkit"/>
-        <Object Name="peaks~"/>
-        <Object Name="phaseaccum~"/>
-        <Object Name="phasedelta~"/>
-        <Object Name="phasetofreq~"/>
-        <Object Name="piwrap~"/>
-        <Object Name="polartocar~"/>
-        <Object Name="polartofreq~"/>
-        <Object Name="radtodeg~"/>
-        <Object Name="radtoturn~"/>
-        <Object Name="recip~"/>
-        <Object Name="rgbtable"/>
-        <Object Name="rotate~"/>
-        <Object Name="rounder~"/>
-        <Object Name="scale~"/>
-        <Object Name="sigtoctl~"/>
-        <Object Name="softclip~"/>
-        <Object Name="tabindex~"/>
-        <Object Name="terminal"/>
-        <Object Name="trunc~"/>
-        <Object Name="turntodeg~"/>
-        <Object Name="turntorad~"/>
-        <Object Name="valleys~"/>
-        <Object Name="windower"/>
-        <Object Name="winfft~"/>
-        <Object Name="winifft~"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="adaptive">
     <Package ID="YWRhcHRpdmVfMC4wLmV4dGVuZGVkXzIwMTgtMDktMjUgMjM6MDM6NThfbHVjYXJkYQ=="
              Author="lucarda" Timestamp="2018-09-25 23:03:58" Description="adaptive[v0.0.extended](Windows-amd64-32)(Sources).dek"
@@ -5130,35 +5174,12 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="comport">
-    <Package ID="Y29tcG9ydF8xLjNfMjAyNC0xMC0xMCAxNzo0Mjo1MF9pZW1ib3Q=" Author="iembot"
-             Timestamp="2024-10-10 17:42:50" Description="comport[v1.3](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
-             Version="1.3" URL="https://puredata.info/Members/iembot/software/comport/1.3/comport[v1.3](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
+  <Packages Name="algo~">
+    <Package ID="YWxnb35fMS4wLjFfMjAyMC0wOS0xMSAxNToxMjozN193bWJyZW50" Author="wmbrent"
+             Timestamp="2020-09-11 15:12:37" Description="algo~[v1.0.1](Windows-amd64-32).dek"
+             Version="1.0.1" URL="https://puredata.info/Members/wmbrent/software/algo~/1.0.1/algo~[v1.0.1](Windows-amd64-32).dek">
       <Objects>
-        <Object Name="comport"/>
-      </Objects>
-    </Package>
-    <Package ID="Y29tcG9ydF8xLjJfMjAyMi0wMy0yMSAxMTo1MjoyN19pZW1ib3Q=" Author="iembot"
-             Timestamp="2022-03-21 11:52:27" Description="comport[v1.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="1.2" URL="https://puredata.info/Members/iembot/software/comport/1.2/comport[v1.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects>
-        <Object Name="comport"/>
-      </Objects>
-    </Package>
-    <Package ID="Y29tcG9ydF8xLjEuMV8yMDE5LTAzLTE2IDAxOjI5OjQzX2x1Y2FyZGE="
-             Author="lucarda" Timestamp="2019-03-16 01:29:43" Description="comport[v1.1.1](Windows-amd64-32)(Sources).dek"
-             Version="1.1.1" URL="https://puredata.info/Members/lucarda/software/comport[v1.1.1](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="bird"/>
-        <Object Name="comport"/>
-      </Objects>
-    </Package>
-    <Package ID="Y29tcG9ydF8xLjFfMjAxOS0wMy0xNSAyMjo0Nzo1NF9sdWNhcmRh" Author="lucarda"
-             Timestamp="2019-03-15 22:47:54" Description="comport[v1.1](Windows-amd64-32)(Sources).dek"
-             Version="1.1" URL="https://puredata.info/Members/lucarda/software/comport[v1.1](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="bird"/>
-        <Object Name="comport"/>
+        <Object Name="algo~"/>
       </Objects>
     </Package>
   </Packages>
@@ -5190,12 +5211,35 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="algo~">
-    <Package ID="YWxnb35fMS4wLjFfMjAyMC0wOS0xMSAxNToxMjozN193bWJyZW50" Author="wmbrent"
-             Timestamp="2020-09-11 15:12:37" Description="algo~[v1.0.1](Windows-amd64-32).dek"
-             Version="1.0.1" URL="https://puredata.info/Members/wmbrent/software/algo~/1.0.1/algo~[v1.0.1](Windows-amd64-32).dek">
+  <Packages Name="comport">
+    <Package ID="Y29tcG9ydF8xLjNfMjAyNC0xMC0xMCAxNzo0Mjo1MF9pZW1ib3Q=" Author="iembot"
+             Timestamp="2024-10-10 17:42:50" Description="comport[v1.3](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
+             Version="1.3" URL="https://puredata.info/Members/iembot/software/comport/1.3/comport[v1.3](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
       <Objects>
-        <Object Name="algo~"/>
+        <Object Name="comport"/>
+      </Objects>
+    </Package>
+    <Package ID="Y29tcG9ydF8xLjJfMjAyMi0wMy0yMSAxMTo1MjoyN19pZW1ib3Q=" Author="iembot"
+             Timestamp="2022-03-21 11:52:27" Description="comport[v1.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="1.2" URL="https://puredata.info/Members/iembot/software/comport/1.2/comport[v1.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="comport"/>
+      </Objects>
+    </Package>
+    <Package ID="Y29tcG9ydF8xLjEuMV8yMDE5LTAzLTE2IDAxOjI5OjQzX2x1Y2FyZGE="
+             Author="lucarda" Timestamp="2019-03-16 01:29:43" Description="comport[v1.1.1](Windows-amd64-32)(Sources).dek"
+             Version="1.1.1" URL="https://puredata.info/Members/lucarda/software/comport[v1.1.1](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="bird"/>
+        <Object Name="comport"/>
+      </Objects>
+    </Package>
+    <Package ID="Y29tcG9ydF8xLjFfMjAxOS0wMy0xNSAyMjo0Nzo1NF9sdWNhcmRh" Author="lucarda"
+             Timestamp="2019-03-15 22:47:54" Description="comport[v1.1](Windows-amd64-32)(Sources).dek"
+             Version="1.1" URL="https://puredata.info/Members/lucarda/software/comport[v1.1](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="bird"/>
+        <Object Name="comport"/>
       </Objects>
     </Package>
   </Packages>
@@ -6059,15 +6103,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="abl_link~">
-    <Package ID="YWJsX2xpbmt+XzAuNl8yMDIxLTA1LTI2IDAwOjIxOjU5X2x1Y2FyZGE="
-             Author="lucarda" Timestamp="2021-05-26 00:21:59" Description="abl_link~[v0.6](Windows-amd64-32)(Windows-i386-32).dek"
-             Version="0.6" URL="https://puredata.info/Members/lucarda/software/abl_link~/0.6/abl_link~[v0.6](Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects>
-        <Object Name="abl_link~"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="Fraise-toolchain">
     <Package ID="RnJhaXNlLXRvb2xjaGFpbl8wLjIuMF8yMDI1LTA1LTIzIDE3OjIwOjA3X2FudDFy"
              Author="ant1r" Timestamp="2025-05-23 17:20:07" Description="Fraise-toolchain[v0.2.0](Windows-amd64-32).dek"
@@ -6078,6 +6113,15 @@
              Author="ant1r" Timestamp="2024-03-25 18:32:19" Description="Fraise-toolchain[v0.1.0](Windows-amd64-32).dek"
              Version="0.1.0" URL="https://puredata.info/Members/ant1r/software/Fraise-toolchain/0.1.0/Fraise-toolchain[v0.1.0](Windows-amd64-32).dek">
       <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="abl_link~">
+    <Package ID="YWJsX2xpbmt+XzAuNl8yMDIxLTA1LTI2IDAwOjIxOjU5X2x1Y2FyZGE="
+             Author="lucarda" Timestamp="2021-05-26 00:21:59" Description="abl_link~[v0.6](Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.6" URL="https://puredata.info/Members/lucarda/software/abl_link~/0.6/abl_link~[v0.6](Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="abl_link~"/>
+      </Objects>
     </Package>
   </Packages>
   <Packages Name="cicmtools">
@@ -6352,9 +6396,9 @@
     </Package>
   </Packages>
   <Packages Name="else">
-    <Package ID="ZWxzZV8xLjAtMF9yYzE0LXRlc3Qtd2l0aF9saXZlX2VsZWN0cm9uaWNzX3R1dG9yaWFsXzIwMjUtMDgtMjcgMDQ6MDc6NDZfcG9ycmVz"
-             Author="porres" Timestamp="2025-08-27 04:07:46" Description="else[v1.0-0_rc14-test-with_live_electronics_tutorial](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek"
-             Version="1.0-0_rc14-test-with_live_electronics_tutorial" URL="https://puredata.info/Members/porres/software/else/1.0-0_rc14-test-with_live_electronics_tutorial/else[v1.0-0_rc14-test-with_live_electronics_tutorial](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek">
+    <Package ID="ZWxzZV8xLjAtMF9yYzE0LXRlc3QyLXdpdGhfbGl2ZV9lbGVjdHJvbmljc190dXRvcmlhbF8yMDI1LTA4LTI4IDA2OjI1OjM2X3BvcnJlcw=="
+             Author="porres" Timestamp="2025-08-28 06:25:36" Description="else[v1.0-0_rc14-test2-with_live_electronics_tutorial](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek"
+             Version="1.0-0_rc14-test2-with_live_electronics_tutorial" URL="https://puredata.info/Members/porres/software/else/1.0-0_rc14-test2-with_live_electronics_tutorial/else[v1.0-0_rc14-test2-with_live_electronics_tutorial](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek">
       <Objects>
         <Object Name="above"/>
         <Object Name="above~"/>
@@ -18099,50 +18143,6 @@
              Author="lucarda" Timestamp="2018-10-31 00:16:32" Description="dnd-plugin[v0.2](Windows-i386-32)(Windows-amd64-32).dek"
              Version="0.2" URL="https://puredata.info/Members/lucarda/software/dnd-plugin[v0.2](Windows-i386-32)(Windows-amd64-32).dek">
       <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="midifile">
-    <Package ID="bWlkaWZpbGVfMC40LjNfMjAyNS0wMy0wNCAyMzoyODowN19pZW1ib3Q="
-             Author="iembot" Timestamp="2025-03-04 23:28:07" Description="midifile[v0.4.3](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
-             Version="0.4.3" URL="https://puredata.info/Members/iembot/software/midifile/0.4.3/midifile[v0.4.3](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
-      <Objects>
-        <Object Name="midifile"/>
-      </Objects>
-    </Package>
-    <Package ID="bWlkaWZpbGVfMC40LjJfMjAyNC0xMS0yMiAwOTozMzozOF9pZW1ib3Q="
-             Author="iembot" Timestamp="2024-11-22 09:33:38" Description="midifile[v0.4.2](Windows-amd64-32)(Windows-i386-32).dek"
-             Version="0.4.2" URL="https://puredata.info/Members/iembot/software/midifile/0.4.2/midifile[v0.4.2](Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects>
-        <Object Name="midifile"/>
-      </Objects>
-    </Package>
-    <Package ID="bWlkaWZpbGVfMC40LjFfMjAyNC0xMS0yMiAwOToyNDo0Nl9pZW1ib3Q="
-             Author="iembot" Timestamp="2024-11-22 09:24:46" Description="midifile[v0.4.1](Windows-amd64-32)(Windows-i386-32).dek"
-             Version="0.4.1" URL="https://puredata.info/Members/iembot/software/midifile/0.4.1/midifile[v0.4.1](Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects>
-        <Object Name="midifile"/>
-      </Objects>
-    </Package>
-    <Package ID="bWlkaWZpbGVfMC40LjFfMjAyMC0wNi0wOSAyMDoyOTowMV9tYXJ0aW5ycA=="
-             Author="martinrp" Timestamp="2020-06-09 20:29:01" Description="midifile[v0.4.1](Windows-amd64-32)(Sources).dek"
-             Version="0.4.1" URL="https://puredata.info/Members/martinrp/software/midifile/0.41/midifile[v0.4.1](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="midifile"/>
-      </Objects>
-    </Package>
-    <Package ID="bWlkaWZpbGVfMC40XzIwMjAtMDQtMDIgMDI6NTQ6MjdfbWFydGlucnA="
-             Author="martinrp" Timestamp="2020-04-02 02:54:27" Description="midifile[v0.4](Windows-amd64-32)(Sources).dek"
-             Version="0.4" URL="https://puredata.info/Members/martinrp/software/midifile/0.4/midifile[v0.4](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="midifile"/>
-      </Objects>
-    </Package>
-    <Package ID="bWlkaWZpbGVfMC4wLjIwMjAwMzEyXzIwMjAtMDMtMTEgMTc6MTM6MDFfbWFydGlucnA="
-             Author="martinrp" Timestamp="2020-03-11 17:13:01" Description="midifile[v0.0.20200312](Windows-amd64-32)(Sources).dek"
-             Version="0.0.20200312" URL="https://puredata.info/Members/martinrp/software/midifile/0.20200312/midifile[v0.0.20200312](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="midifile"/>
-      </Objects>
     </Package>
   </Packages>
   <Packages Name="hexloader">
