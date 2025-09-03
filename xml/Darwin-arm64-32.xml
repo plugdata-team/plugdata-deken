@@ -6509,9 +6509,9 @@
     </Package>
   </Packages>
   <Packages Name="else">
-    <Package ID="ZWxzZV8xLjAtMF9yYzE0LXdpdGhfbGl2ZV9lbGVjdHJvbmljc190dXRvcmlhbF8yMDI1LTA5LTAxIDIyOjUzOjI3X3BvcnJlcw=="
-             Author="porres" Timestamp="2025-09-01 22:53:27" Description="else[v1.0-0_rc14-with_live_electronics_tutorial](Darwin-amd64-32)(Darwin-arm64-32).dek"
-             Version="1.0-0_rc14-with_live_electronics_tutorial" URL="https://puredata.info/Members/porres/software/else/1.0-0_rc14-with_live_electronics_tutorial/else[v1.0-0_rc14-with_live_electronics_tutorial](Darwin-amd64-32)(Darwin-arm64-32).dek">
+    <Package ID="ZWxzZV8xLjAtMF9yYzE0LXdpdGhfbGl2ZV9lbGVjdHJvbmljc190dXRvcmlhbF8yMDI1LTA5LTAzIDA0OjE0OjU0X3BvcnJlcw=="
+             Author="porres" Timestamp="2025-09-03 04:14:54" Description="else[v1.0-0_rc14-with_live_electronics_tutorial](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek"
+             Version="1.0-0_rc14-with_live_electronics_tutorial" URL="https://puredata.info/Members/porres/software/else/1.0-0_rc14-with_live_electronics_tutorial/else[v1.0-0_rc14-with_live_electronics_tutorial](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek">
       <Objects>
         <Object Name="above"/>
         <Object Name="above~"/>
