@@ -1237,6 +1237,13 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="mkmr">
+    <Package ID="bWttcl8wLjFfMjAxOS0xMC0yMyAyMzo0ODoyNV9NaWtlTW9yZW5vQXVkaW8="
+             Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="ceammc">
     <Package ID="Y2VhbW1jXzAuOS43XzIwMjMtMTAtMjUgMTE6NTQ6MTJfYW5hZGphcm92"
              Author="anadjarov" Timestamp="2023-10-25 11:54:12" Description="ceammc[v0.9.7](Windows-amd64-64).dek"
@@ -7034,281 +7041,23 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="simplex~">
-    <Package ID="c2ltcGxleH5fMC4zLjZfMjAyNC0wNi0yNyAxOToxMToxMV9iZW5fd2VzY2g="
-             Author="ben_wesch" Timestamp="2024-06-27 19:11:11" Description="simplex~[v0.3.6](Windows-amd64-32)(Windows-amd64-64).dek"
-             Version="0.3.6" URL="https://puredata.info/Members/ben_wesch/software/simplex~/0.3.6/simplex~[v0.3.6](Windows-amd64-32)(Windows-amd64-64).dek">
+  <Packages Name="iempluginOSC">
+    <Package ID="aWVtcGx1Z2luT1NDXzAuMV8yMDE5LTA0LTEyIDEyOjQzOjU1X3NwYWNlY2hpbGQx"
+             Author="spacechild1" Timestamp="2019-04-12 12:43:55" Description="iempluginOSC[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/spacechild1/software/iempluginOSC/0.1/iempluginOSC[v0.1].dek">
       <Objects>
-        <Object Name="simplex~"/>
-      </Objects>
-    </Package>
-    <Package ID="c2ltcGxleH5fMC4zLjVfMjAyNC0wNi0wNCAxNDo1Mjo1Nl9iZW5fd2VzY2g="
-             Author="ben_wesch" Timestamp="2024-06-04 14:52:56" Description="simplex~[v0.3.5](Windows-amd64-32)(Windows-amd64-64).dek"
-             Version="0.3.5" URL="https://puredata.info/Members/ben_wesch/software/simplex~/0.3.5/simplex~[v0.3.5](Windows-amd64-32)(Windows-amd64-64).dek">
-      <Objects>
-        <Object Name="simplex~"/>
-      </Objects>
-    </Package>
-    <Package ID="c2ltcGxleH5fMC4zLjRfMjAyNC0wNS0yOCAxNjo1NzowOV9iZW5fd2VzY2g="
-             Author="ben_wesch" Timestamp="2024-05-28 16:57:09" Description="simplex~[v0.3.4](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Windows-amd64-32)(Windows-amd64-64).dek"
-             Version="0.3.4" URL="https://puredata.info/Members/ben_wesch/software/simplex~/0.3.4/simplex~[v0.3.4](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Windows-amd64-32)(Windows-amd64-64).dek">
-      <Objects>
-        <Object Name="simplex~"/>
+        <Object Name="iempluginOSC"/>
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="Gem">
-    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNS0wNi0zMCAyMDo1MToyNV9pZW1ib3Q="
-             Author="iembot" Timestamp="2025-06-30 20:51:25" Description="Gem[v0.94-snapshot](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
-             Version="0.94-snapshot" URL="https://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
+  <Packages Name="xsample">
+    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIyLTA3LTEwIDAxOjE0OjQ2X3Rob21hcw=="
+             Author="thomas" Timestamp="2022-07-10 01:14:46" Description="xsample[v0.3.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek"
+             Version="0.3.2" URL="https://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek">
       <Objects>
-        <Object Name="_textbbox"/>
-        <Object Name="accumrotate"/>
-        <Object Name="alpha"/>
-        <Object Name="ambient"/>
-        <Object Name="ambientRGB"/>
-        <Object Name="camera"/>
-        <Object Name="circle"/>
-        <Object Name="color"/>
-        <Object Name="colorRGB"/>
-        <Object Name="colorSquare"/>
-        <Object Name="cone"/>
-        <Object Name="cube"/>
-        <Object Name="cuboid"/>
-        <Object Name="curve"/>
-        <Object Name="curve3d"/>
-        <Object Name="cylinder"/>
-        <Object Name="depth"/>
-        <Object Name="diffuse"/>
-        <Object Name="diffuseRGB"/>
-        <Object Name="disk"/>
-        <Object Name="emission"/>
-        <Object Name="emissionRGB"/>
-        <Object Name="fragment_program"/>
-        <Object Name="Gem"/>
-        <Object Name="gemargs"/>
-        <Object Name="gemcocoawindow"/>
-        <Object Name="gemcubeframebuffer"/>
-        <Object Name="gemframebuffer"/>
-        <Object Name="GEMgl"/>
-        <Object Name="GEMglBegin"/>
-        <Object Name="gemglfw2window"/>
-        <Object Name="gemglfw3window"/>
-        <Object Name="gemglutwindow"/>
-        <Object Name="gemglxwindow"/>
-        <Object Name="gemhead"/>
-        <Object Name="gemkeyboard"/>
-        <Object Name="gemkeyname"/>
-        <Object Name="gemlist"/>
-        <Object Name="gemlist_info"/>
-        <Object Name="gemlist_matrix"/>
-        <Object Name="gemmacoswindow"/>
-        <Object Name="gemmacwindow"/>
-        <Object Name="gemmanager"/>
-        <Object Name="gemmouse"/>
-        <Object Name="gemorb"/>
-        <Object Name="gemreceive"/>
-        <Object Name="gemrepeat"/>
-        <Object Name="gemsdl2window"/>
-        <Object Name="gemsdlwindow"/>
-        <Object Name="gemtablet"/>
-        <Object Name="gemvertexbuffer"/>
-        <Object Name="gemw32window"/>
-        <Object Name="gemwin"/>
-        <Object Name="GLdefine"/>
-        <Object Name="glsl"/>
-        <Object Name="glsl_fragment"/>
-        <Object Name="glsl_geometry"/>
-        <Object Name="glsl_program"/>
-        <Object Name="glsl_vertex"/>
-        <Object Name="hsv2rgb"/>
-        <Object Name="imageVert"/>
-        <Object Name="light"/>
-        <Object Name="linear_path"/>
-        <Object Name="mesh_line"/>
-        <Object Name="mesh_square"/>
-        <Object Name="model"/>
-        <Object Name="modelfiler"/>
-        <Object Name="multimodel"/>
-        <Object Name="newWave"/>
-        <Object Name="ortho"/>
-        <Object Name="part_color"/>
-        <Object Name="part_damp"/>
-        <Object Name="part_draw"/>
-        <Object Name="part_follow"/>
-        <Object Name="part_gravity"/>
-        <Object Name="part_head"/>
-        <Object Name="part_info"/>
-        <Object Name="part_information"/>
-        <Object Name="part_killold"/>
-        <Object Name="part_killslow"/>
-        <Object Name="part_move"/>
-        <Object Name="part_orbitpoint"/>
-        <Object Name="part_render"/>
-        <Object Name="part_sink"/>
-        <Object Name="part_size"/>
-        <Object Name="part_source"/>
-        <Object Name="part_targetcolor"/>
-        <Object Name="part_targetsize"/>
-        <Object Name="part_velcone"/>
-        <Object Name="part_velocity"/>
-        <Object Name="part_velsphere"/>
-        <Object Name="part_vertex"/>
-        <Object Name="pix_2grey"/>
-        <Object Name="pix_a_2grey"/>
-        <Object Name="pix_add"/>
-        <Object Name="pix_aging"/>
-        <Object Name="pix_alpha"/>
-        <Object Name="pix_background"/>
-        <Object Name="pix_backlight"/>
-        <Object Name="pix_biquad"/>
-        <Object Name="pix_bitmask"/>
-        <Object Name="pix_blob"/>
-        <Object Name="pix_blobtracker"/>
-        <Object Name="pix_blur"/>
-        <Object Name="pix_buf"/>
-        <Object Name="pix_buffer"/>
-        <Object Name="pix_buffer_filmopen"/>
-        <Object Name="pix_buffer_read"/>
-        <Object Name="pix_buffer_write"/>
-        <Object Name="pix_chroma_key"/>
-        <Object Name="pix_clearblock"/>
-        <Object Name="pix_color"/>
-        <Object Name="pix_coloralpha"/>
-        <Object Name="pix_colorclassify"/>
-        <Object Name="pix_colormatrix"/>
-        <Object Name="pix_colorreduce"/>
-        <Object Name="pix_compare"/>
-        <Object Name="pix_composite"/>
-        <Object Name="pix_contrast"/>
-        <Object Name="pix_convert"/>
-        <Object Name="pix_convolve"/>
-        <Object Name="pix_coordinate"/>
-        <Object Name="pix_crop"/>
-        <Object Name="pix_curve"/>
-        <Object Name="pix_data"/>
-        <Object Name="pix_deinterlace"/>
-        <Object Name="pix_delay"/>
-        <Object Name="pix_diff"/>
-        <Object Name="pix_dot"/>
-        <Object Name="pix_draw"/>
-        <Object Name="pix_drum"/>
-        <Object Name="pix_dump"/>
-        <Object Name="pix_duotone"/>
-        <Object Name="pix_equal"/>
-        <Object Name="pix_fiducialtrack"/>
-        <Object Name="pix_film"/>
-        <Object Name="pix_flip"/>
-        <Object Name="pix_freeframe"/>
-        <Object Name="pix_frei0r"/>
-        <Object Name="pix_gain"/>
-        <Object Name="pix_grey"/>
-        <Object Name="pix_halftone"/>
-        <Object Name="pix_histo"/>
-        <Object Name="pix_hit"/>
-        <Object Name="pix_hsv2rgb"/>
-        <Object Name="pix_image"/>
-        <Object Name="pix_imageInPlace"/>
-        <Object Name="pix_indycam"/>
-        <Object Name="pix_info"/>
-        <Object Name="pix_invert"/>
-        <Object Name="pix_kaleidoscope"/>
-        <Object Name="pix_levels"/>
-        <Object Name="pix_lumaoffset"/>
-        <Object Name="pix_mano"/>
-        <Object Name="pix_mask"/>
-        <Object Name="pix_mean_color"/>
-        <Object Name="pix_metaimage"/>
-        <Object Name="pix_mix"/>
-        <Object Name="pix_motionblur"/>
-        <Object Name="pix_movement"/>
-        <Object Name="pix_movement2"/>
-        <Object Name="pix_movie"/>
-        <Object Name="pix_multiblob"/>
-        <Object Name="pix_multiimage"/>
-        <Object Name="pix_multiply"/>
-        <Object Name="pix_multitexture"/>
-        <Object Name="pix_noise"/>
-        <Object Name="pix_normalize"/>
-        <Object Name="pix_offset"/>
-        <Object Name="pix_pix2sig~"/>
-        <Object Name="pix_posterize"/>
-        <Object Name="pix_puzzle"/>
-        <Object Name="pix_rds"/>
-        <Object Name="pix_record"/>
-        <Object Name="pix_rectangle"/>
-        <Object Name="pix_refraction"/>
-        <Object Name="pix_resize"/>
-        <Object Name="pix_rgb2hsv"/>
-        <Object Name="pix_rgba"/>
-        <Object Name="pix_roi"/>
-        <Object Name="pix_roll"/>
-        <Object Name="pix_rtx"/>
-        <Object Name="pix_scanline"/>
-        <Object Name="pix_set"/>
-        <Object Name="pix_share_read"/>
-        <Object Name="pix_share_write"/>
-        <Object Name="pix_sig2pix~"/>
-        <Object Name="pix_snap"/>
-        <Object Name="pix_snap2tex"/>
-        <Object Name="pix_subtract"/>
-        <Object Name="pix_takealpha"/>
-        <Object Name="pix_test"/>
-        <Object Name="pix_texture"/>
-        <Object Name="pix_threshold"/>
-        <Object Name="pix_threshold_bernsen"/>
-        <Object Name="pix_tIIR"/>
-        <Object Name="pix_video"/>
-        <Object Name="pix_write"/>
-        <Object Name="pix_writer"/>
-        <Object Name="pix_yuv"/>
-        <Object Name="pix_zoom"/>
-        <Object Name="polygon"/>
-        <Object Name="polygon_smooth"/>
-        <Object Name="pqtorusknots"/>
-        <Object Name="primTri"/>
-        <Object Name="rectangle"/>
-        <Object Name="render_trigger"/>
-        <Object Name="rgb2hsv"/>
-        <Object Name="rgb2yuv"/>
-        <Object Name="ripple"/>
-        <Object Name="rotate"/>
-        <Object Name="rotateXYZ"/>
-        <Object Name="rubber"/>
-        <Object Name="scale"/>
-        <Object Name="scaleXYZ"/>
-        <Object Name="scopeXYZ~"/>
-        <Object Name="separator"/>
-        <Object Name="shearXY"/>
-        <Object Name="shearXZ"/>
-        <Object Name="shearYX"/>
-        <Object Name="shearYZ"/>
-        <Object Name="shearZX"/>
-        <Object Name="shearZY"/>
-        <Object Name="shininess"/>
-        <Object Name="slideSquares"/>
-        <Object Name="specular"/>
-        <Object Name="specularRGB"/>
-        <Object Name="sphere"/>
-        <Object Name="sphere3d"/>
-        <Object Name="spline_path"/>
-        <Object Name="spot_light"/>
-        <Object Name="square"/>
-        <Object Name="surface3d"/>
-        <Object Name="teapot"/>
-        <Object Name="text2d"/>
-        <Object Name="text3d"/>
-        <Object Name="textextruded"/>
-        <Object Name="textoutline"/>
-        <Object Name="torus"/>
-        <Object Name="translate"/>
-        <Object Name="translateXYZ"/>
-        <Object Name="trapezoid"/>
-        <Object Name="triangle"/>
-        <Object Name="tube"/>
-        <Object Name="vertex_program"/>
-        <Object Name="world_light"/>
-        <Object Name="yuv2rgb"/>
+        <Object Name="xgroove~"/>
+        <Object Name="xplay~"/>
+        <Object Name="xrecord~"/>
       </Objects>
     </Package>
   </Packages>
@@ -7588,10 +7337,45 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="mkmr">
-    <Package ID="bWttcl8wLjFfMjAxOS0xMC0yMyAyMzo0ODoyNV9NaWtlTW9yZW5vQXVkaW8="
-             Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
-             Version="0.1" URL="https://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
+  <Packages Name="Fraise">
+    <Package ID="RnJhaXNlXzAuNC4wXzIwMjUtMDUtMjMgMTc6MjA6MjRfYW50MXI=" Author="ant1r"
+             Timestamp="2025-05-23 17:20:24" Description="Fraise[v0.4.0].dek"
+             Version="0.4.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.4.0/Fraise[v0.4.0].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy40XzIwMjUtMDUtMTIgMTM6MzI6NTVfYW50MXI=" Author="ant1r"
+             Timestamp="2025-05-12 13:32:55" Description="Fraise[v0.3.4].dek"
+             Version="0.3.4" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.4/Fraise[v0.3.4].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy4zXzIwMjQtMTAtMDkgMTU6MzU6MjFfYW50MXI=" Author="ant1r"
+             Timestamp="2024-10-09 15:35:21" Description="Fraise[v0.3.3].dek"
+             Version="0.3.3" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.3/Fraise[v0.3.3].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy4yXzIwMjQtMTAtMDkgMTQ6NDE6MDdfYW50MXI=" Author="ant1r"
+             Timestamp="2024-10-09 14:41:07" Description="Fraise[v0.3.2].dek"
+             Version="0.3.2" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.2/Fraise[v0.3.2].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy4xXzIwMjQtMDgtMjEgMTg6MzQ6NDJfYW50MXI=" Author="ant1r"
+             Timestamp="2024-08-21 18:34:42" Description="Fraise[v0.3.1].dek"
+             Version="0.3.1" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.1/Fraise[v0.3.1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy4wXzIwMjQtMDMtMjkgMTc6NTY6NTlfYW50MXI=" Author="ant1r"
+             Timestamp="2024-03-29 17:56:59" Description="Fraise[v0.3.0].dek"
+             Version="0.3.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.0/Fraise[v0.3.0].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMS4xXzIwMjEtMDMtMjUgMTU6Mzk6MjlfYW50MXI=" Author="ant1r"
+             Timestamp="2021-03-25 15:39:29" Description="Fraise[v0.1.1].dek"
+             Version="0.1.1" URL="https://puredata.info/Members/ant1r/software/Fraise/0.1.1/Fraise[v0.1.1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMS4wXzIwMjEtMDEtMDcgMTI6MzI6MzVfYW50MXI=" Author="ant1r"
+             Timestamp="2021-01-07 12:32:35" Description="Fraise[v0.1.0].dek"
+             Version="0.1.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.1.0/Fraise[v0.1.0].dek">
       <Objects/>
     </Package>
   </Packages>
@@ -7647,6 +7431,284 @@
         <Object Name="array-std"/>
         <Object Name="array-unique"/>
         <Object Name="array-window"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="simplex~">
+    <Package ID="c2ltcGxleH5fMC4zLjZfMjAyNC0wNi0yNyAxOToxMToxMV9iZW5fd2VzY2g="
+             Author="ben_wesch" Timestamp="2024-06-27 19:11:11" Description="simplex~[v0.3.6](Windows-amd64-32)(Windows-amd64-64).dek"
+             Version="0.3.6" URL="https://puredata.info/Members/ben_wesch/software/simplex~/0.3.6/simplex~[v0.3.6](Windows-amd64-32)(Windows-amd64-64).dek">
+      <Objects>
+        <Object Name="simplex~"/>
+      </Objects>
+    </Package>
+    <Package ID="c2ltcGxleH5fMC4zLjVfMjAyNC0wNi0wNCAxNDo1Mjo1Nl9iZW5fd2VzY2g="
+             Author="ben_wesch" Timestamp="2024-06-04 14:52:56" Description="simplex~[v0.3.5](Windows-amd64-32)(Windows-amd64-64).dek"
+             Version="0.3.5" URL="https://puredata.info/Members/ben_wesch/software/simplex~/0.3.5/simplex~[v0.3.5](Windows-amd64-32)(Windows-amd64-64).dek">
+      <Objects>
+        <Object Name="simplex~"/>
+      </Objects>
+    </Package>
+    <Package ID="c2ltcGxleH5fMC4zLjRfMjAyNC0wNS0yOCAxNjo1NzowOV9iZW5fd2VzY2g="
+             Author="ben_wesch" Timestamp="2024-05-28 16:57:09" Description="simplex~[v0.3.4](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Windows-amd64-32)(Windows-amd64-64).dek"
+             Version="0.3.4" URL="https://puredata.info/Members/ben_wesch/software/simplex~/0.3.4/simplex~[v0.3.4](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Windows-amd64-32)(Windows-amd64-64).dek">
+      <Objects>
+        <Object Name="simplex~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="Gem">
+    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNS0wNi0zMCAyMDo1MToyNV9pZW1ib3Q="
+             Author="iembot" Timestamp="2025-06-30 20:51:25" Description="Gem[v0.94-snapshot](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
+             Version="0.94-snapshot" URL="https://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="_textbbox"/>
+        <Object Name="accumrotate"/>
+        <Object Name="alpha"/>
+        <Object Name="ambient"/>
+        <Object Name="ambientRGB"/>
+        <Object Name="camera"/>
+        <Object Name="circle"/>
+        <Object Name="color"/>
+        <Object Name="colorRGB"/>
+        <Object Name="colorSquare"/>
+        <Object Name="cone"/>
+        <Object Name="cube"/>
+        <Object Name="cuboid"/>
+        <Object Name="curve"/>
+        <Object Name="curve3d"/>
+        <Object Name="cylinder"/>
+        <Object Name="depth"/>
+        <Object Name="diffuse"/>
+        <Object Name="diffuseRGB"/>
+        <Object Name="disk"/>
+        <Object Name="emission"/>
+        <Object Name="emissionRGB"/>
+        <Object Name="fragment_program"/>
+        <Object Name="Gem"/>
+        <Object Name="gemargs"/>
+        <Object Name="gemcocoawindow"/>
+        <Object Name="gemcubeframebuffer"/>
+        <Object Name="gemframebuffer"/>
+        <Object Name="GEMgl"/>
+        <Object Name="GEMglBegin"/>
+        <Object Name="gemglfw2window"/>
+        <Object Name="gemglfw3window"/>
+        <Object Name="gemglutwindow"/>
+        <Object Name="gemglxwindow"/>
+        <Object Name="gemhead"/>
+        <Object Name="gemkeyboard"/>
+        <Object Name="gemkeyname"/>
+        <Object Name="gemlist"/>
+        <Object Name="gemlist_info"/>
+        <Object Name="gemlist_matrix"/>
+        <Object Name="gemmacoswindow"/>
+        <Object Name="gemmacwindow"/>
+        <Object Name="gemmanager"/>
+        <Object Name="gemmouse"/>
+        <Object Name="gemorb"/>
+        <Object Name="gemreceive"/>
+        <Object Name="gemrepeat"/>
+        <Object Name="gemsdl2window"/>
+        <Object Name="gemsdlwindow"/>
+        <Object Name="gemtablet"/>
+        <Object Name="gemvertexbuffer"/>
+        <Object Name="gemw32window"/>
+        <Object Name="gemwin"/>
+        <Object Name="GLdefine"/>
+        <Object Name="glsl"/>
+        <Object Name="glsl_fragment"/>
+        <Object Name="glsl_geometry"/>
+        <Object Name="glsl_program"/>
+        <Object Name="glsl_vertex"/>
+        <Object Name="hsv2rgb"/>
+        <Object Name="imageVert"/>
+        <Object Name="light"/>
+        <Object Name="linear_path"/>
+        <Object Name="mesh_line"/>
+        <Object Name="mesh_square"/>
+        <Object Name="model"/>
+        <Object Name="modelfiler"/>
+        <Object Name="multimodel"/>
+        <Object Name="newWave"/>
+        <Object Name="ortho"/>
+        <Object Name="part_color"/>
+        <Object Name="part_damp"/>
+        <Object Name="part_draw"/>
+        <Object Name="part_follow"/>
+        <Object Name="part_gravity"/>
+        <Object Name="part_head"/>
+        <Object Name="part_info"/>
+        <Object Name="part_information"/>
+        <Object Name="part_killold"/>
+        <Object Name="part_killslow"/>
+        <Object Name="part_move"/>
+        <Object Name="part_orbitpoint"/>
+        <Object Name="part_render"/>
+        <Object Name="part_sink"/>
+        <Object Name="part_size"/>
+        <Object Name="part_source"/>
+        <Object Name="part_targetcolor"/>
+        <Object Name="part_targetsize"/>
+        <Object Name="part_velcone"/>
+        <Object Name="part_velocity"/>
+        <Object Name="part_velsphere"/>
+        <Object Name="part_vertex"/>
+        <Object Name="pix_2grey"/>
+        <Object Name="pix_a_2grey"/>
+        <Object Name="pix_add"/>
+        <Object Name="pix_aging"/>
+        <Object Name="pix_alpha"/>
+        <Object Name="pix_background"/>
+        <Object Name="pix_backlight"/>
+        <Object Name="pix_biquad"/>
+        <Object Name="pix_bitmask"/>
+        <Object Name="pix_blob"/>
+        <Object Name="pix_blobtracker"/>
+        <Object Name="pix_blur"/>
+        <Object Name="pix_buf"/>
+        <Object Name="pix_buffer"/>
+        <Object Name="pix_buffer_filmopen"/>
+        <Object Name="pix_buffer_read"/>
+        <Object Name="pix_buffer_write"/>
+        <Object Name="pix_chroma_key"/>
+        <Object Name="pix_clearblock"/>
+        <Object Name="pix_color"/>
+        <Object Name="pix_coloralpha"/>
+        <Object Name="pix_colorclassify"/>
+        <Object Name="pix_colormatrix"/>
+        <Object Name="pix_colorreduce"/>
+        <Object Name="pix_compare"/>
+        <Object Name="pix_composite"/>
+        <Object Name="pix_contrast"/>
+        <Object Name="pix_convert"/>
+        <Object Name="pix_convolve"/>
+        <Object Name="pix_coordinate"/>
+        <Object Name="pix_crop"/>
+        <Object Name="pix_curve"/>
+        <Object Name="pix_data"/>
+        <Object Name="pix_deinterlace"/>
+        <Object Name="pix_delay"/>
+        <Object Name="pix_diff"/>
+        <Object Name="pix_dot"/>
+        <Object Name="pix_draw"/>
+        <Object Name="pix_drum"/>
+        <Object Name="pix_dump"/>
+        <Object Name="pix_duotone"/>
+        <Object Name="pix_equal"/>
+        <Object Name="pix_fiducialtrack"/>
+        <Object Name="pix_film"/>
+        <Object Name="pix_flip"/>
+        <Object Name="pix_freeframe"/>
+        <Object Name="pix_frei0r"/>
+        <Object Name="pix_gain"/>
+        <Object Name="pix_grey"/>
+        <Object Name="pix_halftone"/>
+        <Object Name="pix_histo"/>
+        <Object Name="pix_hit"/>
+        <Object Name="pix_hsv2rgb"/>
+        <Object Name="pix_image"/>
+        <Object Name="pix_imageInPlace"/>
+        <Object Name="pix_indycam"/>
+        <Object Name="pix_info"/>
+        <Object Name="pix_invert"/>
+        <Object Name="pix_kaleidoscope"/>
+        <Object Name="pix_levels"/>
+        <Object Name="pix_lumaoffset"/>
+        <Object Name="pix_mano"/>
+        <Object Name="pix_mask"/>
+        <Object Name="pix_mean_color"/>
+        <Object Name="pix_metaimage"/>
+        <Object Name="pix_mix"/>
+        <Object Name="pix_motionblur"/>
+        <Object Name="pix_movement"/>
+        <Object Name="pix_movement2"/>
+        <Object Name="pix_movie"/>
+        <Object Name="pix_multiblob"/>
+        <Object Name="pix_multiimage"/>
+        <Object Name="pix_multiply"/>
+        <Object Name="pix_multitexture"/>
+        <Object Name="pix_noise"/>
+        <Object Name="pix_normalize"/>
+        <Object Name="pix_offset"/>
+        <Object Name="pix_pix2sig~"/>
+        <Object Name="pix_posterize"/>
+        <Object Name="pix_puzzle"/>
+        <Object Name="pix_rds"/>
+        <Object Name="pix_record"/>
+        <Object Name="pix_rectangle"/>
+        <Object Name="pix_refraction"/>
+        <Object Name="pix_resize"/>
+        <Object Name="pix_rgb2hsv"/>
+        <Object Name="pix_rgba"/>
+        <Object Name="pix_roi"/>
+        <Object Name="pix_roll"/>
+        <Object Name="pix_rtx"/>
+        <Object Name="pix_scanline"/>
+        <Object Name="pix_set"/>
+        <Object Name="pix_share_read"/>
+        <Object Name="pix_share_write"/>
+        <Object Name="pix_sig2pix~"/>
+        <Object Name="pix_snap"/>
+        <Object Name="pix_snap2tex"/>
+        <Object Name="pix_subtract"/>
+        <Object Name="pix_takealpha"/>
+        <Object Name="pix_test"/>
+        <Object Name="pix_texture"/>
+        <Object Name="pix_threshold"/>
+        <Object Name="pix_threshold_bernsen"/>
+        <Object Name="pix_tIIR"/>
+        <Object Name="pix_video"/>
+        <Object Name="pix_write"/>
+        <Object Name="pix_writer"/>
+        <Object Name="pix_yuv"/>
+        <Object Name="pix_zoom"/>
+        <Object Name="polygon"/>
+        <Object Name="polygon_smooth"/>
+        <Object Name="pqtorusknots"/>
+        <Object Name="primTri"/>
+        <Object Name="rectangle"/>
+        <Object Name="render_trigger"/>
+        <Object Name="rgb2hsv"/>
+        <Object Name="rgb2yuv"/>
+        <Object Name="ripple"/>
+        <Object Name="rotate"/>
+        <Object Name="rotateXYZ"/>
+        <Object Name="rubber"/>
+        <Object Name="scale"/>
+        <Object Name="scaleXYZ"/>
+        <Object Name="scopeXYZ~"/>
+        <Object Name="separator"/>
+        <Object Name="shearXY"/>
+        <Object Name="shearXZ"/>
+        <Object Name="shearYX"/>
+        <Object Name="shearYZ"/>
+        <Object Name="shearZX"/>
+        <Object Name="shearZY"/>
+        <Object Name="shininess"/>
+        <Object Name="slideSquares"/>
+        <Object Name="specular"/>
+        <Object Name="specularRGB"/>
+        <Object Name="sphere"/>
+        <Object Name="sphere3d"/>
+        <Object Name="spline_path"/>
+        <Object Name="spot_light"/>
+        <Object Name="square"/>
+        <Object Name="surface3d"/>
+        <Object Name="teapot"/>
+        <Object Name="text2d"/>
+        <Object Name="text3d"/>
+        <Object Name="textextruded"/>
+        <Object Name="textoutline"/>
+        <Object Name="torus"/>
+        <Object Name="translate"/>
+        <Object Name="translateXYZ"/>
+        <Object Name="trapezoid"/>
+        <Object Name="triangle"/>
+        <Object Name="tube"/>
+        <Object Name="vertex_program"/>
+        <Object Name="world_light"/>
+        <Object Name="yuv2rgb"/>
       </Objects>
     </Package>
   </Packages>
@@ -9607,68 +9669,6 @@
              Version="2019" URL="https://puredata.info/Members/chnry/software/art_net/2019/art_net[v2019].dek">
       <Objects>
         <Object Name="art_net"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="Fraise">
-    <Package ID="RnJhaXNlXzAuNC4wXzIwMjUtMDUtMjMgMTc6MjA6MjRfYW50MXI=" Author="ant1r"
-             Timestamp="2025-05-23 17:20:24" Description="Fraise[v0.4.0].dek"
-             Version="0.4.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.4.0/Fraise[v0.4.0].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMy40XzIwMjUtMDUtMTIgMTM6MzI6NTVfYW50MXI=" Author="ant1r"
-             Timestamp="2025-05-12 13:32:55" Description="Fraise[v0.3.4].dek"
-             Version="0.3.4" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.4/Fraise[v0.3.4].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMy4zXzIwMjQtMTAtMDkgMTU6MzU6MjFfYW50MXI=" Author="ant1r"
-             Timestamp="2024-10-09 15:35:21" Description="Fraise[v0.3.3].dek"
-             Version="0.3.3" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.3/Fraise[v0.3.3].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMy4yXzIwMjQtMTAtMDkgMTQ6NDE6MDdfYW50MXI=" Author="ant1r"
-             Timestamp="2024-10-09 14:41:07" Description="Fraise[v0.3.2].dek"
-             Version="0.3.2" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.2/Fraise[v0.3.2].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMy4xXzIwMjQtMDgtMjEgMTg6MzQ6NDJfYW50MXI=" Author="ant1r"
-             Timestamp="2024-08-21 18:34:42" Description="Fraise[v0.3.1].dek"
-             Version="0.3.1" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.1/Fraise[v0.3.1].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMy4wXzIwMjQtMDMtMjkgMTc6NTY6NTlfYW50MXI=" Author="ant1r"
-             Timestamp="2024-03-29 17:56:59" Description="Fraise[v0.3.0].dek"
-             Version="0.3.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.0/Fraise[v0.3.0].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMS4xXzIwMjEtMDMtMjUgMTU6Mzk6MjlfYW50MXI=" Author="ant1r"
-             Timestamp="2021-03-25 15:39:29" Description="Fraise[v0.1.1].dek"
-             Version="0.1.1" URL="https://puredata.info/Members/ant1r/software/Fraise/0.1.1/Fraise[v0.1.1].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMS4wXzIwMjEtMDEtMDcgMTI6MzI6MzVfYW50MXI=" Author="ant1r"
-             Timestamp="2021-01-07 12:32:35" Description="Fraise[v0.1.0].dek"
-             Version="0.1.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.1.0/Fraise[v0.1.0].dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="iempluginOSC">
-    <Package ID="aWVtcGx1Z2luT1NDXzAuMV8yMDE5LTA0LTEyIDEyOjQzOjU1X3NwYWNlY2hpbGQx"
-             Author="spacechild1" Timestamp="2019-04-12 12:43:55" Description="iempluginOSC[v0.1].dek"
-             Version="0.1" URL="https://puredata.info/Members/spacechild1/software/iempluginOSC/0.1/iempluginOSC[v0.1].dek">
-      <Objects>
-        <Object Name="iempluginOSC"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="xsample">
-    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIyLTA3LTEwIDAxOjE0OjQ2X3Rob21hcw=="
-             Author="thomas" Timestamp="2022-07-10 01:14:46" Description="xsample[v0.3.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek"
-             Version="0.3.2" URL="https://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek">
-      <Objects>
-        <Object Name="xgroove~"/>
-        <Object Name="xplay~"/>
-        <Object Name="xrecord~"/>
       </Objects>
     </Package>
   </Packages>

@@ -2036,6 +2036,13 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="mkmr">
+    <Package ID="bWttcl8wLjFfMjAxOS0xMC0yMyAyMzo0ODoyNV9NaWtlTW9yZW5vQXVkaW8="
+             Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="dnd-plugin">
     <Package ID="ZG5kLXBsdWdpbl8wLjMuMF8yMDIxLTA0LTE2IDAyOjA1OjQyX2x1Y2FyZGE="
              Author="lucarda" Timestamp="2021-04-16 02:05:42" Description="dnd-plugin[v0.3.0](Linux-i386-32).dek"
@@ -2340,11 +2347,13 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="Gem">
-    <Package ID="R2VtXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjM2OjAxX2NocjE1bQ=="
-             Author="chr15m" Timestamp="2015-08-07 14:36:01" Description="Gem-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
-             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/Gem/Gem-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz">
-      <Objects/>
+  <Packages Name="iempluginOSC">
+    <Package ID="aWVtcGx1Z2luT1NDXzAuMV8yMDE5LTA0LTEyIDEyOjQzOjU1X3NwYWNlY2hpbGQx"
+             Author="spacechild1" Timestamp="2019-04-12 12:43:55" Description="iempluginOSC[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/spacechild1/software/iempluginOSC/0.1/iempluginOSC[v0.1].dek">
+      <Objects>
+        <Object Name="iempluginOSC"/>
+      </Objects>
     </Package>
   </Packages>
   <Packages Name="comport">
@@ -5110,17 +5119,66 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="mkmr">
-    <Package ID="bWttcl8wLjFfMjAxOS0xMC0yMyAyMzo0ODoyNV9NaWtlTW9yZW5vQXVkaW8="
-             Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
-             Version="0.1" URL="https://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="syslog">
     <Package ID="c3lzbG9nXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjEwOjEyX2NocjE1bQ=="
              Author="chr15m" Timestamp="2015-08-07 14:10:12" Description="syslog-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/syslog/syslog-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="earplug~">
+    <Package ID="ZWFycGx1Z35fMC4zLjBfMjAyMS0wNi0wNiAxODo0NTozOV9sdWNhcmRh"
+             Author="lucarda" Timestamp="2021-06-06 18:45:39" Description="earplug~[v0.3.0](Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.3.0" URL="https://puredata.info/Members/lucarda/software/earplug~/0.3.0/earplug~[v0.3.0](Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="earplug~"/>
+      </Objects>
+    </Package>
+    <Package ID="ZWFycGx1Z35fMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6MzI6MjFfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-08-07 14:32:21" Description="earplug~-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
+             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/earplug~/earplug~-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="Fraise">
+    <Package ID="RnJhaXNlXzAuNC4wXzIwMjUtMDUtMjMgMTc6MjA6MjRfYW50MXI=" Author="ant1r"
+             Timestamp="2025-05-23 17:20:24" Description="Fraise[v0.4.0].dek"
+             Version="0.4.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.4.0/Fraise[v0.4.0].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy40XzIwMjUtMDUtMTIgMTM6MzI6NTVfYW50MXI=" Author="ant1r"
+             Timestamp="2025-05-12 13:32:55" Description="Fraise[v0.3.4].dek"
+             Version="0.3.4" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.4/Fraise[v0.3.4].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy4zXzIwMjQtMTAtMDkgMTU6MzU6MjFfYW50MXI=" Author="ant1r"
+             Timestamp="2024-10-09 15:35:21" Description="Fraise[v0.3.3].dek"
+             Version="0.3.3" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.3/Fraise[v0.3.3].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy4yXzIwMjQtMTAtMDkgMTQ6NDE6MDdfYW50MXI=" Author="ant1r"
+             Timestamp="2024-10-09 14:41:07" Description="Fraise[v0.3.2].dek"
+             Version="0.3.2" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.2/Fraise[v0.3.2].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy4xXzIwMjQtMDgtMjEgMTg6MzQ6NDJfYW50MXI=" Author="ant1r"
+             Timestamp="2024-08-21 18:34:42" Description="Fraise[v0.3.1].dek"
+             Version="0.3.1" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.1/Fraise[v0.3.1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy4wXzIwMjQtMDMtMjkgMTc6NTY6NTlfYW50MXI=" Author="ant1r"
+             Timestamp="2024-03-29 17:56:59" Description="Fraise[v0.3.0].dek"
+             Version="0.3.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.0/Fraise[v0.3.0].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMS4xXzIwMjEtMDMtMjUgMTU6Mzk6MjlfYW50MXI=" Author="ant1r"
+             Timestamp="2021-03-25 15:39:29" Description="Fraise[v0.1.1].dek"
+             Version="0.1.1" URL="https://puredata.info/Members/ant1r/software/Fraise/0.1.1/Fraise[v0.1.1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMS4wXzIwMjEtMDEtMDcgMTI6MzI6MzVfYW50MXI=" Author="ant1r"
+             Timestamp="2021-01-07 12:32:35" Description="Fraise[v0.1.0].dek"
+             Version="0.1.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.1.0/Fraise[v0.1.0].dek">
       <Objects/>
     </Package>
   </Packages>
@@ -5184,6 +5242,13 @@
         <Object Name="array-unique"/>
         <Object Name="array-window"/>
       </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="Gem">
+    <Package ID="R2VtXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE0OjM2OjAxX2NocjE1bQ=="
+             Author="chr15m" Timestamp="2015-08-07 14:36:01" Description="Gem-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
+             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/Gem/Gem-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="DRFX">
@@ -7395,71 +7460,6 @@
              Version="2019" URL="https://puredata.info/Members/chnry/software/art_net/2019/art_net[v2019].dek">
       <Objects>
         <Object Name="art_net"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="Fraise">
-    <Package ID="RnJhaXNlXzAuNC4wXzIwMjUtMDUtMjMgMTc6MjA6MjRfYW50MXI=" Author="ant1r"
-             Timestamp="2025-05-23 17:20:24" Description="Fraise[v0.4.0].dek"
-             Version="0.4.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.4.0/Fraise[v0.4.0].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMy40XzIwMjUtMDUtMTIgMTM6MzI6NTVfYW50MXI=" Author="ant1r"
-             Timestamp="2025-05-12 13:32:55" Description="Fraise[v0.3.4].dek"
-             Version="0.3.4" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.4/Fraise[v0.3.4].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMy4zXzIwMjQtMTAtMDkgMTU6MzU6MjFfYW50MXI=" Author="ant1r"
-             Timestamp="2024-10-09 15:35:21" Description="Fraise[v0.3.3].dek"
-             Version="0.3.3" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.3/Fraise[v0.3.3].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMy4yXzIwMjQtMTAtMDkgMTQ6NDE6MDdfYW50MXI=" Author="ant1r"
-             Timestamp="2024-10-09 14:41:07" Description="Fraise[v0.3.2].dek"
-             Version="0.3.2" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.2/Fraise[v0.3.2].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMy4xXzIwMjQtMDgtMjEgMTg6MzQ6NDJfYW50MXI=" Author="ant1r"
-             Timestamp="2024-08-21 18:34:42" Description="Fraise[v0.3.1].dek"
-             Version="0.3.1" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.1/Fraise[v0.3.1].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMy4wXzIwMjQtMDMtMjkgMTc6NTY6NTlfYW50MXI=" Author="ant1r"
-             Timestamp="2024-03-29 17:56:59" Description="Fraise[v0.3.0].dek"
-             Version="0.3.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.0/Fraise[v0.3.0].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMS4xXzIwMjEtMDMtMjUgMTU6Mzk6MjlfYW50MXI=" Author="ant1r"
-             Timestamp="2021-03-25 15:39:29" Description="Fraise[v0.1.1].dek"
-             Version="0.1.1" URL="https://puredata.info/Members/ant1r/software/Fraise/0.1.1/Fraise[v0.1.1].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMS4wXzIwMjEtMDEtMDcgMTI6MzI6MzVfYW50MXI=" Author="ant1r"
-             Timestamp="2021-01-07 12:32:35" Description="Fraise[v0.1.0].dek"
-             Version="0.1.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.1.0/Fraise[v0.1.0].dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="earplug~">
-    <Package ID="ZWFycGx1Z35fMC4zLjBfMjAyMS0wNi0wNiAxODo0NTozOV9sdWNhcmRh"
-             Author="lucarda" Timestamp="2021-06-06 18:45:39" Description="earplug~[v0.3.0](Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="0.3.0" URL="https://puredata.info/Members/lucarda/software/earplug~/0.3.0/earplug~[v0.3.0](Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects>
-        <Object Name="earplug~"/>
-      </Objects>
-    </Package>
-    <Package ID="ZWFycGx1Z35fMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6MzI6MjFfY2hyMTVt"
-             Author="chr15m" Timestamp="2015-08-07 14:32:21" Description="earplug~-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
-             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/earplug~/earplug~-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="iempluginOSC">
-    <Package ID="aWVtcGx1Z2luT1NDXzAuMV8yMDE5LTA0LTEyIDEyOjQzOjU1X3NwYWNlY2hpbGQx"
-             Author="spacechild1" Timestamp="2019-04-12 12:43:55" Description="iempluginOSC[v0.1].dek"
-             Version="0.1" URL="https://puredata.info/Members/spacechild1/software/iempluginOSC/0.1/iempluginOSC[v0.1].dek">
-      <Objects>
-        <Object Name="iempluginOSC"/>
       </Objects>
     </Package>
   </Packages>

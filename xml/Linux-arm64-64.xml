@@ -1081,6 +1081,13 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="mkmr">
+    <Package ID="bWttcl8wLjFfMjAxOS0xMC0yMyAyMzo0ODoyNV9NaWtlTW9yZW5vQXVkaW8="
+             Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="DEAPd">
     <Package ID="REVBUGRfMC4xXzIwMjMtMDMtMDIgMDc6NTg6NDRfY2FsYmFzc2lzdA=="
              Author="calbassist" Timestamp="2023-03-02 07:58:44" Description="DEAPd[v0.1].dek"
@@ -1139,26 +1146,32 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="simplex~">
-    <Package ID="c2ltcGxleH5fMC4zLjZfMjAyNC0wNi0yNyAxOToxMDo0MV9iZW5fd2VzY2g="
-             Author="ben_wesch" Timestamp="2024-06-27 19:10:41" Description="simplex~[v0.3.6](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64).dek"
-             Version="0.3.6" URL="https://puredata.info/Members/ben_wesch/software/simplex~/0.3.6/simplex~[v0.3.6](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64).dek">
+  <Packages Name="iempluginOSC">
+    <Package ID="aWVtcGx1Z2luT1NDXzAuMV8yMDE5LTA0LTEyIDEyOjQzOjU1X3NwYWNlY2hpbGQx"
+             Author="spacechild1" Timestamp="2019-04-12 12:43:55" Description="iempluginOSC[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/spacechild1/software/iempluginOSC/0.1/iempluginOSC[v0.1].dek">
       <Objects>
-        <Object Name="simplex~"/>
+        <Object Name="iempluginOSC"/>
       </Objects>
     </Package>
-    <Package ID="c2ltcGxleH5fMC4zLjVfMjAyNC0wNi0wNCAxNDo1MjoyMF9iZW5fd2VzY2g="
-             Author="ben_wesch" Timestamp="2024-06-04 14:52:20" Description="simplex~[v0.3.5](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64).dek"
-             Version="0.3.5" URL="https://puredata.info/Members/ben_wesch/software/simplex~/0.3.5/simplex~[v0.3.5](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64).dek">
+  </Packages>
+  <Packages Name="xsample">
+    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIyLTA3LTEwIDAxOjE0OjQ2X3Rob21hcw=="
+             Author="thomas" Timestamp="2022-07-10 01:14:46" Description="xsample[v0.3.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek"
+             Version="0.3.2" URL="https://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek">
       <Objects>
-        <Object Name="simplex~"/>
+        <Object Name="xgroove~"/>
+        <Object Name="xplay~"/>
+        <Object Name="xrecord~"/>
       </Objects>
     </Package>
-    <Package ID="c2ltcGxleH5fMC4zLjRfMjAyNC0wNS0yOCAxNjo1NzowOV9iZW5fd2VzY2g="
-             Author="ben_wesch" Timestamp="2024-05-28 16:57:09" Description="simplex~[v0.3.4](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Windows-amd64-32)(Windows-amd64-64).dek"
-             Version="0.3.4" URL="https://puredata.info/Members/ben_wesch/software/simplex~/0.3.4/simplex~[v0.3.4](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Windows-amd64-32)(Windows-amd64-64).dek">
+    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIwLTAzLTE5IDIzOjEyOjIzX3Rob21hcw=="
+             Author="thomas" Timestamp="2020-03-19 23:12:23" Description="xsample[v0.3.2](Linux-arm64-64).dek"
+             Version="0.3.2" URL="https://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Linux-arm64-64).dek">
       <Objects>
-        <Object Name="simplex~"/>
+        <Object Name="xgroove~"/>
+        <Object Name="xplay~"/>
+        <Object Name="xrecord~"/>
       </Objects>
     </Package>
   </Packages>
@@ -1438,10 +1451,45 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="mkmr">
-    <Package ID="bWttcl8wLjFfMjAxOS0xMC0yMyAyMzo0ODoyNV9NaWtlTW9yZW5vQXVkaW8="
-             Author="MikeMorenoAudio" Timestamp="2019-10-23 23:48:25" Description="mkmr[v0.1].dek"
-             Version="0.1" URL="https://puredata.info/Members/MikeMorenoAudio/software/mkmr/0.1/mkmr[v0.1].dek">
+  <Packages Name="Fraise">
+    <Package ID="RnJhaXNlXzAuNC4wXzIwMjUtMDUtMjMgMTc6MjA6MjRfYW50MXI=" Author="ant1r"
+             Timestamp="2025-05-23 17:20:24" Description="Fraise[v0.4.0].dek"
+             Version="0.4.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.4.0/Fraise[v0.4.0].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy40XzIwMjUtMDUtMTIgMTM6MzI6NTVfYW50MXI=" Author="ant1r"
+             Timestamp="2025-05-12 13:32:55" Description="Fraise[v0.3.4].dek"
+             Version="0.3.4" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.4/Fraise[v0.3.4].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy4zXzIwMjQtMTAtMDkgMTU6MzU6MjFfYW50MXI=" Author="ant1r"
+             Timestamp="2024-10-09 15:35:21" Description="Fraise[v0.3.3].dek"
+             Version="0.3.3" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.3/Fraise[v0.3.3].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy4yXzIwMjQtMTAtMDkgMTQ6NDE6MDdfYW50MXI=" Author="ant1r"
+             Timestamp="2024-10-09 14:41:07" Description="Fraise[v0.3.2].dek"
+             Version="0.3.2" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.2/Fraise[v0.3.2].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy4xXzIwMjQtMDgtMjEgMTg6MzQ6NDJfYW50MXI=" Author="ant1r"
+             Timestamp="2024-08-21 18:34:42" Description="Fraise[v0.3.1].dek"
+             Version="0.3.1" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.1/Fraise[v0.3.1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy4wXzIwMjQtMDMtMjkgMTc6NTY6NTlfYW50MXI=" Author="ant1r"
+             Timestamp="2024-03-29 17:56:59" Description="Fraise[v0.3.0].dek"
+             Version="0.3.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.0/Fraise[v0.3.0].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMS4xXzIwMjEtMDMtMjUgMTU6Mzk6MjlfYW50MXI=" Author="ant1r"
+             Timestamp="2021-03-25 15:39:29" Description="Fraise[v0.1.1].dek"
+             Version="0.1.1" URL="https://puredata.info/Members/ant1r/software/Fraise/0.1.1/Fraise[v0.1.1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMS4wXzIwMjEtMDEtMDcgMTI6MzI6MzVfYW50MXI=" Author="ant1r"
+             Timestamp="2021-01-07 12:32:35" Description="Fraise[v0.1.0].dek"
+             Version="0.1.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.1.0/Fraise[v0.1.0].dek">
       <Objects/>
     </Package>
   </Packages>
@@ -1497,6 +1545,29 @@
         <Object Name="array-std"/>
         <Object Name="array-unique"/>
         <Object Name="array-window"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="simplex~">
+    <Package ID="c2ltcGxleH5fMC4zLjZfMjAyNC0wNi0yNyAxOToxMDo0MV9iZW5fd2VzY2g="
+             Author="ben_wesch" Timestamp="2024-06-27 19:10:41" Description="simplex~[v0.3.6](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64).dek"
+             Version="0.3.6" URL="https://puredata.info/Members/ben_wesch/software/simplex~/0.3.6/simplex~[v0.3.6](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64).dek">
+      <Objects>
+        <Object Name="simplex~"/>
+      </Objects>
+    </Package>
+    <Package ID="c2ltcGxleH5fMC4zLjVfMjAyNC0wNi0wNCAxNDo1MjoyMF9iZW5fd2VzY2g="
+             Author="ben_wesch" Timestamp="2024-06-04 14:52:20" Description="simplex~[v0.3.5](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64).dek"
+             Version="0.3.5" URL="https://puredata.info/Members/ben_wesch/software/simplex~/0.3.5/simplex~[v0.3.5](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64).dek">
+      <Objects>
+        <Object Name="simplex~"/>
+      </Objects>
+    </Package>
+    <Package ID="c2ltcGxleH5fMC4zLjRfMjAyNC0wNS0yOCAxNjo1NzowOV9iZW5fd2VzY2g="
+             Author="ben_wesch" Timestamp="2024-05-28 16:57:09" Description="simplex~[v0.3.4](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Windows-amd64-32)(Windows-amd64-64).dek"
+             Version="0.3.4" URL="https://puredata.info/Members/ben_wesch/software/simplex~/0.3.4/simplex~[v0.3.4](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Windows-amd64-32)(Windows-amd64-64).dek">
+      <Objects>
+        <Object Name="simplex~"/>
       </Objects>
     </Package>
   </Packages>
@@ -3457,77 +3528,6 @@
              Version="2019" URL="https://puredata.info/Members/chnry/software/art_net/2019/art_net[v2019].dek">
       <Objects>
         <Object Name="art_net"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="Fraise">
-    <Package ID="RnJhaXNlXzAuNC4wXzIwMjUtMDUtMjMgMTc6MjA6MjRfYW50MXI=" Author="ant1r"
-             Timestamp="2025-05-23 17:20:24" Description="Fraise[v0.4.0].dek"
-             Version="0.4.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.4.0/Fraise[v0.4.0].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMy40XzIwMjUtMDUtMTIgMTM6MzI6NTVfYW50MXI=" Author="ant1r"
-             Timestamp="2025-05-12 13:32:55" Description="Fraise[v0.3.4].dek"
-             Version="0.3.4" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.4/Fraise[v0.3.4].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMy4zXzIwMjQtMTAtMDkgMTU6MzU6MjFfYW50MXI=" Author="ant1r"
-             Timestamp="2024-10-09 15:35:21" Description="Fraise[v0.3.3].dek"
-             Version="0.3.3" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.3/Fraise[v0.3.3].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMy4yXzIwMjQtMTAtMDkgMTQ6NDE6MDdfYW50MXI=" Author="ant1r"
-             Timestamp="2024-10-09 14:41:07" Description="Fraise[v0.3.2].dek"
-             Version="0.3.2" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.2/Fraise[v0.3.2].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMy4xXzIwMjQtMDgtMjEgMTg6MzQ6NDJfYW50MXI=" Author="ant1r"
-             Timestamp="2024-08-21 18:34:42" Description="Fraise[v0.3.1].dek"
-             Version="0.3.1" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.1/Fraise[v0.3.1].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMy4wXzIwMjQtMDMtMjkgMTc6NTY6NTlfYW50MXI=" Author="ant1r"
-             Timestamp="2024-03-29 17:56:59" Description="Fraise[v0.3.0].dek"
-             Version="0.3.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.0/Fraise[v0.3.0].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMS4xXzIwMjEtMDMtMjUgMTU6Mzk6MjlfYW50MXI=" Author="ant1r"
-             Timestamp="2021-03-25 15:39:29" Description="Fraise[v0.1.1].dek"
-             Version="0.1.1" URL="https://puredata.info/Members/ant1r/software/Fraise/0.1.1/Fraise[v0.1.1].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMS4wXzIwMjEtMDEtMDcgMTI6MzI6MzVfYW50MXI=" Author="ant1r"
-             Timestamp="2021-01-07 12:32:35" Description="Fraise[v0.1.0].dek"
-             Version="0.1.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.1.0/Fraise[v0.1.0].dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="iempluginOSC">
-    <Package ID="aWVtcGx1Z2luT1NDXzAuMV8yMDE5LTA0LTEyIDEyOjQzOjU1X3NwYWNlY2hpbGQx"
-             Author="spacechild1" Timestamp="2019-04-12 12:43:55" Description="iempluginOSC[v0.1].dek"
-             Version="0.1" URL="https://puredata.info/Members/spacechild1/software/iempluginOSC/0.1/iempluginOSC[v0.1].dek">
-      <Objects>
-        <Object Name="iempluginOSC"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="xsample">
-    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIyLTA3LTEwIDAxOjE0OjQ2X3Rob21hcw=="
-             Author="thomas" Timestamp="2022-07-10 01:14:46" Description="xsample[v0.3.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek"
-             Version="0.3.2" URL="https://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek">
-      <Objects>
-        <Object Name="xgroove~"/>
-        <Object Name="xplay~"/>
-        <Object Name="xrecord~"/>
-      </Objects>
-    </Package>
-    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIwLTAzLTE5IDIzOjEyOjIzX3Rob21hcw=="
-             Author="thomas" Timestamp="2020-03-19 23:12:23" Description="xsample[v0.3.2](Linux-arm64-64).dek"
-             Version="0.3.2" URL="https://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Linux-arm64-64).dek">
-      <Objects>
-        <Object Name="xgroove~"/>
-        <Object Name="xplay~"/>
-        <Object Name="xrecord~"/>
       </Objects>
     </Package>
   </Packages>
