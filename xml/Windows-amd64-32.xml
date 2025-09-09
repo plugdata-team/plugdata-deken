@@ -24231,6 +24231,23 @@
     </Package>
   </Packages>
   <Packages Name="RabbitControl">
+    <Package ID="UmFiYml0Q29udHJvbF8yLjAuMF8yMDI1LTA5LTA4IDIwOjQ0OjA0X2lfbl9nX28="
+             Author="i_n_g_o" Timestamp="2025-09-08 20:44:04" Description="RabbitControl[v2.0.0](Windows-amd64-32).dek"
+             Version="2.0.0" URL="https://puredata.info/Members/i_n_g_o/software/RabbitControl/2.0.0/RabbitControl[v2.0.0](Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="rabbit"/>
+        <Object Name="rabbit.client"/>
+        <Object Name="rabbit.format"/>
+        <Object Name="rabbit.parse"/>
+        <Object Name="rabbit.server"/>
+        <Object Name="rabbitcontrol"/>
+        <Object Name="rcp"/>
+        <Object Name="sizeprefix"/>
+        <Object Name="slipdecoder"/>
+        <Object Name="slipencoder"/>
+        <Object Name="sppp"/>
+      </Objects>
+    </Package>
     <Package ID="UmFiYml0Q29udHJvbF8xLjAuNF8yMDIyLTA2LTExIDE1OjExOjMwX2lfbl9nX28="
              Author="i_n_g_o" Timestamp="2022-06-11 15:11:30" Description="RabbitControl[v1.0.4](Windows-amd64-32)(Sources).dek"
              Version="1.0.4" URL="https://puredata.info/Members/i_n_g_o/software/RabbitControl/1.0.4/RabbitControl[v1.0.4](Windows-amd64-32)(Sources).dek">
