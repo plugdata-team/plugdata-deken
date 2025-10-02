@@ -2542,6 +2542,11 @@
     </Package>
   </Packages>
   <Packages Name="automatonism">
+    <Package ID="YXV0b21hdG9uaXNtXzAuNC4yXzIwMjUtMTAtMDEgMjI6NDg6MTlfanln"
+             Author="jyg" Timestamp="2025-10-01 22:48:19" Description="automatonism[v0.4.2].dek"
+             Version="0.4.2" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4.2].dek">
+      <Objects/>
+    </Package>
     <Package ID="YXV0b21hdG9uaXNtXzAuNC1wcmU0XzIwMjQtMDEtMTMgMTY6NDE6MTZfanln"
              Author="jyg" Timestamp="2024-01-13 16:41:16" Description="automatonism[v0.4-pre4].dek"
              Version="0.4-pre4" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4-pre4].dek">
