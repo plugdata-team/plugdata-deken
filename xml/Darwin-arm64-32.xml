@@ -13853,6 +13853,15 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="asdf">
+    <Package ID="YXNkZl8xLjEuMF8yMDI1LTEwLTA1IDE0OjE0OjI5X21nZWllcg==" Author="mgeier"
+             Timestamp="2025-10-05 14:14:29" Description="asdf[v1.1.0](Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
+             Version="1.1.0" URL="https://puredata.info/Members/mgeier/software/asdf/1.1.0/asdf[v1.1.0](Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="asdf~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="mapping">
     <Package ID="bWFwcGluZ18wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNDo0NToxMV9jaHIxNW0="
              Author="chr15m" Timestamp="2015-08-07 14:45:11" Description="mapping-v0.0.extended--externals.zip"

@@ -18281,6 +18281,13 @@
     </Package>
   </Packages>
   <Packages Name="asdf">
+    <Package ID="YXNkZl8xLjEuMF8yMDI1LTEwLTA1IDE0OjE0OjI5X21nZWllcg==" Author="mgeier"
+             Timestamp="2025-10-05 14:14:29" Description="asdf[v1.1.0](Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
+             Version="1.1.0" URL="https://puredata.info/Members/mgeier/software/asdf/1.1.0/asdf[v1.1.0](Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="asdf~"/>
+      </Objects>
+    </Package>
     <Package ID="YXNkZl8xLjAuMF8yMDIzLTA3LTA4IDA5OjU3OjQzX21nZWllcg==" Author="mgeier"
              Timestamp="2023-07-08 09:57:43" Description="asdf[v1.0.0](Darwin-amd64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
              Version="1.0.0" URL="https://puredata.info/Members/mgeier/software/asdf/1.0.0/asdf[v1.0.0](Darwin-amd64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
