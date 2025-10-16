@@ -387,6 +387,20 @@
     </Package>
   </Packages>
   <Packages Name="witsensor">
+    <Package ID="d2l0c2Vuc29yXzAuMi4wLWJldGEyXzIwMjUtMTAtMTMgMTM6MjM6NDVfYmVuX3dlc2No"
+             Author="ben_wesch" Timestamp="2025-10-13 13:23:45" Description="witsensor[v0.2.0-beta2](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64).dek"
+             Version="0.2.0-beta2" URL="https://puredata.info/Members/ben_wesch/software/witsensor/0.2.0-beta2/witsensor[v0.2.0-beta2](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64).dek">
+      <Objects>
+        <Object Name="witsensor"/>
+      </Objects>
+    </Package>
+    <Package ID="d2l0c2Vuc29yXzAuMi4wLWJldGExXzIwMjUtMTAtMTMgMTI6MTU6MDhfYmVuX3dlc2No"
+             Author="ben_wesch" Timestamp="2025-10-13 12:15:08" Description="witsensor[v0.2.0-beta1](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64).dek"
+             Version="0.2.0-beta1" URL="https://puredata.info/Members/ben_wesch/software/witsensor/0.2.0-beta1/witsensor[v0.2.0-beta1](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64).dek">
+      <Objects>
+        <Object Name="witsensor"/>
+      </Objects>
+    </Package>
     <Package ID="d2l0c2Vuc29yXzAuMS4wLWJldGEyXzIwMjUtMDktMjMgMjI6Mzk6MDRfYmVuX3dlc2No"
              Author="ben_wesch" Timestamp="2025-09-23 22:39:04" Description="witsensor[v0.1.0-beta2](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64).dek"
              Version="0.1.0-beta2" URL="https://puredata.info/Members/ben_wesch/software/witsensor/0.1.0-beta2/witsensor[v0.1.0-beta2](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64).dek">
@@ -663,6 +677,38 @@
              Version="0.1.2" URL="https://puredata.info/Members/lucarda/software/pulqui/0.1.2/pulqui[v0.1.2](Darwin-arm64-32).dek">
       <Objects>
         <Object Name="pulqui"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="psycho">
+    <Package ID="cHN5Y2hvXzEuMV8yMDI1LTEwLTE0IDA0OjMyOjQ3X3BvcnJlcw==" Author="porres"
+             Timestamp="2025-10-14 04:32:47" Description="psycho[v1.1](Darwin-arm64-32).dek"
+             Version="1.1" URL="https://puredata.info/Members/porres/software/psycho/1.1/psycho[v1.1](Darwin-arm64-32).dek">
+      <Objects>
+        <Object Name="al"/>
+        <Object Name="bark2hz"/>
+        <Object Name="barks~"/>
+        <Object Name="centroid~"/>
+        <Object Name="commonality"/>
+        <Object Name="db2phon"/>
+        <Object Name="dec2frac"/>
+        <Object Name="distance"/>
+        <Object Name="flunson"/>
+        <Object Name="harmonicity"/>
+        <Object Name="hz2bark"/>
+        <Object Name="hz2mel"/>
+        <Object Name="indigestibility"/>
+        <Object Name="iso226"/>
+        <Object Name="mel2hz"/>
+        <Object Name="phon2db"/>
+        <Object Name="phon2sone"/>
+        <Object Name="roughcurve"/>
+        <Object Name="roughness"/>
+        <Object Name="salience"/>
+        <Object Name="sharpness~"/>
+        <Object Name="sone2phon"/>
+        <Object Name="tonalness"/>
+        <Object Name="yl"/>
       </Objects>
     </Package>
   </Packages>
