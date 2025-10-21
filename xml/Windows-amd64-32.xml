@@ -879,6 +879,15 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="witsensor">
+    <Package ID="d2l0c2Vuc29yXzAuMi4wLWJldGEzXzIwMjUtMTAtMjEgMDE6MjI6MTBfYmVuX3dlc2No"
+             Author="ben_wesch" Timestamp="2025-10-21 01:22:10" Description="witsensor[v0.2.0-beta3](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Windows-amd64-32).dek"
+             Version="0.2.0-beta3" URL="https://puredata.info/Members/ben_wesch/software/witsensor/0.2.0-beta3/witsensor[v0.2.0-beta3](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="witsensor"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="triggerize-plugin">
     <Package ID="dHJpZ2dlcml6ZS1wbHVnaW5fMC4yLjJfMjAxOC0xMC0wMSAyMTozNzozNl96bW9lbG5pZ2JvdA=="
              Author="zmoelnigbot" Timestamp="2018-10-01 21:37:36" Description="triggerize-plugin[v0.2.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"

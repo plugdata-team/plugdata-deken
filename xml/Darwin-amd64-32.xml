@@ -867,6 +867,13 @@
     </Package>
   </Packages>
   <Packages Name="witsensor">
+    <Package ID="d2l0c2Vuc29yXzAuMi4wLWJldGEzXzIwMjUtMTAtMjEgMDE6MjI6MTBfYmVuX3dlc2No"
+             Author="ben_wesch" Timestamp="2025-10-21 01:22:10" Description="witsensor[v0.2.0-beta3](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Windows-amd64-32).dek"
+             Version="0.2.0-beta3" URL="https://puredata.info/Members/ben_wesch/software/witsensor/0.2.0-beta3/witsensor[v0.2.0-beta3](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="witsensor"/>
+      </Objects>
+    </Package>
     <Package ID="d2l0c2Vuc29yXzAuMi4wLWJldGEyXzIwMjUtMTAtMTMgMTM6MjM6NDVfYmVuX3dlc2No"
              Author="ben_wesch" Timestamp="2025-10-13 13:23:45" Description="witsensor[v0.2.0-beta2](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64).dek"
              Version="0.2.0-beta2" URL="https://puredata.info/Members/ben_wesch/software/witsensor/0.2.0-beta2/witsensor[v0.2.0-beta2](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64).dek">
