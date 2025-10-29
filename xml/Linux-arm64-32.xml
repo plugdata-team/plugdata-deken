@@ -1847,6 +1847,15 @@
     </Package>
   </Packages>
   <Packages Name="vstplugin~">
+    <Package ID="dnN0cGx1Z2lufl8wLjYuMl8yMDI1LTEwLTI4IDE1OjI5OjQ4X3NwYWNlY2hpbGQx"
+             Author="spacechild1" Timestamp="2025-10-28 15:29:48" Description="vstplugin~[v0.6.2](Linux-arm64-32).dek"
+             Version="0.6.2" URL="https://puredata.info/Members/spacechild1/software/vstplugin~/0.6.2/vstplugin~[v0.6.2](Linux-arm64-32).dek">
+      <Objects>
+        <Object Name="vstpluginbrowser"/>
+        <Object Name="vstplugin~"/>
+        <Object Name="vstpresetbrowser"/>
+      </Objects>
+    </Package>
     <Package ID="dnN0cGx1Z2lufl8wLjYuMV8yMDI1LTEwLTA3IDAxOjM2OjU0X3NwYWNlY2hpbGQx"
              Author="spacechild1" Timestamp="2025-10-07 01:36:54" Description="vstplugin~[v0.6.1](Linux-arm64-32).dek"
              Version="0.6.1" URL="https://puredata.info/Members/spacechild1/software/vstplugin~/0.6.1/vstplugin~[v0.6.1](Linux-arm64-32).dek">

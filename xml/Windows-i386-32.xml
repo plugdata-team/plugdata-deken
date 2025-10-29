@@ -2559,6 +2559,15 @@
     </Package>
   </Packages>
   <Packages Name="vstplugin~">
+    <Package ID="dnN0cGx1Z2lufl8wLjYuMl8yMDI1LTEwLTI4IDE1OjMwOjIxX3NwYWNlY2hpbGQx"
+             Author="spacechild1" Timestamp="2025-10-28 15:30:21" Description="vstplugin~[v0.6.2](Windows-i386-32).dek"
+             Version="0.6.2" URL="https://puredata.info/Members/spacechild1/software/vstplugin~/0.6.2/vstplugin~[v0.6.2](Windows-i386-32).dek">
+      <Objects>
+        <Object Name="vstpluginbrowser"/>
+        <Object Name="vstplugin~"/>
+        <Object Name="vstpresetbrowser"/>
+      </Objects>
+    </Package>
     <Package ID="dnN0cGx1Z2lufl8wLjYuMV8yMDI1LTEwLTA3IDAxOjM4OjE3X3NwYWNlY2hpbGQx"
              Author="spacechild1" Timestamp="2025-10-07 01:38:17" Description="vstplugin~[v0.6.1](Windows-i386-32).dek"
              Version="0.6.1" URL="https://puredata.info/Members/spacechild1/software/vstplugin~/0.6.1/vstplugin~[v0.6.1](Windows-i386-32).dek">
