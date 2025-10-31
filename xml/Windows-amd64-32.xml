@@ -1983,6 +1983,14 @@
     </Package>
   </Packages>
   <Packages Name="pdlua">
+    <Package ID="cGRsdWFfMC4xMi4yNC4xLWJldGFfMjAyNS0xMC0zMCAyMjozMDo1Ml9iZW5fd2VzY2g="
+             Author="ben_wesch" Timestamp="2025-10-30 22:30:52" Description="pdlua[v0.12.24.1-beta](Windows-amd64-32)(Windows-amd64-64).dek"
+             Version="0.12.24.1-beta" URL="https://puredata.info/Members/ben_wesch/software/pdlua/0.12.24.1-beta/pdlua[v0.12.24.1-beta](Windows-amd64-32)(Windows-amd64-64).dek">
+      <Objects>
+        <Object Name="pdlua"/>
+        <Object Name="pdluax"/>
+      </Objects>
+    </Package>
     <Package ID="cGRsdWFfMC4xMi4yNF8yMDI1LTA3LTMwIDE2OjUzOjAyX2Jlbl93ZXNjaA=="
              Author="ben_wesch" Timestamp="2025-07-30 16:53:02" Description="pdlua[v0.12.24](Windows-amd64-32)(Windows-amd64-64).dek"
              Version="0.12.24" URL="https://puredata.info/Members/ben_wesch/software/pdlua/0.12.24/pdlua[v0.12.24](Windows-amd64-32)(Windows-amd64-64).dek">
@@ -11676,9 +11684,9 @@
     </Package>
   </Packages>
   <Packages Name="else">
-    <Package ID="ZWxzZV8xLjAtMF9yYzE1LXRlc3QzXzIwMjUtMTAtMzAgMDM6MTQ6NTZfcG9ycmVz"
-             Author="porres" Timestamp="2025-10-30 03:14:56" Description="else[v1.0-0_rc15-test3](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek"
-             Version="1.0-0_rc15-test3" URL="https://puredata.info/Members/porres/software/else/1.0-0_rc15-test3/else[v1.0-0_rc15-test3](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek">
+    <Package ID="ZWxzZV8xLjAtMF9yYzE1LXRlc3Q0XzIwMjUtMTAtMzAgMjA6MjQ6NDFfcG9ycmVz"
+             Author="porres" Timestamp="2025-10-30 20:24:41" Description="else[v1.0-0_rc15-test4](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek"
+             Version="1.0-0_rc15-test4" URL="https://puredata.info/Members/porres/software/else/1.0-0_rc15-test4/else[v1.0-0_rc15-test4](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek">
       <Objects>
         <Object Name="above"/>
         <Object Name="above~"/>

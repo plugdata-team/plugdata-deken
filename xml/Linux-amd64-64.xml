@@ -558,6 +558,14 @@
     </Package>
   </Packages>
   <Packages Name="pdlua">
+    <Package ID="cGRsdWFfMC4xMi4yNC4xLWJldGFfMjAyNS0xMC0zMCAyMjozMDoxM19iZW5fd2VzY2g="
+             Author="ben_wesch" Timestamp="2025-10-30 22:30:13" Description="pdlua[v0.12.24.1-beta](Linux-amd64-32)(Linux-amd64-64).dek"
+             Version="0.12.24.1-beta" URL="https://puredata.info/Members/ben_wesch/software/pdlua/0.12.24.1-beta/pdlua[v0.12.24.1-beta](Linux-amd64-32)(Linux-amd64-64).dek">
+      <Objects>
+        <Object Name="pdlua"/>
+        <Object Name="pdluax"/>
+      </Objects>
+    </Package>
     <Package ID="cGRsdWFfMC4xMi4yNF8yMDI1LTA3LTMwIDE2OjUyOjI3X2Jlbl93ZXNjaA=="
              Author="ben_wesch" Timestamp="2025-07-30 16:52:27" Description="pdlua[v0.12.24](Linux-amd64-32)(Linux-amd64-64).dek"
              Version="0.12.24" URL="https://puredata.info/Members/ben_wesch/software/pdlua/0.12.24/pdlua[v0.12.24](Linux-amd64-32)(Linux-amd64-64).dek">
