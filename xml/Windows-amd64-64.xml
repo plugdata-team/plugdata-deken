@@ -9155,6 +9155,11 @@
     </Package>
   </Packages>
   <Packages Name="automatonism">
+    <Package ID="YXV0b21hdG9uaXNtXzAuNC4yLjJfMjAyNS0xMS0wNSAwODo0Njo1N19qeWc="
+             Author="jyg" Timestamp="2025-11-05 08:46:57" Description="automatonism reloaded [v0.4.2.2]"
+             Version="0.4.2.2" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4.2.2].dek">
+      <Objects/>
+    </Package>
     <Package ID="YXV0b21hdG9uaXNtXzAuNC4yLjFfMjAyNS0xMS0wMyAwODo1MzozOV9qeWc="
              Author="jyg" Timestamp="2025-11-03 08:53:39" Description="automatonism[v0.4.2.1].dek"
              Version="0.4.2.1" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4.2.1].dek">
