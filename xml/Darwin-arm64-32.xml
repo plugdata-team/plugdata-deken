@@ -4475,6 +4475,11 @@
     </Package>
   </Packages>
   <Packages Name="pd4web">
+    <Package ID="cGQ0d2ViXzIuNC4wXzIwMjUtMTEtMDYgMTQ6NTE6MDlfY2hhcmxlc25laW1vZw=="
+             Author="charlesneimog" Timestamp="2025-11-06 14:51:09" Description="pd4web[v2.4.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
+             Version="2.4.0" URL="https://puredata.info/Members/charlesneimog/software/pd4web/2.4.0/pd4web[v2.4.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
+      <Objects/>
+    </Package>
     <Package ID="cGQ0d2ViXzIuMi42XzIwMjQtMTItMDEgMDE6MTU6MjBfY2hhcmxlc25laW1vZw=="
              Author="charlesneimog" Timestamp="2024-12-01 01:15:20" Description="pd4web[v2.2.6](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Windows-amd64-32)(Sources).dek"
              Version="2.2.6" URL="https://puredata.info/Members/charlesneimog/software/pd4web/2.2.6/pd4web[v2.2.6](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Windows-amd64-32)(Sources).dek">
@@ -11753,14 +11758,9 @@
     </Package>
   </Packages>
   <Packages Name="automatonism">
-    <Package ID="YXV0b21hdG9uaXNtXzAuNC4yLjJfMjAyNS0xMS0wNSAwODo0Njo1N19qeWc="
-             Author="jyg" Timestamp="2025-11-05 08:46:57" Description="automatonism reloaded [v0.4.2.2]"
-             Version="0.4.2.2" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4.2.2].dek">
-      <Objects/>
-    </Package>
-    <Package ID="YXV0b21hdG9uaXNtXzAuNC4yLjFfMjAyNS0xMS0wMyAwODo1MzozOV9qeWc="
-             Author="jyg" Timestamp="2025-11-03 08:53:39" Description="automatonism[v0.4.2.1].dek"
-             Version="0.4.2.1" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4.2.1].dek">
+    <Package ID="YXV0b21hdG9uaXNtXzAuNC4yLjNfMjAyNS0xMS0wNiAyMDoxOTozMl9qeWc="
+             Author="jyg" Timestamp="2025-11-06 20:19:32" Description="automatonism reloaded [v0.4.2.3]"
+             Version="0.4.2.3" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4.2.3].dek">
       <Objects/>
     </Package>
     <Package ID="YXV0b21hdG9uaXNtXzAuNC4yXzIwMjUtMTAtMDEgMjI6NDg6MTlfanln"
