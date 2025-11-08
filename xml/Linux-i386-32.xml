@@ -6930,8 +6930,8 @@
     </Package>
   </Packages>
   <Packages Name="automatonism">
-    <Package ID="YXV0b21hdG9uaXNtXzAuNC4yLjNfMjAyNS0xMS0wNiAyMDoxOTozMl9qeWc="
-             Author="jyg" Timestamp="2025-11-06 20:19:32" Description="automatonism reloaded [v0.4.2.3]"
+    <Package ID="YXV0b21hdG9uaXNtXzAuNC4yLjNfMjAyNS0xMS0wNyAxNjoyNDo0Nl9qeWc="
+             Author="jyg" Timestamp="2025-11-07 16:24:46" Description="automatonism/0.4.2.3 (automatonism reloaded [v0.4.3]    )"
              Version="0.4.2.3" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4.2.3].dek">
       <Objects/>
     </Package>
