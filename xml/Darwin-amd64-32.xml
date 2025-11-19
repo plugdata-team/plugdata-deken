@@ -1194,6 +1194,28 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="reactive">
+    <Package ID="cmVhY3RpdmVfMC4wLjFfMjAyNS0xMS0xOCAxOTozNjozM19jaGFybGVzbmVpbW9n"
+             Author="charlesneimog" Timestamp="2025-11-18 19:36:33" Description="reactive[v0.0.1].dek"
+             Version="0.0.1" URL="https://puredata.info/Members/charlesneimog/software/reactive/0.0.1/reactive[v0.0.1].dek">
+      <Objects>
+        <Object Name="antideadlock"/>
+        <Object Name="datatrack"/>
+        <Object Name="espectro"/>
+        <Object Name="faixa"/>
+        <Object Name="funew"/>
+        <Object Name="instr"/>
+        <Object Name="nano"/>
+        <Object Name="patchbay"/>
+        <Object Name="ponta"/>
+        <Object Name="progcurve"/>
+        <Object Name="reactor"/>
+        <Object Name="timepitch"/>
+        <Object Name="voluminho"/>
+        <Object Name="voluminhost"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="quilt">
     <Package ID="cXVpbHRfMC44LjNfMjAyMi0xMi0yNSAyMTozMDozMl9teVF3aWw=" Author="myQwil"
              Timestamp="2022-12-25 21:30:32" Description="quilt[v0.8.3](Darwin-amd64-32).dek"
@@ -1448,8 +1470,8 @@
     </Package>
   </Packages>
   <Packages Name="pool">
-    <Package ID="cG9vbF8wLjIuMl8yMDI1LTA2LTA1IDIxOjMzOjE0X3Rob21hcw==" Author="thomas"
-             Timestamp="2025-06-05 21:33:14" Description="pool[v0.2.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Windows-amd64-32).dek"
+    <Package ID="cG9vbF8wLjIuMl8yMDI1LTExLTE4IDIzOjQ4OjAyX3Rob21hcw==" Author="thomas"
+             Timestamp="2025-11-18 23:48:02" Description="pool[v0.2.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Windows-amd64-32).dek"
              Version="0.2.2" URL="https://puredata.info/Members/thomas/software/pool/0.2.2/pool[v0.2.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Windows-amd64-32).dek">
       <Objects>
         <Object Name="pool"/>
@@ -15306,9 +15328,7 @@
     <Package ID="Y29uc3RhbnRxfl8wLjNfMjAyMi0wMi0xNiAxODo1ODo0NF90aG9tYXM="
              Author="thomas" Timestamp="2022-02-16 18:58:44" Description="constantq~[v0.3](Darwin-amd64-32)(Darwin-arm64-32).dek"
              Version="0.3" URL="https://puredata.info/Members/thomas/software/constantq~/0.3/constantq~[v0.3](Darwin-amd64-32)(Darwin-arm64-32).dek">
-      <Objects>
-        <Object Name="constantq~"/>
-      </Objects>
+      <Objects/>
     </Package>
     <Package ID="Y29uc3RhbnRxfl8wLjNfMjAyMi0wMi0xNSAyMjo1MzoyOF90aG9tYXM="
              Author="thomas" Timestamp="2022-02-15 22:53:28" Description="constantq~[v0.3](Darwin-amd64-32)(Darwin-i386-32).dek"
@@ -15501,9 +15521,9 @@
     </Package>
   </Packages>
   <Packages Name="pd4web">
-    <Package ID="cGQ0d2ViXzIuNC4wXzIwMjUtMTEtMDYgMTQ6NTE6MDlfY2hhcmxlc25laW1vZw=="
-             Author="charlesneimog" Timestamp="2025-11-06 14:51:09" Description="pd4web[v2.4.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
-             Version="2.4.0" URL="https://puredata.info/Members/charlesneimog/software/pd4web/2.4.0/pd4web[v2.4.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
+    <Package ID="cGQ0d2ViXzIuNC4wLWFscGhhXzIwMjUtMTEtMTggMjA6MDU6MzdfY2hhcmxlc25laW1vZw=="
+             Author="charlesneimog" Timestamp="2025-11-18 20:05:37" Description="pd4web[v2.4.0-alpha](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
+             Version="2.4.0-alpha" URL="https://puredata.info/Members/charlesneimog/software/pd4web/2.4.0-alpha/pd4web[v2.4.0-alpha](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
       <Objects/>
     </Package>
     <Package ID="cGQ0d2ViXzIuMi42XzIwMjQtMTItMDEgMDE6MTU6MjBfY2hhcmxlc25laW1vZw=="
@@ -19008,6 +19028,15 @@
     </Package>
   </Packages>
   <Packages Name="xsample">
+    <Package ID="eHNhbXBsZV8wLjMuM18yMDI1LTExLTE5IDAwOjAyOjIxX3Rob21hcw=="
+             Author="thomas" Timestamp="2025-11-19 00:02:21" Description="xsample[v0.3.3](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Windows-amd64-32).dek"
+             Version="0.3.3" URL="https://puredata.info/Members/thomas/software/xsample/0.3.3/xsample[v0.3.3](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="xgroove~"/>
+        <Object Name="xplay~"/>
+        <Object Name="xrecord~"/>
+      </Objects>
+    </Package>
     <Package ID="eHNhbXBsZV8wLjMuMl8yMDIyLTA3LTEwIDAxOjE0OjI4X3Rob21hcw=="
              Author="thomas" Timestamp="2022-07-10 01:14:28" Description="xsample[v0.3.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Windows-amd64-32).dek"
              Version="0.3.2" URL="https://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Windows-amd64-32).dek">

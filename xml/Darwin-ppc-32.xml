@@ -149,6 +149,28 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="reactive">
+    <Package ID="cmVhY3RpdmVfMC4wLjFfMjAyNS0xMS0xOCAxOTozNjozM19jaGFybGVzbmVpbW9n"
+             Author="charlesneimog" Timestamp="2025-11-18 19:36:33" Description="reactive[v0.0.1].dek"
+             Version="0.0.1" URL="https://puredata.info/Members/charlesneimog/software/reactive/0.0.1/reactive[v0.0.1].dek">
+      <Objects>
+        <Object Name="antideadlock"/>
+        <Object Name="datatrack"/>
+        <Object Name="espectro"/>
+        <Object Name="faixa"/>
+        <Object Name="funew"/>
+        <Object Name="instr"/>
+        <Object Name="nano"/>
+        <Object Name="patchbay"/>
+        <Object Name="ponta"/>
+        <Object Name="progcurve"/>
+        <Object Name="reactor"/>
+        <Object Name="timepitch"/>
+        <Object Name="voluminho"/>
+        <Object Name="voluminhost"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="queryresponse">
     <Package ID="cXVlcnlyZXNwb25zZV8wLjFfMjAyMS0wOC0zMSAxMToyNToyN19pZW1ib3Q="
              Author="iembot" Timestamp="2021-08-31 11:25:27" Description="queryresponse[v0.1].dek"

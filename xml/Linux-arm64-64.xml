@@ -332,6 +332,28 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="reactive">
+    <Package ID="cmVhY3RpdmVfMC4wLjFfMjAyNS0xMS0xOCAxOTozNjozM19jaGFybGVzbmVpbW9n"
+             Author="charlesneimog" Timestamp="2025-11-18 19:36:33" Description="reactive[v0.0.1].dek"
+             Version="0.0.1" URL="https://puredata.info/Members/charlesneimog/software/reactive/0.0.1/reactive[v0.0.1].dek">
+      <Objects>
+        <Object Name="antideadlock"/>
+        <Object Name="datatrack"/>
+        <Object Name="espectro"/>
+        <Object Name="faixa"/>
+        <Object Name="funew"/>
+        <Object Name="instr"/>
+        <Object Name="nano"/>
+        <Object Name="patchbay"/>
+        <Object Name="ponta"/>
+        <Object Name="progcurve"/>
+        <Object Name="reactor"/>
+        <Object Name="timepitch"/>
+        <Object Name="voluminho"/>
+        <Object Name="voluminhost"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="queryresponse">
     <Package ID="cXVlcnlyZXNwb25zZV8wLjFfMjAyMS0wOC0zMSAxMToyNToyN19pZW1ib3Q="
              Author="iembot" Timestamp="2021-08-31 11:25:27" Description="queryresponse[v0.1].dek"
@@ -362,16 +384,16 @@
     </Package>
   </Packages>
   <Packages Name="pool">
-    <Package ID="cG9vbF8wLjIuMl8yMDI1LTA2LTA1IDIxOjMzOjMxX3Rob21hcw==" Author="thomas"
-             Timestamp="2025-06-05 21:33:31" Description="pool[v0.2.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64).dek"
-             Version="0.2.2" URL="https://puredata.info/Members/thomas/software/pool/0.2.2/pool[v0.2.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64).dek">
+    <Package ID="cG9vbF8wLjIuMl8yMDI1LTExLTE4IDIzOjQ4OjE5X3Rob21hcw==" Author="thomas"
+             Timestamp="2025-11-18 23:48:19" Description="pool[v0.2.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek"
+             Version="0.2.2" URL="https://puredata.info/Members/thomas/software/pool/0.2.2/pool[v0.2.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek">
       <Objects>
         <Object Name="pool"/>
       </Objects>
     </Package>
-    <Package ID="cG9vbF8wLjIuMl8yMDIyLTA3LTEwIDE1OjU5OjAwX3Rob21hcw==" Author="thomas"
-             Timestamp="2022-07-10 15:59:00" Description="pool[v0.2.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek"
-             Version="0.2.2" URL="https://puredata.info/Members/thomas/software/pool/0.2.2/pool[v0.2.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek">
+    <Package ID="cG9vbF8wLjIuMl8yMDI1LTA2LTA1IDIxOjMzOjMxX3Rob21hcw==" Author="thomas"
+             Timestamp="2025-06-05 21:33:31" Description="pool[v0.2.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64).dek"
+             Version="0.2.2" URL="https://puredata.info/Members/thomas/software/pool/0.2.2/pool[v0.2.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64).dek">
       <Objects>
         <Object Name="pool"/>
       </Objects>
@@ -1156,6 +1178,15 @@
     </Package>
   </Packages>
   <Packages Name="xsample">
+    <Package ID="eHNhbXBsZV8wLjMuM18yMDI1LTExLTE5IDAwOjAyOjM1X3Rob21hcw=="
+             Author="thomas" Timestamp="2025-11-19 00:02:35" Description="xsample[v0.3.3](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek"
+             Version="0.3.3" URL="https://puredata.info/Members/thomas/software/xsample/0.3.3/xsample[v0.3.3](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek">
+      <Objects>
+        <Object Name="xgroove~"/>
+        <Object Name="xplay~"/>
+        <Object Name="xrecord~"/>
+      </Objects>
+    </Package>
     <Package ID="eHNhbXBsZV8wLjMuMl8yMDIyLTA3LTEwIDAxOjE0OjQ2X3Rob21hcw=="
              Author="thomas" Timestamp="2022-07-10 01:14:46" Description="xsample[v0.3.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek"
              Version="0.3.2" URL="https://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek">
