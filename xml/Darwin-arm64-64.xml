@@ -449,8 +449,15 @@
     </Package>
   </Packages>
   <Packages Name="pool">
-    <Package ID="cG9vbF8wLjIuMl8yMDI1LTExLTE4IDIzOjQ4OjE5X3Rob21hcw==" Author="thomas"
-             Timestamp="2025-11-18 23:48:19" Description="pool[v0.2.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek"
+    <Package ID="cG9vbF8wLjIuM18yMDI1LTExLTE5IDE2OjQxOjMwX3Rob21hcw==" Author="thomas"
+             Timestamp="2025-11-19 16:41:30" Description="pool[v0.2.3](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek"
+             Version="0.2.3" URL="https://puredata.info/Members/thomas/software/pool/0.2.3/pool[v0.2.3](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek">
+      <Objects>
+        <Object Name="pool"/>
+      </Objects>
+    </Package>
+    <Package ID="cG9vbF8wLjIuMl8yMDI1LTExLTE5IDAwOjQ1OjAwX3Rob21hcw==" Author="thomas"
+             Timestamp="2025-11-19 00:45:00" Description="pool[v0.2.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek"
              Version="0.2.2" URL="https://puredata.info/Members/thomas/software/pool/0.2.2/pool[v0.2.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek">
       <Objects>
         <Object Name="pool"/>
@@ -4076,8 +4083,8 @@
     </Package>
   </Packages>
   <Packages Name="xsample">
-    <Package ID="eHNhbXBsZV8wLjMuM18yMDI1LTExLTE5IDAwOjAyOjM1X3Rob21hcw=="
-             Author="thomas" Timestamp="2025-11-19 00:02:35" Description="xsample[v0.3.3](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek"
+    <Package ID="eHNhbXBsZV8wLjMuM18yMDI1LTExLTE5IDE2OjI0OjQ4X3Rob21hcw=="
+             Author="thomas" Timestamp="2025-11-19 16:24:48" Description="xsample[v0.3.3](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek"
              Version="0.3.3" URL="https://puredata.info/Members/thomas/software/xsample/0.3.3/xsample[v0.3.3](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek">
       <Objects>
         <Object Name="xgroove~"/>
