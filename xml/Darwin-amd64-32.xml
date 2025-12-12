@@ -15545,6 +15545,11 @@
     </Package>
   </Packages>
   <Packages Name="pd4web">
+    <Package ID="cGQ0d2ViXzMuMC4wLWFscGhhXzIwMjUtMTItMTEgMTU6NDc6MDNfY2hhcmxlc25laW1vZw=="
+             Author="charlesneimog" Timestamp="2025-12-11 15:47:03" Description="pd4web[v3.0.0-alpha](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
+             Version="3.0.0-alpha" URL="https://puredata.info/Members/charlesneimog/software/pd4web/3.0.0-alpha/pd4web[v3.0.0-alpha](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
+      <Objects/>
+    </Package>
     <Package ID="cGQ0d2ViXzIuNC4wXzIwMjUtMTItMDUgMTI6MjE6NTlfY2hhcmxlc25laW1vZw=="
              Author="charlesneimog" Timestamp="2025-12-05 12:21:59" Description="pd4web[v2.4.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
              Version="2.4.0" URL="https://puredata.info/Members/charlesneimog/software/pd4web/2.4.0/pd4web[v2.4.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
