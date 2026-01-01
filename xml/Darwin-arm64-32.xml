@@ -580,6 +580,14 @@
     </Package>
   </Packages>
   <Packages Name="stash">
+    <Package ID="c3Rhc2hfMC40LjFfMjAyNS0xMi0zMSAxNzoxMzoxOF9iZW5fd2VzY2g="
+             Author="ben_wesch" Timestamp="2025-12-31 17:13:18" Description="stash[v0.4.1].dek"
+             Version="0.4.1" URL="https://puredata.info/Members/ben_wesch/software/stash/0.4.1/stash[v0.4.1].dek">
+      <Objects>
+        <Object Name="hub"/>
+        <Object Name="stash"/>
+      </Objects>
+    </Package>
     <Package ID="c3Rhc2hfMC40LjBfMjAyNC0wNi0yNSAyMjoxMTo1NF9iZW5fd2VzY2g="
              Author="ben_wesch" Timestamp="2024-06-25 22:11:54" Description="stash[v0.4.0].dek"
              Version="0.4.0" URL="https://puredata.info/Members/ben_wesch/software/stash/0.4.0/stash[v0.4.0].dek">
