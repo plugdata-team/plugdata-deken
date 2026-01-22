@@ -24177,8 +24177,8 @@
     </Package>
   </Packages>
   <Packages Name="Gem">
-    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNS0xMS0wNSAxMzoxNzo1NF9pZW1ib3Q="
-             Author="iembot" Timestamp="2025-11-05 13:17:54" Description="Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
+    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNi0wMS0yMSAwMDowOTozMl9pZW1ib3Q="
+             Author="iembot" Timestamp="2026-01-21 00:09:32" Description="Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
              Version="0.94-snapshot" URL="https://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek">
       <Objects>
         <Object Name="_textbbox"/>
