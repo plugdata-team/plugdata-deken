@@ -2613,8 +2613,8 @@
     </Package>
   </Packages>
   <Packages Name="Gem">
-    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNi0wMS0yMSAwMDowOTo0MF9pZW1ib3Q="
-             Author="iembot" Timestamp="2026-01-21 00:09:40" Description="Gem[v0.94-snapshot](Linux-amd64-32)(Linux-amd64-64).dek"
+    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNi0wMS0yMiAyMzo0ODo1N19pZW1ib3Q="
+             Author="iembot" Timestamp="2026-01-22 23:48:57" Description="Gem[v0.94-snapshot](Linux-amd64-32)(Linux-amd64-64).dek"
              Version="0.94-snapshot" URL="https://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Linux-amd64-32)(Linux-amd64-64).dek">
       <Objects>
         <Object Name="_textbbox"/>

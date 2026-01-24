@@ -10621,9 +10621,9 @@
     </Package>
   </Packages>
   <Packages Name="Gem">
-    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNi0wMS0yMSAwMDowOTozMl9pZW1ib3Q="
-             Author="iembot" Timestamp="2026-01-21 00:09:32" Description="Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
-             Version="0.94-snapshot" URL="https://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek">
+    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNi0wMS0yMiAyMzo0ODo0OF9pZW1ib3Q="
+             Author="iembot" Timestamp="2026-01-22 23:48:48" Description="Gem[v0.94-snapshot](Darwin-amd64-64)(Darwin-arm64-64).dek"
+             Version="0.94-snapshot" URL="https://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Darwin-amd64-64)(Darwin-arm64-64).dek">
       <Objects>
         <Object Name="_textbbox"/>
         <Object Name="accumrotate"/>
@@ -10874,10 +10874,11 @@
         <Object Name="yuv2rgb"/>
       </Objects>
     </Package>
-    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNC0xMC0yNyAxOTozMToyMl9pZW1ib3Q="
-             Author="iembot" Timestamp="2024-10-27 19:31:22" Description="Gem[v0.94-snapshot](Darwin-amd64-64)(Darwin-arm64-64).dek"
-             Version="0.94-snapshot" URL="https://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Darwin-amd64-64)(Darwin-arm64-64).dek">
+    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNi0wMS0yMSAwMDowOTozMl9pZW1ib3Q="
+             Author="iembot" Timestamp="2026-01-21 00:09:32" Description="Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
+             Version="0.94-snapshot" URL="https://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek">
       <Objects>
+        <Object Name="_textbbox"/>
         <Object Name="accumrotate"/>
         <Object Name="alpha"/>
         <Object Name="ambient"/>
@@ -10905,6 +10906,7 @@
         <Object Name="gemcocoawindow"/>
         <Object Name="gemcubeframebuffer"/>
         <Object Name="gemframebuffer"/>
+        <Object Name="GEMgl"/>
         <Object Name="GEMglBegin"/>
         <Object Name="gemglfw2window"/>
         <Object Name="gemglfw3window"/>
@@ -10930,6 +10932,7 @@
         <Object Name="gemw32window"/>
         <Object Name="gemwin"/>
         <Object Name="GLdefine"/>
+        <Object Name="glsl"/>
         <Object Name="glsl_fragment"/>
         <Object Name="glsl_geometry"/>
         <Object Name="glsl_program"/>
@@ -10941,6 +10944,7 @@
         <Object Name="mesh_line"/>
         <Object Name="mesh_square"/>
         <Object Name="model"/>
+        <Object Name="modelfiler"/>
         <Object Name="multimodel"/>
         <Object Name="newWave"/>
         <Object Name="ortho"/>
@@ -10951,8 +10955,10 @@
         <Object Name="part_gravity"/>
         <Object Name="part_head"/>
         <Object Name="part_info"/>
+        <Object Name="part_information"/>
         <Object Name="part_killold"/>
         <Object Name="part_killslow"/>
+        <Object Name="part_move"/>
         <Object Name="part_orbitpoint"/>
         <Object Name="part_render"/>
         <Object Name="part_sink"/>
