@@ -2120,9 +2120,7 @@
     <Package ID="c2Vuc2VsbW9ycGhfMS4yLjBfMjAyMC0wNi0wOCAyMzoyMzo1MF9MMk9yaw=="
              Author="L2Ork" Timestamp="2020-06-08 23:23:50" Description="senselmorph[v1.2.0](Linux-amd64-32).dek"
              Version="1.2.0" URL="https://puredata.info/Members/L2Ork/software/senselmorph/1.2.0/senselmorph[v1.2.0](Linux-amd64-32).dek">
-      <Objects>
-        <Object Name="sensel"/>
-      </Objects>
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="pdcontainer">

@@ -1252,13 +1252,7 @@
     <Package ID="c2htZW1fMS4wXzIwMTktMDMtMTMgMTA6MTU6MDBfY2hucnk=" Author="chnry"
              Timestamp="2019-03-13 10:15:00" Description="shmem[v1.0](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-i386-32)(Sources).dek"
              Version="1.0" URL="https://puredata.info/Members/chnry/software/shmem/1.0/shmem[v1.0](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-i386-32)(Sources).dek">
-      <Objects>
-        <Object Name="shmem"/>
-        <Object Name="shmem_receive~"/>
-        <Object Name="shmem_send~"/>
-        <Object Name="shmem_table_receive"/>
-        <Object Name="shmem_table_send"/>
-      </Objects>
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="pix_artoolkit">
