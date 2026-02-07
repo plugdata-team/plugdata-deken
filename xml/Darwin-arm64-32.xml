@@ -3244,9 +3244,9 @@
     </Package>
   </Packages>
   <Packages Name="FluidCorpusManipulation">
-    <Package ID="Rmx1aWRDb3JwdXNNYW5pcHVsYXRpb25fMS4wLjktbmlnaHRseV8yMDI2LTAyLTA1IDEwOjI0OjUyX2ZsdWNvbWE="
-             Author="flucoma" Timestamp="2026-02-05 10:24:52" Description="FluidCorpusManipulation[v1.0.9-nightly](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek"
-             Version="1.0.9-nightly" URL="https://puredata.info/Members/flucoma/software/FluidCorpusManipulation/1.0.9-nightly/FluidCorpusManipulation[v1.0.9-nightly](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek">
+    <Package ID="Rmx1aWRDb3JwdXNNYW5pcHVsYXRpb25fMS4wLjlfMjAyNi0wMi0wNiAxMTo1OTo0OF9mbHVjb21h"
+             Author="flucoma" Timestamp="2026-02-06 11:59:48" Description="FluidCorpusManipulation[v1.0.9](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek"
+             Version="1.0.9" URL="https://puredata.info/Members/flucoma/software/FluidCorpusManipulation/1.0.9/FluidCorpusManipulation[v1.0.9](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek">
       <Objects>
         <Object Name="flucoma"/>
         <Object Name="fluid.ampfeature~"/>
