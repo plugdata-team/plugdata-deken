@@ -2,6 +2,11 @@
 
 <Windows-ppc-64>
   <Packages Name="deken-plugin">
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuMTBfMjAyNi0wMi0xMCAxNToxOTo1N196bW9lbG5pZ2JvdA=="
+             Author="zmoelnigbot" Timestamp="2026-02-10 15:19:57" Description="deken-plugin[v0.10.10].dek"
+             Version="0.10.10" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.10/deken-plugin[v0.10.10].dek">
+      <Objects/>
+    </Package>
     <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuOF8yMDI2LTAxLTI3IDE3OjE2OjE4X3ptb2VsbmlnYm90"
              Author="zmoelnigbot" Timestamp="2026-01-27 17:16:18" Description="deken-plugin[v0.10.8].dek"
              Version="0.10.8" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.8/deken-plugin[v0.10.8].dek">
