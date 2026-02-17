@@ -680,6 +680,35 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="xsample">
+    <Package ID="eHNhbXBsZV8wLjMuM18yMDI1LTExLTE5IDE2OjI0OjM5X3Rob21hcw=="
+             Author="thomas" Timestamp="2025-11-19 16:24:39" Description="xsample[v0.3.3](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Windows-amd64-32).dek"
+             Version="0.3.3" URL="https://puredata.info/Members/thomas/software/xsample/0.3.3/xsample[v0.3.3](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="xgroove~"/>
+        <Object Name="xplay~"/>
+        <Object Name="xrecord~"/>
+      </Objects>
+    </Package>
+    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIyLTA3LTEwIDAxOjE0OjI4X3Rob21hcw=="
+             Author="thomas" Timestamp="2022-07-10 01:14:28" Description="xsample[v0.3.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Windows-amd64-32).dek"
+             Version="0.3.2" URL="https://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="xgroove~"/>
+        <Object Name="xplay~"/>
+        <Object Name="xrecord~"/>
+      </Objects>
+    </Package>
+    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIwLTAzLTA0IDEwOjQwOjA4X3Rob21hcw=="
+             Author="thomas" Timestamp="2020-03-04 10:40:08" Description="xsample[v0.3.2](Linux-arm64-32).dek"
+             Version="0.3.2" URL="https://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Linux-arm64-32).dek">
+      <Objects>
+        <Object Name="xgroove~"/>
+        <Object Name="xplay~"/>
+        <Object Name="xrecord~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="midifile">
     <Package ID="bWlkaWZpbGVfMC40LjNfMjAyNS0wMy0wNCAyMzoyNzowNF9pZW1ib3Q="
              Author="iembot" Timestamp="2025-03-04 23:27:04" Description="midifile[v0.4.3](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek"
@@ -3285,24 +3314,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="missive~">
-    <Package ID="bWlzc2l2ZX5fMC40XzIwMjEtMTItMjggMTc6MjQ6MDVfd21icmVudA=="
-             Author="wmbrent" Timestamp="2021-12-28 17:24:05" Description="missive~[v0.4].dek"
-             Version="0.4" URL="https://puredata.info/Members/wmbrent/software/missive~/0.4/missive~[v0.4].dek">
-      <Objects>
-        <Object Name="missive~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="hexloader">
-    <Package ID="aGV4bG9hZGVyXzEuOF8yMDI0LTAzLTE4IDE4OjE5OjE3X2llbWJvdA=="
-             Author="iembot" Timestamp="2024-03-18 18:19:17" Description="hexloader[v1.8](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek"
-             Version="1.8" URL="https://puredata.info/Members/iembot/software/hexloader/1.8/hexloader[v1.8](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek">
-      <Objects>
-        <Object Name="hexloader"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="artnetlib">
     <Package ID="YXJ0bmV0bGliXzAuMS4wXzIwMjMtMDMtMjEgMDg6NTg6MTNfbHVjYXJkYQ=="
              Author="lucarda" Timestamp="2023-03-21 08:58:13" Description="artnetlib[v0.1.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
@@ -3315,6 +3326,18 @@
         <Object Name="artnettoarray"/>
         <Object Name="artnetudp"/>
       </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="AutoPreset">
+    <Package ID="QXV0b1ByZXNldF8wLjEwXzIwMTYtMTEtMDcgMjM6MDc6MjRfYW50MXI="
+             Author="ant1r" Timestamp="2016-11-07 23:07:24" Description="AutoPreset-v0.10--externals.zip"
+             Version="0.10" URL="https://puredata.info/Members/ant1r/software/AutoPreset/0.10/AutoPreset-v0.10--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="QXV0b1ByZXNldF8wLjlfMjAxNS0xMi0xOCAwMDowNjoxOF9hbnQxcg=="
+             Author="ant1r" Timestamp="2015-12-18 00:06:18" Description="AutoPreset-v0.9--externals.zip"
+             Version="0.9" URL="https://puredata.info/Members/ant1r/software/AutoPreset/0.9/AutoPreset-v0.9--externals.zip">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="bf-pd">
@@ -3814,35 +3837,6 @@
              Author="jyg" Timestamp="2023-05-12 22:37:54" Description="automatonism[v0.4-pre1].dek"
              Version="0.4-pre1" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4-pre1].dek">
       <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="xsample">
-    <Package ID="eHNhbXBsZV8wLjMuM18yMDI1LTExLTE5IDE2OjI0OjM5X3Rob21hcw=="
-             Author="thomas" Timestamp="2025-11-19 16:24:39" Description="xsample[v0.3.3](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Windows-amd64-32).dek"
-             Version="0.3.3" URL="https://puredata.info/Members/thomas/software/xsample/0.3.3/xsample[v0.3.3](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Windows-amd64-32).dek">
-      <Objects>
-        <Object Name="xgroove~"/>
-        <Object Name="xplay~"/>
-        <Object Name="xrecord~"/>
-      </Objects>
-    </Package>
-    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIyLTA3LTEwIDAxOjE0OjI4X3Rob21hcw=="
-             Author="thomas" Timestamp="2022-07-10 01:14:28" Description="xsample[v0.3.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Windows-amd64-32).dek"
-             Version="0.3.2" URL="https://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Windows-amd64-32).dek">
-      <Objects>
-        <Object Name="xgroove~"/>
-        <Object Name="xplay~"/>
-        <Object Name="xrecord~"/>
-      </Objects>
-    </Package>
-    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIwLTAzLTA0IDEwOjQwOjA4X3Rob21hcw=="
-             Author="thomas" Timestamp="2020-03-04 10:40:08" Description="xsample[v0.3.2](Linux-arm64-32).dek"
-             Version="0.3.2" URL="https://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Linux-arm64-32).dek">
-      <Objects>
-        <Object Name="xgroove~"/>
-        <Object Name="xplay~"/>
-        <Object Name="xrecord~"/>
-      </Objects>
     </Package>
   </Packages>
   <Packages Name="else">
@@ -4526,6 +4520,32 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="bela">
+    <Package ID="YmVsYV8wLTIwMjYwMjE2XzIwMjYtMDItMTYgMTc6Mjc6MzRfZ2l1bGlvbW9ybw=="
+             Author="giuliomoro" Timestamp="2026-02-16 17:27:34" Description="bela[v0-20260216].dek"
+             Version="0-20260216" URL="https://puredata.info/Members/giuliomoro/software/bela/0-20260216/bela[v0-20260216].dek">
+      <Objects>
+        <Object Name="analog-in~"/>
+        <Object Name="audio-in~"/>
+        <Object Name="audio-out~"/>
+        <Object Name="digital-in"/>
+        <Object Name="digital-in~"/>
+        <Object Name="digital-out"/>
+        <Object Name="digital-out~"/>
+        <Object Name="play-audio-file~"/>
+        <Object Name="scope~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="spect_scaled">
+    <Package ID="c3BlY3Rfc2NhbGVkXzAuMC4xXzIwMjAtMDMtMDQgMDE6MDM6MThfdGhvbWFz"
+             Author="thomas" Timestamp="2020-03-04 01:03:18" Description="spect_scaled[v0.0.1].dek"
+             Version="0.0.1" URL="https://puredata.info/Members/thomas/software/spect_scaled/0.0.1/spect_scaled[v0.0.1].dek">
+      <Objects>
+        <Object Name="spect_scaled"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="bytestruct">
     <Package ID="Ynl0ZXN0cnVjdF8wLjFfMjAyNC0wOS0wMSAyMzo0Mjo0OF9pZW1ib3Q="
              Author="iembot" Timestamp="2024-09-01 23:42:48" Description="bytestruct[v0.1](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek"
@@ -4607,18 +4627,6 @@
         <Object Name="unpackOSC"/>
         <Object Name="unpackOSCstream"/>
       </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="AutoPreset">
-    <Package ID="QXV0b1ByZXNldF8wLjEwXzIwMTYtMTEtMDcgMjM6MDc6MjRfYW50MXI="
-             Author="ant1r" Timestamp="2016-11-07 23:07:24" Description="AutoPreset-v0.10--externals.zip"
-             Version="0.10" URL="https://puredata.info/Members/ant1r/software/AutoPreset/0.10/AutoPreset-v0.10--externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="QXV0b1ByZXNldF8wLjlfMjAxNS0xMi0xOCAwMDowNjoxOF9hbnQxcg=="
-             Author="ant1r" Timestamp="2015-12-18 00:06:18" Description="AutoPreset-v0.9--externals.zip"
-             Version="0.9" URL="https://puredata.info/Members/ant1r/software/AutoPreset/0.9/AutoPreset-v0.9--externals.zip">
-      <Objects/>
     </Package>
   </Packages>
   <Packages Name="nGui">
@@ -4857,6 +4865,24 @@
         <Object Name="vstpluginbrowser"/>
         <Object Name="vstplugin~"/>
         <Object Name="vstpresetbrowser"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="hexloader">
+    <Package ID="aGV4bG9hZGVyXzEuOF8yMDI0LTAzLTE4IDE4OjE5OjE3X2llbWJvdA=="
+             Author="iembot" Timestamp="2024-03-18 18:19:17" Description="hexloader[v1.8](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek"
+             Version="1.8" URL="https://puredata.info/Members/iembot/software/hexloader/1.8/hexloader[v1.8](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek">
+      <Objects>
+        <Object Name="hexloader"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="missive~">
+    <Package ID="bWlzc2l2ZX5fMC40XzIwMjEtMTItMjggMTc6MjQ6MDVfd21icmVudA=="
+             Author="wmbrent" Timestamp="2021-12-28 17:24:05" Description="missive~[v0.4].dek"
+             Version="0.4" URL="https://puredata.info/Members/wmbrent/software/missive~/0.4/missive~[v0.4].dek">
+      <Objects>
+        <Object Name="missive~"/>
       </Objects>
     </Package>
   </Packages>
@@ -8721,15 +8747,6 @@
       <Objects>
         <Object Name="simplex"/>
         <Object Name="simplex~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="spect_scaled">
-    <Package ID="c3BlY3Rfc2NhbGVkXzAuMC4xXzIwMjAtMDMtMDQgMDE6MDM6MThfdGhvbWFz"
-             Author="thomas" Timestamp="2020-03-04 01:03:18" Description="spect_scaled[v0.0.1].dek"
-             Version="0.0.1" URL="https://puredata.info/Members/thomas/software/spect_scaled/0.0.1/spect_scaled[v0.0.1].dek">
-      <Objects>
-        <Object Name="spect_scaled"/>
       </Objects>
     </Package>
   </Packages>

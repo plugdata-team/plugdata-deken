@@ -920,6 +920,17 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="xsample">
+    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIwLTAzLTA0IDEyOjI2OjQ2X3Rob21hcw=="
+             Author="thomas" Timestamp="2020-03-04 12:26:46" Description="xsample[v0.3.2](Windows-i386-32).dek"
+             Version="0.3.2" URL="https://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Windows-i386-32).dek">
+      <Objects>
+        <Object Name="xgroove~"/>
+        <Object Name="xplay~"/>
+        <Object Name="xrecord~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="midifile">
     <Package ID="bWlkaWZpbGVfMC40LjNfMjAyNS0wMy0wNCAyMzoyODowN19pZW1ib3Q="
              Author="iembot" Timestamp="2025-03-04 23:28:07" Description="midifile[v0.4.3](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
@@ -5091,36 +5102,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="iem_delay">
-    <Package ID="aWVtX2RlbGF5XzAuMC5leHRlbmRlZF8yMDE1LTA3LTMwIDE0OjQ3OjM1X2NocjE1bQ=="
-             Author="chr15m" Timestamp="2015-07-30 14:47:35" Description="iem_delay-v0.0.extended-(Windows-i386-32)-externals.zip"
-             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/iem_delay/iem_delay-v0.0.extended-(Windows-i386-32)-externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="missive~">
-    <Package ID="bWlzc2l2ZX5fMC40XzIwMjEtMTItMjggMTc6MjQ6MDVfd21icmVudA=="
-             Author="wmbrent" Timestamp="2021-12-28 17:24:05" Description="missive~[v0.4].dek"
-             Version="0.4" URL="https://puredata.info/Members/wmbrent/software/missive~/0.4/missive~[v0.4].dek">
-      <Objects>
-        <Object Name="missive~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="hexloader">
-    <Package ID="aGV4bG9hZGVyXzEuOF8yMDI0LTAzLTE4IDE4OjE5OjMxX2llbWJvdA=="
-             Author="iembot" Timestamp="2024-03-18 18:19:31" Description="hexloader[v1.8](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
-             Version="1.8" URL="https://puredata.info/Members/iembot/software/hexloader/1.8/hexloader[v1.8](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
-      <Objects>
-        <Object Name="hexloader"/>
-      </Objects>
-    </Package>
-    <Package ID="aGV4bG9hZGVyXzAuMC5leHRlbmRlZF8yMDE1LTA3LTMwIDE0OjU4OjM3X2NocjE1bQ=="
-             Author="chr15m" Timestamp="2015-07-30 14:58:37" Description="hexloader-v0.0.extended-(Windows-i386-32)-externals.zip"
-             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/hexloader/hexloader-v0.0.extended-(Windows-i386-32)-externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="artnetlib">
     <Package ID="YXJ0bmV0bGliXzAuMS4wXzIwMjMtMDMtMjEgMDg6NTg6MTNfbHVjYXJkYQ=="
              Author="lucarda" Timestamp="2023-03-21 08:58:13" Description="artnetlib[v0.1.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
@@ -5139,6 +5120,18 @@
     <Package ID="c3dlfl8wLjdfMjAxNy0xMS0xNyAwODo1Nzo0M19qd21hdHRoeXM=" Author="jwmatthys"
              Timestamp="2017-11-17 08:57:43" Description="swe~-v0.7-(Sources)(Windows-i386-32)-externals.zip"
              Version="0.7" URL="https://puredata.info/Members/jwmatthys/software/swe~/0.7/swe~-v0.7-(Sources)(Windows-i386-32)-externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="AutoPreset">
+    <Package ID="QXV0b1ByZXNldF8wLjEwXzIwMTYtMTEtMDcgMjM6MDc6MjRfYW50MXI="
+             Author="ant1r" Timestamp="2016-11-07 23:07:24" Description="AutoPreset-v0.10--externals.zip"
+             Version="0.10" URL="https://puredata.info/Members/ant1r/software/AutoPreset/0.10/AutoPreset-v0.10--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="QXV0b1ByZXNldF8wLjlfMjAxNS0xMi0xOCAwMDowNjoxOF9hbnQxcg=="
+             Author="ant1r" Timestamp="2015-12-18 00:06:18" Description="AutoPreset-v0.9--externals.zip"
+             Version="0.9" URL="https://puredata.info/Members/ant1r/software/AutoPreset/0.9/AutoPreset-v0.9--externals.zip">
       <Objects/>
     </Package>
   </Packages>
@@ -6332,17 +6325,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="xsample">
-    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIwLTAzLTA0IDEyOjI2OjQ2X3Rob21hcw=="
-             Author="thomas" Timestamp="2020-03-04 12:26:46" Description="xsample[v0.3.2](Windows-i386-32).dek"
-             Version="0.3.2" URL="https://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Windows-i386-32).dek">
-      <Objects>
-        <Object Name="xgroove~"/>
-        <Object Name="xplay~"/>
-        <Object Name="xrecord~"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="iempluginOSC">
     <Package ID="aWVtcGx1Z2luT1NDXzAuMV8yMDE5LTA0LTEyIDEyOjQzOjU1X3NwYWNlY2hpbGQx"
              Author="spacechild1" Timestamp="2019-04-12 12:43:55" Description="iempluginOSC[v0.1].dek"
@@ -6464,6 +6446,32 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="bela">
+    <Package ID="YmVsYV8wLTIwMjYwMjE2XzIwMjYtMDItMTYgMTc6Mjc6MzRfZ2l1bGlvbW9ybw=="
+             Author="giuliomoro" Timestamp="2026-02-16 17:27:34" Description="bela[v0-20260216].dek"
+             Version="0-20260216" URL="https://puredata.info/Members/giuliomoro/software/bela/0-20260216/bela[v0-20260216].dek">
+      <Objects>
+        <Object Name="analog-in~"/>
+        <Object Name="audio-in~"/>
+        <Object Name="audio-out~"/>
+        <Object Name="digital-in"/>
+        <Object Name="digital-in~"/>
+        <Object Name="digital-out"/>
+        <Object Name="digital-out~"/>
+        <Object Name="play-audio-file~"/>
+        <Object Name="scope~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="spect_scaled">
+    <Package ID="c3BlY3Rfc2NhbGVkXzAuMC4xXzIwMjAtMDMtMDQgMDE6MDM6MThfdGhvbWFz"
+             Author="thomas" Timestamp="2020-03-04 01:03:18" Description="spect_scaled[v0.0.1].dek"
+             Version="0.0.1" URL="https://puredata.info/Members/thomas/software/spect_scaled/0.0.1/spect_scaled[v0.0.1].dek">
+      <Objects>
+        <Object Name="spect_scaled"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="binfile">
     <Package ID="YmluZmlsZV8wLjF+Z2l0MjAxNTExMTdfMjAxNS0xMS0xOCAxMzoyOToyN19yZHo="
              Author="rdz" Timestamp="2015-11-18 13:29:27" Description="binfile-v0.1~git20151117-(Windows-i386-32)-externals.zip"
@@ -6548,18 +6556,6 @@
     <Package ID="cGl4X21hbm9fMC4wLmV4dGVuZGVkXzIwMTUtMDctMzAgMTU6NDA6MDZfY2hyMTVt"
              Author="chr15m" Timestamp="2015-07-30 15:40:06" Description="pix_mano-v0.0.extended-(Windows-i386-32)-externals.zip"
              Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/pix_mano/pix_mano-v0.0.extended-(Windows-i386-32)-externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="AutoPreset">
-    <Package ID="QXV0b1ByZXNldF8wLjEwXzIwMTYtMTEtMDcgMjM6MDc6MjRfYW50MXI="
-             Author="ant1r" Timestamp="2016-11-07 23:07:24" Description="AutoPreset-v0.10--externals.zip"
-             Version="0.10" URL="https://puredata.info/Members/ant1r/software/AutoPreset/0.10/AutoPreset-v0.10--externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="QXV0b1ByZXNldF8wLjlfMjAxNS0xMi0xOCAwMDowNjoxOF9hbnQxcg=="
-             Author="ant1r" Timestamp="2015-12-18 00:06:18" Description="AutoPreset-v0.9--externals.zip"
-             Version="0.9" URL="https://puredata.info/Members/ant1r/software/AutoPreset/0.9/AutoPreset-v0.9--externals.zip">
       <Objects/>
     </Package>
   </Packages>
@@ -9906,6 +9902,36 @@
              Author="lucarda" Timestamp="2018-10-31 00:16:32" Description="dnd-plugin[v0.2](Windows-i386-32)(Windows-amd64-32).dek"
              Version="0.2" URL="https://puredata.info/Members/lucarda/software/dnd-plugin[v0.2](Windows-i386-32)(Windows-amd64-32).dek">
       <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="iem_delay">
+    <Package ID="aWVtX2RlbGF5XzAuMC5leHRlbmRlZF8yMDE1LTA3LTMwIDE0OjQ3OjM1X2NocjE1bQ=="
+             Author="chr15m" Timestamp="2015-07-30 14:47:35" Description="iem_delay-v0.0.extended-(Windows-i386-32)-externals.zip"
+             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/iem_delay/iem_delay-v0.0.extended-(Windows-i386-32)-externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="hexloader">
+    <Package ID="aGV4bG9hZGVyXzEuOF8yMDI0LTAzLTE4IDE4OjE5OjMxX2llbWJvdA=="
+             Author="iembot" Timestamp="2024-03-18 18:19:31" Description="hexloader[v1.8](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
+             Version="1.8" URL="https://puredata.info/Members/iembot/software/hexloader/1.8/hexloader[v1.8](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="hexloader"/>
+      </Objects>
+    </Package>
+    <Package ID="aGV4bG9hZGVyXzAuMC5leHRlbmRlZF8yMDE1LTA3LTMwIDE0OjU4OjM3X2NocjE1bQ=="
+             Author="chr15m" Timestamp="2015-07-30 14:58:37" Description="hexloader-v0.0.extended-(Windows-i386-32)-externals.zip"
+             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/hexloader/hexloader-v0.0.extended-(Windows-i386-32)-externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="missive~">
+    <Package ID="bWlzc2l2ZX5fMC40XzIwMjEtMTItMjggMTc6MjQ6MDVfd21icmVudA=="
+             Author="wmbrent" Timestamp="2021-12-28 17:24:05" Description="missive~[v0.4].dek"
+             Version="0.4" URL="https://puredata.info/Members/wmbrent/software/missive~/0.4/missive~[v0.4].dek">
+      <Objects>
+        <Object Name="missive~"/>
+      </Objects>
     </Package>
   </Packages>
   <Packages Name="mkmr">
@@ -14487,15 +14513,6 @@
              Author="rdz" Timestamp="2015-11-18 13:39:18" Description="slip-v0.1~git20151117-(Windows-i386-32)-externals.zip"
              Version="0.1~git20151117" URL="https://puredata.info/Members/rdz/software/slip-v0.1~git20151117-(Windows-i386-32)-externals.zip">
       <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="spect_scaled">
-    <Package ID="c3BlY3Rfc2NhbGVkXzAuMC4xXzIwMjAtMDMtMDQgMDE6MDM6MThfdGhvbWFz"
-             Author="thomas" Timestamp="2020-03-04 01:03:18" Description="spect_scaled[v0.0.1].dek"
-             Version="0.0.1" URL="https://puredata.info/Members/thomas/software/spect_scaled/0.0.1/spect_scaled[v0.0.1].dek">
-      <Objects>
-        <Object Name="spect_scaled"/>
-      </Objects>
     </Package>
   </Packages>
   <Packages Name="stash">

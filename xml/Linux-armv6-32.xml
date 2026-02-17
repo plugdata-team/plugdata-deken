@@ -17,6 +17,17 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="xsample">
+    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIwLTAzLTAzIDA5OjI1OjI5X3Rob21hcw=="
+             Author="thomas" Timestamp="2020-03-03 09:25:29" Description="xsample[v0.3.2](Linux-armv6-32).dek"
+             Version="0.3.2" URL="https://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Linux-armv6-32).dek">
+      <Objects>
+        <Object Name="xgroove~"/>
+        <Object Name="xplay~"/>
+        <Object Name="xrecord~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="mediasettings">
     <Package ID="bWVkaWFzZXR0aW5nc18wLjFfMjAxNS0xMS0yMyAxNjozMDo1M19hdmlsbGVyZXQ="
              Author="avilleret" Timestamp="2015-11-23 16:30:53" Description="mediasettings-v0.1-(Linux-armv6-32)-externals.tar.gz"
@@ -1139,13 +1150,16 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="missive~">
-    <Package ID="bWlzc2l2ZX5fMC40XzIwMjEtMTItMjggMTc6MjQ6MDVfd21icmVudA=="
-             Author="wmbrent" Timestamp="2021-12-28 17:24:05" Description="missive~[v0.4].dek"
-             Version="0.4" URL="https://puredata.info/Members/wmbrent/software/missive~/0.4/missive~[v0.4].dek">
-      <Objects>
-        <Object Name="missive~"/>
-      </Objects>
+  <Packages Name="AutoPreset">
+    <Package ID="QXV0b1ByZXNldF8wLjEwXzIwMTYtMTEtMDcgMjM6MDc6MjRfYW50MXI="
+             Author="ant1r" Timestamp="2016-11-07 23:07:24" Description="AutoPreset-v0.10--externals.zip"
+             Version="0.10" URL="https://puredata.info/Members/ant1r/software/AutoPreset/0.10/AutoPreset-v0.10--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="QXV0b1ByZXNldF8wLjlfMjAxNS0xMi0xOCAwMDowNjoxOF9hbnQxcg=="
+             Author="ant1r" Timestamp="2015-12-18 00:06:18" Description="AutoPreset-v0.9--externals.zip"
+             Version="0.9" URL="https://puredata.info/Members/ant1r/software/AutoPreset/0.9/AutoPreset-v0.9--externals.zip">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="bf-pd">
@@ -1577,17 +1591,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="xsample">
-    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIwLTAzLTAzIDA5OjI1OjI5X3Rob21hcw=="
-             Author="thomas" Timestamp="2020-03-03 09:25:29" Description="xsample[v0.3.2](Linux-armv6-32).dek"
-             Version="0.3.2" URL="https://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Linux-armv6-32).dek">
-      <Objects>
-        <Object Name="xgroove~"/>
-        <Object Name="xplay~"/>
-        <Object Name="xrecord~"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="iempluginOSC">
     <Package ID="aWVtcGx1Z2luT1NDXzAuMV8yMDE5LTA0LTEyIDEyOjQzOjU1X3NwYWNlY2hpbGQx"
              Author="spacechild1" Timestamp="2019-04-12 12:43:55" Description="iempluginOSC[v0.1].dek"
@@ -1668,6 +1671,32 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="bela">
+    <Package ID="YmVsYV8wLTIwMjYwMjE2XzIwMjYtMDItMTYgMTc6Mjc6MzRfZ2l1bGlvbW9ybw=="
+             Author="giuliomoro" Timestamp="2026-02-16 17:27:34" Description="bela[v0-20260216].dek"
+             Version="0-20260216" URL="https://puredata.info/Members/giuliomoro/software/bela/0-20260216/bela[v0-20260216].dek">
+      <Objects>
+        <Object Name="analog-in~"/>
+        <Object Name="audio-in~"/>
+        <Object Name="audio-out~"/>
+        <Object Name="digital-in"/>
+        <Object Name="digital-in~"/>
+        <Object Name="digital-out"/>
+        <Object Name="digital-out~"/>
+        <Object Name="play-audio-file~"/>
+        <Object Name="scope~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="spect_scaled">
+    <Package ID="c3BlY3Rfc2NhbGVkXzAuMC4xXzIwMjAtMDMtMDQgMDE6MDM6MThfdGhvbWFz"
+             Author="thomas" Timestamp="2020-03-04 01:03:18" Description="spect_scaled[v0.0.1].dek"
+             Version="0.0.1" URL="https://puredata.info/Members/thomas/software/spect_scaled/0.0.1/spect_scaled[v0.0.1].dek">
+      <Objects>
+        <Object Name="spect_scaled"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="binfile">
     <Package ID="YmluZmlsZV8wLjF+Z2l0MjAxNTExMThfMjAxNS0xMS0xOCAxMzoyOTowOF9yZHo="
              Author="rdz" Timestamp="2015-11-18 13:29:08" Description="binfile-v0.1~git20151118-(Linux-armv6-32)-externals.tar.gz"
@@ -1695,18 +1724,6 @@
     <Package ID="b3NjXzAuMn5naXQyMDE1MTExN18yMDE1LTExLTE4IDEzOjM0OjE1X3Jkeg=="
              Author="rdz" Timestamp="2015-11-18 13:34:15" Description="osc-v0.2~git20151117-(Linux-armv6-32)-externals.tar.gz"
              Version="0.2~git20151117" URL="https://puredata.info/Members/rdz/software/osc-v0.2~git20151117-(Linux-armv6-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="AutoPreset">
-    <Package ID="QXV0b1ByZXNldF8wLjEwXzIwMTYtMTEtMDcgMjM6MDc6MjRfYW50MXI="
-             Author="ant1r" Timestamp="2016-11-07 23:07:24" Description="AutoPreset-v0.10--externals.zip"
-             Version="0.10" URL="https://puredata.info/Members/ant1r/software/AutoPreset/0.10/AutoPreset-v0.10--externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="QXV0b1ByZXNldF8wLjlfMjAxNS0xMi0xOCAwMDowNjoxOF9hbnQxcg=="
-             Author="ant1r" Timestamp="2015-12-18 00:06:18" Description="AutoPreset-v0.9--externals.zip"
-             Version="0.9" URL="https://puredata.info/Members/ant1r/software/AutoPreset/0.9/AutoPreset-v0.9--externals.zip">
       <Objects/>
     </Package>
   </Packages>
@@ -1762,6 +1779,15 @@
         <Object Name="oct~"/>
         <Object Name="quad~"/>
         <Object Name="stereo~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="missive~">
+    <Package ID="bWlzc2l2ZX5fMC40XzIwMjEtMTItMjggMTc6MjQ6MDVfd21icmVudA=="
+             Author="wmbrent" Timestamp="2021-12-28 17:24:05" Description="missive~[v0.4].dek"
+             Version="0.4" URL="https://puredata.info/Members/wmbrent/software/missive~/0.4/missive~[v0.4].dek">
+      <Objects>
+        <Object Name="missive~"/>
       </Objects>
     </Package>
   </Packages>
@@ -5816,15 +5842,6 @@
              Author="rdz" Timestamp="2015-11-18 13:38:52" Description="slip-v0.1~git20151117-(Linux-armv6-32)-externals.tar.gz"
              Version="0.1~git20151117" URL="https://puredata.info/Members/rdz/software/slip-v0.1~git20151117-(Linux-armv6-32)-externals.tar.gz">
       <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="spect_scaled">
-    <Package ID="c3BlY3Rfc2NhbGVkXzAuMC4xXzIwMjAtMDMtMDQgMDE6MDM6MThfdGhvbWFz"
-             Author="thomas" Timestamp="2020-03-04 01:03:18" Description="spect_scaled[v0.0.1].dek"
-             Version="0.0.1" URL="https://puredata.info/Members/thomas/software/spect_scaled/0.0.1/spect_scaled[v0.0.1].dek">
-      <Objects>
-        <Object Name="spect_scaled"/>
-      </Objects>
     </Package>
   </Packages>
   <Packages Name="stash">
