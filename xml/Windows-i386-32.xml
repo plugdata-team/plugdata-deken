@@ -3674,6 +3674,24 @@
     </Package>
   </Packages>
   <Packages Name="iem_ambi">
+    <Package ID="aWVtX2FtYmlfMS4yMS4xXzIwMjYtMDItMTggMTE6MTM6MTdfaWVtYm90"
+             Author="iembot" Timestamp="2026-02-18 11:13:17" Description="iem_ambi[v1.21.1](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
+             Version="1.21.1" URL="https://puredata.info/Members/iembot/software/iem_ambi/1.21.1/iem_ambi[v1.21.1](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="ambi_decode3"/>
+        <Object Name="ambi_encode"/>
+        <Object Name="ambi_rot"/>
+        <Object Name="bin_ambi_reduced_decode_fft2"/>
+        <Object Name="bin_ambi_reduced_decode_fir2"/>
+        <Object Name="matrix_bundle_stat~"/>
+        <Object Name="matrix_diag_mul_line8~"/>
+        <Object Name="matrix_diag_mul_line~"/>
+        <Object Name="matrix_diag_mul_stat~"/>
+        <Object Name="matrix_mul_line8~"/>
+        <Object Name="matrix_mul_line~"/>
+        <Object Name="matrix_mul_stat~"/>
+      </Objects>
+    </Package>
     <Package ID="aWVtX2FtYmlfMC4yMS4xXzIwMjMtMDctMTggMTM6NDc6MThfaWVtYm90"
              Author="iembot" Timestamp="2023-07-18 13:47:18" Description="iem_ambi[v0.21.1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
              Version="0.21.1" URL="https://puredata.info/Members/iembot/software/iem_ambi/0.21.1/iem_ambi[v0.21.1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
@@ -6149,6 +6167,13 @@
     </Package>
   </Packages>
   <Packages Name="comport">
+    <Package ID="Y29tcG9ydF8xLjMuMV8yMDI2LTAyLTE4IDEyOjE5OjQ5X2llbWJvdA=="
+             Author="iembot" Timestamp="2026-02-18 12:19:49" Description="comport[v1.3.1](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
+             Version="1.3.1" URL="https://puredata.info/Members/iembot/software/comport/1.3.1/comport[v1.3.1](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="comport"/>
+      </Objects>
+    </Package>
     <Package ID="Y29tcG9ydF8xLjNfMjAyNC0xMC0xMCAxNzo0Mjo1MF9pZW1ib3Q=" Author="iembot"
              Timestamp="2024-10-10 17:42:50" Description="comport[v1.3](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
              Version="1.3" URL="https://puredata.info/Members/iembot/software/comport/1.3/comport[v1.3](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
@@ -6524,6 +6549,18 @@
     </Package>
   </Packages>
   <Packages Name="osc">
+    <Package ID="b3NjXzAuMy4xXzIwMjYtMDItMTggMTM6MDQ6MzNfaWVtYm90" Author="iembot"
+             Timestamp="2026-02-18 13:04:33" Description="osc[v0.3.1](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
+             Version="0.3.1" URL="https://puredata.info/Members/iembot/software/osc/0.3.1/osc[v0.3.1](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="packOSC"/>
+        <Object Name="packOSCstream"/>
+        <Object Name="pipelist"/>
+        <Object Name="routeOSC"/>
+        <Object Name="unpackOSC"/>
+        <Object Name="unpackOSCstream"/>
+      </Objects>
+    </Package>
     <Package ID="b3NjXzAuM18yMDI0LTA4LTI5IDE1OjI4OjM4X2llbWJvdA==" Author="iembot"
              Timestamp="2024-08-29 15:28:38" Description="osc[v0.3](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
              Version="0.3" URL="https://puredata.info/Members/iembot/software/osc/0.3/osc[v0.3](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
@@ -6695,6 +6732,37 @@
     </Package>
   </Packages>
   <Packages Name="iemguts">
+    <Package ID="aWVtZ3V0c18wLjQuNF8yMDI2LTAyLTE4IDEzOjIzOjUxX3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2026-02-18 13:23:51" Description="iemguts[v0.4.4](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
+             Version="0.4.4" URL="https://puredata.info/Members/zmoelnigbot/software/iemguts/0.4.4/iemguts[v0.4.4](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="autoabstraction"/>
+        <Object Name="canvasargs"/>
+        <Object Name="canvasconnections"/>
+        <Object Name="canvasdelete"/>
+        <Object Name="canvasdollarzero"/>
+        <Object Name="canvaserror"/>
+        <Object Name="canvasindex"/>
+        <Object Name="canvaslock"/>
+        <Object Name="canvasname"/>
+        <Object Name="canvasobjectconnections"/>
+        <Object Name="canvasobjectposition"/>
+        <Object Name="canvasposition"/>
+        <Object Name="canvasselect"/>
+        <Object Name="classtest"/>
+        <Object Name="closebang"/>
+        <Object Name="findbrokenobjects"/>
+        <Object Name="initbang"/>
+        <Object Name="objectrename"/>
+        <Object Name="oreceive"/>
+        <Object Name="propertybang"/>
+        <Object Name="receivecanvas"/>
+        <Object Name="savebangs"/>
+        <Object Name="sendcanvas"/>
+        <Object Name="sendcanvasobject"/>
+        <Object Name="try"/>
+      </Objects>
+    </Package>
     <Package ID="aWVtZ3V0c18wLjQuM18yMDI0LTA3LTE2IDAwOjE5OjQzX3ptb2VsbmlnYm90"
              Author="zmoelnigbot" Timestamp="2024-07-16 00:19:43" Description="iemguts[v0.4.3](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
              Version="0.4.3" URL="https://puredata.info/Members/zmoelnigbot/software/iemguts/0.4.3/iemguts[v0.4.3](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
@@ -10016,6 +10084,67 @@
     </Package>
   </Packages>
   <Packages Name="mrpeach">
+    <Package ID="bXJwZWFjaF8wLjAuMjAyNjAyMThfMjAyNi0wMi0xOCAxNDo0NjoyM19pZW1ib3Q="
+             Author="iembot" Timestamp="2026-02-18 14:46:23" Description="mrpeach[v0.0.20260218](Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.0.20260218" URL="https://puredata.info/Members/iembot/software/mrpeach/0.0.20260218/mrpeach[v0.0.20260218](Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="b2f"/>
+        <Object Name="cd4000"/>
+        <Object Name="cd4001"/>
+        <Object Name="cd4002"/>
+        <Object Name="cd4008"/>
+        <Object Name="cd4011"/>
+        <Object Name="cd4012"/>
+        <Object Name="cd4013"/>
+        <Object Name="cd4014"/>
+        <Object Name="cd4015"/>
+        <Object Name="cd4017"/>
+        <Object Name="cd40193"/>
+        <Object Name="cd4023"/>
+        <Object Name="cd4024"/>
+        <Object Name="cd4025"/>
+        <Object Name="cd4027"/>
+        <Object Name="cd4070"/>
+        <Object Name="cd4071"/>
+        <Object Name="cd4072"/>
+        <Object Name="cd4073"/>
+        <Object Name="cd4075"/>
+        <Object Name="cd4076"/>
+        <Object Name="cd4081"/>
+        <Object Name="cd4082"/>
+        <Object Name="cd4094"/>
+        <Object Name="cd4516"/>
+        <Object Name="f2b"/>
+        <Object Name="flist2tab"/>
+        <Object Name="httpreceive"/>
+        <Object Name="httpreq"/>
+        <Object Name="life2x"/>
+        <Object Name="op~"/>
+        <Object Name="packxbee"/>
+        <Object Name="rcosc~"/>
+        <Object Name="rc~"/>
+        <Object Name="rojo~"/>
+        <Object Name="runningmean"/>
+        <Object Name="sprint"/>
+        <Object Name="sqosc~"/>
+        <Object Name="tab2flist"/>
+        <Object Name="tabfind"/>
+        <Object Name="tcpclient"/>
+        <Object Name="tcpreceive"/>
+        <Object Name="tcpsend"/>
+        <Object Name="tcpserver"/>
+        <Object Name="tcpsocket.FUDI"/>
+        <Object Name="tcpsocket.OSC"/>
+        <Object Name="tcpsocketserver"/>
+        <Object Name="udpreceive"/>
+        <Object Name="udpreceive~"/>
+        <Object Name="udpsend"/>
+        <Object Name="udpsend~"/>
+        <Object Name="udpsndrcv"/>
+        <Object Name="unpackxbee"/>
+        <Object Name="which"/>
+      </Objects>
+    </Package>
     <Package ID="bXJwZWFjaF8wLjAuZXh0ZW5kZWRfMjAxNS0wNy0zMCAxNDo1MTowMF9jaHIxNW0="
              Author="chr15m" Timestamp="2015-07-30 14:51:00" Description="mrpeach-v0.0.extended-(Windows-i386-32)-externals.zip"
              Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/mrpeach/mrpeach-v0.0.extended-(Windows-i386-32)-externals.zip">
