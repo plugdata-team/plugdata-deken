@@ -709,29 +709,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="midifile">
-    <Package ID="bWlkaWZpbGVfMC40LjNfMjAyNS0wMy0wNCAyMzoyNzowNF9pZW1ib3Q="
-             Author="iembot" Timestamp="2025-03-04 23:27:04" Description="midifile[v0.4.3](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek"
-             Version="0.4.3" URL="https://puredata.info/Members/iembot/software/midifile/0.4.3/midifile[v0.4.3](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek">
-      <Objects>
-        <Object Name="midifile"/>
-      </Objects>
-    </Package>
-    <Package ID="bWlkaWZpbGVfMC40LjJfMjAyNC0xMS0yMiAwOTozMzoyMl9pZW1ib3Q="
-             Author="iembot" Timestamp="2024-11-22 09:33:22" Description="midifile[v0.4.2](Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32).dek"
-             Version="0.4.2" URL="https://puredata.info/Members/iembot/software/midifile/0.4.2/midifile[v0.4.2](Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32).dek">
-      <Objects>
-        <Object Name="midifile"/>
-      </Objects>
-    </Package>
-    <Package ID="bWlkaWZpbGVfMC40LjFfMjAyNC0xMS0yMiAwOToyNDoyM19pZW1ib3Q="
-             Author="iembot" Timestamp="2024-11-22 09:24:23" Description="midifile[v0.4.1](Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32).dek"
-             Version="0.4.1" URL="https://puredata.info/Members/iembot/software/midifile/0.4.1/midifile[v0.4.1](Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32).dek">
-      <Objects>
-        <Object Name="midifile"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="deken-plugin">
     <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuMTBfMjAyNi0wMi0xMCAxNToxOTo1N196bW9lbG5pZ2JvdA=="
              Author="zmoelnigbot" Timestamp="2026-02-10 15:19:57" Description="deken-plugin[v0.10.10].dek"
@@ -3401,206 +3378,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="iem_spec2">
-    <Package ID="aWVtX3NwZWMyXzEuMjEuMV8yMDI0LTA5LTAzIDEzOjU3OjAyX2llbWJvdA=="
-             Author="iembot" Timestamp="2024-09-03 13:57:02" Description="iem_spec2[v1.21.1](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek"
-             Version="1.21.1" URL="https://puredata.info/Members/iembot/software/iem_spec2/1.21.1/iem_spec2[v1.21.1](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek">
-      <Objects>
-        <Object Name="spec2_1p1z_freq~"/>
-        <Object Name="spec2_1p1z_time~"/>
-        <Object Name="spec2_abs~"/>
-        <Object Name="spec2_add_scalar~"/>
-        <Object Name="spec2_add~"/>
-        <Object Name="spec2_block_delay~"/>
-        <Object Name="spec2_clip_max~"/>
-        <Object Name="spec2_clip_min~"/>
-        <Object Name="spec2_dbtopow~"/>
-        <Object Name="spec2_dbtorms~"/>
-        <Object Name="spec2_matrix_bundle_stat~"/>
-        <Object Name="spec2_mul_scalar~"/>
-        <Object Name="spec2_mul~"/>
-        <Object Name="spec2_powtodb~"/>
-        <Object Name="spec2_rmstodb~"/>
-        <Object Name="spec2_shift~"/>
-        <Object Name="spec2_sqrt~"/>
-        <Object Name="spec2_stretch~"/>
-        <Object Name="spec2_sub~"/>
-        <Object Name="spec2_sum~"/>
-        <Object Name="spec2_tab_conv~"/>
-        <Object Name="spec2_tabreceive_enable~"/>
-        <Object Name="spec2_tabreceive~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="mp3cast~">
-    <Package ID="bXAzY2FzdH5fMC42XzIwMjMtMDEtMDYgMTU6Mjg6MTBfcmR6" Author="rdz"
-             Timestamp="2023-01-06 15:28:10" Description="mp3cast~[v0.6](Linux-arm64-32).dek"
-             Version="0.6" URL="https://puredata.info/Members/rdz/software/mp3cast~/0.6/mp3cast~[v0.6](Linux-arm64-32).dek">
-      <Objects>
-        <Object Name="mp3cast~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="acre-amb">
-    <Package ID="YWNyZS1hbWJfMC45XzIwMjQtMDgtMjIgMTM6MzY6MDRfcml0c2No" Author="ritsch"
-             Timestamp="2024-08-22 13:36:04" Description="acre-amb[v0.9].dek"
-             Version="0.9" URL="https://puredata.info/Members/ritsch/software/acre-amb/0.9/acre-amb[v0.9].dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="acre">
-    <Package ID="YWNyZV8yLjAtcmM1XzIwMjQtMDgtMjIgMTM6Mjk6NTBfcml0c2No" Author="ritsch"
-             Timestamp="2024-08-22 13:29:50" Description="acre[v2.0-rc5].dek"
-             Version="2.0-rc5" URL="https://puredata.info/Members/ritsch/software/acre/2.0-rc5/acre[v2.0-rc5].dek">
-      <Objects/>
-    </Package>
-    <Package ID="YWNyZV8xLjAzXzIwMjAtMTItMDMgMDk6MzE6MzJfcml0c2No" Author="ritsch"
-             Timestamp="2020-12-03 09:31:32" Description="acre[v1.03].dek"
-             Version="1.03" URL="https://puredata.info/Members/ritsch/software/acre/1.0/acre[v1.03].dek">
-      <Objects/>
-    </Package>
-    <Package ID="YWNyZV8xLjAxXzIwMTYtMTAtMjEgMjM6Mzk6MzJfcml0c2No" Author="ritsch"
-             Timestamp="2016-10-21 23:39:32" Description="acre-v1.01--externals.zip"
-             Version="1.01" URL="https://puredata.info/Members/ritsch/software/acre/1.0/acre-v1.01--externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="YWNyZV8xLjBfMjAxNi0wNy0xMSAwMDo0OToxNV9yaXRzY2g=" Author="ritsch"
-             Timestamp="2016-07-11 00:49:15" Description="acre-v1.0--externals.zip"
-             Version="1.0" URL="https://puredata.info/Members/ritsch/software/acre/1.0/acre-v1.0--externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="YWNyZV8wLjY5XzIwMTYtMDUtMDggMjI6NDU6NThfcml0c2No" Author="ritsch"
-             Timestamp="2016-05-08 22:45:58" Description="acre-v0.69--externals.zip"
-             Version="0.69" URL="https://puredata.info/Members/ritsch/software/acre/0.69/acre-v0.69--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="artnetlib">
-    <Package ID="YXJ0bmV0bGliXzAuMS4wXzIwMjMtMDMtMjEgMDg6NTg6MTNfbHVjYXJkYQ=="
-             Author="lucarda" Timestamp="2023-03-21 08:58:13" Description="artnetlib[v0.1.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="0.1.0" URL="https://puredata.info/Members/lucarda/software/artnetlib/0.1.0/artnetlib[v0.1.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects>
-        <Object Name="artnetfromarray"/>
-        <Object Name="artnetlib"/>
-        <Object Name="artnetroute"/>
-        <Object Name="artnetsend"/>
-        <Object Name="artnettoarray"/>
-        <Object Name="artnetudp"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="AutoPreset">
-    <Package ID="QXV0b1ByZXNldF8wLjEwXzIwMTYtMTEtMDcgMjM6MDc6MjRfYW50MXI="
-             Author="ant1r" Timestamp="2016-11-07 23:07:24" Description="AutoPreset-v0.10--externals.zip"
-             Version="0.10" URL="https://puredata.info/Members/ant1r/software/AutoPreset/0.10/AutoPreset-v0.10--externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="QXV0b1ByZXNldF8wLjlfMjAxNS0xMi0xOCAwMDowNjoxOF9hbnQxcg=="
-             Author="ant1r" Timestamp="2015-12-18 00:06:18" Description="AutoPreset-v0.9--externals.zip"
-             Version="0.9" URL="https://puredata.info/Members/ant1r/software/AutoPreset/0.9/AutoPreset-v0.9--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="bf-pd">
-    <Package ID="YmYtcGRfMS4wXzIwMjEtMDgtMDMgMTI6MTQ6MTZfZmJlcnRoYXV0" Author="fberthaut"
-             Timestamp="2021-08-03 12:14:16" Description="bf-pd[v1.0].dek"
-             Version="1.0" URL="https://puredata.info/Members/fberthaut/software/bf-pd/1.0/bf-pd[v1.0].dek">
-      <Objects>
-        <Object Name="bf-clock"/>
-        <Object Name="bf-instrument"/>
-        <Object Name="bf-output"/>
-        <Object Name="bf-param"/>
-        <Object Name="boeuf"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="piloslib">
-    <Package ID="cGlsb3NsaWJfMS4wLjRfMjAyMy0wNi0wNCAxNjozOToyNV9ha3VudWxs"
-             Author="akunull" Timestamp="2023-06-04 16:39:25" Description="piloslib[v1.0.4].dek"
-             Version="1.0.4" URL="https://puredata.info/Members/akunull/software/piloslib/1.0.4/piloslib[v1.0.4].dek">
-      <Objects/>
-    </Package>
-    <Package ID="cGlsb3NsaWJfMS4wLjNfMjAyMy0wNi0wMSAwNDoyMDo0M19ha3VudWxs"
-             Author="akunull" Timestamp="2023-06-01 04:20:43" Description="piloslib[v1.0.3].dek"
-             Version="1.0.3" URL="https://puredata.info/Members/akunull/software/piloslib/1.0.3/piloslib[v1.0.3].dek">
-      <Objects/>
-    </Package>
-    <Package ID="cGlsb3NsaWJfMS4wLjJfMjAyMi0wOC0yMyAyMDo0MzoxNl9ha3VudWxs"
-             Author="akunull" Timestamp="2022-08-23 20:43:16" Description="piloslib[v1.0.2].dek"
-             Version="1.0.2" URL="https://puredata.info/Members/akunull/software/piloslib/1.0.2/piloslib[v1.0.2].dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="absattr">
-    <Package ID="YWJzYXR0cl8wLjIuM18yMDIwLTAzLTA0IDEwOjQxOjI3X3Rob21hcw=="
-             Author="thomas" Timestamp="2020-03-04 10:41:27" Description="absattr[v0.2.3](Linux-arm64-32).dek"
-             Version="0.2.3" URL="https://puredata.info/Members/thomas/software/absattr/0.2.3/absattr[v0.2.3](Linux-arm64-32).dek">
-      <Objects>
-        <Object Name="absattr"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="simplex~">
-    <Package ID="c2ltcGxleH5fMC4zLjZfMjAyNC0wNi0yNyAxOToxMDo0MV9iZW5fd2VzY2g="
-             Author="ben_wesch" Timestamp="2024-06-27 19:10:41" Description="simplex~[v0.3.6](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64).dek"
-             Version="0.3.6" URL="https://puredata.info/Members/ben_wesch/software/simplex~/0.3.6/simplex~[v0.3.6](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64).dek">
-      <Objects>
-        <Object Name="simplex~"/>
-      </Objects>
-    </Package>
-    <Package ID="c2ltcGxleH5fMC4zLjVfMjAyNC0wNi0wNCAxNDo1MjoyMF9iZW5fd2VzY2g="
-             Author="ben_wesch" Timestamp="2024-06-04 14:52:20" Description="simplex~[v0.3.5](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64).dek"
-             Version="0.3.5" URL="https://puredata.info/Members/ben_wesch/software/simplex~/0.3.5/simplex~[v0.3.5](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64).dek">
-      <Objects>
-        <Object Name="simplex~"/>
-      </Objects>
-    </Package>
-    <Package ID="c2ltcGxleH5fMC4zLjRfMjAyNC0wNS0yOCAxNjo1NzowOV9iZW5fd2VzY2g="
-             Author="ben_wesch" Timestamp="2024-05-28 16:57:09" Description="simplex~[v0.3.4](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Windows-amd64-32)(Windows-amd64-64).dek"
-             Version="0.3.4" URL="https://puredata.info/Members/ben_wesch/software/simplex~/0.3.4/simplex~[v0.3.4](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Windows-amd64-32)(Windows-amd64-64).dek">
-      <Objects>
-        <Object Name="simplex~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="iemgui">
-    <Package ID="aWVtZ3VpXzEuMjEtM18yMDIzLTAxLTExIDE1OjA5OjUxX2llbWJvdA=="
-             Author="iembot" Timestamp="2023-01-11 15:09:51" Description="iemgui[v1.21-3](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="1.21-3" URL="https://puredata.info/Members/iembot/software/iemgui/1.21-3/iemgui[v1.21-3](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects>
-        <Object Name="cube_sphere"/>
-        <Object Name="hfadl_scale"/>
-        <Object Name="hfadr_scale"/>
-        <Object Name="iem_event"/>
-        <Object Name="iem_image"/>
-        <Object Name="iem_vu"/>
-        <Object Name="nbxm"/>
-        <Object Name="numberbox_matrix"/>
-        <Object Name="room_sim_2d"/>
-        <Object Name="room_sim_3d"/>
-        <Object Name="sym_dial"/>
-        <Object Name="vfad_scale"/>
-      </Objects>
-    </Package>
-    <Package ID="aWVtZ3VpXzEuMjEtMl8yMDIyLTA5LTEzIDIxOjQ3OjI1X2llbWJvdA=="
-             Author="iembot" Timestamp="2022-09-13 21:47:25" Description="iemgui[v1.21-2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="1.21-2" URL="https://puredata.info/Members/iembot/software/iemgui/1.21-2/iemgui[v1.21-2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects>
-        <Object Name="cube_sphere"/>
-        <Object Name="hfadl_scale"/>
-        <Object Name="hfadr_scale"/>
-        <Object Name="iem_event"/>
-        <Object Name="iem_image"/>
-        <Object Name="iem_vu"/>
-        <Object Name="nbxm"/>
-        <Object Name="numberbox_matrix"/>
-        <Object Name="room_sim_2d"/>
-        <Object Name="room_sim_3d"/>
-        <Object Name="sym_dial"/>
-        <Object Name="vfad_scale"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="pd">
     <Package ID="cGRfMC41Ni4yXzIwMjYtMDItMDkgMTc6MzM6NTFfem1vZWxuaWc=" Author="zmoelnig"
              Timestamp="2026-02-09 17:33:51" Description="pd/0.56.2 (dummy library for built-in objects)"
@@ -3926,6 +3703,137 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="mp3cast~">
+    <Package ID="bXAzY2FzdH5fMC42XzIwMjMtMDEtMDYgMTU6Mjg6MTBfcmR6" Author="rdz"
+             Timestamp="2023-01-06 15:28:10" Description="mp3cast~[v0.6](Linux-arm64-32).dek"
+             Version="0.6" URL="https://puredata.info/Members/rdz/software/mp3cast~/0.6/mp3cast~[v0.6](Linux-arm64-32).dek">
+      <Objects>
+        <Object Name="mp3cast~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="acre-amb">
+    <Package ID="YWNyZS1hbWJfMC45XzIwMjQtMDgtMjIgMTM6MzY6MDRfcml0c2No" Author="ritsch"
+             Timestamp="2024-08-22 13:36:04" Description="acre-amb[v0.9].dek"
+             Version="0.9" URL="https://puredata.info/Members/ritsch/software/acre-amb/0.9/acre-amb[v0.9].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="acre">
+    <Package ID="YWNyZV8yLjAtcmM1XzIwMjQtMDgtMjIgMTM6Mjk6NTBfcml0c2No" Author="ritsch"
+             Timestamp="2024-08-22 13:29:50" Description="acre[v2.0-rc5].dek"
+             Version="2.0-rc5" URL="https://puredata.info/Members/ritsch/software/acre/2.0-rc5/acre[v2.0-rc5].dek">
+      <Objects/>
+    </Package>
+    <Package ID="YWNyZV8xLjAzXzIwMjAtMTItMDMgMDk6MzE6MzJfcml0c2No" Author="ritsch"
+             Timestamp="2020-12-03 09:31:32" Description="acre[v1.03].dek"
+             Version="1.03" URL="https://puredata.info/Members/ritsch/software/acre/1.0/acre[v1.03].dek">
+      <Objects/>
+    </Package>
+    <Package ID="YWNyZV8xLjAxXzIwMTYtMTAtMjEgMjM6Mzk6MzJfcml0c2No" Author="ritsch"
+             Timestamp="2016-10-21 23:39:32" Description="acre-v1.01--externals.zip"
+             Version="1.01" URL="https://puredata.info/Members/ritsch/software/acre/1.0/acre-v1.01--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="YWNyZV8xLjBfMjAxNi0wNy0xMSAwMDo0OToxNV9yaXRzY2g=" Author="ritsch"
+             Timestamp="2016-07-11 00:49:15" Description="acre-v1.0--externals.zip"
+             Version="1.0" URL="https://puredata.info/Members/ritsch/software/acre/1.0/acre-v1.0--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="YWNyZV8wLjY5XzIwMTYtMDUtMDggMjI6NDU6NThfcml0c2No" Author="ritsch"
+             Timestamp="2016-05-08 22:45:58" Description="acre-v0.69--externals.zip"
+             Version="0.69" URL="https://puredata.info/Members/ritsch/software/acre/0.69/acre-v0.69--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="artnetlib">
+    <Package ID="YXJ0bmV0bGliXzAuMS4wXzIwMjMtMDMtMjEgMDg6NTg6MTNfbHVjYXJkYQ=="
+             Author="lucarda" Timestamp="2023-03-21 08:58:13" Description="artnetlib[v0.1.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.1.0" URL="https://puredata.info/Members/lucarda/software/artnetlib/0.1.0/artnetlib[v0.1.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="artnetfromarray"/>
+        <Object Name="artnetlib"/>
+        <Object Name="artnetroute"/>
+        <Object Name="artnetsend"/>
+        <Object Name="artnettoarray"/>
+        <Object Name="artnetudp"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="AutoPreset">
+    <Package ID="QXV0b1ByZXNldF8wLjEwXzIwMTYtMTEtMDcgMjM6MDc6MjRfYW50MXI="
+             Author="ant1r" Timestamp="2016-11-07 23:07:24" Description="AutoPreset-v0.10--externals.zip"
+             Version="0.10" URL="https://puredata.info/Members/ant1r/software/AutoPreset/0.10/AutoPreset-v0.10--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="QXV0b1ByZXNldF8wLjlfMjAxNS0xMi0xOCAwMDowNjoxOF9hbnQxcg=="
+             Author="ant1r" Timestamp="2015-12-18 00:06:18" Description="AutoPreset-v0.9--externals.zip"
+             Version="0.9" URL="https://puredata.info/Members/ant1r/software/AutoPreset/0.9/AutoPreset-v0.9--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="bf-pd">
+    <Package ID="YmYtcGRfMS4wXzIwMjEtMDgtMDMgMTI6MTQ6MTZfZmJlcnRoYXV0" Author="fberthaut"
+             Timestamp="2021-08-03 12:14:16" Description="bf-pd[v1.0].dek"
+             Version="1.0" URL="https://puredata.info/Members/fberthaut/software/bf-pd/1.0/bf-pd[v1.0].dek">
+      <Objects>
+        <Object Name="bf-clock"/>
+        <Object Name="bf-instrument"/>
+        <Object Name="bf-output"/>
+        <Object Name="bf-param"/>
+        <Object Name="boeuf"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="piloslib">
+    <Package ID="cGlsb3NsaWJfMS4wLjRfMjAyMy0wNi0wNCAxNjozOToyNV9ha3VudWxs"
+             Author="akunull" Timestamp="2023-06-04 16:39:25" Description="piloslib[v1.0.4].dek"
+             Version="1.0.4" URL="https://puredata.info/Members/akunull/software/piloslib/1.0.4/piloslib[v1.0.4].dek">
+      <Objects/>
+    </Package>
+    <Package ID="cGlsb3NsaWJfMS4wLjNfMjAyMy0wNi0wMSAwNDoyMDo0M19ha3VudWxs"
+             Author="akunull" Timestamp="2023-06-01 04:20:43" Description="piloslib[v1.0.3].dek"
+             Version="1.0.3" URL="https://puredata.info/Members/akunull/software/piloslib/1.0.3/piloslib[v1.0.3].dek">
+      <Objects/>
+    </Package>
+    <Package ID="cGlsb3NsaWJfMS4wLjJfMjAyMi0wOC0yMyAyMDo0MzoxNl9ha3VudWxs"
+             Author="akunull" Timestamp="2022-08-23 20:43:16" Description="piloslib[v1.0.2].dek"
+             Version="1.0.2" URL="https://puredata.info/Members/akunull/software/piloslib/1.0.2/piloslib[v1.0.2].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="absattr">
+    <Package ID="YWJzYXR0cl8wLjIuM18yMDIwLTAzLTA0IDEwOjQxOjI3X3Rob21hcw=="
+             Author="thomas" Timestamp="2020-03-04 10:41:27" Description="absattr[v0.2.3](Linux-arm64-32).dek"
+             Version="0.2.3" URL="https://puredata.info/Members/thomas/software/absattr/0.2.3/absattr[v0.2.3](Linux-arm64-32).dek">
+      <Objects>
+        <Object Name="absattr"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="simplex~">
+    <Package ID="c2ltcGxleH5fMC4zLjZfMjAyNC0wNi0yNyAxOToxMDo0MV9iZW5fd2VzY2g="
+             Author="ben_wesch" Timestamp="2024-06-27 19:10:41" Description="simplex~[v0.3.6](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64).dek"
+             Version="0.3.6" URL="https://puredata.info/Members/ben_wesch/software/simplex~/0.3.6/simplex~[v0.3.6](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64).dek">
+      <Objects>
+        <Object Name="simplex~"/>
+      </Objects>
+    </Package>
+    <Package ID="c2ltcGxleH5fMC4zLjVfMjAyNC0wNi0wNCAxNDo1MjoyMF9iZW5fd2VzY2g="
+             Author="ben_wesch" Timestamp="2024-06-04 14:52:20" Description="simplex~[v0.3.5](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64).dek"
+             Version="0.3.5" URL="https://puredata.info/Members/ben_wesch/software/simplex~/0.3.5/simplex~[v0.3.5](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64).dek">
+      <Objects>
+        <Object Name="simplex~"/>
+      </Objects>
+    </Package>
+    <Package ID="c2ltcGxleH5fMC4zLjRfMjAyNC0wNS0yOCAxNjo1NzowOV9iZW5fd2VzY2g="
+             Author="ben_wesch" Timestamp="2024-05-28 16:57:09" Description="simplex~[v0.3.4](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Windows-amd64-32)(Windows-amd64-64).dek"
+             Version="0.3.4" URL="https://puredata.info/Members/ben_wesch/software/simplex~/0.3.4/simplex~[v0.3.4](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64)(Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Windows-amd64-32)(Windows-amd64-64).dek">
+      <Objects>
+        <Object Name="simplex~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="py">
     <Package ID="cHlfMC4yLjJfMjAyMC0wMy0wNCAxMDo0MDozNF90aG9tYXM=" Author="thomas"
              Timestamp="2020-03-04 10:40:34" Description="py[v0.2.2](Linux-arm64-32).dek"
@@ -3973,6 +3881,75 @@
              Timestamp="2021-01-07 12:32:35" Description="Fraise[v0.1.0].dek"
              Version="0.1.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.1.0/Fraise[v0.1.0].dek">
       <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="iemgui">
+    <Package ID="aWVtZ3VpXzEuMjEtM18yMDIzLTAxLTExIDE1OjA5OjUxX2llbWJvdA=="
+             Author="iembot" Timestamp="2023-01-11 15:09:51" Description="iemgui[v1.21-3](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="1.21-3" URL="https://puredata.info/Members/iembot/software/iemgui/1.21-3/iemgui[v1.21-3](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="cube_sphere"/>
+        <Object Name="hfadl_scale"/>
+        <Object Name="hfadr_scale"/>
+        <Object Name="iem_event"/>
+        <Object Name="iem_image"/>
+        <Object Name="iem_vu"/>
+        <Object Name="nbxm"/>
+        <Object Name="numberbox_matrix"/>
+        <Object Name="room_sim_2d"/>
+        <Object Name="room_sim_3d"/>
+        <Object Name="sym_dial"/>
+        <Object Name="vfad_scale"/>
+      </Objects>
+    </Package>
+    <Package ID="aWVtZ3VpXzEuMjEtMl8yMDIyLTA5LTEzIDIxOjQ3OjI1X2llbWJvdA=="
+             Author="iembot" Timestamp="2022-09-13 21:47:25" Description="iemgui[v1.21-2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="1.21-2" URL="https://puredata.info/Members/iembot/software/iemgui/1.21-2/iemgui[v1.21-2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="cube_sphere"/>
+        <Object Name="hfadl_scale"/>
+        <Object Name="hfadr_scale"/>
+        <Object Name="iem_event"/>
+        <Object Name="iem_image"/>
+        <Object Name="iem_vu"/>
+        <Object Name="nbxm"/>
+        <Object Name="numberbox_matrix"/>
+        <Object Name="room_sim_2d"/>
+        <Object Name="room_sim_3d"/>
+        <Object Name="sym_dial"/>
+        <Object Name="vfad_scale"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="iem_spec2">
+    <Package ID="aWVtX3NwZWMyXzEuMjEuMV8yMDI0LTA5LTAzIDEzOjU3OjAyX2llbWJvdA=="
+             Author="iembot" Timestamp="2024-09-03 13:57:02" Description="iem_spec2[v1.21.1](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek"
+             Version="1.21.1" URL="https://puredata.info/Members/iembot/software/iem_spec2/1.21.1/iem_spec2[v1.21.1](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek">
+      <Objects>
+        <Object Name="spec2_1p1z_freq~"/>
+        <Object Name="spec2_1p1z_time~"/>
+        <Object Name="spec2_abs~"/>
+        <Object Name="spec2_add_scalar~"/>
+        <Object Name="spec2_add~"/>
+        <Object Name="spec2_block_delay~"/>
+        <Object Name="spec2_clip_max~"/>
+        <Object Name="spec2_clip_min~"/>
+        <Object Name="spec2_dbtopow~"/>
+        <Object Name="spec2_dbtorms~"/>
+        <Object Name="spec2_matrix_bundle_stat~"/>
+        <Object Name="spec2_mul_scalar~"/>
+        <Object Name="spec2_mul~"/>
+        <Object Name="spec2_powtodb~"/>
+        <Object Name="spec2_rmstodb~"/>
+        <Object Name="spec2_shift~"/>
+        <Object Name="spec2_sqrt~"/>
+        <Object Name="spec2_stretch~"/>
+        <Object Name="spec2_sub~"/>
+        <Object Name="spec2_sum~"/>
+        <Object Name="spec2_tab_conv~"/>
+        <Object Name="spec2_tabreceive_enable~"/>
+        <Object Name="spec2_tabreceive~"/>
+      </Objects>
     </Package>
   </Packages>
   <Packages Name="automatonism">
@@ -5076,6 +5053,29 @@
         <Object Name="vstpluginbrowser"/>
         <Object Name="vstplugin~"/>
         <Object Name="vstpresetbrowser"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="midifile">
+    <Package ID="bWlkaWZpbGVfMC40LjNfMjAyNS0wMy0wNCAyMzoyNzowNF9pZW1ib3Q="
+             Author="iembot" Timestamp="2025-03-04 23:27:04" Description="midifile[v0.4.3](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek"
+             Version="0.4.3" URL="https://puredata.info/Members/iembot/software/midifile/0.4.3/midifile[v0.4.3](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek">
+      <Objects>
+        <Object Name="midifile"/>
+      </Objects>
+    </Package>
+    <Package ID="bWlkaWZpbGVfMC40LjJfMjAyNC0xMS0yMiAwOTozMzoyMl9pZW1ib3Q="
+             Author="iembot" Timestamp="2024-11-22 09:33:22" Description="midifile[v0.4.2](Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32).dek"
+             Version="0.4.2" URL="https://puredata.info/Members/iembot/software/midifile/0.4.2/midifile[v0.4.2](Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32).dek">
+      <Objects>
+        <Object Name="midifile"/>
+      </Objects>
+    </Package>
+    <Package ID="bWlkaWZpbGVfMC40LjFfMjAyNC0xMS0yMiAwOToyNDoyM19pZW1ib3Q="
+             Author="iembot" Timestamp="2024-11-22 09:24:23" Description="midifile[v0.4.1](Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32).dek"
+             Version="0.4.1" URL="https://puredata.info/Members/iembot/software/midifile/0.4.1/midifile[v0.4.1](Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32).dek">
+      <Objects>
+        <Object Name="midifile"/>
       </Objects>
     </Package>
   </Packages>

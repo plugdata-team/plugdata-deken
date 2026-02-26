@@ -1139,10 +1139,312 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="iem_spec2">
-    <Package ID="aWVtX3NwZWMyXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MjQ6MjVfem1vZWxuaWc="
-             Author="zmoelnig" Timestamp="2015-12-10 14:24:25" Description="iem_spec2-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/iem_spec2/0-0extended/iem_spec2-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+  <Packages Name="pd">
+    <Package ID="cGRfMC41Ni4yXzIwMjYtMDItMDkgMTc6MzM6NTFfem1vZWxuaWc=" Author="zmoelnig"
+             Timestamp="2026-02-09 17:33:51" Description="pd/0.56.2 (dummy library for built-in objects)"
+             Version="0.56.2" URL="https://puredata.info/Members/zmoelnig/software/pd/0.56.2/pd[v0.56.2].dek">
+      <Objects>
+        <Object Name="!="/>
+        <Object Name="%"/>
+        <Object Name="&amp;"/>
+        <Object Name="&amp;&amp;"/>
+        <Object Name="*"/>
+        <Object Name="*~"/>
+        <Object Name="+"/>
+        <Object Name="+~"/>
+        <Object Name="-"/>
+        <Object Name="-~"/>
+        <Object Name="/"/>
+        <Object Name="/~"/>
+        <Object Name="&lt;"/>
+        <Object Name="&lt;&lt;"/>
+        <Object Name="&lt;="/>
+        <Object Name="=="/>
+        <Object Name="&gt;"/>
+        <Object Name="&gt;="/>
+        <Object Name="&gt;&gt;"/>
+        <Object Name="abs"/>
+        <Object Name="abs~"/>
+        <Object Name="adc~"/>
+        <Object Name="append"/>
+        <Object Name="array"/>
+        <Object Name="array get"/>
+        <Object Name="array max"/>
+        <Object Name="array min"/>
+        <Object Name="array quantile"/>
+        <Object Name="array random"/>
+        <Object Name="array set"/>
+        <Object Name="array size"/>
+        <Object Name="array sum"/>
+        <Object Name="atan"/>
+        <Object Name="atan2"/>
+        <Object Name="b"/>
+        <Object Name="bag"/>
+        <Object Name="bang~"/>
+        <Object Name="bendin"/>
+        <Object Name="bendout"/>
+        <Object Name="biquad~"/>
+        <Object Name="block~"/>
+        <Object Name="bng"/>
+        <Object Name="bp~"/>
+        <Object Name="catch~"/>
+        <Object Name="change"/>
+        <Object Name="clip"/>
+        <Object Name="clip~"/>
+        <Object Name="clone"/>
+        <Object Name="cnv"/>
+        <Object Name="cos"/>
+        <Object Name="cos~"/>
+        <Object Name="cpole~"/>
+        <Object Name="cputime"/>
+        <Object Name="ctlin"/>
+        <Object Name="ctlout"/>
+        <Object Name="czero_rev~"/>
+        <Object Name="czero~"/>
+        <Object Name="dac~"/>
+        <Object Name="dbtopow"/>
+        <Object Name="dbtopow~"/>
+        <Object Name="dbtorms"/>
+        <Object Name="dbtorms~"/>
+        <Object Name="declare"/>
+        <Object Name="del"/>
+        <Object Name="delay"/>
+        <Object Name="delread4~"/>
+        <Object Name="delread~"/>
+        <Object Name="delwrite~"/>
+        <Object Name="div"/>
+        <Object Name="drawcurve"/>
+        <Object Name="drawnumber"/>
+        <Object Name="drawpolygon"/>
+        <Object Name="drawsymbol"/>
+        <Object Name="drawtext"/>
+        <Object Name="element"/>
+        <Object Name="env~"/>
+        <Object Name="exp"/>
+        <Object Name="expr"/>
+        <Object Name="expr~"/>
+        <Object Name="exp~"/>
+        <Object Name="f"/>
+        <Object Name="fexpr~"/>
+        <Object Name="fft~"/>
+        <Object Name="file"/>
+        <Object Name="file copy"/>
+        <Object Name="file cwd"/>
+        <Object Name="file define"/>
+        <Object Name="file delete"/>
+        <Object Name="file glob"/>
+        <Object Name="file handle"/>
+        <Object Name="file isabsolute"/>
+        <Object Name="file isdirectory"/>
+        <Object Name="file isfile"/>
+        <Object Name="file join"/>
+        <Object Name="file mkdir"/>
+        <Object Name="file move"/>
+        <Object Name="file normalize"/>
+        <Object Name="file patchpath"/>
+        <Object Name="file size"/>
+        <Object Name="file split"/>
+        <Object Name="file splitext"/>
+        <Object Name="file splitname"/>
+        <Object Name="file stat"/>
+        <Object Name="file which"/>
+        <Object Name="filledcurve"/>
+        <Object Name="filledpolygon"/>
+        <Object Name="framp~"/>
+        <Object Name="fswap"/>
+        <Object Name="ftom"/>
+        <Object Name="ftom~"/>
+        <Object Name="fudiformat"/>
+        <Object Name="fudiparse"/>
+        <Object Name="get"/>
+        <Object Name="getsize"/>
+        <Object Name="hdl"/>
+        <Object Name="hip~"/>
+        <Object Name="hradio"/>
+        <Object Name="hsl"/>
+        <Object Name="hslider"/>
+        <Object Name="i"/>
+        <Object Name="ifft~"/>
+        <Object Name="inlet"/>
+        <Object Name="inlet~"/>
+        <Object Name="int"/>
+        <Object Name="key"/>
+        <Object Name="keyname"/>
+        <Object Name="keyup"/>
+        <Object Name="line"/>
+        <Object Name="line~"/>
+        <Object Name="list append"/>
+        <Object Name="list fromsymbol"/>
+        <Object Name="list length"/>
+        <Object Name="list prepend"/>
+        <Object Name="list split"/>
+        <Object Name="list store"/>
+        <Object Name="list tosymbol"/>
+        <Object Name="list trim"/>
+        <Object Name="loadbang"/>
+        <Object Name="log"/>
+        <Object Name="log~"/>
+        <Object Name="lop~"/>
+        <Object Name="makefilename"/>
+        <Object Name="makenote"/>
+        <Object Name="max"/>
+        <Object Name="max~"/>
+        <Object Name="metro"/>
+        <Object Name="midiin"/>
+        <Object Name="midiout"/>
+        <Object Name="midirealtimein"/>
+        <Object Name="min"/>
+        <Object Name="min~"/>
+        <Object Name="mod"/>
+        <Object Name="moses"/>
+        <Object Name="mtof"/>
+        <Object Name="mtof~"/>
+        <Object Name="my_canvas"/>
+        <Object Name="my_numbox"/>
+        <Object Name="namecanvas"/>
+        <Object Name="nbx"/>
+        <Object Name="netreceive"/>
+        <Object Name="netsend"/>
+        <Object Name="noise~"/>
+        <Object Name="notein"/>
+        <Object Name="noteout"/>
+        <Object Name="openpanel"/>
+        <Object Name="oscformat"/>
+        <Object Name="oscparse"/>
+        <Object Name="osc~"/>
+        <Object Name="outlet"/>
+        <Object Name="outlet~"/>
+        <Object Name="pack"/>
+        <Object Name="page"/>
+        <Object Name="pd"/>
+        <Object Name="pdcontrol"/>
+        <Object Name="pgmin"/>
+        <Object Name="pgmout"/>
+        <Object Name="phasor~"/>
+        <Object Name="pipe"/>
+        <Object Name="plot"/>
+        <Object Name="pointer"/>
+        <Object Name="poly"/>
+        <Object Name="polytouchin"/>
+        <Object Name="polytouchout"/>
+        <Object Name="pow"/>
+        <Object Name="powtodb"/>
+        <Object Name="powtodb~"/>
+        <Object Name="pow~"/>
+        <Object Name="print"/>
+        <Object Name="print~"/>
+        <Object Name="q8_rsqrt~"/>
+        <Object Name="q8_sqrt~"/>
+        <Object Name="qlist"/>
+        <Object Name="r"/>
+        <Object Name="radiobut"/>
+        <Object Name="radiobutton"/>
+        <Object Name="random"/>
+        <Object Name="rdb"/>
+        <Object Name="readsf~"/>
+        <Object Name="realtime"/>
+        <Object Name="receive"/>
+        <Object Name="receive~"/>
+        <Object Name="rfft~"/>
+        <Object Name="rifft~"/>
+        <Object Name="rmstodb"/>
+        <Object Name="rmstodb~"/>
+        <Object Name="route"/>
+        <Object Name="rpole~"/>
+        <Object Name="rsqrt~"/>
+        <Object Name="rzero_rev~"/>
+        <Object Name="rzero~"/>
+        <Object Name="r~"/>
+        <Object Name="s"/>
+        <Object Name="samphold~"/>
+        <Object Name="samplerate~"/>
+        <Object Name="savepanel"/>
+        <Object Name="savestate"/>
+        <Object Name="scalar"/>
+        <Object Name="sel"/>
+        <Object Name="select"/>
+        <Object Name="send"/>
+        <Object Name="send~"/>
+        <Object Name="set"/>
+        <Object Name="setsize"/>
+        <Object Name="sig~"/>
+        <Object Name="sin"/>
+        <Object Name="slop~"/>
+        <Object Name="snake_in~"/>
+        <Object Name="snake_out~"/>
+        <Object Name="snake~"/>
+        <Object Name="snapshot~"/>
+        <Object Name="soundfiler"/>
+        <Object Name="spigot"/>
+        <Object Name="sqrt"/>
+        <Object Name="sqrt~"/>
+        <Object Name="stripnote"/>
+        <Object Name="struct"/>
+        <Object Name="swap"/>
+        <Object Name="switch~"/>
+        <Object Name="sysexin"/>
+        <Object Name="s~"/>
+        <Object Name="t"/>
+        <Object Name="table"/>
+        <Object Name="tabosc4~"/>
+        <Object Name="tabplay~"/>
+        <Object Name="tabread"/>
+        <Object Name="tabread4"/>
+        <Object Name="tabread4~"/>
+        <Object Name="tabread~"/>
+        <Object Name="tabreceive~"/>
+        <Object Name="tabsend~"/>
+        <Object Name="tabwrite"/>
+        <Object Name="tabwrite~"/>
+        <Object Name="tan"/>
+        <Object Name="template"/>
+        <Object Name="text"/>
+        <Object Name="text define"/>
+        <Object Name="text delete"/>
+        <Object Name="text fromlist"/>
+        <Object Name="text get"/>
+        <Object Name="text insert"/>
+        <Object Name="text search"/>
+        <Object Name="text sequence"/>
+        <Object Name="text set"/>
+        <Object Name="text size"/>
+        <Object Name="text tolist"/>
+        <Object Name="textfile"/>
+        <Object Name="tgl"/>
+        <Object Name="threshold~"/>
+        <Object Name="throw~"/>
+        <Object Name="timer"/>
+        <Object Name="toggle"/>
+        <Object Name="touchin"/>
+        <Object Name="touchout"/>
+        <Object Name="trace"/>
+        <Object Name="trigger"/>
+        <Object Name="unpack"/>
+        <Object Name="until"/>
+        <Object Name="v"/>
+        <Object Name="value"/>
+        <Object Name="vcf~"/>
+        <Object Name="vdl"/>
+        <Object Name="vd~"/>
+        <Object Name="vline~"/>
+        <Object Name="vpointer"/>
+        <Object Name="vradio"/>
+        <Object Name="vsl"/>
+        <Object Name="vslider"/>
+        <Object Name="vsnapshot~"/>
+        <Object Name="vu"/>
+        <Object Name="wrap"/>
+        <Object Name="wrap~"/>
+        <Object Name="writesf~"/>
+        <Object Name="|"/>
+        <Object Name="||"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="comport">
+    <Package ID="Y29tcG9ydF8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjE1OjU4X3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2015-12-10 14:15:58" Description="comport-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/comport/0-0extended/comport-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
       <Objects/>
     </Package>
   </Packages>
@@ -1489,329 +1791,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="iemgui">
-    <Package ID="aWVtZ3VpXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MjI6NDBfem1vZWxuaWc="
-             Author="zmoelnig" Timestamp="2015-12-10 14:22:40" Description="iemgui-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/iemgui/0-0extended/iemgui-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="syslog">
-    <Package ID="c3lzbG9nXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MzM6NTFfem1vZWxuaWc="
-             Author="zmoelnig" Timestamp="2015-12-10 14:33:51" Description="syslog-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/syslog/0-0extended/syslog-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="pd">
-    <Package ID="cGRfMC41Ni4yXzIwMjYtMDItMDkgMTc6MzM6NTFfem1vZWxuaWc=" Author="zmoelnig"
-             Timestamp="2026-02-09 17:33:51" Description="pd/0.56.2 (dummy library for built-in objects)"
-             Version="0.56.2" URL="https://puredata.info/Members/zmoelnig/software/pd/0.56.2/pd[v0.56.2].dek">
-      <Objects>
-        <Object Name="!="/>
-        <Object Name="%"/>
-        <Object Name="&amp;"/>
-        <Object Name="&amp;&amp;"/>
-        <Object Name="*"/>
-        <Object Name="*~"/>
-        <Object Name="+"/>
-        <Object Name="+~"/>
-        <Object Name="-"/>
-        <Object Name="-~"/>
-        <Object Name="/"/>
-        <Object Name="/~"/>
-        <Object Name="&lt;"/>
-        <Object Name="&lt;&lt;"/>
-        <Object Name="&lt;="/>
-        <Object Name="=="/>
-        <Object Name="&gt;"/>
-        <Object Name="&gt;="/>
-        <Object Name="&gt;&gt;"/>
-        <Object Name="abs"/>
-        <Object Name="abs~"/>
-        <Object Name="adc~"/>
-        <Object Name="append"/>
-        <Object Name="array"/>
-        <Object Name="array get"/>
-        <Object Name="array max"/>
-        <Object Name="array min"/>
-        <Object Name="array quantile"/>
-        <Object Name="array random"/>
-        <Object Name="array set"/>
-        <Object Name="array size"/>
-        <Object Name="array sum"/>
-        <Object Name="atan"/>
-        <Object Name="atan2"/>
-        <Object Name="b"/>
-        <Object Name="bag"/>
-        <Object Name="bang~"/>
-        <Object Name="bendin"/>
-        <Object Name="bendout"/>
-        <Object Name="biquad~"/>
-        <Object Name="block~"/>
-        <Object Name="bng"/>
-        <Object Name="bp~"/>
-        <Object Name="catch~"/>
-        <Object Name="change"/>
-        <Object Name="clip"/>
-        <Object Name="clip~"/>
-        <Object Name="clone"/>
-        <Object Name="cnv"/>
-        <Object Name="cos"/>
-        <Object Name="cos~"/>
-        <Object Name="cpole~"/>
-        <Object Name="cputime"/>
-        <Object Name="ctlin"/>
-        <Object Name="ctlout"/>
-        <Object Name="czero_rev~"/>
-        <Object Name="czero~"/>
-        <Object Name="dac~"/>
-        <Object Name="dbtopow"/>
-        <Object Name="dbtopow~"/>
-        <Object Name="dbtorms"/>
-        <Object Name="dbtorms~"/>
-        <Object Name="declare"/>
-        <Object Name="del"/>
-        <Object Name="delay"/>
-        <Object Name="delread4~"/>
-        <Object Name="delread~"/>
-        <Object Name="delwrite~"/>
-        <Object Name="div"/>
-        <Object Name="drawcurve"/>
-        <Object Name="drawnumber"/>
-        <Object Name="drawpolygon"/>
-        <Object Name="drawsymbol"/>
-        <Object Name="drawtext"/>
-        <Object Name="element"/>
-        <Object Name="env~"/>
-        <Object Name="exp"/>
-        <Object Name="expr"/>
-        <Object Name="expr~"/>
-        <Object Name="exp~"/>
-        <Object Name="f"/>
-        <Object Name="fexpr~"/>
-        <Object Name="fft~"/>
-        <Object Name="file"/>
-        <Object Name="file copy"/>
-        <Object Name="file cwd"/>
-        <Object Name="file define"/>
-        <Object Name="file delete"/>
-        <Object Name="file glob"/>
-        <Object Name="file handle"/>
-        <Object Name="file isabsolute"/>
-        <Object Name="file isdirectory"/>
-        <Object Name="file isfile"/>
-        <Object Name="file join"/>
-        <Object Name="file mkdir"/>
-        <Object Name="file move"/>
-        <Object Name="file normalize"/>
-        <Object Name="file patchpath"/>
-        <Object Name="file size"/>
-        <Object Name="file split"/>
-        <Object Name="file splitext"/>
-        <Object Name="file splitname"/>
-        <Object Name="file stat"/>
-        <Object Name="file which"/>
-        <Object Name="filledcurve"/>
-        <Object Name="filledpolygon"/>
-        <Object Name="framp~"/>
-        <Object Name="fswap"/>
-        <Object Name="ftom"/>
-        <Object Name="ftom~"/>
-        <Object Name="fudiformat"/>
-        <Object Name="fudiparse"/>
-        <Object Name="get"/>
-        <Object Name="getsize"/>
-        <Object Name="hdl"/>
-        <Object Name="hip~"/>
-        <Object Name="hradio"/>
-        <Object Name="hsl"/>
-        <Object Name="hslider"/>
-        <Object Name="i"/>
-        <Object Name="ifft~"/>
-        <Object Name="inlet"/>
-        <Object Name="inlet~"/>
-        <Object Name="int"/>
-        <Object Name="key"/>
-        <Object Name="keyname"/>
-        <Object Name="keyup"/>
-        <Object Name="line"/>
-        <Object Name="line~"/>
-        <Object Name="list append"/>
-        <Object Name="list fromsymbol"/>
-        <Object Name="list length"/>
-        <Object Name="list prepend"/>
-        <Object Name="list split"/>
-        <Object Name="list store"/>
-        <Object Name="list tosymbol"/>
-        <Object Name="list trim"/>
-        <Object Name="loadbang"/>
-        <Object Name="log"/>
-        <Object Name="log~"/>
-        <Object Name="lop~"/>
-        <Object Name="makefilename"/>
-        <Object Name="makenote"/>
-        <Object Name="max"/>
-        <Object Name="max~"/>
-        <Object Name="metro"/>
-        <Object Name="midiin"/>
-        <Object Name="midiout"/>
-        <Object Name="midirealtimein"/>
-        <Object Name="min"/>
-        <Object Name="min~"/>
-        <Object Name="mod"/>
-        <Object Name="moses"/>
-        <Object Name="mtof"/>
-        <Object Name="mtof~"/>
-        <Object Name="my_canvas"/>
-        <Object Name="my_numbox"/>
-        <Object Name="namecanvas"/>
-        <Object Name="nbx"/>
-        <Object Name="netreceive"/>
-        <Object Name="netsend"/>
-        <Object Name="noise~"/>
-        <Object Name="notein"/>
-        <Object Name="noteout"/>
-        <Object Name="openpanel"/>
-        <Object Name="oscformat"/>
-        <Object Name="oscparse"/>
-        <Object Name="osc~"/>
-        <Object Name="outlet"/>
-        <Object Name="outlet~"/>
-        <Object Name="pack"/>
-        <Object Name="page"/>
-        <Object Name="pd"/>
-        <Object Name="pdcontrol"/>
-        <Object Name="pgmin"/>
-        <Object Name="pgmout"/>
-        <Object Name="phasor~"/>
-        <Object Name="pipe"/>
-        <Object Name="plot"/>
-        <Object Name="pointer"/>
-        <Object Name="poly"/>
-        <Object Name="polytouchin"/>
-        <Object Name="polytouchout"/>
-        <Object Name="pow"/>
-        <Object Name="powtodb"/>
-        <Object Name="powtodb~"/>
-        <Object Name="pow~"/>
-        <Object Name="print"/>
-        <Object Name="print~"/>
-        <Object Name="q8_rsqrt~"/>
-        <Object Name="q8_sqrt~"/>
-        <Object Name="qlist"/>
-        <Object Name="r"/>
-        <Object Name="radiobut"/>
-        <Object Name="radiobutton"/>
-        <Object Name="random"/>
-        <Object Name="rdb"/>
-        <Object Name="readsf~"/>
-        <Object Name="realtime"/>
-        <Object Name="receive"/>
-        <Object Name="receive~"/>
-        <Object Name="rfft~"/>
-        <Object Name="rifft~"/>
-        <Object Name="rmstodb"/>
-        <Object Name="rmstodb~"/>
-        <Object Name="route"/>
-        <Object Name="rpole~"/>
-        <Object Name="rsqrt~"/>
-        <Object Name="rzero_rev~"/>
-        <Object Name="rzero~"/>
-        <Object Name="r~"/>
-        <Object Name="s"/>
-        <Object Name="samphold~"/>
-        <Object Name="samplerate~"/>
-        <Object Name="savepanel"/>
-        <Object Name="savestate"/>
-        <Object Name="scalar"/>
-        <Object Name="sel"/>
-        <Object Name="select"/>
-        <Object Name="send"/>
-        <Object Name="send~"/>
-        <Object Name="set"/>
-        <Object Name="setsize"/>
-        <Object Name="sig~"/>
-        <Object Name="sin"/>
-        <Object Name="slop~"/>
-        <Object Name="snake_in~"/>
-        <Object Name="snake_out~"/>
-        <Object Name="snake~"/>
-        <Object Name="snapshot~"/>
-        <Object Name="soundfiler"/>
-        <Object Name="spigot"/>
-        <Object Name="sqrt"/>
-        <Object Name="sqrt~"/>
-        <Object Name="stripnote"/>
-        <Object Name="struct"/>
-        <Object Name="swap"/>
-        <Object Name="switch~"/>
-        <Object Name="sysexin"/>
-        <Object Name="s~"/>
-        <Object Name="t"/>
-        <Object Name="table"/>
-        <Object Name="tabosc4~"/>
-        <Object Name="tabplay~"/>
-        <Object Name="tabread"/>
-        <Object Name="tabread4"/>
-        <Object Name="tabread4~"/>
-        <Object Name="tabread~"/>
-        <Object Name="tabreceive~"/>
-        <Object Name="tabsend~"/>
-        <Object Name="tabwrite"/>
-        <Object Name="tabwrite~"/>
-        <Object Name="tan"/>
-        <Object Name="template"/>
-        <Object Name="text"/>
-        <Object Name="text define"/>
-        <Object Name="text delete"/>
-        <Object Name="text fromlist"/>
-        <Object Name="text get"/>
-        <Object Name="text insert"/>
-        <Object Name="text search"/>
-        <Object Name="text sequence"/>
-        <Object Name="text set"/>
-        <Object Name="text size"/>
-        <Object Name="text tolist"/>
-        <Object Name="textfile"/>
-        <Object Name="tgl"/>
-        <Object Name="threshold~"/>
-        <Object Name="throw~"/>
-        <Object Name="timer"/>
-        <Object Name="toggle"/>
-        <Object Name="touchin"/>
-        <Object Name="touchout"/>
-        <Object Name="trace"/>
-        <Object Name="trigger"/>
-        <Object Name="unpack"/>
-        <Object Name="until"/>
-        <Object Name="v"/>
-        <Object Name="value"/>
-        <Object Name="vcf~"/>
-        <Object Name="vdl"/>
-        <Object Name="vd~"/>
-        <Object Name="vline~"/>
-        <Object Name="vpointer"/>
-        <Object Name="vradio"/>
-        <Object Name="vsl"/>
-        <Object Name="vslider"/>
-        <Object Name="vsnapshot~"/>
-        <Object Name="vu"/>
-        <Object Name="wrap"/>
-        <Object Name="wrap~"/>
-        <Object Name="writesf~"/>
-        <Object Name="|"/>
-        <Object Name="||"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="comport">
-    <Package ID="Y29tcG9ydF8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjE1OjU4X3ptb2Vsbmln"
-             Author="zmoelnig" Timestamp="2015-12-10 14:15:58" Description="comport-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/comport/0-0extended/comport-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="Fraise">
     <Package ID="RnJhaXNlXzAuNC4wXzIwMjUtMDUtMjMgMTc6MjA6MjRfYW50MXI=" Author="ant1r"
              Timestamp="2025-05-23 17:20:24" Description="Fraise[v0.4.0].dek"
@@ -1858,6 +1837,27 @@
     <Package ID="ZWFycGx1Z35fMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxNzoyNF96bW9lbG5pZw=="
              Author="zmoelnig" Timestamp="2015-12-10 14:17:24" Description="earplug~-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/earplug~/0-0extended/earplug~-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="syslog">
+    <Package ID="c3lzbG9nXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MzM6NTFfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:33:51" Description="syslog-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/syslog/0-0extended/syslog-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="iemgui">
+    <Package ID="aWVtZ3VpXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MjI6NDBfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:22:40" Description="iemgui-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/iemgui/0-0extended/iemgui-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="iem_spec2">
+    <Package ID="aWVtX3NwZWMyXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MjQ6MjVfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:24:25" Description="iem_spec2-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/iem_spec2/0-0extended/iem_spec2-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
       <Objects/>
     </Package>
   </Packages>
@@ -1991,6 +1991,23 @@
     <Package ID="YmFzc2VtdX5fMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxNDoyOV96bW9lbG5pZw=="
              Author="zmoelnig" Timestamp="2015-12-10 14:14:29" Description="bassemu~-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/bassemu~/0-0extended/bassemu~-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="XXX-deken-test">
+    <Package ID="WFhYLWRla2VuLXRlc3RfMC4xMC4xMC0yLWc2OTExNTk5X29zeF8yMDI2LTAyLTI2IDA5OjAyOjU4X3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2026-02-26 09:02:58" Description="XXX-deken-test[v0.10.10-2-g6911599_osx](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
+             Version="0.10.10-2-g6911599_osx" URL="https://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/18156/0.10.10-2-g6911599_osx/XXX-deken-test[v0.10.10-2-g6911599_osx](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
+      <Objects/>
+    </Package>
+    <Package ID="WFhYLWRla2VuLXRlc3RfMC4xMC4xMC0yLWc2OTExNTk5X3dpbmRvd3NfMjAyNi0wMi0yNiAwOTowMTowNF96bW9lbG5pZ2JvdA=="
+             Author="zmoelnigbot" Timestamp="2026-02-26 09:01:04" Description="XXX-deken-test[v0.10.10-2-g6911599_windows](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
+             Version="0.10.10-2-g6911599_windows" URL="https://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/18156/0.10.10-2-g6911599_windows/XXX-deken-test[v0.10.10-2-g6911599_windows](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
+      <Objects/>
+    </Package>
+    <Package ID="WFhYLWRla2VuLXRlc3RfMC4xMC4xMC0yLWc2OTExNTk5YV9kb2NrZXJfMjAyNi0wMi0yNiAwOTowMDowMF96bW9lbG5pZ2JvdA=="
+             Author="zmoelnigbot" Timestamp="2026-02-26 09:00:00" Description="XXX-deken-test[v0.10.10-2-g6911599a_docker](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
+             Version="0.10.10-2-g6911599a_docker" URL="https://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/18156/0.10.10-2-g6911599a_docker/XXX-deken-test[v0.10.10-2-g6911599a_docker](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
       <Objects/>
     </Package>
   </Packages>
@@ -3315,6 +3332,13 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="nsend">
+    <Package ID="bnNlbmRfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mzk6NTRfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-08-07 14:39:54" Description="nsend-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/nsend/nsend-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="soundtouch~">
     <Package ID="c291bmR0b3VjaH5fMC45XzIwMjEtMDEtMjggMDI6MTI6NTJfcG9ycmVz"
              Author="porres" Timestamp="2021-01-28 02:12:52" Description="soundtouch~[v0.9](Darwin-i386-32)(Darwin-ppc-32).dek"
@@ -3329,13 +3353,6 @@
       <Objects>
         <Object Name="soundtouch~"/>
       </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="nsend">
-    <Package ID="bnNlbmRfMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6Mzk6NTRfY2hyMTVt"
-             Author="chr15m" Timestamp="2015-08-07 14:39:54" Description="nsend-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/nsend/nsend-v0.0.extended--externals.zip">
-      <Objects/>
     </Package>
   </Packages>
   <Packages Name="smlib">

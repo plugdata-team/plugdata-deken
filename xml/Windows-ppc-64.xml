@@ -901,82 +901,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="acre-amb">
-    <Package ID="YWNyZS1hbWJfMC45XzIwMjQtMDgtMjIgMTM6MzY6MDRfcml0c2No" Author="ritsch"
-             Timestamp="2024-08-22 13:36:04" Description="acre-amb[v0.9].dek"
-             Version="0.9" URL="https://puredata.info/Members/ritsch/software/acre-amb/0.9/acre-amb[v0.9].dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="acre">
-    <Package ID="YWNyZV8yLjAtcmM1XzIwMjQtMDgtMjIgMTM6Mjk6NTBfcml0c2No" Author="ritsch"
-             Timestamp="2024-08-22 13:29:50" Description="acre[v2.0-rc5].dek"
-             Version="2.0-rc5" URL="https://puredata.info/Members/ritsch/software/acre/2.0-rc5/acre[v2.0-rc5].dek">
-      <Objects/>
-    </Package>
-    <Package ID="YWNyZV8xLjAzXzIwMjAtMTItMDMgMDk6MzE6MzJfcml0c2No" Author="ritsch"
-             Timestamp="2020-12-03 09:31:32" Description="acre[v1.03].dek"
-             Version="1.03" URL="https://puredata.info/Members/ritsch/software/acre/1.0/acre[v1.03].dek">
-      <Objects/>
-    </Package>
-    <Package ID="YWNyZV8xLjAxXzIwMTYtMTAtMjEgMjM6Mzk6MzJfcml0c2No" Author="ritsch"
-             Timestamp="2016-10-21 23:39:32" Description="acre-v1.01--externals.zip"
-             Version="1.01" URL="https://puredata.info/Members/ritsch/software/acre/1.0/acre-v1.01--externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="YWNyZV8xLjBfMjAxNi0wNy0xMSAwMDo0OToxNV9yaXRzY2g=" Author="ritsch"
-             Timestamp="2016-07-11 00:49:15" Description="acre-v1.0--externals.zip"
-             Version="1.0" URL="https://puredata.info/Members/ritsch/software/acre/1.0/acre-v1.0--externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="YWNyZV8wLjY5XzIwMTYtMDUtMDggMjI6NDU6NThfcml0c2No" Author="ritsch"
-             Timestamp="2016-05-08 22:45:58" Description="acre-v0.69--externals.zip"
-             Version="0.69" URL="https://puredata.info/Members/ritsch/software/acre/0.69/acre-v0.69--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="AutoPreset">
-    <Package ID="QXV0b1ByZXNldF8wLjEwXzIwMTYtMTEtMDcgMjM6MDc6MjRfYW50MXI="
-             Author="ant1r" Timestamp="2016-11-07 23:07:24" Description="AutoPreset-v0.10--externals.zip"
-             Version="0.10" URL="https://puredata.info/Members/ant1r/software/AutoPreset/0.10/AutoPreset-v0.10--externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="QXV0b1ByZXNldF8wLjlfMjAxNS0xMi0xOCAwMDowNjoxOF9hbnQxcg=="
-             Author="ant1r" Timestamp="2015-12-18 00:06:18" Description="AutoPreset-v0.9--externals.zip"
-             Version="0.9" URL="https://puredata.info/Members/ant1r/software/AutoPreset/0.9/AutoPreset-v0.9--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="bf-pd">
-    <Package ID="YmYtcGRfMS4wXzIwMjEtMDgtMDMgMTI6MTQ6MTZfZmJlcnRoYXV0" Author="fberthaut"
-             Timestamp="2021-08-03 12:14:16" Description="bf-pd[v1.0].dek"
-             Version="1.0" URL="https://puredata.info/Members/fberthaut/software/bf-pd/1.0/bf-pd[v1.0].dek">
-      <Objects>
-        <Object Name="bf-clock"/>
-        <Object Name="bf-instrument"/>
-        <Object Name="bf-output"/>
-        <Object Name="bf-param"/>
-        <Object Name="boeuf"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="piloslib">
-    <Package ID="cGlsb3NsaWJfMS4wLjRfMjAyMy0wNi0wNCAxNjozOToyNV9ha3VudWxs"
-             Author="akunull" Timestamp="2023-06-04 16:39:25" Description="piloslib[v1.0.4].dek"
-             Version="1.0.4" URL="https://puredata.info/Members/akunull/software/piloslib/1.0.4/piloslib[v1.0.4].dek">
-      <Objects/>
-    </Package>
-    <Package ID="cGlsb3NsaWJfMS4wLjNfMjAyMy0wNi0wMSAwNDoyMDo0M19ha3VudWxs"
-             Author="akunull" Timestamp="2023-06-01 04:20:43" Description="piloslib[v1.0.3].dek"
-             Version="1.0.3" URL="https://puredata.info/Members/akunull/software/piloslib/1.0.3/piloslib[v1.0.3].dek">
-      <Objects/>
-    </Package>
-    <Package ID="cGlsb3NsaWJfMS4wLjJfMjAyMi0wOC0yMyAyMDo0MzoxNl9ha3VudWxs"
-             Author="akunull" Timestamp="2022-08-23 20:43:16" Description="piloslib[v1.0.2].dek"
-             Version="1.0.2" URL="https://puredata.info/Members/akunull/software/piloslib/1.0.2/piloslib[v1.0.2].dek">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="pd">
     <Package ID="cGRfMC41Ni4yXzIwMjYtMDItMDkgMTc6MzM6NTFfem1vZWxuaWc=" Author="zmoelnig"
              Timestamp="2026-02-09 17:33:51" Description="pd/0.56.2 (dummy library for built-in objects)"
@@ -1277,6 +1201,82 @@
         <Object Name="|"/>
         <Object Name="||"/>
       </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="acre-amb">
+    <Package ID="YWNyZS1hbWJfMC45XzIwMjQtMDgtMjIgMTM6MzY6MDRfcml0c2No" Author="ritsch"
+             Timestamp="2024-08-22 13:36:04" Description="acre-amb[v0.9].dek"
+             Version="0.9" URL="https://puredata.info/Members/ritsch/software/acre-amb/0.9/acre-amb[v0.9].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="acre">
+    <Package ID="YWNyZV8yLjAtcmM1XzIwMjQtMDgtMjIgMTM6Mjk6NTBfcml0c2No" Author="ritsch"
+             Timestamp="2024-08-22 13:29:50" Description="acre[v2.0-rc5].dek"
+             Version="2.0-rc5" URL="https://puredata.info/Members/ritsch/software/acre/2.0-rc5/acre[v2.0-rc5].dek">
+      <Objects/>
+    </Package>
+    <Package ID="YWNyZV8xLjAzXzIwMjAtMTItMDMgMDk6MzE6MzJfcml0c2No" Author="ritsch"
+             Timestamp="2020-12-03 09:31:32" Description="acre[v1.03].dek"
+             Version="1.03" URL="https://puredata.info/Members/ritsch/software/acre/1.0/acre[v1.03].dek">
+      <Objects/>
+    </Package>
+    <Package ID="YWNyZV8xLjAxXzIwMTYtMTAtMjEgMjM6Mzk6MzJfcml0c2No" Author="ritsch"
+             Timestamp="2016-10-21 23:39:32" Description="acre-v1.01--externals.zip"
+             Version="1.01" URL="https://puredata.info/Members/ritsch/software/acre/1.0/acre-v1.01--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="YWNyZV8xLjBfMjAxNi0wNy0xMSAwMDo0OToxNV9yaXRzY2g=" Author="ritsch"
+             Timestamp="2016-07-11 00:49:15" Description="acre-v1.0--externals.zip"
+             Version="1.0" URL="https://puredata.info/Members/ritsch/software/acre/1.0/acre-v1.0--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="YWNyZV8wLjY5XzIwMTYtMDUtMDggMjI6NDU6NThfcml0c2No" Author="ritsch"
+             Timestamp="2016-05-08 22:45:58" Description="acre-v0.69--externals.zip"
+             Version="0.69" URL="https://puredata.info/Members/ritsch/software/acre/0.69/acre-v0.69--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="AutoPreset">
+    <Package ID="QXV0b1ByZXNldF8wLjEwXzIwMTYtMTEtMDcgMjM6MDc6MjRfYW50MXI="
+             Author="ant1r" Timestamp="2016-11-07 23:07:24" Description="AutoPreset-v0.10--externals.zip"
+             Version="0.10" URL="https://puredata.info/Members/ant1r/software/AutoPreset/0.10/AutoPreset-v0.10--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="QXV0b1ByZXNldF8wLjlfMjAxNS0xMi0xOCAwMDowNjoxOF9hbnQxcg=="
+             Author="ant1r" Timestamp="2015-12-18 00:06:18" Description="AutoPreset-v0.9--externals.zip"
+             Version="0.9" URL="https://puredata.info/Members/ant1r/software/AutoPreset/0.9/AutoPreset-v0.9--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="bf-pd">
+    <Package ID="YmYtcGRfMS4wXzIwMjEtMDgtMDMgMTI6MTQ6MTZfZmJlcnRoYXV0" Author="fberthaut"
+             Timestamp="2021-08-03 12:14:16" Description="bf-pd[v1.0].dek"
+             Version="1.0" URL="https://puredata.info/Members/fberthaut/software/bf-pd/1.0/bf-pd[v1.0].dek">
+      <Objects>
+        <Object Name="bf-clock"/>
+        <Object Name="bf-instrument"/>
+        <Object Name="bf-output"/>
+        <Object Name="bf-param"/>
+        <Object Name="boeuf"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="piloslib">
+    <Package ID="cGlsb3NsaWJfMS4wLjRfMjAyMy0wNi0wNCAxNjozOToyNV9ha3VudWxs"
+             Author="akunull" Timestamp="2023-06-04 16:39:25" Description="piloslib[v1.0.4].dek"
+             Version="1.0.4" URL="https://puredata.info/Members/akunull/software/piloslib/1.0.4/piloslib[v1.0.4].dek">
+      <Objects/>
+    </Package>
+    <Package ID="cGlsb3NsaWJfMS4wLjNfMjAyMy0wNi0wMSAwNDoyMDo0M19ha3VudWxs"
+             Author="akunull" Timestamp="2023-06-01 04:20:43" Description="piloslib[v1.0.3].dek"
+             Version="1.0.3" URL="https://puredata.info/Members/akunull/software/piloslib/1.0.3/piloslib[v1.0.3].dek">
+      <Objects/>
+    </Package>
+    <Package ID="cGlsb3NsaWJfMS4wLjJfMjAyMi0wOC0yMyAyMDo0MzoxNl9ha3VudWxs"
+             Author="akunull" Timestamp="2022-08-23 20:43:16" Description="piloslib[v1.0.2].dek"
+             Version="1.0.2" URL="https://puredata.info/Members/akunull/software/piloslib/1.0.2/piloslib[v1.0.2].dek">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="Fraise">
