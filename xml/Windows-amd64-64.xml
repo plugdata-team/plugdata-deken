@@ -341,26 +341,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="xsample">
-    <Package ID="eHNhbXBsZV8wLjMuM18yMDI1LTExLTE5IDE2OjI0OjQ4X3Rob21hcw=="
-             Author="thomas" Timestamp="2025-11-19 16:24:48" Description="xsample[v0.3.3](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek"
-             Version="0.3.3" URL="https://puredata.info/Members/thomas/software/xsample/0.3.3/xsample[v0.3.3](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek">
-      <Objects>
-        <Object Name="xgroove~"/>
-        <Object Name="xplay~"/>
-        <Object Name="xrecord~"/>
-      </Objects>
-    </Package>
-    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIyLTA3LTEwIDAxOjE0OjQ2X3Rob21hcw=="
-             Author="thomas" Timestamp="2022-07-10 01:14:46" Description="xsample[v0.3.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek"
-             Version="0.3.2" URL="https://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek">
-      <Objects>
-        <Object Name="xgroove~"/>
-        <Object Name="xplay~"/>
-        <Object Name="xrecord~"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="midifile">
     <Package ID="bWlkaWZpbGVfMC40LjNfMjAyNS0wMy0wNCAyMzoyODowN19pZW1ib3Q="
              Author="iembot" Timestamp="2025-03-04 23:28:07" Description="midifile[v0.4.3](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
@@ -3284,6 +3264,26 @@
              Author="jyg" Timestamp="2023-05-12 22:37:54" Description="automatonism[v0.4-pre1].dek"
              Version="0.4-pre1" URL="https://puredata.info/Members/jyg/software/automatonism[v0.4-pre1].dek">
       <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="xsample">
+    <Package ID="eHNhbXBsZV8wLjMuM18yMDI1LTExLTE5IDE2OjI0OjQ4X3Rob21hcw=="
+             Author="thomas" Timestamp="2025-11-19 16:24:48" Description="xsample[v0.3.3](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek"
+             Version="0.3.3" URL="https://puredata.info/Members/thomas/software/xsample/0.3.3/xsample[v0.3.3](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek">
+      <Objects>
+        <Object Name="xgroove~"/>
+        <Object Name="xplay~"/>
+        <Object Name="xrecord~"/>
+      </Objects>
+    </Package>
+    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIyLTA3LTEwIDAxOjE0OjQ2X3Rob21hcw=="
+             Author="thomas" Timestamp="2022-07-10 01:14:46" Description="xsample[v0.3.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek"
+             Version="0.3.2" URL="https://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Darwin-amd64-64)(Darwin-arm64-64)(Linux-amd64-64)(Linux-arm64-64)(Linux-armv7-64)(Windows-amd64-64).dek">
+      <Objects>
+        <Object Name="xgroove~"/>
+        <Object Name="xplay~"/>
+        <Object Name="xrecord~"/>
+      </Objects>
     </Package>
   </Packages>
   <Packages Name="iempluginOSC">
@@ -10490,6 +10490,15 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="ws">
+    <Package ID="d3NfMC4xXzIwMTgtMDMtMTkgMDQ6NTI6MTJfY2hyMTVt" Author="chr15m"
+             Timestamp="2018-03-19 04:52:12" Description="ws[v0.1].dek" Version="0.1"
+             URL="https://puredata.info/Members/chr15m/software/ws/0.1/ws[v0.1].dek">
+      <Objects>
+        <Object Name="websocket-server"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="pde">
     <Package ID="cGRlXzEuMF8yMDE4LTAzLTE5IDE0OjExOjE5X3JpdHNjaA==" Author="ritsch"
              Timestamp="2018-03-19 14:11:19" Description="pde-v1.0--externals.zip"
@@ -10599,15 +10608,6 @@
              Author="chr15m" Timestamp="2015-08-07 14:39:54" Description="nsend-v0.0.extended--externals.zip"
              Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/nsend/nsend-v0.0.extended--externals.zip">
       <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="ws">
-    <Package ID="d3NfMC4xXzIwMTgtMDMtMTkgMDQ6NTI6MTJfY2hyMTVt" Author="chr15m"
-             Timestamp="2018-03-19 04:52:12" Description="ws[v0.1].dek" Version="0.1"
-             URL="https://puredata.info/Members/chr15m/software/ws/0.1/ws[v0.1].dek">
-      <Objects>
-        <Object Name="websocket-server"/>
-      </Objects>
     </Package>
   </Packages>
   <Packages Name="puremapping">

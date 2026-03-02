@@ -3213,6 +3213,15 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="ws">
+    <Package ID="d3NfMC4xXzIwMTgtMDMtMTkgMDQ6NTI6MTJfY2hyMTVt" Author="chr15m"
+             Timestamp="2018-03-19 04:52:12" Description="ws[v0.1].dek" Version="0.1"
+             URL="https://puredata.info/Members/chr15m/software/ws/0.1/ws[v0.1].dek">
+      <Objects>
+        <Object Name="websocket-server"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="pdcontainer">
     <Package ID="cGRjb250YWluZXJfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoyOTozM196bW9lbG5pZw=="
              Author="zmoelnig" Timestamp="2015-12-10 14:29:33" Description="pdcontainer-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
@@ -3393,22 +3402,6 @@
     <Package ID="bGliZGlyXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MjU6Mzdfem1vZWxuaWc="
              Author="zmoelnig" Timestamp="2015-12-10 14:25:37" Description="libdir-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/libdir/0-0extended/libdir-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="ws">
-    <Package ID="d3NfMC4xXzIwMTgtMDMtMTkgMDQ6NTI6MTJfY2hyMTVt" Author="chr15m"
-             Timestamp="2018-03-19 04:52:12" Description="ws[v0.1].dek" Version="0.1"
-             URL="https://puredata.info/Members/chr15m/software/ws/0.1/ws[v0.1].dek">
-      <Objects>
-        <Object Name="websocket-server"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="flatgui">
-    <Package ID="ZmxhdGd1aV8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjE5OjAxX3ptb2Vsbmln"
-             Author="zmoelnig" Timestamp="2015-12-10 14:19:01" Description="flatgui-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/flatgui/0-0extended/flatgui-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
       <Objects/>
     </Package>
   </Packages>
@@ -5186,6 +5179,13 @@
       <Objects>
         <Object Name="wavview"/>
       </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="flatgui">
+    <Package ID="ZmxhdGd1aV8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjE5OjAxX3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2015-12-10 14:19:01" Description="flatgui-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/flatgui/0-0extended/flatgui-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
     </Package>
   </Packages>
 </Darwin-ppc-32>

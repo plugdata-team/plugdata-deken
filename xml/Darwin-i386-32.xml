@@ -139,17 +139,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="xsample">
-    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIwLTAzLTA0IDAxOjAwOjE3X3Rob21hcw=="
-             Author="thomas" Timestamp="2020-03-04 01:00:17" Description="xsample[v0.3.2](Darwin-amd64-32)(Darwin-i386-32).dek"
-             Version="0.3.2" URL="https://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Darwin-amd64-32)(Darwin-i386-32).dek">
-      <Objects>
-        <Object Name="xgroove~"/>
-        <Object Name="xplay~"/>
-        <Object Name="xrecord~"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="mediasettings">
     <Package ID="bWVkaWFzZXR0aW5nc18wLjEuMl8yMDIyLTA3LTA3IDIyOjA5OjE3X2llbWJvdA=="
              Author="iembot" Timestamp="2022-07-07 22:09:17" Description="mediasettings[v0.1.2](Linux/macOS/Windows) - MIMIMUM VERSION REQUIRED for Pd&gt;=0.52 (and requires Pd&gt;=0.52)"
@@ -3177,6 +3166,17 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="xsample">
+    <Package ID="eHNhbXBsZV8wLjMuMl8yMDIwLTAzLTA0IDAxOjAwOjE3X3Rob21hcw=="
+             Author="thomas" Timestamp="2020-03-04 01:00:17" Description="xsample[v0.3.2](Darwin-amd64-32)(Darwin-i386-32).dek"
+             Version="0.3.2" URL="https://puredata.info/Members/thomas/software/xsample/0.3.2/xsample[v0.3.2](Darwin-amd64-32)(Darwin-i386-32).dek">
+      <Objects>
+        <Object Name="xgroove~"/>
+        <Object Name="xplay~"/>
+        <Object Name="xrecord~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="iempluginOSC">
     <Package ID="aWVtcGx1Z2luT1NDXzAuMV8yMDE5LTA0LTEyIDEyOjQzOjU1X3NwYWNlY2hpbGQx"
              Author="spacechild1" Timestamp="2019-04-12 12:43:55" Description="iempluginOSC[v0.1].dek"
@@ -5528,6 +5528,15 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="ws">
+    <Package ID="d3NfMC4xXzIwMTgtMDMtMTkgMDQ6NTI6MTJfY2hyMTVt" Author="chr15m"
+             Timestamp="2018-03-19 04:52:12" Description="ws[v0.1].dek" Version="0.1"
+             URL="https://puredata.info/Members/chr15m/software/ws/0.1/ws[v0.1].dek">
+      <Objects>
+        <Object Name="websocket-server"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="pdcontainer">
     <Package ID="cGRjb250YWluZXJfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoyOTozM196bW9lbG5pZw=="
              Author="zmoelnig" Timestamp="2015-12-10 14:29:33" Description="pdcontainer-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
@@ -6262,31 +6271,6 @@
              Author="lucarda" Timestamp="2019-05-30 21:19:04" Description="pulqui[v0.1.0](Darwin-amd64-32)(Darwin-i386-32).dek"
              Version="0.1.0" URL="https://puredata.info/Members/lucarda/software/pulqui[v0.1.0](Darwin-amd64-32)(Darwin-i386-32).dek">
       <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="ws">
-    <Package ID="d3NfMC4xXzIwMTgtMDMtMTkgMDQ6NTI6MTJfY2hyMTVt" Author="chr15m"
-             Timestamp="2018-03-19 04:52:12" Description="ws[v0.1].dek" Version="0.1"
-             URL="https://puredata.info/Members/chr15m/software/ws/0.1/ws[v0.1].dek">
-      <Objects>
-        <Object Name="websocket-server"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="flatgui">
-    <Package ID="ZmxhdGd1aV8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjE5OjAxX3ptb2Vsbmln"
-             Author="zmoelnig" Timestamp="2015-12-10 14:19:01" Description="flatgui-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/flatgui/0-0extended/flatgui-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="websocketserver">
-    <Package ID="d2Vic29ja2V0c2VydmVyXzAuMC4yXzIwMjEtMTEtMTYgMTA6MDc6NDVfbHVjYXJkYQ=="
-             Author="lucarda" Timestamp="2021-11-16 10:07:45" Description="websocketserver[v0.0.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="0.0.2" URL="https://puredata.info/Members/lucarda/software/websocketserver/0.0.2/websocketserver[v0.0.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects>
-        <Object Name="websocketserver"/>
-      </Objects>
     </Package>
   </Packages>
   <Packages Name="puremapping">
@@ -10348,6 +10332,22 @@
              Version="0.1" URL="https://puredata.info/Members/ant1r/software/wavview/0.1/wavview[v0.1].dek">
       <Objects>
         <Object Name="wavview"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="flatgui">
+    <Package ID="ZmxhdGd1aV8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjE5OjAxX3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2015-12-10 14:19:01" Description="flatgui-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/flatgui/0-0extended/flatgui-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="websocketserver">
+    <Package ID="d2Vic29ja2V0c2VydmVyXzAuMC4yXzIwMjEtMTEtMTYgMTA6MDc6NDVfbHVjYXJkYQ=="
+             Author="lucarda" Timestamp="2021-11-16 10:07:45" Description="websocketserver[v0.0.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.0.2" URL="https://puredata.info/Members/lucarda/software/websocketserver/0.0.2/websocketserver[v0.0.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="websocketserver"/>
       </Objects>
     </Package>
   </Packages>
