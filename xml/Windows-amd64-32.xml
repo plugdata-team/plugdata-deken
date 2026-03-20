@@ -957,6 +957,128 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="deken-plugin">
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuMTBfMjAyNi0wMi0xMCAxNToxOTo1N196bW9lbG5pZ2JvdA=="
+             Author="zmoelnigbot" Timestamp="2026-02-10 15:19:57" Description="deken-plugin[v0.10.10].dek"
+             Version="0.10.10" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.10/deken-plugin[v0.10.10].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuOF8yMDI2LTAxLTI3IDE3OjE2OjE4X3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2026-01-27 17:16:18" Description="deken-plugin[v0.10.8].dek"
+             Version="0.10.8" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.8/deken-plugin[v0.10.8].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuNl8yMDI1LTA1LTE5IDEyOjI2OjI0X3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2025-05-19 12:26:24" Description="deken-plugin[v0.10.6].dek"
+             Version="0.10.6" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.6/deken-plugin[v0.10.6].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuMl8yMDI0LTEyLTA2IDIyOjQ4OjAzX3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2024-12-06 22:48:03" Description="deken-plugin[v0.10.2].dek"
+             Version="0.10.2" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.2/deken-plugin[v0.10.2].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuMF8yMDI0LTEyLTAyIDE0OjQ3OjUwX3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2024-12-02 14:47:50" Description="deken-plugin[v0.10.0].dek"
+             Version="0.10.0" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.0/deken-plugin[v0.10.0].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4xOF8yMDI0LTAzLTE0IDE0OjM4OjUzX3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2024-03-14 14:38:53" Description="deken-plugin[v0.9.18].dek"
+             Version="0.9.18" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.18/deken-plugin[v0.9.18].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4xNl8yMDIzLTExLTI3IDEzOjIzOjU1X3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2023-11-27 13:23:55" Description="deken-plugin[v0.9.16].dek"
+             Version="0.9.16" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.16/deken-plugin[v0.9.16].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4xNF8yMDIzLTA5LTI1IDEyOjUwOjU3X3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2023-09-25 12:50:57" Description="deken-plugin[v0.9.14].dek"
+             Version="0.9.14" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.14/deken-plugin[v0.9.14].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4xMl8yMDIzLTA5LTI1IDEwOjE1OjU0X3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2023-09-25 10:15:54" Description="deken-plugin[v0.9.12].dek"
+             Version="0.9.12" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.12/deken-plugin[v0.9.12].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4xMF8yMDIzLTA3LTI3IDE0OjIzOjQ0X3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2023-07-27 14:23:44" Description="deken-plugin[v0.9.10].dek"
+             Version="0.9.10" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.10/deken-plugin[v0.9.10].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS44XzIwMjMtMDctMDcgMDg6MzI6MjJfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2023-07-07 08:32:22" Description="deken-plugin[v0.9.8].dek"
+             Version="0.9.8" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.8/deken-plugin[v0.9.8].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS42XzIwMjMtMDItMDYgMTM6MjU6MDFfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2023-02-06 13:25:01" Description="deken-plugin[v0.9.6].dek"
+             Version="0.9.6" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.6/deken-plugin[v0.9.6].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS40XzIwMjItMDktMDIgMjM6MTA6NDBfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2022-09-02 23:10:40" Description="deken-plugin[v0.9.4].dek"
+             Version="0.9.4" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.4/deken-plugin[v0.9.4].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4yXzIwMjItMDYtMDEgMTE6NTQ6MjFfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2022-06-01 11:54:21" Description="deken-plugin[v0.9.2].dek"
+             Version="0.9.2" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.2/deken-plugin[v0.9.2].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOV8yMDIyLTA1LTIxIDE2OjE4OjMzX3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2022-05-21 16:18:33" Description="deken-plugin[v0.9].dek"
+             Version="0.9" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9/deken-plugin[v0.9].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOC4wXzIwMjEtMDYtMTYgMjI6MDE6MzZfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2021-06-16 22:01:36" Description="deken-plugin[v0.8.0].dek"
+             Version="0.8.0" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.8.0/deken-plugin[v0.8.0].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuNy44XzIwMjEtMDMtMjIgMTU6MjA6MjVfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2021-03-22 15:20:25" Description="deken-plugin[v0.7.8].dek"
+             Version="0.7.8" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.7.8/deken-plugin[v0.7.8].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuNy42XzIwMjEtMDMtMTAgMTI6MTQ6MDJfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2021-03-10 12:14:02" Description="deken-plugin[v0.7.6].dek"
+             Version="0.7.6" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.7.6/deken-plugin[v0.7.6].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuNy40XzIwMjEtMDMtMDkgMjM6NDE6MzZfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2021-03-09 23:41:36" Description="deken-plugin[v0.7.4].dek"
+             Version="0.7.4" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.7.4/deken-plugin[v0.7.4].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuNy4yXzIwMjEtMDMtMDUgMTY6NTA6MzFfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2021-03-05 16:50:31" Description="deken-plugin[v0.7.2].dek"
+             Version="0.7.2" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.7.2/deken-plugin[v0.7.2].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuNy4xXzIwMjEtMDMtMDMgMTg6MzI6NDJfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2021-03-03 18:32:42" Description="deken-plugin[v0.7.1].dek"
+             Version="0.7.1" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.7.1/deken-plugin[v0.7.1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuNS4wXzIwMTgtMDYtMDUgMjE6Mzg6MTBfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2018-06-05 21:38:10" Description="deken-plugin/0.5.0 (Deken externals downloader)"
+             Version="0.5.0" URL="https://puredata.info/downloads/deken/releases/0.5.0/deken-plugin-v0.5.0--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuMy4xXzIwMTgtMDQtMDUgMTI6MDA6MjZfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2018-04-05 12:00:26" Description="deken-plugin/0.3.1 (Deken externals downloader - MINIMUM VERSION REQUIRED FOR NEW PACKAGES)"
+             Version="0.3.1" URL="https://puredata.info/downloads/deken/releases/0.3.1/deken-plugin-v0.3.1--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuNC4xXzIwMTgtMDQtMDUgMTE6NTk6NTlfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2018-04-05 11:59:59" Description="deken-plugin/0.4.1 (Deken externals downloader)"
+             Version="0.4.1" URL="https://puredata.info/downloads/deken/releases/0.4.1/deken-plugin-v0.4.1--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="markex">
     <Package ID="bWFya2V4XzAuMC5leHRlbmRlZF8yMDE4LTA5LTI2IDAzOjQ0OjUyX2x1Y2FyZGE="
              Author="lucarda" Timestamp="2018-09-26 03:44:52" Description="markex[v0.0.extended](Windows-amd64-32)(Sources).dek"
@@ -3499,38 +3621,12 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="windowing">
-    <Package ID="d2luZG93aW5nXzAuMi4wXzIwMTktMTItMjggMjE6MjQ6MTBfZmprcmFhbg=="
-             Author="fjkraan" Timestamp="2019-12-28 21:24:10" Description="windowing[v0.2.0](Windows-amd64-32)(Sources).dek"
-             Version="0.2.0" URL="https://puredata.info/Members/fjkraan/software/windowing/0.2.0/windowing[v0.2.0](Windows-amd64-32)(Sources).dek">
+  <Packages Name="ultraleap">
+    <Package ID="dWx0cmFsZWFwXzAuMS4xXzIwMjMtMDEtMDkgMTk6MzQ6MDNfd21icmVudA=="
+             Author="wmbrent" Timestamp="2023-01-09 19:34:03" Description="ultraleap[v0.1.1](Windows-amd64-32).dek"
+             Version="0.1.1" URL="https://puredata.info/Members/wmbrent/software/ultraleap/0.1.1/ultraleap[v0.1.1](Windows-amd64-32).dek">
       <Objects>
-        <Object Name="bartlett"/>
-        <Object Name="blackman"/>
-        <Object Name="connes"/>
-        <Object Name="cosine"/>
-        <Object Name="gaussian"/>
-        <Object Name="hamming"/>
-        <Object Name="hanning"/>
-        <Object Name="kaiser"/>
-        <Object Name="lanczos"/>
-        <Object Name="welch"/>
-      </Objects>
-    </Package>
-    <Package ID="d2luZG93aW5nXzAuMi4wXzIwMTktMDEtMTIgMDA6NDg6MDRfbHVjYXJkYQ=="
-             Author="lucarda" Timestamp="2019-01-12 00:48:04" Description="windowing[v0.2.0](Windows-amd64-32)(Sources).dek"
-             Version="0.2.0" URL="https://puredata.info/Members/lucarda/software/windowing[v0.2.0](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="bartlett~"/>
-        <Object Name="blackman~"/>
-        <Object Name="connes~"/>
-        <Object Name="cosine~"/>
-        <Object Name="gaussian~"/>
-        <Object Name="hamming~"/>
-        <Object Name="hanning~"/>
-        <Object Name="kaiser~"/>
-        <Object Name="lanczos~"/>
-        <Object Name="welch~"/>
-        <Object Name="windowing"/>
+        <Object Name="ultraleap"/>
       </Objects>
     </Package>
   </Packages>
@@ -3686,12 +3782,38 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="ultraleap">
-    <Package ID="dWx0cmFsZWFwXzAuMS4xXzIwMjMtMDEtMDkgMTk6MzQ6MDNfd21icmVudA=="
-             Author="wmbrent" Timestamp="2023-01-09 19:34:03" Description="ultraleap[v0.1.1](Windows-amd64-32).dek"
-             Version="0.1.1" URL="https://puredata.info/Members/wmbrent/software/ultraleap/0.1.1/ultraleap[v0.1.1](Windows-amd64-32).dek">
+  <Packages Name="windowing">
+    <Package ID="d2luZG93aW5nXzAuMi4wXzIwMTktMTItMjggMjE6MjQ6MTBfZmprcmFhbg=="
+             Author="fjkraan" Timestamp="2019-12-28 21:24:10" Description="windowing[v0.2.0](Windows-amd64-32)(Sources).dek"
+             Version="0.2.0" URL="https://puredata.info/Members/fjkraan/software/windowing/0.2.0/windowing[v0.2.0](Windows-amd64-32)(Sources).dek">
       <Objects>
-        <Object Name="ultraleap"/>
+        <Object Name="bartlett"/>
+        <Object Name="blackman"/>
+        <Object Name="connes"/>
+        <Object Name="cosine"/>
+        <Object Name="gaussian"/>
+        <Object Name="hamming"/>
+        <Object Name="hanning"/>
+        <Object Name="kaiser"/>
+        <Object Name="lanczos"/>
+        <Object Name="welch"/>
+      </Objects>
+    </Package>
+    <Package ID="d2luZG93aW5nXzAuMi4wXzIwMTktMDEtMTIgMDA6NDg6MDRfbHVjYXJkYQ=="
+             Author="lucarda" Timestamp="2019-01-12 00:48:04" Description="windowing[v0.2.0](Windows-amd64-32)(Sources).dek"
+             Version="0.2.0" URL="https://puredata.info/Members/lucarda/software/windowing[v0.2.0](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="bartlett~"/>
+        <Object Name="blackman~"/>
+        <Object Name="connes~"/>
+        <Object Name="cosine~"/>
+        <Object Name="gaussian~"/>
+        <Object Name="hamming~"/>
+        <Object Name="hanning~"/>
+        <Object Name="kaiser~"/>
+        <Object Name="lanczos~"/>
+        <Object Name="welch~"/>
+        <Object Name="windowing"/>
       </Objects>
     </Package>
   </Packages>
@@ -5490,365 +5612,101 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="pd">
-    <Package ID="cGRfMC41Ni4yXzIwMjYtMDItMDkgMTc6MzM6NTFfem1vZWxuaWc=" Author="zmoelnig"
-             Timestamp="2026-02-09 17:33:51" Description="pd/0.56.2 (dummy library for built-in objects)"
-             Version="0.56.2" URL="https://puredata.info/Members/zmoelnig/software/pd/0.56.2/pd[v0.56.2].dek">
-      <Objects>
-        <Object Name="!="/>
-        <Object Name="%"/>
-        <Object Name="&amp;"/>
-        <Object Name="&amp;&amp;"/>
-        <Object Name="*"/>
-        <Object Name="*~"/>
-        <Object Name="+"/>
-        <Object Name="+~"/>
-        <Object Name="-"/>
-        <Object Name="-~"/>
-        <Object Name="/"/>
-        <Object Name="/~"/>
-        <Object Name="&lt;"/>
-        <Object Name="&lt;&lt;"/>
-        <Object Name="&lt;="/>
-        <Object Name="=="/>
-        <Object Name="&gt;"/>
-        <Object Name="&gt;="/>
-        <Object Name="&gt;&gt;"/>
-        <Object Name="abs"/>
-        <Object Name="abs~"/>
-        <Object Name="adc~"/>
-        <Object Name="append"/>
-        <Object Name="array"/>
-        <Object Name="array get"/>
-        <Object Name="array max"/>
-        <Object Name="array min"/>
-        <Object Name="array quantile"/>
-        <Object Name="array random"/>
-        <Object Name="array set"/>
-        <Object Name="array size"/>
-        <Object Name="array sum"/>
-        <Object Name="atan"/>
-        <Object Name="atan2"/>
-        <Object Name="b"/>
-        <Object Name="bag"/>
-        <Object Name="bang~"/>
-        <Object Name="bendin"/>
-        <Object Name="bendout"/>
-        <Object Name="biquad~"/>
-        <Object Name="block~"/>
-        <Object Name="bng"/>
-        <Object Name="bp~"/>
-        <Object Name="catch~"/>
-        <Object Name="change"/>
-        <Object Name="clip"/>
-        <Object Name="clip~"/>
-        <Object Name="clone"/>
-        <Object Name="cnv"/>
-        <Object Name="cos"/>
-        <Object Name="cos~"/>
-        <Object Name="cpole~"/>
-        <Object Name="cputime"/>
-        <Object Name="ctlin"/>
-        <Object Name="ctlout"/>
-        <Object Name="czero_rev~"/>
-        <Object Name="czero~"/>
-        <Object Name="dac~"/>
-        <Object Name="dbtopow"/>
-        <Object Name="dbtopow~"/>
-        <Object Name="dbtorms"/>
-        <Object Name="dbtorms~"/>
-        <Object Name="declare"/>
-        <Object Name="del"/>
-        <Object Name="delay"/>
-        <Object Name="delread4~"/>
-        <Object Name="delread~"/>
-        <Object Name="delwrite~"/>
-        <Object Name="div"/>
-        <Object Name="drawcurve"/>
-        <Object Name="drawnumber"/>
-        <Object Name="drawpolygon"/>
-        <Object Name="drawsymbol"/>
-        <Object Name="drawtext"/>
-        <Object Name="element"/>
-        <Object Name="env~"/>
-        <Object Name="exp"/>
-        <Object Name="expr"/>
-        <Object Name="expr~"/>
-        <Object Name="exp~"/>
-        <Object Name="f"/>
-        <Object Name="fexpr~"/>
-        <Object Name="fft~"/>
-        <Object Name="file"/>
-        <Object Name="file copy"/>
-        <Object Name="file cwd"/>
-        <Object Name="file define"/>
-        <Object Name="file delete"/>
-        <Object Name="file glob"/>
-        <Object Name="file handle"/>
-        <Object Name="file isabsolute"/>
-        <Object Name="file isdirectory"/>
-        <Object Name="file isfile"/>
-        <Object Name="file join"/>
-        <Object Name="file mkdir"/>
-        <Object Name="file move"/>
-        <Object Name="file normalize"/>
-        <Object Name="file patchpath"/>
-        <Object Name="file size"/>
-        <Object Name="file split"/>
-        <Object Name="file splitext"/>
-        <Object Name="file splitname"/>
-        <Object Name="file stat"/>
-        <Object Name="file which"/>
-        <Object Name="filledcurve"/>
-        <Object Name="filledpolygon"/>
-        <Object Name="framp~"/>
-        <Object Name="fswap"/>
-        <Object Name="ftom"/>
-        <Object Name="ftom~"/>
-        <Object Name="fudiformat"/>
-        <Object Name="fudiparse"/>
-        <Object Name="get"/>
-        <Object Name="getsize"/>
-        <Object Name="hdl"/>
-        <Object Name="hip~"/>
-        <Object Name="hradio"/>
-        <Object Name="hsl"/>
-        <Object Name="hslider"/>
-        <Object Name="i"/>
-        <Object Name="ifft~"/>
-        <Object Name="inlet"/>
-        <Object Name="inlet~"/>
-        <Object Name="int"/>
-        <Object Name="key"/>
-        <Object Name="keyname"/>
-        <Object Name="keyup"/>
-        <Object Name="line"/>
-        <Object Name="line~"/>
-        <Object Name="list append"/>
-        <Object Name="list fromsymbol"/>
-        <Object Name="list length"/>
-        <Object Name="list prepend"/>
-        <Object Name="list split"/>
-        <Object Name="list store"/>
-        <Object Name="list tosymbol"/>
-        <Object Name="list trim"/>
-        <Object Name="loadbang"/>
-        <Object Name="log"/>
-        <Object Name="log~"/>
-        <Object Name="lop~"/>
-        <Object Name="makefilename"/>
-        <Object Name="makenote"/>
-        <Object Name="max"/>
-        <Object Name="max~"/>
-        <Object Name="metro"/>
-        <Object Name="midiin"/>
-        <Object Name="midiout"/>
-        <Object Name="midirealtimein"/>
-        <Object Name="min"/>
-        <Object Name="min~"/>
-        <Object Name="mod"/>
-        <Object Name="moses"/>
-        <Object Name="mtof"/>
-        <Object Name="mtof~"/>
-        <Object Name="my_canvas"/>
-        <Object Name="my_numbox"/>
-        <Object Name="namecanvas"/>
-        <Object Name="nbx"/>
-        <Object Name="netreceive"/>
-        <Object Name="netsend"/>
-        <Object Name="noise~"/>
-        <Object Name="notein"/>
-        <Object Name="noteout"/>
-        <Object Name="openpanel"/>
-        <Object Name="oscformat"/>
-        <Object Name="oscparse"/>
-        <Object Name="osc~"/>
-        <Object Name="outlet"/>
-        <Object Name="outlet~"/>
-        <Object Name="pack"/>
-        <Object Name="page"/>
-        <Object Name="pd"/>
-        <Object Name="pdcontrol"/>
-        <Object Name="pgmin"/>
-        <Object Name="pgmout"/>
-        <Object Name="phasor~"/>
-        <Object Name="pipe"/>
-        <Object Name="plot"/>
-        <Object Name="pointer"/>
-        <Object Name="poly"/>
-        <Object Name="polytouchin"/>
-        <Object Name="polytouchout"/>
-        <Object Name="pow"/>
-        <Object Name="powtodb"/>
-        <Object Name="powtodb~"/>
-        <Object Name="pow~"/>
-        <Object Name="print"/>
-        <Object Name="print~"/>
-        <Object Name="q8_rsqrt~"/>
-        <Object Name="q8_sqrt~"/>
-        <Object Name="qlist"/>
-        <Object Name="r"/>
-        <Object Name="radiobut"/>
-        <Object Name="radiobutton"/>
-        <Object Name="random"/>
-        <Object Name="rdb"/>
-        <Object Name="readsf~"/>
-        <Object Name="realtime"/>
-        <Object Name="receive"/>
-        <Object Name="receive~"/>
-        <Object Name="rfft~"/>
-        <Object Name="rifft~"/>
-        <Object Name="rmstodb"/>
-        <Object Name="rmstodb~"/>
-        <Object Name="route"/>
-        <Object Name="rpole~"/>
-        <Object Name="rsqrt~"/>
-        <Object Name="rzero_rev~"/>
-        <Object Name="rzero~"/>
-        <Object Name="r~"/>
-        <Object Name="s"/>
-        <Object Name="samphold~"/>
-        <Object Name="samplerate~"/>
-        <Object Name="savepanel"/>
-        <Object Name="savestate"/>
-        <Object Name="scalar"/>
-        <Object Name="sel"/>
-        <Object Name="select"/>
-        <Object Name="send"/>
-        <Object Name="send~"/>
-        <Object Name="set"/>
-        <Object Name="setsize"/>
-        <Object Name="sig~"/>
-        <Object Name="sin"/>
-        <Object Name="slop~"/>
-        <Object Name="snake_in~"/>
-        <Object Name="snake_out~"/>
-        <Object Name="snake~"/>
-        <Object Name="snapshot~"/>
-        <Object Name="soundfiler"/>
-        <Object Name="spigot"/>
-        <Object Name="sqrt"/>
-        <Object Name="sqrt~"/>
-        <Object Name="stripnote"/>
-        <Object Name="struct"/>
-        <Object Name="swap"/>
-        <Object Name="switch~"/>
-        <Object Name="sysexin"/>
-        <Object Name="s~"/>
-        <Object Name="t"/>
-        <Object Name="table"/>
-        <Object Name="tabosc4~"/>
-        <Object Name="tabplay~"/>
-        <Object Name="tabread"/>
-        <Object Name="tabread4"/>
-        <Object Name="tabread4~"/>
-        <Object Name="tabread~"/>
-        <Object Name="tabreceive~"/>
-        <Object Name="tabsend~"/>
-        <Object Name="tabwrite"/>
-        <Object Name="tabwrite~"/>
-        <Object Name="tan"/>
-        <Object Name="template"/>
-        <Object Name="text"/>
-        <Object Name="text define"/>
-        <Object Name="text delete"/>
-        <Object Name="text fromlist"/>
-        <Object Name="text get"/>
-        <Object Name="text insert"/>
-        <Object Name="text search"/>
-        <Object Name="text sequence"/>
-        <Object Name="text set"/>
-        <Object Name="text size"/>
-        <Object Name="text tolist"/>
-        <Object Name="textfile"/>
-        <Object Name="tgl"/>
-        <Object Name="threshold~"/>
-        <Object Name="throw~"/>
-        <Object Name="timer"/>
-        <Object Name="toggle"/>
-        <Object Name="touchin"/>
-        <Object Name="touchout"/>
-        <Object Name="trace"/>
-        <Object Name="trigger"/>
-        <Object Name="unpack"/>
-        <Object Name="until"/>
-        <Object Name="v"/>
-        <Object Name="value"/>
-        <Object Name="vcf~"/>
-        <Object Name="vdl"/>
-        <Object Name="vd~"/>
-        <Object Name="vline~"/>
-        <Object Name="vpointer"/>
-        <Object Name="vradio"/>
-        <Object Name="vsl"/>
-        <Object Name="vslider"/>
-        <Object Name="vsnapshot~"/>
-        <Object Name="vu"/>
-        <Object Name="wrap"/>
-        <Object Name="wrap~"/>
-        <Object Name="writesf~"/>
-        <Object Name="|"/>
-        <Object Name="||"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="comport">
-    <Package ID="Y29tcG9ydF8xLjMuMV8yMDI2LTAyLTE4IDEyOjE5OjQ5X2llbWJvdA=="
-             Author="iembot" Timestamp="2026-02-18 12:19:49" Description="comport[v1.3.1](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
-             Version="1.3.1" URL="https://puredata.info/Members/iembot/software/comport/1.3.1/comport[v1.3.1](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
-      <Objects>
-        <Object Name="comport"/>
-      </Objects>
-    </Package>
-    <Package ID="Y29tcG9ydF8xLjNfMjAyNC0xMC0xMCAxNzo0Mjo1MF9pZW1ib3Q=" Author="iembot"
-             Timestamp="2024-10-10 17:42:50" Description="comport[v1.3](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
-             Version="1.3" URL="https://puredata.info/Members/iembot/software/comport/1.3/comport[v1.3](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
-      <Objects>
-        <Object Name="comport"/>
-      </Objects>
-    </Package>
-    <Package ID="Y29tcG9ydF8xLjJfMjAyMi0wMy0yMSAxMTo1MjoyN19pZW1ib3Q=" Author="iembot"
-             Timestamp="2022-03-21 11:52:27" Description="comport[v1.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="1.2" URL="https://puredata.info/Members/iembot/software/comport/1.2/comport[v1.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects>
-        <Object Name="comport"/>
-      </Objects>
-    </Package>
-    <Package ID="Y29tcG9ydF8xLjEuMV8yMDE5LTAzLTE2IDAxOjI5OjQzX2x1Y2FyZGE="
-             Author="lucarda" Timestamp="2019-03-16 01:29:43" Description="comport[v1.1.1](Windows-amd64-32)(Sources).dek"
-             Version="1.1.1" URL="https://puredata.info/Members/lucarda/software/comport[v1.1.1](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="bird"/>
-        <Object Name="comport"/>
-      </Objects>
-    </Package>
-    <Package ID="Y29tcG9ydF8xLjFfMjAxOS0wMy0xNSAyMjo0Nzo1NF9sdWNhcmRh" Author="lucarda"
-             Timestamp="2019-03-15 22:47:54" Description="comport[v1.1](Windows-amd64-32)(Sources).dek"
-             Version="1.1" URL="https://puredata.info/Members/lucarda/software/comport[v1.1](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="bird"/>
-        <Object Name="comport"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="doublechord-plugin">
-    <Package ID="ZG91YmxlY2hvcmQtcGx1Z2luXzAuMi4yXzIwMTgtMTAtMDEgMjE6MzY6MzZfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2018-10-01 21:36:36" Description="doublechord-plugin[v0.2.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="0.2.2" URL="https://puredata.info/Members/zmoelnigbot/software/punish/v0.2.2/doublechord-plugin/doublechord-plugin[v0.2.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZG91YmxlY2hvcmQtcGx1Z2luXzAuMi4xXzIwMTgtMDUtMjkgMTc6MjI6NTBfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2018-05-29 17:22:50" Description="doublechord-plugin[v0.2.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="0.2.1" URL="https://puredata.info/Members/zmoelnigbot/software/punish/v0.2.1/doublechord-plugin/doublechord-plugin[v0.2.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="algo~">
     <Package ID="YWxnb35fMS4wLjFfMjAyMC0wOS0xMSAxNToxMjozN193bWJyZW50" Author="wmbrent"
              Timestamp="2020-09-11 15:12:37" Description="algo~[v1.0.1](Windows-amd64-32).dek"
              Version="1.0.1" URL="https://puredata.info/Members/wmbrent/software/algo~/1.0.1/algo~[v1.0.1](Windows-amd64-32).dek">
       <Objects>
         <Object Name="algo~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="iem_spec2">
+    <Package ID="aWVtX3NwZWMyXzEuMjEuMV8yMDI0LTA5LTAzIDE0OjAxOjA1X2llbWJvdA=="
+             Author="iembot" Timestamp="2024-09-03 14:01:05" Description="iem_spec2[v1.21.1](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
+             Version="1.21.1" URL="https://puredata.info/Members/iembot/software/iem_spec2/1.21.1/iem_spec2[v1.21.1](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="spec2_1p1z_freq~"/>
+        <Object Name="spec2_1p1z_time~"/>
+        <Object Name="spec2_abs~"/>
+        <Object Name="spec2_add_scalar~"/>
+        <Object Name="spec2_add~"/>
+        <Object Name="spec2_block_delay~"/>
+        <Object Name="spec2_clip_max~"/>
+        <Object Name="spec2_clip_min~"/>
+        <Object Name="spec2_dbtopow~"/>
+        <Object Name="spec2_dbtorms~"/>
+        <Object Name="spec2_matrix_bundle_stat~"/>
+        <Object Name="spec2_mul_scalar~"/>
+        <Object Name="spec2_mul~"/>
+        <Object Name="spec2_powtodb~"/>
+        <Object Name="spec2_rmstodb~"/>
+        <Object Name="spec2_shift~"/>
+        <Object Name="spec2_sqrt~"/>
+        <Object Name="spec2_stretch~"/>
+        <Object Name="spec2_sub~"/>
+        <Object Name="spec2_sum~"/>
+        <Object Name="spec2_tab_conv~"/>
+        <Object Name="spec2_tabreceive_enable~"/>
+        <Object Name="spec2_tabreceive~"/>
+      </Objects>
+    </Package>
+    <Package ID="aWVtX3NwZWMyXzEuMjFfMjAxOC0xMS0yOSAxNjoxNToyNF9tdXNpbA=="
+             Author="musil" Timestamp="2018-11-29 16:15:24" Description="iem_spec2[v1.21](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32)(Sources).dek"
+             Version="1.21" URL="https://puredata.info/Members/musil/software/iem_spec2/1.21/iem_spec2[v1.21](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32)(Sources).dek">
+      <Objects>
+        <Object Name="spec2_1p1z_freq~"/>
+        <Object Name="spec2_1p1z_time~"/>
+        <Object Name="spec2_abs~"/>
+        <Object Name="spec2_add_scalar~"/>
+        <Object Name="spec2_add~"/>
+        <Object Name="spec2_block_delay~"/>
+        <Object Name="spec2_clip_max~"/>
+        <Object Name="spec2_clip_min~"/>
+        <Object Name="spec2_dbtopow~"/>
+        <Object Name="spec2_dbtorms~"/>
+        <Object Name="spec2_matrix_bundle_stat~"/>
+        <Object Name="spec2_mul_scalar~"/>
+        <Object Name="spec2_mul~"/>
+        <Object Name="spec2_powtodb~"/>
+        <Object Name="spec2_rmstodb~"/>
+        <Object Name="spec2_shift~"/>
+        <Object Name="spec2_sqrt~"/>
+        <Object Name="spec2_stretch~"/>
+        <Object Name="spec2_sub~"/>
+        <Object Name="spec2_sum~"/>
+        <Object Name="spec2_tab_conv~"/>
+        <Object Name="spec2_tabreceive_enable~"/>
+        <Object Name="spec2_tabreceive~"/>
+      </Objects>
+    </Package>
+    <Package ID="aWVtX3NwZWMyXzEuMjFfMjAxOC0xMC0zMSAxODoxOToxOF9tdXNpbA=="
+             Author="musil" Timestamp="2018-10-31 18:19:18" Description="iem_spec2[v1.21](Windows-amd64-32)(Windows-i386-32)(Sources).dek"
+             Version="1.21" URL="https://puredata.info/Members/musil/software/iem_spec2/1.21/iem_spec2[v1.21](Windows-amd64-32)(Windows-i386-32)(Sources).dek">
+      <Objects>
+        <Object Name="spec2_1p1z_freq~"/>
+        <Object Name="spec2_1p1z_time~"/>
+        <Object Name="spec2_abs~"/>
+        <Object Name="spec2_add_scalar~"/>
+        <Object Name="spec2_add~"/>
+        <Object Name="spec2_block_delay~"/>
+        <Object Name="spec2_clip_max~"/>
+        <Object Name="spec2_clip_min~"/>
+        <Object Name="spec2_dbtopow~"/>
+        <Object Name="spec2_dbtorms~"/>
+        <Object Name="spec2_matrix_bundle_stat~"/>
+        <Object Name="spec2_mul_scalar~"/>
+        <Object Name="spec2_mul~"/>
+        <Object Name="spec2_powtodb~"/>
+        <Object Name="spec2_rmstodb~"/>
+        <Object Name="spec2_shift~"/>
+        <Object Name="spec2_sqrt~"/>
+        <Object Name="spec2_stretch~"/>
+        <Object Name="spec2_sub~"/>
+        <Object Name="spec2_sum~"/>
+        <Object Name="spec2_tab_conv~"/>
+        <Object Name="spec2_tabreceive_enable~"/>
+        <Object Name="spec2_tabreceive~"/>
       </Objects>
     </Package>
   </Packages>
@@ -5925,22 +5783,6 @@
         <Object Name="artnetsend"/>
         <Object Name="artnettoarray"/>
         <Object Name="artnetudp"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="gpmotion">
-    <Package ID="Z3Btb3Rpb25fMC4yLjBfMjAyNC0xMS0yMyAwMjoyNDoxN19hZ3JhZWY="
-             Author="agraef" Timestamp="2024-11-23 02:24:17" Description="gpmotion[v0.2.0](Windows-amd64-32)(Windows-amd64-64).dek"
-             Version="0.2.0" URL="https://puredata.info/Members/agraef/software/gpmotion/0.2.0/gpmotion[v0.2.0](Windows-amd64-32)(Windows-amd64-64).dek">
-      <Objects>
-        <Object Name="gpmotion"/>
-      </Objects>
-    </Package>
-    <Package ID="Z3Btb3Rpb25fMC4xLjBfMjAyNC0xMS0yMCAxMTo0MDo0MV9hZ3JhZWY="
-             Author="agraef" Timestamp="2024-11-20 11:40:41" Description="gpmotion[v0.1.0](Windows-amd64-32)(Windows-amd64-64).dek"
-             Version="0.1.0" URL="https://puredata.info/Members/agraef/software/gpmotion/0.1.0/gpmotion[v0.1.0](Windows-amd64-32)(Windows-amd64-64).dek">
-      <Objects>
-        <Object Name="gpmotion"/>
       </Objects>
     </Package>
   </Packages>
@@ -6073,128 +5915,6 @@
     <Package ID="cGlsb3NsaWJfMS4wLjJfMjAyMi0wOC0yMyAyMDo0MzoxNl9ha3VudWxs"
              Author="akunull" Timestamp="2022-08-23 20:43:16" Description="piloslib[v1.0.2].dek"
              Version="1.0.2" URL="https://puredata.info/Members/akunull/software/piloslib/1.0.2/piloslib[v1.0.2].dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="deken-plugin">
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuMTBfMjAyNi0wMi0xMCAxNToxOTo1N196bW9lbG5pZ2JvdA=="
-             Author="zmoelnigbot" Timestamp="2026-02-10 15:19:57" Description="deken-plugin[v0.10.10].dek"
-             Version="0.10.10" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.10/deken-plugin[v0.10.10].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuOF8yMDI2LTAxLTI3IDE3OjE2OjE4X3ptb2VsbmlnYm90"
-             Author="zmoelnigbot" Timestamp="2026-01-27 17:16:18" Description="deken-plugin[v0.10.8].dek"
-             Version="0.10.8" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.8/deken-plugin[v0.10.8].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuNl8yMDI1LTA1LTE5IDEyOjI2OjI0X3ptb2VsbmlnYm90"
-             Author="zmoelnigbot" Timestamp="2025-05-19 12:26:24" Description="deken-plugin[v0.10.6].dek"
-             Version="0.10.6" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.6/deken-plugin[v0.10.6].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuMl8yMDI0LTEyLTA2IDIyOjQ4OjAzX3ptb2VsbmlnYm90"
-             Author="zmoelnigbot" Timestamp="2024-12-06 22:48:03" Description="deken-plugin[v0.10.2].dek"
-             Version="0.10.2" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.2/deken-plugin[v0.10.2].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuMF8yMDI0LTEyLTAyIDE0OjQ3OjUwX3ptb2VsbmlnYm90"
-             Author="zmoelnigbot" Timestamp="2024-12-02 14:47:50" Description="deken-plugin[v0.10.0].dek"
-             Version="0.10.0" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.0/deken-plugin[v0.10.0].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4xOF8yMDI0LTAzLTE0IDE0OjM4OjUzX3ptb2VsbmlnYm90"
-             Author="zmoelnigbot" Timestamp="2024-03-14 14:38:53" Description="deken-plugin[v0.9.18].dek"
-             Version="0.9.18" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.18/deken-plugin[v0.9.18].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4xNl8yMDIzLTExLTI3IDEzOjIzOjU1X3ptb2VsbmlnYm90"
-             Author="zmoelnigbot" Timestamp="2023-11-27 13:23:55" Description="deken-plugin[v0.9.16].dek"
-             Version="0.9.16" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.16/deken-plugin[v0.9.16].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4xNF8yMDIzLTA5LTI1IDEyOjUwOjU3X3ptb2VsbmlnYm90"
-             Author="zmoelnigbot" Timestamp="2023-09-25 12:50:57" Description="deken-plugin[v0.9.14].dek"
-             Version="0.9.14" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.14/deken-plugin[v0.9.14].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4xMl8yMDIzLTA5LTI1IDEwOjE1OjU0X3ptb2VsbmlnYm90"
-             Author="zmoelnigbot" Timestamp="2023-09-25 10:15:54" Description="deken-plugin[v0.9.12].dek"
-             Version="0.9.12" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.12/deken-plugin[v0.9.12].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4xMF8yMDIzLTA3LTI3IDE0OjIzOjQ0X3ptb2VsbmlnYm90"
-             Author="zmoelnigbot" Timestamp="2023-07-27 14:23:44" Description="deken-plugin[v0.9.10].dek"
-             Version="0.9.10" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.10/deken-plugin[v0.9.10].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS44XzIwMjMtMDctMDcgMDg6MzI6MjJfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2023-07-07 08:32:22" Description="deken-plugin[v0.9.8].dek"
-             Version="0.9.8" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.8/deken-plugin[v0.9.8].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS42XzIwMjMtMDItMDYgMTM6MjU6MDFfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2023-02-06 13:25:01" Description="deken-plugin[v0.9.6].dek"
-             Version="0.9.6" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.6/deken-plugin[v0.9.6].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS40XzIwMjItMDktMDIgMjM6MTA6NDBfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2022-09-02 23:10:40" Description="deken-plugin[v0.9.4].dek"
-             Version="0.9.4" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.4/deken-plugin[v0.9.4].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4yXzIwMjItMDYtMDEgMTE6NTQ6MjFfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2022-06-01 11:54:21" Description="deken-plugin[v0.9.2].dek"
-             Version="0.9.2" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.2/deken-plugin[v0.9.2].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuOV8yMDIyLTA1LTIxIDE2OjE4OjMzX3ptb2VsbmlnYm90"
-             Author="zmoelnigbot" Timestamp="2022-05-21 16:18:33" Description="deken-plugin[v0.9].dek"
-             Version="0.9" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9/deken-plugin[v0.9].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuOC4wXzIwMjEtMDYtMTYgMjI6MDE6MzZfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2021-06-16 22:01:36" Description="deken-plugin[v0.8.0].dek"
-             Version="0.8.0" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.8.0/deken-plugin[v0.8.0].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuNy44XzIwMjEtMDMtMjIgMTU6MjA6MjVfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2021-03-22 15:20:25" Description="deken-plugin[v0.7.8].dek"
-             Version="0.7.8" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.7.8/deken-plugin[v0.7.8].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuNy42XzIwMjEtMDMtMTAgMTI6MTQ6MDJfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2021-03-10 12:14:02" Description="deken-plugin[v0.7.6].dek"
-             Version="0.7.6" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.7.6/deken-plugin[v0.7.6].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuNy40XzIwMjEtMDMtMDkgMjM6NDE6MzZfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2021-03-09 23:41:36" Description="deken-plugin[v0.7.4].dek"
-             Version="0.7.4" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.7.4/deken-plugin[v0.7.4].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuNy4yXzIwMjEtMDMtMDUgMTY6NTA6MzFfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2021-03-05 16:50:31" Description="deken-plugin[v0.7.2].dek"
-             Version="0.7.2" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.7.2/deken-plugin[v0.7.2].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuNy4xXzIwMjEtMDMtMDMgMTg6MzI6NDJfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2021-03-03 18:32:42" Description="deken-plugin[v0.7.1].dek"
-             Version="0.7.1" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.7.1/deken-plugin[v0.7.1].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuNS4wXzIwMTgtMDYtMDUgMjE6Mzg6MTBfem1vZWxuaWc="
-             Author="zmoelnig" Timestamp="2018-06-05 21:38:10" Description="deken-plugin/0.5.0 (Deken externals downloader)"
-             Version="0.5.0" URL="https://puredata.info/downloads/deken/releases/0.5.0/deken-plugin-v0.5.0--externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuMy4xXzIwMTgtMDQtMDUgMTI6MDA6MjZfem1vZWxuaWc="
-             Author="zmoelnig" Timestamp="2018-04-05 12:00:26" Description="deken-plugin/0.3.1 (Deken externals downloader - MINIMUM VERSION REQUIRED FOR NEW PACKAGES)"
-             Version="0.3.1" URL="https://puredata.info/downloads/deken/releases/0.3.1/deken-plugin-v0.3.1--externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuNC4xXzIwMTgtMDQtMDUgMTE6NTk6NTlfem1vZWxuaWc="
-             Author="zmoelnig" Timestamp="2018-04-05 11:59:59" Description="deken-plugin/0.4.1 (Deken externals downloader)"
-             Version="0.4.1" URL="https://puredata.info/downloads/deken/releases/0.4.1/deken-plugin-v0.4.1--externals.zip">
       <Objects/>
     </Package>
   </Packages>
@@ -6386,8 +6106,8 @@
     </Package>
   </Packages>
   <Packages Name="Gem">
-    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNi0wMi0yNSAxNjoxNDoxN19pZW1ib3Q="
-             Author="iembot" Timestamp="2026-02-25 16:14:17" Description="Gem[v0.94-snapshot](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
+    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNi0wMy0xOSAxNzozMzozM19pZW1ib3Q="
+             Author="iembot" Timestamp="2026-03-19 17:33:33" Description="Gem[v0.94-snapshot](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
              Version="0.94-snapshot" URL="https://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
       <Objects>
         <Object Name="_textbbox"/>
@@ -7186,87 +6906,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="cicmtools">
-    <Package ID="Y2ljbXRvb2xzXzEuNV8yMDIxLTAyLTA3IDEzOjEyOjI5X3BvcnJlcw=="
-             Author="porres" Timestamp="2021-02-07 13:12:29" Description="cicmtools[v1.5](Windows-amd64-32).dek"
-             Version="1.5" URL="https://puredata.info/Members/porres/software/cicmtools/1.5/cicmtools[v1.5](Windows-amd64-32).dek">
-      <Objects>
-        <Object Name="ambicube~"/>
-        <Object Name="ambipan~"/>
-        <Object Name="vbapan~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="py">
-    <Package ID="cHlfMC4yLjJfMjAyMC0wNS0xOSAwMjoxMzo0N190aG9tYXM=" Author="thomas"
-             Timestamp="2020-05-19 02:13:47" Description="py[v0.2.2](Windows-amd64-32).dek"
-             Version="0.2.2" URL="https://puredata.info/Members/thomas/software/py/0.2.2/py[v0.2.2](Windows-amd64-32).dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="Fraise">
-    <Package ID="RnJhaXNlXzAuNC4wXzIwMjUtMDUtMjMgMTc6MjA6MjRfYW50MXI=" Author="ant1r"
-             Timestamp="2025-05-23 17:20:24" Description="Fraise[v0.4.0].dek"
-             Version="0.4.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.4.0/Fraise[v0.4.0].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMy40XzIwMjUtMDUtMTIgMTM6MzI6NTVfYW50MXI=" Author="ant1r"
-             Timestamp="2025-05-12 13:32:55" Description="Fraise[v0.3.4].dek"
-             Version="0.3.4" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.4/Fraise[v0.3.4].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMy4zXzIwMjQtMTAtMDkgMTU6MzU6MjFfYW50MXI=" Author="ant1r"
-             Timestamp="2024-10-09 15:35:21" Description="Fraise[v0.3.3].dek"
-             Version="0.3.3" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.3/Fraise[v0.3.3].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMy4yXzIwMjQtMTAtMDkgMTQ6NDE6MDdfYW50MXI=" Author="ant1r"
-             Timestamp="2024-10-09 14:41:07" Description="Fraise[v0.3.2].dek"
-             Version="0.3.2" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.2/Fraise[v0.3.2].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMy4xXzIwMjQtMDgtMjEgMTg6MzQ6NDJfYW50MXI=" Author="ant1r"
-             Timestamp="2024-08-21 18:34:42" Description="Fraise[v0.3.1].dek"
-             Version="0.3.1" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.1/Fraise[v0.3.1].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMy4wXzIwMjQtMDMtMjkgMTc6NTY6NTlfYW50MXI=" Author="ant1r"
-             Timestamp="2024-03-29 17:56:59" Description="Fraise[v0.3.0].dek"
-             Version="0.3.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.0/Fraise[v0.3.0].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMi4wXzIwMjMtMTEtMTYgMTc6MjQ6NTRfYW50MXI=" Author="ant1r"
-             Timestamp="2023-11-16 17:24:54" Description="Fraise[v0.2.0](Windows-amd64-32).dek"
-             Version="0.2.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.2.0/Fraise[v0.2.0](Windows-amd64-32).dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMS4xXzIwMjEtMDMtMjUgMTU6Mzk6MjlfYW50MXI=" Author="ant1r"
-             Timestamp="2021-03-25 15:39:29" Description="Fraise[v0.1.1].dek"
-             Version="0.1.1" URL="https://puredata.info/Members/ant1r/software/Fraise/0.1.1/Fraise[v0.1.1].dek">
-      <Objects/>
-    </Package>
-    <Package ID="RnJhaXNlXzAuMS4wXzIwMjEtMDEtMDcgMTI6MzI6MzVfYW50MXI=" Author="ant1r"
-             Timestamp="2021-01-07 12:32:35" Description="Fraise[v0.1.0].dek"
-             Version="0.1.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.1.0/Fraise[v0.1.0].dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="earplug~">
-    <Package ID="ZWFycGx1Z35fMC4zLjBfMjAyMS0wNi0wNiAxODo0NTozOV9sdWNhcmRh"
-             Author="lucarda" Timestamp="2021-06-06 18:45:39" Description="earplug~[v0.3.0](Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="0.3.0" URL="https://puredata.info/Members/lucarda/software/earplug~/0.3.0/earplug~[v0.3.0](Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects>
-        <Object Name="earplug~"/>
-      </Objects>
-    </Package>
-    <Package ID="ZWFycGx1Z35fMC4wLmV4dGVuZGVkXzIwMjEtMDUtMjYgMDE6NDI6MThfbHVjYXJkYQ=="
-             Author="lucarda" Timestamp="2021-05-26 01:42:18" Description="earplug~[v0.0.extended](Windows-amd64-32)(Sources).dek"
-             Version="0.0.extended" URL="https://puredata.info/Members/lucarda/software/earplug~/0.0.extended/earplug~[v0.0.extended](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="earplug~"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="iemgui">
     <Package ID="aWVtZ3VpXzEuMjEtM18yMDIzLTAxLTExIDE1OjA5OjUxX2llbWJvdA=="
              Author="iembot" Timestamp="2023-01-11 15:09:51" Description="iemgui[v1.21-3](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
@@ -7359,92 +6998,453 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="iem_spec2">
-    <Package ID="aWVtX3NwZWMyXzEuMjEuMV8yMDI0LTA5LTAzIDE0OjAxOjA1X2llbWJvdA=="
-             Author="iembot" Timestamp="2024-09-03 14:01:05" Description="iem_spec2[v1.21.1](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
-             Version="1.21.1" URL="https://puredata.info/Members/iembot/software/iem_spec2/1.21.1/iem_spec2[v1.21.1](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
+  <Packages Name="cicmtools">
+    <Package ID="Y2ljbXRvb2xzXzEuNV8yMDIxLTAyLTA3IDEzOjEyOjI5X3BvcnJlcw=="
+             Author="porres" Timestamp="2021-02-07 13:12:29" Description="cicmtools[v1.5](Windows-amd64-32).dek"
+             Version="1.5" URL="https://puredata.info/Members/porres/software/cicmtools/1.5/cicmtools[v1.5](Windows-amd64-32).dek">
       <Objects>
-        <Object Name="spec2_1p1z_freq~"/>
-        <Object Name="spec2_1p1z_time~"/>
-        <Object Name="spec2_abs~"/>
-        <Object Name="spec2_add_scalar~"/>
-        <Object Name="spec2_add~"/>
-        <Object Name="spec2_block_delay~"/>
-        <Object Name="spec2_clip_max~"/>
-        <Object Name="spec2_clip_min~"/>
-        <Object Name="spec2_dbtopow~"/>
-        <Object Name="spec2_dbtorms~"/>
-        <Object Name="spec2_matrix_bundle_stat~"/>
-        <Object Name="spec2_mul_scalar~"/>
-        <Object Name="spec2_mul~"/>
-        <Object Name="spec2_powtodb~"/>
-        <Object Name="spec2_rmstodb~"/>
-        <Object Name="spec2_shift~"/>
-        <Object Name="spec2_sqrt~"/>
-        <Object Name="spec2_stretch~"/>
-        <Object Name="spec2_sub~"/>
-        <Object Name="spec2_sum~"/>
-        <Object Name="spec2_tab_conv~"/>
-        <Object Name="spec2_tabreceive_enable~"/>
-        <Object Name="spec2_tabreceive~"/>
+        <Object Name="ambicube~"/>
+        <Object Name="ambipan~"/>
+        <Object Name="vbapan~"/>
       </Objects>
     </Package>
-    <Package ID="aWVtX3NwZWMyXzEuMjFfMjAxOC0xMS0yOSAxNjoxNToyNF9tdXNpbA=="
-             Author="musil" Timestamp="2018-11-29 16:15:24" Description="iem_spec2[v1.21](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32)(Sources).dek"
-             Version="1.21" URL="https://puredata.info/Members/musil/software/iem_spec2/1.21/iem_spec2[v1.21](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32)(Sources).dek">
+  </Packages>
+  <Packages Name="doublechord-plugin">
+    <Package ID="ZG91YmxlY2hvcmQtcGx1Z2luXzAuMi4yXzIwMTgtMTAtMDEgMjE6MzY6MzZfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2018-10-01 21:36:36" Description="doublechord-plugin[v0.2.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.2.2" URL="https://puredata.info/Members/zmoelnigbot/software/punish/v0.2.2/doublechord-plugin/doublechord-plugin[v0.2.2](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZG91YmxlY2hvcmQtcGx1Z2luXzAuMi4xXzIwMTgtMDUtMjkgMTc6MjI6NTBfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2018-05-29 17:22:50" Description="doublechord-plugin[v0.2.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.2.1" URL="https://puredata.info/Members/zmoelnigbot/software/punish/v0.2.1/doublechord-plugin/doublechord-plugin[v0.2.1](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="gpmotion">
+    <Package ID="Z3Btb3Rpb25fMC4yLjBfMjAyNC0xMS0yMyAwMjoyNDoxN19hZ3JhZWY="
+             Author="agraef" Timestamp="2024-11-23 02:24:17" Description="gpmotion[v0.2.0](Windows-amd64-32)(Windows-amd64-64).dek"
+             Version="0.2.0" URL="https://puredata.info/Members/agraef/software/gpmotion/0.2.0/gpmotion[v0.2.0](Windows-amd64-32)(Windows-amd64-64).dek">
       <Objects>
-        <Object Name="spec2_1p1z_freq~"/>
-        <Object Name="spec2_1p1z_time~"/>
-        <Object Name="spec2_abs~"/>
-        <Object Name="spec2_add_scalar~"/>
-        <Object Name="spec2_add~"/>
-        <Object Name="spec2_block_delay~"/>
-        <Object Name="spec2_clip_max~"/>
-        <Object Name="spec2_clip_min~"/>
-        <Object Name="spec2_dbtopow~"/>
-        <Object Name="spec2_dbtorms~"/>
-        <Object Name="spec2_matrix_bundle_stat~"/>
-        <Object Name="spec2_mul_scalar~"/>
-        <Object Name="spec2_mul~"/>
-        <Object Name="spec2_powtodb~"/>
-        <Object Name="spec2_rmstodb~"/>
-        <Object Name="spec2_shift~"/>
-        <Object Name="spec2_sqrt~"/>
-        <Object Name="spec2_stretch~"/>
-        <Object Name="spec2_sub~"/>
-        <Object Name="spec2_sum~"/>
-        <Object Name="spec2_tab_conv~"/>
-        <Object Name="spec2_tabreceive_enable~"/>
-        <Object Name="spec2_tabreceive~"/>
+        <Object Name="gpmotion"/>
       </Objects>
     </Package>
-    <Package ID="aWVtX3NwZWMyXzEuMjFfMjAxOC0xMC0zMSAxODoxOToxOF9tdXNpbA=="
-             Author="musil" Timestamp="2018-10-31 18:19:18" Description="iem_spec2[v1.21](Windows-amd64-32)(Windows-i386-32)(Sources).dek"
-             Version="1.21" URL="https://puredata.info/Members/musil/software/iem_spec2/1.21/iem_spec2[v1.21](Windows-amd64-32)(Windows-i386-32)(Sources).dek">
+    <Package ID="Z3Btb3Rpb25fMC4xLjBfMjAyNC0xMS0yMCAxMTo0MDo0MV9hZ3JhZWY="
+             Author="agraef" Timestamp="2024-11-20 11:40:41" Description="gpmotion[v0.1.0](Windows-amd64-32)(Windows-amd64-64).dek"
+             Version="0.1.0" URL="https://puredata.info/Members/agraef/software/gpmotion/0.1.0/gpmotion[v0.1.0](Windows-amd64-32)(Windows-amd64-64).dek">
       <Objects>
-        <Object Name="spec2_1p1z_freq~"/>
-        <Object Name="spec2_1p1z_time~"/>
-        <Object Name="spec2_abs~"/>
-        <Object Name="spec2_add_scalar~"/>
-        <Object Name="spec2_add~"/>
-        <Object Name="spec2_block_delay~"/>
-        <Object Name="spec2_clip_max~"/>
-        <Object Name="spec2_clip_min~"/>
-        <Object Name="spec2_dbtopow~"/>
-        <Object Name="spec2_dbtorms~"/>
-        <Object Name="spec2_matrix_bundle_stat~"/>
-        <Object Name="spec2_mul_scalar~"/>
-        <Object Name="spec2_mul~"/>
-        <Object Name="spec2_powtodb~"/>
-        <Object Name="spec2_rmstodb~"/>
-        <Object Name="spec2_shift~"/>
-        <Object Name="spec2_sqrt~"/>
-        <Object Name="spec2_stretch~"/>
-        <Object Name="spec2_sub~"/>
-        <Object Name="spec2_sum~"/>
-        <Object Name="spec2_tab_conv~"/>
-        <Object Name="spec2_tabreceive_enable~"/>
-        <Object Name="spec2_tabreceive~"/>
+        <Object Name="gpmotion"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="pd">
+    <Package ID="cGRfMC41Ni4yXzIwMjYtMDItMDkgMTc6MzM6NTFfem1vZWxuaWc=" Author="zmoelnig"
+             Timestamp="2026-02-09 17:33:51" Description="pd/0.56.2 (dummy library for built-in objects)"
+             Version="0.56.2" URL="https://puredata.info/Members/zmoelnig/software/pd/0.56.2/pd[v0.56.2].dek">
+      <Objects>
+        <Object Name="!="/>
+        <Object Name="%"/>
+        <Object Name="&amp;"/>
+        <Object Name="&amp;&amp;"/>
+        <Object Name="*"/>
+        <Object Name="*~"/>
+        <Object Name="+"/>
+        <Object Name="+~"/>
+        <Object Name="-"/>
+        <Object Name="-~"/>
+        <Object Name="/"/>
+        <Object Name="/~"/>
+        <Object Name="&lt;"/>
+        <Object Name="&lt;&lt;"/>
+        <Object Name="&lt;="/>
+        <Object Name="=="/>
+        <Object Name="&gt;"/>
+        <Object Name="&gt;="/>
+        <Object Name="&gt;&gt;"/>
+        <Object Name="abs"/>
+        <Object Name="abs~"/>
+        <Object Name="adc~"/>
+        <Object Name="append"/>
+        <Object Name="array"/>
+        <Object Name="array get"/>
+        <Object Name="array max"/>
+        <Object Name="array min"/>
+        <Object Name="array quantile"/>
+        <Object Name="array random"/>
+        <Object Name="array set"/>
+        <Object Name="array size"/>
+        <Object Name="array sum"/>
+        <Object Name="atan"/>
+        <Object Name="atan2"/>
+        <Object Name="b"/>
+        <Object Name="bag"/>
+        <Object Name="bang~"/>
+        <Object Name="bendin"/>
+        <Object Name="bendout"/>
+        <Object Name="biquad~"/>
+        <Object Name="block~"/>
+        <Object Name="bng"/>
+        <Object Name="bp~"/>
+        <Object Name="catch~"/>
+        <Object Name="change"/>
+        <Object Name="clip"/>
+        <Object Name="clip~"/>
+        <Object Name="clone"/>
+        <Object Name="cnv"/>
+        <Object Name="cos"/>
+        <Object Name="cos~"/>
+        <Object Name="cpole~"/>
+        <Object Name="cputime"/>
+        <Object Name="ctlin"/>
+        <Object Name="ctlout"/>
+        <Object Name="czero_rev~"/>
+        <Object Name="czero~"/>
+        <Object Name="dac~"/>
+        <Object Name="dbtopow"/>
+        <Object Name="dbtopow~"/>
+        <Object Name="dbtorms"/>
+        <Object Name="dbtorms~"/>
+        <Object Name="declare"/>
+        <Object Name="del"/>
+        <Object Name="delay"/>
+        <Object Name="delread4~"/>
+        <Object Name="delread~"/>
+        <Object Name="delwrite~"/>
+        <Object Name="div"/>
+        <Object Name="drawcurve"/>
+        <Object Name="drawnumber"/>
+        <Object Name="drawpolygon"/>
+        <Object Name="drawsymbol"/>
+        <Object Name="drawtext"/>
+        <Object Name="element"/>
+        <Object Name="env~"/>
+        <Object Name="exp"/>
+        <Object Name="expr"/>
+        <Object Name="expr~"/>
+        <Object Name="exp~"/>
+        <Object Name="f"/>
+        <Object Name="fexpr~"/>
+        <Object Name="fft~"/>
+        <Object Name="file"/>
+        <Object Name="file copy"/>
+        <Object Name="file cwd"/>
+        <Object Name="file define"/>
+        <Object Name="file delete"/>
+        <Object Name="file glob"/>
+        <Object Name="file handle"/>
+        <Object Name="file isabsolute"/>
+        <Object Name="file isdirectory"/>
+        <Object Name="file isfile"/>
+        <Object Name="file join"/>
+        <Object Name="file mkdir"/>
+        <Object Name="file move"/>
+        <Object Name="file normalize"/>
+        <Object Name="file patchpath"/>
+        <Object Name="file size"/>
+        <Object Name="file split"/>
+        <Object Name="file splitext"/>
+        <Object Name="file splitname"/>
+        <Object Name="file stat"/>
+        <Object Name="file which"/>
+        <Object Name="filledcurve"/>
+        <Object Name="filledpolygon"/>
+        <Object Name="framp~"/>
+        <Object Name="fswap"/>
+        <Object Name="ftom"/>
+        <Object Name="ftom~"/>
+        <Object Name="fudiformat"/>
+        <Object Name="fudiparse"/>
+        <Object Name="get"/>
+        <Object Name="getsize"/>
+        <Object Name="hdl"/>
+        <Object Name="hip~"/>
+        <Object Name="hradio"/>
+        <Object Name="hsl"/>
+        <Object Name="hslider"/>
+        <Object Name="i"/>
+        <Object Name="ifft~"/>
+        <Object Name="inlet"/>
+        <Object Name="inlet~"/>
+        <Object Name="int"/>
+        <Object Name="key"/>
+        <Object Name="keyname"/>
+        <Object Name="keyup"/>
+        <Object Name="line"/>
+        <Object Name="line~"/>
+        <Object Name="list append"/>
+        <Object Name="list fromsymbol"/>
+        <Object Name="list length"/>
+        <Object Name="list prepend"/>
+        <Object Name="list split"/>
+        <Object Name="list store"/>
+        <Object Name="list tosymbol"/>
+        <Object Name="list trim"/>
+        <Object Name="loadbang"/>
+        <Object Name="log"/>
+        <Object Name="log~"/>
+        <Object Name="lop~"/>
+        <Object Name="makefilename"/>
+        <Object Name="makenote"/>
+        <Object Name="max"/>
+        <Object Name="max~"/>
+        <Object Name="metro"/>
+        <Object Name="midiin"/>
+        <Object Name="midiout"/>
+        <Object Name="midirealtimein"/>
+        <Object Name="min"/>
+        <Object Name="min~"/>
+        <Object Name="mod"/>
+        <Object Name="moses"/>
+        <Object Name="mtof"/>
+        <Object Name="mtof~"/>
+        <Object Name="my_canvas"/>
+        <Object Name="my_numbox"/>
+        <Object Name="namecanvas"/>
+        <Object Name="nbx"/>
+        <Object Name="netreceive"/>
+        <Object Name="netsend"/>
+        <Object Name="noise~"/>
+        <Object Name="notein"/>
+        <Object Name="noteout"/>
+        <Object Name="openpanel"/>
+        <Object Name="oscformat"/>
+        <Object Name="oscparse"/>
+        <Object Name="osc~"/>
+        <Object Name="outlet"/>
+        <Object Name="outlet~"/>
+        <Object Name="pack"/>
+        <Object Name="page"/>
+        <Object Name="pd"/>
+        <Object Name="pdcontrol"/>
+        <Object Name="pgmin"/>
+        <Object Name="pgmout"/>
+        <Object Name="phasor~"/>
+        <Object Name="pipe"/>
+        <Object Name="plot"/>
+        <Object Name="pointer"/>
+        <Object Name="poly"/>
+        <Object Name="polytouchin"/>
+        <Object Name="polytouchout"/>
+        <Object Name="pow"/>
+        <Object Name="powtodb"/>
+        <Object Name="powtodb~"/>
+        <Object Name="pow~"/>
+        <Object Name="print"/>
+        <Object Name="print~"/>
+        <Object Name="q8_rsqrt~"/>
+        <Object Name="q8_sqrt~"/>
+        <Object Name="qlist"/>
+        <Object Name="r"/>
+        <Object Name="radiobut"/>
+        <Object Name="radiobutton"/>
+        <Object Name="random"/>
+        <Object Name="rdb"/>
+        <Object Name="readsf~"/>
+        <Object Name="realtime"/>
+        <Object Name="receive"/>
+        <Object Name="receive~"/>
+        <Object Name="rfft~"/>
+        <Object Name="rifft~"/>
+        <Object Name="rmstodb"/>
+        <Object Name="rmstodb~"/>
+        <Object Name="route"/>
+        <Object Name="rpole~"/>
+        <Object Name="rsqrt~"/>
+        <Object Name="rzero_rev~"/>
+        <Object Name="rzero~"/>
+        <Object Name="r~"/>
+        <Object Name="s"/>
+        <Object Name="samphold~"/>
+        <Object Name="samplerate~"/>
+        <Object Name="savepanel"/>
+        <Object Name="savestate"/>
+        <Object Name="scalar"/>
+        <Object Name="sel"/>
+        <Object Name="select"/>
+        <Object Name="send"/>
+        <Object Name="send~"/>
+        <Object Name="set"/>
+        <Object Name="setsize"/>
+        <Object Name="sig~"/>
+        <Object Name="sin"/>
+        <Object Name="slop~"/>
+        <Object Name="snake_in~"/>
+        <Object Name="snake_out~"/>
+        <Object Name="snake~"/>
+        <Object Name="snapshot~"/>
+        <Object Name="soundfiler"/>
+        <Object Name="spigot"/>
+        <Object Name="sqrt"/>
+        <Object Name="sqrt~"/>
+        <Object Name="stripnote"/>
+        <Object Name="struct"/>
+        <Object Name="swap"/>
+        <Object Name="switch~"/>
+        <Object Name="sysexin"/>
+        <Object Name="s~"/>
+        <Object Name="t"/>
+        <Object Name="table"/>
+        <Object Name="tabosc4~"/>
+        <Object Name="tabplay~"/>
+        <Object Name="tabread"/>
+        <Object Name="tabread4"/>
+        <Object Name="tabread4~"/>
+        <Object Name="tabread~"/>
+        <Object Name="tabreceive~"/>
+        <Object Name="tabsend~"/>
+        <Object Name="tabwrite"/>
+        <Object Name="tabwrite~"/>
+        <Object Name="tan"/>
+        <Object Name="template"/>
+        <Object Name="text"/>
+        <Object Name="text define"/>
+        <Object Name="text delete"/>
+        <Object Name="text fromlist"/>
+        <Object Name="text get"/>
+        <Object Name="text insert"/>
+        <Object Name="text search"/>
+        <Object Name="text sequence"/>
+        <Object Name="text set"/>
+        <Object Name="text size"/>
+        <Object Name="text tolist"/>
+        <Object Name="textfile"/>
+        <Object Name="tgl"/>
+        <Object Name="threshold~"/>
+        <Object Name="throw~"/>
+        <Object Name="timer"/>
+        <Object Name="toggle"/>
+        <Object Name="touchin"/>
+        <Object Name="touchout"/>
+        <Object Name="trace"/>
+        <Object Name="trigger"/>
+        <Object Name="unpack"/>
+        <Object Name="until"/>
+        <Object Name="v"/>
+        <Object Name="value"/>
+        <Object Name="vcf~"/>
+        <Object Name="vdl"/>
+        <Object Name="vd~"/>
+        <Object Name="vline~"/>
+        <Object Name="vpointer"/>
+        <Object Name="vradio"/>
+        <Object Name="vsl"/>
+        <Object Name="vslider"/>
+        <Object Name="vsnapshot~"/>
+        <Object Name="vu"/>
+        <Object Name="wrap"/>
+        <Object Name="wrap~"/>
+        <Object Name="writesf~"/>
+        <Object Name="|"/>
+        <Object Name="||"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="comport">
+    <Package ID="Y29tcG9ydF8xLjMuMV8yMDI2LTAyLTE4IDEyOjE5OjQ5X2llbWJvdA=="
+             Author="iembot" Timestamp="2026-02-18 12:19:49" Description="comport[v1.3.1](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
+             Version="1.3.1" URL="https://puredata.info/Members/iembot/software/comport/1.3.1/comport[v1.3.1](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="comport"/>
+      </Objects>
+    </Package>
+    <Package ID="Y29tcG9ydF8xLjNfMjAyNC0xMC0xMCAxNzo0Mjo1MF9pZW1ib3Q=" Author="iembot"
+             Timestamp="2024-10-10 17:42:50" Description="comport[v1.3](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
+             Version="1.3" URL="https://puredata.info/Members/iembot/software/comport/1.3/comport[v1.3](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="comport"/>
+      </Objects>
+    </Package>
+    <Package ID="Y29tcG9ydF8xLjJfMjAyMi0wMy0yMSAxMTo1MjoyN19pZW1ib3Q=" Author="iembot"
+             Timestamp="2022-03-21 11:52:27" Description="comport[v1.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="1.2" URL="https://puredata.info/Members/iembot/software/comport/1.2/comport[v1.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Linux-armv7-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="comport"/>
+      </Objects>
+    </Package>
+    <Package ID="Y29tcG9ydF8xLjEuMV8yMDE5LTAzLTE2IDAxOjI5OjQzX2x1Y2FyZGE="
+             Author="lucarda" Timestamp="2019-03-16 01:29:43" Description="comport[v1.1.1](Windows-amd64-32)(Sources).dek"
+             Version="1.1.1" URL="https://puredata.info/Members/lucarda/software/comport[v1.1.1](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="bird"/>
+        <Object Name="comport"/>
+      </Objects>
+    </Package>
+    <Package ID="Y29tcG9ydF8xLjFfMjAxOS0wMy0xNSAyMjo0Nzo1NF9sdWNhcmRh" Author="lucarda"
+             Timestamp="2019-03-15 22:47:54" Description="comport[v1.1](Windows-amd64-32)(Sources).dek"
+             Version="1.1" URL="https://puredata.info/Members/lucarda/software/comport[v1.1](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="bird"/>
+        <Object Name="comport"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="py">
+    <Package ID="cHlfMC4yLjJfMjAyMC0wNS0xOSAwMjoxMzo0N190aG9tYXM=" Author="thomas"
+             Timestamp="2020-05-19 02:13:47" Description="py[v0.2.2](Windows-amd64-32).dek"
+             Version="0.2.2" URL="https://puredata.info/Members/thomas/software/py/0.2.2/py[v0.2.2](Windows-amd64-32).dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="Fraise">
+    <Package ID="RnJhaXNlXzAuNC4wXzIwMjUtMDUtMjMgMTc6MjA6MjRfYW50MXI=" Author="ant1r"
+             Timestamp="2025-05-23 17:20:24" Description="Fraise[v0.4.0].dek"
+             Version="0.4.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.4.0/Fraise[v0.4.0].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy40XzIwMjUtMDUtMTIgMTM6MzI6NTVfYW50MXI=" Author="ant1r"
+             Timestamp="2025-05-12 13:32:55" Description="Fraise[v0.3.4].dek"
+             Version="0.3.4" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.4/Fraise[v0.3.4].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy4zXzIwMjQtMTAtMDkgMTU6MzU6MjFfYW50MXI=" Author="ant1r"
+             Timestamp="2024-10-09 15:35:21" Description="Fraise[v0.3.3].dek"
+             Version="0.3.3" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.3/Fraise[v0.3.3].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy4yXzIwMjQtMTAtMDkgMTQ6NDE6MDdfYW50MXI=" Author="ant1r"
+             Timestamp="2024-10-09 14:41:07" Description="Fraise[v0.3.2].dek"
+             Version="0.3.2" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.2/Fraise[v0.3.2].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy4xXzIwMjQtMDgtMjEgMTg6MzQ6NDJfYW50MXI=" Author="ant1r"
+             Timestamp="2024-08-21 18:34:42" Description="Fraise[v0.3.1].dek"
+             Version="0.3.1" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.1/Fraise[v0.3.1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy4wXzIwMjQtMDMtMjkgMTc6NTY6NTlfYW50MXI=" Author="ant1r"
+             Timestamp="2024-03-29 17:56:59" Description="Fraise[v0.3.0].dek"
+             Version="0.3.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.0/Fraise[v0.3.0].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMi4wXzIwMjMtMTEtMTYgMTc6MjQ6NTRfYW50MXI=" Author="ant1r"
+             Timestamp="2023-11-16 17:24:54" Description="Fraise[v0.2.0](Windows-amd64-32).dek"
+             Version="0.2.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.2.0/Fraise[v0.2.0](Windows-amd64-32).dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMS4xXzIwMjEtMDMtMjUgMTU6Mzk6MjlfYW50MXI=" Author="ant1r"
+             Timestamp="2021-03-25 15:39:29" Description="Fraise[v0.1.1].dek"
+             Version="0.1.1" URL="https://puredata.info/Members/ant1r/software/Fraise/0.1.1/Fraise[v0.1.1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMS4wXzIwMjEtMDEtMDcgMTI6MzI6MzVfYW50MXI=" Author="ant1r"
+             Timestamp="2021-01-07 12:32:35" Description="Fraise[v0.1.0].dek"
+             Version="0.1.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.1.0/Fraise[v0.1.0].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="earplug~">
+    <Package ID="ZWFycGx1Z35fMC4zLjBfMjAyMS0wNi0wNiAxODo0NTozOV9sdWNhcmRh"
+             Author="lucarda" Timestamp="2021-06-06 18:45:39" Description="earplug~[v0.3.0](Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.3.0" URL="https://puredata.info/Members/lucarda/software/earplug~/0.3.0/earplug~[v0.3.0](Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="earplug~"/>
+      </Objects>
+    </Package>
+    <Package ID="ZWFycGx1Z35fMC4wLmV4dGVuZGVkXzIwMjEtMDUtMjYgMDE6NDI6MThfbHVjYXJkYQ=="
+             Author="lucarda" Timestamp="2021-05-26 01:42:18" Description="earplug~[v0.0.extended](Windows-amd64-32)(Sources).dek"
+             Version="0.0.extended" URL="https://puredata.info/Members/lucarda/software/earplug~/0.0.extended/earplug~[v0.0.extended](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="earplug~"/>
       </Objects>
     </Package>
   </Packages>
@@ -10804,10 +10804,350 @@
     <Package ID="amxfMC4xLjJfMjAxOC0xMS0xMCAwMDoxMTozMl9qb3NlcGhsYXJyYWxkZQ=="
              Author="josephlarralde" Timestamp="2018-11-10 00:11:32" Description="jl[v0.1.2](Windows-amd64-32).dek"
              Version="0.1.2" URL="https://puredata.info/Members/josephlarralde/software/jl/0.1.2/jl[v0.1.2](Windows-amd64-32).dek">
-      <Objects/>
+      <Objects>
+        <Object Name="feedfm~"/>
+        <Object Name="flatten~"/>
+        <Object Name="gbend~"/>
+        <Object Name="gdelay~"/>
+        <Object Name="gflow~"/>
+        <Object Name="lr2ms~"/>
+        <Object Name="magnetize"/>
+        <Object Name="map"/>
+        <Object Name="merge~"/>
+        <Object Name="ms2lr~"/>
+        <Object Name="mtosf"/>
+        <Object Name="pulse"/>
+        <Object Name="rmetro"/>
+        <Object Name="sidechain~"/>
+        <Object Name="split~"/>
+        <Object Name="stut~"/>
+        <Object Name="tonnetz"/>
+      </Objects>
     </Package>
   </Packages>
   <Packages Name="fd_lib">
+    <Package ID="ZmRfbGliXzAuNC4wXzIwMjYtMDMtMTkgMTk6MDk6MzRfZmRjaA==" Author="fdch"
+             Timestamp="2026-03-19 19:09:34" Description="fd_lib[v0.4.0](Windows-amd64-32)(Sources).dek"
+             Version="0.4.0" URL="https://puredata.info/Members/fdch/software/fd_lib/0.4.0/fd_lib[v0.4.0](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="!msg"/>
+        <Object Name="bus~"/>
+        <Object Name="cantor"/>
+        <Object Name="clifford"/>
+        <Object Name="colormap"/>
+        <Object Name="combi"/>
+        <Object Name="comp2~"/>
+        <Object Name="compander~"/>
+        <Object Name="connect"/>
+        <Object Name="counter"/>
+        <Object Name="crand"/>
+        <Object Name="cuadratic"/>
+        <Object Name="delit"/>
+        <Object Name="dispatch~"/>
+        <Object Name="factor"/>
+        <Object Name="fd_2bit"/>
+        <Object Name="fd_6x6"/>
+        <Object Name="fd_any2list"/>
+        <Object Name="fd_arcsin"/>
+        <Object Name="fd_arcsin~"/>
+        <Object Name="fd_arg1"/>
+        <Object Name="fd_argc"/>
+        <Object Name="fd_argv"/>
+        <Object Name="fd_array-rerange"/>
+        <Object Name="fd_array2pix"/>
+        <Object Name="fd_arrayautotrim"/>
+        <Object Name="fd_arrayclone"/>
+        <Object Name="fd_arraycopy"/>
+        <Object Name="fd_arraymorph"/>
+        <Object Name="fd_arraysort1"/>
+        <Object Name="fd_arraysort2"/>
+        <Object Name="fd_autopatch"/>
+        <Object Name="fd_autopoly"/>
+        <Object Name="fd_background"/>
+        <Object Name="fd_bang"/>
+        <Object Name="fd_bangem"/>
+        <Object Name="fd_bark"/>
+        <Object Name="fd_bark~"/>
+        <Object Name="fd_bass"/>
+        <Object Name="fd_bigmyvu"/>
+        <Object Name="fd_blackman"/>
+        <Object Name="fd_blackman~"/>
+        <Object Name="fd_blob"/>
+        <Object Name="fd_blobtracks"/>
+        <Object Name="fd_blobvid"/>
+        <Object Name="fd_bufvid"/>
+        <Object Name="fd_butterworth"/>
+        <Object Name="fd_calm"/>
+        <Object Name="fd_camara"/>
+        <Object Name="fd_cauchy"/>
+        <Object Name="fd_cauchy~"/>
+        <Object Name="fd_ceil"/>
+        <Object Name="fd_circle"/>
+        <Object Name="fd_clarg"/>
+        <Object Name="fd_clicktrack"/>
+        <Object Name="fd_colorpicker"/>
+        <Object Name="fd_colortheme"/>
+        <Object Name="fd_comp~"/>
+        <Object Name="fd_corr"/>
+        <Object Name="fd_cosline~"/>
+        <Object Name="fd_countdown"/>
+        <Object Name="fd_cputime"/>
+        <Object Name="fd_critical"/>
+        <Object Name="fd_cuacua"/>
+        <Object Name="fd_cubic"/>
+        <Object Name="fd_dacout"/>
+        <Object Name="fd_dacout_rec"/>
+        <Object Name="fd_dactest"/>
+        <Object Name="fd_data"/>
+        <Object Name="fd_dataDroplet"/>
+        <Object Name="fd_dataExp"/>
+        <Object Name="fd_dataGui"/>
+        <Object Name="fd_dataHann"/>
+        <Object Name="fd_dataID"/>
+        <Object Name="fd_dataLine"/>
+        <Object Name="fd_dataMorph"/>
+        <Object Name="fd_dataMorphArray"/>
+        <Object Name="fd_dataMorphGui"/>
+        <Object Name="fd_dataMorphWidth"/>
+        <Object Name="fd_dataRand"/>
+        <Object Name="fd_dataRead"/>
+        <Object Name="fd_dataRead1"/>
+        <Object Name="fd_dataRead3"/>
+        <Object Name="fd_dataStoreGui"/>
+        <Object Name="fd_dataVis"/>
+        <Object Name="fd_dataWalk"/>
+        <Object Name="fd_delit"/>
+        <Object Name="fd_dels"/>
+        <Object Name="fd_distor"/>
+        <Object Name="fd_distributions"/>
+        <Object Name="fd_dory"/>
+        <Object Name="fd_dsp"/>
+        <Object Name="fd_dsp-bang"/>
+        <Object Name="fd_dspon"/>
+        <Object Name="fd_emap2"/>
+        <Object Name="fd_env"/>
+        <Object Name="fd_etareti"/>
+        <Object Name="fd_exp"/>
+        <Object Name="fd_expo~"/>
+        <Object Name="fd_fftfilt"/>
+        <Object Name="fd_filt"/>
+        <Object Name="fd_fk"/>
+        <Object Name="fd_fletcher-munson"/>
+        <Object Name="fd_floor"/>
+        <Object Name="fd_fm"/>
+        <Object Name="fd_fmosc"/>
+        <Object Name="fd_fromsig"/>
+        <Object Name="fd_gain~"/>
+        <Object Name="fd_gate"/>
+        <Object Name="fd_gauss"/>
+        <Object Name="fd_gauss~"/>
+        <Object Name="fd_gem2feat"/>
+        <Object Name="fd_gembuf"/>
+        <Object Name="fd_GEMbuffsize"/>
+        <Object Name="fd_gemloop"/>
+        <Object Name="fd_gemsphere"/>
+        <Object Name="fd_geomean"/>
+        <Object Name="fd_get-element"/>
+        <Object Name="fd_getcomb"/>
+        <Object Name="fd_getid"/>
+        <Object Name="fd_getsize"/>
+        <Object Name="fd_gr"/>
+        <Object Name="fd_grain"/>
+        <Object Name="fd_guiDelta"/>
+        <Object Name="fd_guiFont"/>
+        <Object Name="fd_guiTemplate"/>
+        <Object Name="fd_hann~"/>
+        <Object Name="fd_hihat"/>
+        <Object Name="fd_hopmsec"/>
+        <Object Name="fd_hradio"/>
+        <Object Name="fd_img2feat"/>
+        <Object Name="fd_impulse"/>
+        <Object Name="fd_input"/>
+        <Object Name="fd_inputGui"/>
+        <Object Name="fd_iterate"/>
+        <Object Name="fd_itpoint"/>
+        <Object Name="fd_jumpv"/>
+        <Object Name="fd_karplus"/>
+        <Object Name="fd_key"/>
+        <Object Name="fd_keycomb"/>
+        <Object Name="fd_kinetica"/>
+        <Object Name="fd_kp"/>
+        <Object Name="fd_legato"/>
+        <Object Name="fd_lib"/>
+        <Object Name="fd_lines"/>
+        <Object Name="fd_list-last"/>
+        <Object Name="fd_list-pointer"/>
+        <Object Name="fd_listout"/>
+        <Object Name="fd_log"/>
+        <Object Name="fd_logistic"/>
+        <Object Name="fd_logistic~"/>
+        <Object Name="fd_logo"/>
+        <Object Name="fd_loop"/>
+        <Object Name="fd_lorenz"/>
+        <Object Name="fd_lorenz-expr"/>
+        <Object Name="fd_lorosc"/>
+        <Object Name="fd_lorsig"/>
+        <Object Name="fd_lspace"/>
+        <Object Name="fd_m-comb"/>
+        <Object Name="fd_ma"/>
+        <Object Name="fd_map"/>
+        <Object Name="fd_map2"/>
+        <Object Name="fd_mark"/>
+        <Object Name="fd_markfour"/>
+        <Object Name="fd_markov"/>
+        <Object Name="fd_markov3"/>
+        <Object Name="fd_markov5"/>
+        <Object Name="fd_matrix-comb"/>
+        <Object Name="fd_mbass"/>
+        <Object Name="fd_metro"/>
+        <Object Name="fd_midiread"/>
+        <Object Name="fd_miller-gauss"/>
+        <Object Name="fd_minimax"/>
+        <Object Name="fd_msecparse"/>
+        <Object Name="fd_mtxdelit"/>
+        <Object Name="fd_mtxout"/>
+        <Object Name="fd_mult"/>
+        <Object Name="fd_n!"/>
+        <Object Name="fd_n=n-1"/>
+        <Object Name="fd_navigator"/>
+        <Object Name="fd_netreceive"/>
+        <Object Name="fd_netsend"/>
+        <Object Name="fd_next"/>
+        <Object Name="fd_noise~"/>
+        <Object Name="fd_nonpulmonic"/>
+        <Object Name="fd_norep"/>
+        <Object Name="fd_norm"/>
+        <Object Name="fd_norm-abs"/>
+        <Object Name="fd_note"/>
+        <Object Name="fd_nouns"/>
+        <Object Name="fd_numkey"/>
+        <Object Name="fd_objcreator"/>
+        <Object Name="fd_octaver"/>
+        <Object Name="fd_once"/>
+        <Object Name="fd_osc"/>
+        <Object Name="fd_oshift~"/>
+        <Object Name="fd_out"/>
+        <Object Name="fd_pad"/>
+        <Object Name="fd_pan"/>
+        <Object Name="fd_parsenum"/>
+        <Object Name="fd_phatty"/>
+        <Object Name="fd_pix2list"/>
+        <Object Name="fd_pix_shift"/>
+        <Object Name="fd_pixcrop"/>
+        <Object Name="fd_pixrecord"/>
+        <Object Name="fd_plot"/>
+        <Object Name="fd_pno"/>
+        <Object Name="fd_poisson"/>
+        <Object Name="fd_poisson~"/>
+        <Object Name="fd_printer"/>
+        <Object Name="fd_pshift"/>
+        <Object Name="fd_pshift~"/>
+        <Object Name="fd_r"/>
+        <Object Name="fd_range"/>
+        <Object Name="fd_rbd"/>
+        <Object Name="fd_read-resize"/>
+        <Object Name="fd_rec"/>
+        <Object Name="fd_receive"/>
+        <Object Name="fd_reflect"/>
+        <Object Name="fd_relocate"/>
+        <Object Name="fd_rexpo~"/>
+        <Object Name="fd_rgb"/>
+        <Object Name="fd_rgbcol"/>
+        <Object Name="fd_rnd"/>
+        <Object Name="fd_round"/>
+        <Object Name="fd_rsdel~"/>
+        <Object Name="fd_s-prob"/>
+        <Object Name="fd_s-prob-5"/>
+        <Object Name="fd_salvo"/>
+        <Object Name="fd_scales"/>
+        <Object Name="fd_sdel~"/>
+        <Object Name="fd_seltab"/>
+        <Object Name="fd_send"/>
+        <Object Name="fd_set-element"/>
+        <Object Name="fd_shader"/>
+        <Object Name="fd_shift"/>
+        <Object Name="fd_shuffle"/>
+        <Object Name="fd_siginfo"/>
+        <Object Name="fd_sin"/>
+        <Object Name="fd_sinc"/>
+        <Object Name="fd_sinc~"/>
+        <Object Name="fd_sinh"/>
+        <Object Name="fd_sinh~"/>
+        <Object Name="fd_smooth"/>
+        <Object Name="fd_smooth_brute"/>
+        <Object Name="fd_snote"/>
+        <Object Name="fd_sp"/>
+        <Object Name="fd_spat"/>
+        <Object Name="fd_specplot~"/>
+        <Object Name="fd_spigot"/>
+        <Object Name="fd_spigot3"/>
+        <Object Name="fd_spline~"/>
+        <Object Name="fd_step"/>
+        <Object Name="fd_stick"/>
+        <Object Name="fd_stopwatch"/>
+        <Object Name="fd_sum"/>
+        <Object Name="fd_swap"/>
+        <Object Name="fd_switch"/>
+        <Object Name="fd_tempo-msec"/>
+        <Object Name="fd_textsort2"/>
+        <Object Name="fd_tglvis"/>
+        <Object Name="fd_tom"/>
+        <Object Name="fd_toroman"/>
+        <Object Name="fd_tovowel"/>
+        <Object Name="fd_tracktopol"/>
+        <Object Name="fd_trapezoid~"/>
+        <Object Name="fd_triangle~"/>
+        <Object Name="fd_trunc2n"/>
+        <Object Name="fd_untext"/>
+        <Object Name="fd_updown"/>
+        <Object Name="fd_vibrato"/>
+        <Object Name="fd_vidbuf"/>
+        <Object Name="fd_visera"/>
+        <Object Name="fd_vu"/>
+        <Object Name="fd_welch"/>
+        <Object Name="fd_welch~"/>
+        <Object Name="fd_wielevy"/>
+        <Object Name="fd_wielevy2"/>
+        <Object Name="fd_wincat"/>
+        <Object Name="fd_winconcat"/>
+        <Object Name="fd_windows"/>
+        <Object Name="fd_winreceive~"/>
+        <Object Name="fd_wood"/>
+        <Object Name="fd_write"/>
+        <Object Name="fd_write1"/>
+        <Object Name="fd_write2"/>
+        <Object Name="fd_write5"/>
+        <Object Name="fd_xnote"/>
+        <Object Name="fd_z12"/>
+        <Object Name="fd_zero-crossing~"/>
+        <Object Name="fdm"/>
+        <Object Name="frand"/>
+        <Object Name="glistinfo"/>
+        <Object Name="halton"/>
+        <Object Name="henon"/>
+        <Object Name="iterate"/>
+        <Object Name="list-exec"/>
+        <Object Name="lorenz"/>
+        <Object Name="lornorm"/>
+        <Object Name="lorsig~"/>
+        <Object Name="lor~"/>
+        <Object Name="mandelbrot"/>
+        <Object Name="minimax"/>
+        <Object Name="mtwister"/>
+        <Object Name="norm"/>
+        <Object Name="parabola"/>
+        <Object Name="particle"/>
+        <Object Name="pmtwister"/>
+        <Object Name="prandom"/>
+        <Object Name="randy"/>
+        <Object Name="reflect"/>
+        <Object Name="root"/>
+        <Object Name="scroll"/>
+        <Object Name="siginfo"/>
+        <Object Name="sradio"/>
+        <Object Name="tracks"/>
+      </Objects>
+    </Package>
     <Package ID="ZmRfbGliXzAuMV8yMDE5LTEwLTA0IDAxOjMzOjM0X2ZkY2g=" Author="fdch"
              Timestamp="2019-10-04 01:33:34" Description="fd_lib[v0.1](Windows-amd64-32)(Sources).dek"
              Version="0.1" URL="https://puredata.info/Members/fdch/software/fd_lib/0.1/fd_lib[v0.1](Windows-amd64-32)(Sources).dek">
@@ -19440,7 +19780,9 @@
     <Package ID="bWlkaWZpbGVfMC40XzIwMjAtMDQtMDIgMDI6NTQ6MjdfbWFydGlucnA="
              Author="martinrp" Timestamp="2020-04-02 02:54:27" Description="midifile[v0.4](Windows-amd64-32)(Sources).dek"
              Version="0.4" URL="https://puredata.info/Members/martinrp/software/midifile/0.4/midifile[v0.4](Windows-amd64-32)(Sources).dek">
-      <Objects/>
+      <Objects>
+        <Object Name="midifile"/>
+      </Objects>
     </Package>
     <Package ID="bWlkaWZpbGVfMC4wLjIwMjAwMzEyXzIwMjAtMDMtMTEgMTc6MTM6MDFfbWFydGlucnA="
              Author="martinrp" Timestamp="2020-03-11 17:13:01" Description="midifile[v0.0.20200312](Windows-amd64-32)(Sources).dek"
@@ -20056,15 +20398,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="flite">
-    <Package ID="ZmxpdGVfMC4zLjJfMjAyMi0wNi0yNCAxOTo0OTo1N19sdWNhcmRh" Author="lucarda"
-             Timestamp="2022-06-24 19:49:57" Description="flite[v0.3.2](Windows-amd64-32)(Windows-i386-32).dek"
-             Version="0.3.2" URL="https://puredata.info/Members/lucarda/software/flite/0.3.2/flite[v0.3.2](Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects>
-        <Object Name="flite"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="maxlib">
     <Package ID="bWF4bGliXzEuNS44XzIwMTktMTItMjAgMTc6MjA6MzhfZmprcmFhbg=="
              Author="fjkraan" Timestamp="2019-12-20 17:20:38" Description="maxlib[v1.5.8](Windows-amd64-32)(Sources).dek"
@@ -20194,6 +20527,15 @@
         <Object Name="urn"/>
         <Object Name="velocity"/>
         <Object Name="weibull"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="flite">
+    <Package ID="ZmxpdGVfMC4zLjJfMjAyMi0wNi0yNCAxOTo0OTo1N19sdWNhcmRh" Author="lucarda"
+             Timestamp="2022-06-24 19:49:57" Description="flite[v0.3.2](Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.3.2" URL="https://puredata.info/Members/lucarda/software/flite/0.3.2/flite[v0.3.2](Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="flite"/>
       </Objects>
     </Package>
   </Packages>
