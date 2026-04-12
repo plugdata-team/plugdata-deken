@@ -5501,8 +5501,8 @@
     </Package>
   </Packages>
   <Packages Name="FluidCorpusManipulation">
-    <Package ID="Rmx1aWRDb3JwdXNNYW5pcHVsYXRpb25fMS4wLjl+bmlnaHRseV8yMDI2LTAzLTI0IDIwOjQ1OjAzX2ZsdWNvbWE="
-             Author="flucoma" Timestamp="2026-03-24 20:45:03" Description="FluidCorpusManipulation[v1.0.9~nightly](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek"
+    <Package ID="Rmx1aWRDb3JwdXNNYW5pcHVsYXRpb25fMS4wLjl+bmlnaHRseV8yMDI2LTA0LTExIDE0OjI3OjMzX2ZsdWNvbWE="
+             Author="flucoma" Timestamp="2026-04-11 14:27:33" Description="FluidCorpusManipulation[v1.0.9~nightly](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek"
              Version="1.0.9~nightly" URL="https://puredata.info/Members/flucoma/software/FluidCorpusManipulation/1.0.9~nightly/FluidCorpusManipulation[v1.0.9~nightly](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek">
       <Objects>
         <Object Name="flucoma"/>
@@ -5679,8 +5679,8 @@
     </Package>
   </Packages>
   <Packages Name="Gem">
-    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNi0wNC0xMCAyMDo1MzowOV9pZW1ib3Q="
-             Author="iembot" Timestamp="2026-04-10 20:53:09" Description="Gem[v0.94-snapshot](Linux-amd64-32)(Linux-amd64-64).dek"
+    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNi0wNC0xMSAyMDo1Njo0N19pZW1ib3Q="
+             Author="iembot" Timestamp="2026-04-11 20:56:47" Description="Gem[v0.94-snapshot](Linux-amd64-32)(Linux-amd64-64).dek"
              Version="0.94-snapshot" URL="https://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Linux-amd64-32)(Linux-amd64-64).dek">
       <Objects>
         <Object Name="_textbbox"/>
