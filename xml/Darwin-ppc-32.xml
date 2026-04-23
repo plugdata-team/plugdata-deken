@@ -284,17 +284,17 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="iem_tab">
-    <Package ID="aWVtX3RhYl8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjI0OjQxX3ptb2Vsbmln"
-             Author="zmoelnig" Timestamp="2015-12-10 14:24:41" Description="iem_tab-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/iem_tab/0-0extended/iem_tab-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="windowing">
     <Package ID="d2luZG93aW5nXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MzU6NDVfem1vZWxuaWc="
              Author="zmoelnig" Timestamp="2015-12-10 14:35:45" Description="windowing-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/windowing/0-0extended/windowing-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="iem_tab">
+    <Package ID="aWVtX3RhYl8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjI0OjQxX3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2015-12-10 14:24:41" Description="iem_tab-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/iem_tab/0-0extended/iem_tab-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
       <Objects/>
     </Package>
   </Packages>
@@ -2260,22 +2260,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="pd-push-and-hold">
-    <Package ID="cGQtcHVzaC1hbmQtaG9sZF8wLjJfMjAxOS0wMy0xNyAxNDoyMTowMV9jaHIxNW0="
-             Author="chr15m" Timestamp="2019-03-17 14:21:01" Description="pd-push-and-hold[v0.2].dek"
-             Version="0.2" URL="https://puredata.info/Members/chr15m/software/pd-push-and-hold/0.2/pd-push-and-hold[v0.2].dek">
-      <Objects>
-        <Object Name="push-and-hold"/>
-      </Objects>
-    </Package>
-    <Package ID="cGQtcHVzaC1hbmQtaG9sZF8wLjFfMjAxOS0wMy0xNyAxMzoxNjo0M19jaHIxNW0="
-             Author="chr15m" Timestamp="2019-03-17 13:16:43" Description="pd-push-and-hold[v0.1].dek"
-             Version="0.1" URL="https://puredata.info/Members/chr15m/software/pd-push-and-hold/0.1/pd-push-and-hold[v0.1].dek">
-      <Objects>
-        <Object Name="push-and-hold"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="mrpeach">
     <Package ID="bXJwZWFjaF8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjI4OjE2X3ptb2Vsbmln"
              Author="zmoelnig" Timestamp="2015-12-10 14:28:16" Description="mrpeach-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
@@ -3241,6 +3225,22 @@
              Author="angelfaraldo" Timestamp="2016-03-10 20:07:11" Description="pdmus-v0.1--externals.zip"
              Version="0.1" URL="https://puredata.info/downloads/pdmus/releases/0.1/pdmus-v0.1--externals.zip">
       <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="pd-push-and-hold">
+    <Package ID="cGQtcHVzaC1hbmQtaG9sZF8wLjJfMjAxOS0wMy0xNyAxNDoyMTowMV9jaHIxNW0="
+             Author="chr15m" Timestamp="2019-03-17 14:21:01" Description="pd-push-and-hold[v0.2].dek"
+             Version="0.2" URL="https://puredata.info/Members/chr15m/software/pd-push-and-hold/0.2/pd-push-and-hold[v0.2].dek">
+      <Objects>
+        <Object Name="push-and-hold"/>
+      </Objects>
+    </Package>
+    <Package ID="cGQtcHVzaC1hbmQtaG9sZF8wLjFfMjAxOS0wMy0xNyAxMzoxNjo0M19jaHIxNW0="
+             Author="chr15m" Timestamp="2019-03-17 13:16:43" Description="pd-push-and-hold[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/chr15m/software/pd-push-and-hold/0.1/pd-push-and-hold[v0.1].dek">
+      <Objects>
+        <Object Name="push-and-hold"/>
+      </Objects>
     </Package>
   </Packages>
   <Packages Name="pdp">
