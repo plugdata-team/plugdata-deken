@@ -8890,6 +8890,20 @@
     </Package>
   </Packages>
   <Packages Name="pd_protobuf">
+    <Package ID="cGRfcHJvdG9idWZfMC4zLjFfMjAyNi0wNC0yNSAxNjozOTo1Ml9tb3NwYWs="
+             Author="mospak" Timestamp="2026-04-25 16:39:52" Description="pd_protobuf[v0.3.1](Linux-armv7-32).dek"
+             Version="0.3.1" URL="https://puredata.info/Members/mospak/software/pd_protobuf/0.3.1/pd_protobuf[v0.3.1](Linux-armv7-32).dek">
+      <Objects>
+        <Object Name="pb_decode"/>
+        <Object Name="pb_encode"/>
+        <Object Name="pb_int64_mod"/>
+        <Object Name="pb_int64_to_float"/>
+        <Object Name="pb_now"/>
+        <Object Name="pb_timestamp"/>
+        <Object Name="pb_unwrap"/>
+        <Object Name="protobuf"/>
+      </Objects>
+    </Package>
     <Package ID="cGRfcHJvdG9idWZfMC4zLjBfMjAyNi0wNC0yMyAwOTozNjowMF9tb3NwYWs="
              Author="mospak" Timestamp="2026-04-23 09:36:00" Description="pd_protobuf[v0.3.0](Linux-armv7-32).dek"
              Version="0.3.0" URL="https://puredata.info/Members/mospak/software/pd_protobuf/0.3.0/pd_protobuf[v0.3.0](Linux-armv7-32).dek">
