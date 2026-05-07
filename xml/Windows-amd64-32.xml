@@ -4797,6 +4797,168 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="RabbitControl">
+    <Package ID="UmFiYml0Q29udHJvbF8yLjAuMF8yMDI1LTA5LTA4IDIwOjQ0OjA0X2lfbl9nX28="
+             Author="i_n_g_o" Timestamp="2025-09-08 20:44:04" Description="RabbitControl[v2.0.0](Windows-amd64-32).dek"
+             Version="2.0.0" URL="https://puredata.info/Members/i_n_g_o/software/RabbitControl/2.0.0/RabbitControl[v2.0.0](Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="rabbit"/>
+        <Object Name="rabbit.client"/>
+        <Object Name="rabbit.format"/>
+        <Object Name="rabbit.parse"/>
+        <Object Name="rabbit.server"/>
+        <Object Name="rabbitcontrol"/>
+        <Object Name="rcp"/>
+        <Object Name="sizeprefix"/>
+        <Object Name="slipdecoder"/>
+        <Object Name="slipencoder"/>
+        <Object Name="sppp"/>
+      </Objects>
+    </Package>
+    <Package ID="UmFiYml0Q29udHJvbF8xLjAuNF8yMDIyLTA2LTExIDE1OjExOjMwX2lfbl9nX28="
+             Author="i_n_g_o" Timestamp="2022-06-11 15:11:30" Description="RabbitControl[v1.0.4](Windows-amd64-32)(Sources).dek"
+             Version="1.0.4" URL="https://puredata.info/Members/i_n_g_o/software/RabbitControl/1.0.4/RabbitControl[v1.0.4](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="rcp.client"/>
+        <Object Name="rcp.format"/>
+        <Object Name="rcp.parse"/>
+        <Object Name="rcp.server"/>
+        <Object Name="sizeprefix"/>
+        <Object Name="slipdecoder"/>
+        <Object Name="slipencoder"/>
+        <Object Name="sppp"/>
+        <Object Name="ws.client"/>
+        <Object Name="ws.server"/>
+      </Objects>
+    </Package>
+    <Package ID="UmFiYml0Q29udHJvbF8xLjAuM18yMDIyLTAzLTMxIDEyOjAzOjE5X2lfbl9nX28="
+             Author="i_n_g_o" Timestamp="2022-03-31 12:03:19" Description="RabbitControl[v1.0.3](Windows-amd64-32)(Sources).dek"
+             Version="1.0.3" URL="https://puredata.info/Members/i_n_g_o/software/RabbitControl/1.0.3/RabbitControl[v1.0.3](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="rcp.client"/>
+        <Object Name="rcp.format"/>
+        <Object Name="rcp.parse"/>
+        <Object Name="rcp.server"/>
+        <Object Name="sizeprefix"/>
+        <Object Name="slipdecoder"/>
+        <Object Name="slipencoder"/>
+        <Object Name="sppp"/>
+        <Object Name="ws.client"/>
+        <Object Name="ws.server"/>
+      </Objects>
+    </Package>
+    <Package ID="UmFiYml0Q29udHJvbF8xLjAuMl8yMDIyLTAzLTI1IDExOjA0OjQ5X2lfbl9nX28="
+             Author="i_n_g_o" Timestamp="2022-03-25 11:04:49" Description="RabbitControl[v1.0.2](Windows-amd64-32)(Sources).dek"
+             Version="1.0.2" URL="https://puredata.info/Members/i_n_g_o/software/RabbitControl/1.0.2/RabbitControl[v1.0.2](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="rcp.client"/>
+        <Object Name="rcp.format"/>
+        <Object Name="rcp.parse"/>
+        <Object Name="rcp.server"/>
+        <Object Name="sizeprefix"/>
+        <Object Name="slipdecoder"/>
+        <Object Name="slipencoder"/>
+        <Object Name="sppp"/>
+        <Object Name="ws.client"/>
+        <Object Name="ws.server"/>
+      </Objects>
+    </Package>
+    <Package ID="UmFiYml0Q29udHJvbF8xLjAuMV8yMDIyLTAzLTIwIDE2OjE5OjA3X2lfbl9nX28="
+             Author="i_n_g_o" Timestamp="2022-03-20 16:19:07" Description="RabbitControl[v1.0.1](Windows-amd64-32)(Sources).dek"
+             Version="1.0.1" URL="https://puredata.info/Members/i_n_g_o/software/RabbitControl/1.0.1/RabbitControl[v1.0.1](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="rcp.client"/>
+        <Object Name="rcp.format"/>
+        <Object Name="rcp.parse"/>
+        <Object Name="rcp.server"/>
+        <Object Name="sizeprefix"/>
+        <Object Name="slipdecoder"/>
+        <Object Name="slipencoder"/>
+        <Object Name="sppp"/>
+        <Object Name="ws.client"/>
+        <Object Name="ws.server"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="iempluginOSC">
+    <Package ID="aWVtcGx1Z2luT1NDXzAuMV8yMDE5LTA0LTEyIDEyOjQzOjU1X3NwYWNlY2hpbGQx"
+             Author="spacechild1" Timestamp="2019-04-12 12:43:55" Description="iempluginOSC[v0.1].dek"
+             Version="0.1" URL="https://puredata.info/Members/spacechild1/software/iempluginOSC/0.1/iempluginOSC[v0.1].dek">
+      <Objects>
+        <Object Name="iempluginOSC"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="earplug~">
+    <Package ID="ZWFycGx1Z35fMC4zLjBfMjAyMS0wNi0wNiAxODo0NTozOV9sdWNhcmRh"
+             Author="lucarda" Timestamp="2021-06-06 18:45:39" Description="earplug~[v0.3.0](Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.3.0" URL="https://puredata.info/Members/lucarda/software/earplug~/0.3.0/earplug~[v0.3.0](Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="earplug~"/>
+      </Objects>
+    </Package>
+    <Package ID="ZWFycGx1Z35fMC4wLmV4dGVuZGVkXzIwMjEtMDUtMjYgMDE6NDI6MThfbHVjYXJkYQ=="
+             Author="lucarda" Timestamp="2021-05-26 01:42:18" Description="earplug~[v0.0.extended](Windows-amd64-32)(Sources).dek"
+             Version="0.0.extended" URL="https://puredata.info/Members/lucarda/software/earplug~/0.0.extended/earplug~[v0.0.extended](Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="earplug~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="py">
+    <Package ID="cHlfMC4yLjJfMjAyMC0wNS0xOSAwMjoxMzo0N190aG9tYXM=" Author="thomas"
+             Timestamp="2020-05-19 02:13:47" Description="py[v0.2.2](Windows-amd64-32).dek"
+             Version="0.2.2" URL="https://puredata.info/Members/thomas/software/py/0.2.2/py[v0.2.2](Windows-amd64-32).dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="Fraise">
+    <Package ID="RnJhaXNlXzAuNC4wXzIwMjUtMDUtMjMgMTc6MjA6MjRfYW50MXI=" Author="ant1r"
+             Timestamp="2025-05-23 17:20:24" Description="Fraise[v0.4.0].dek"
+             Version="0.4.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.4.0/Fraise[v0.4.0].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy40XzIwMjUtMDUtMTIgMTM6MzI6NTVfYW50MXI=" Author="ant1r"
+             Timestamp="2025-05-12 13:32:55" Description="Fraise[v0.3.4].dek"
+             Version="0.3.4" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.4/Fraise[v0.3.4].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy4zXzIwMjQtMTAtMDkgMTU6MzU6MjFfYW50MXI=" Author="ant1r"
+             Timestamp="2024-10-09 15:35:21" Description="Fraise[v0.3.3].dek"
+             Version="0.3.3" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.3/Fraise[v0.3.3].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy4yXzIwMjQtMTAtMDkgMTQ6NDE6MDdfYW50MXI=" Author="ant1r"
+             Timestamp="2024-10-09 14:41:07" Description="Fraise[v0.3.2].dek"
+             Version="0.3.2" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.2/Fraise[v0.3.2].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy4xXzIwMjQtMDgtMjEgMTg6MzQ6NDJfYW50MXI=" Author="ant1r"
+             Timestamp="2024-08-21 18:34:42" Description="Fraise[v0.3.1].dek"
+             Version="0.3.1" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.1/Fraise[v0.3.1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMy4wXzIwMjQtMDMtMjkgMTc6NTY6NTlfYW50MXI=" Author="ant1r"
+             Timestamp="2024-03-29 17:56:59" Description="Fraise[v0.3.0].dek"
+             Version="0.3.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.0/Fraise[v0.3.0].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMi4wXzIwMjMtMTEtMTYgMTc6MjQ6NTRfYW50MXI=" Author="ant1r"
+             Timestamp="2023-11-16 17:24:54" Description="Fraise[v0.2.0](Windows-amd64-32).dek"
+             Version="0.2.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.2.0/Fraise[v0.2.0](Windows-amd64-32).dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMS4xXzIwMjEtMDMtMjUgMTU6Mzk6MjlfYW50MXI=" Author="ant1r"
+             Timestamp="2021-03-25 15:39:29" Description="Fraise[v0.1.1].dek"
+             Version="0.1.1" URL="https://puredata.info/Members/ant1r/software/Fraise/0.1.1/Fraise[v0.1.1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="RnJhaXNlXzAuMS4wXzIwMjEtMDEtMDcgMTI6MzI6MzVfYW50MXI=" Author="ant1r"
+             Timestamp="2021-01-07 12:32:35" Description="Fraise[v0.1.0].dek"
+             Version="0.1.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.1.0/Fraise[v0.1.0].dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="search-plugin">
     <Package ID="c2VhcmNoLXBsdWdpbl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNTowMzoyNV9jaHIxNW0="
              Author="chr15m" Timestamp="2015-08-07 15:03:25" Description="search-plugin-v0.0.extended--externals.zip"
@@ -6066,154 +6228,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="piloslib">
-    <Package ID="cGlsb3NsaWJfMS4wLjRfMjAyMy0wNi0wNCAxNjozOToyNV9ha3VudWxs"
-             Author="akunull" Timestamp="2023-06-04 16:39:25" Description="piloslib[v1.0.4].dek"
-             Version="1.0.4" URL="https://puredata.info/Members/akunull/software/piloslib/1.0.4/piloslib[v1.0.4].dek">
-      <Objects/>
-    </Package>
-    <Package ID="cGlsb3NsaWJfMS4wLjNfMjAyMy0wNi0wMSAwNDoyMDo0M19ha3VudWxs"
-             Author="akunull" Timestamp="2023-06-01 04:20:43" Description="piloslib[v1.0.3].dek"
-             Version="1.0.3" URL="https://puredata.info/Members/akunull/software/piloslib/1.0.3/piloslib[v1.0.3].dek">
-      <Objects/>
-    </Package>
-    <Package ID="cGlsb3NsaWJfMS4wLjJfMjAyMi0wOC0yMyAyMDo0MzoxNl9ha3VudWxs"
-             Author="akunull" Timestamp="2022-08-23 20:43:16" Description="piloslib[v1.0.2].dek"
-             Version="1.0.2" URL="https://puredata.info/Members/akunull/software/piloslib/1.0.2/piloslib[v1.0.2].dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="deken-plugin">
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuMTBfMjAyNi0wMi0xMCAxNToxOTo1N196bW9lbG5pZ2JvdA=="
-             Author="zmoelnigbot" Timestamp="2026-02-10 15:19:57" Description="deken-plugin[v0.10.10].dek"
-             Version="0.10.10" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.10/deken-plugin[v0.10.10].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuOF8yMDI2LTAxLTI3IDE3OjE2OjE4X3ptb2VsbmlnYm90"
-             Author="zmoelnigbot" Timestamp="2026-01-27 17:16:18" Description="deken-plugin[v0.10.8].dek"
-             Version="0.10.8" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.8/deken-plugin[v0.10.8].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuNl8yMDI1LTA1LTE5IDEyOjI2OjI0X3ptb2VsbmlnYm90"
-             Author="zmoelnigbot" Timestamp="2025-05-19 12:26:24" Description="deken-plugin[v0.10.6].dek"
-             Version="0.10.6" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.6/deken-plugin[v0.10.6].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuMl8yMDI0LTEyLTA2IDIyOjQ4OjAzX3ptb2VsbmlnYm90"
-             Author="zmoelnigbot" Timestamp="2024-12-06 22:48:03" Description="deken-plugin[v0.10.2].dek"
-             Version="0.10.2" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.2/deken-plugin[v0.10.2].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuMF8yMDI0LTEyLTAyIDE0OjQ3OjUwX3ptb2VsbmlnYm90"
-             Author="zmoelnigbot" Timestamp="2024-12-02 14:47:50" Description="deken-plugin[v0.10.0].dek"
-             Version="0.10.0" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.0/deken-plugin[v0.10.0].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4xOF8yMDI0LTAzLTE0IDE0OjM4OjUzX3ptb2VsbmlnYm90"
-             Author="zmoelnigbot" Timestamp="2024-03-14 14:38:53" Description="deken-plugin[v0.9.18].dek"
-             Version="0.9.18" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.18/deken-plugin[v0.9.18].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4xNl8yMDIzLTExLTI3IDEzOjIzOjU1X3ptb2VsbmlnYm90"
-             Author="zmoelnigbot" Timestamp="2023-11-27 13:23:55" Description="deken-plugin[v0.9.16].dek"
-             Version="0.9.16" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.16/deken-plugin[v0.9.16].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4xNF8yMDIzLTA5LTI1IDEyOjUwOjU3X3ptb2VsbmlnYm90"
-             Author="zmoelnigbot" Timestamp="2023-09-25 12:50:57" Description="deken-plugin[v0.9.14].dek"
-             Version="0.9.14" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.14/deken-plugin[v0.9.14].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4xMl8yMDIzLTA5LTI1IDEwOjE1OjU0X3ptb2VsbmlnYm90"
-             Author="zmoelnigbot" Timestamp="2023-09-25 10:15:54" Description="deken-plugin[v0.9.12].dek"
-             Version="0.9.12" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.12/deken-plugin[v0.9.12].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4xMF8yMDIzLTA3LTI3IDE0OjIzOjQ0X3ptb2VsbmlnYm90"
-             Author="zmoelnigbot" Timestamp="2023-07-27 14:23:44" Description="deken-plugin[v0.9.10].dek"
-             Version="0.9.10" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.10/deken-plugin[v0.9.10].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS44XzIwMjMtMDctMDcgMDg6MzI6MjJfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2023-07-07 08:32:22" Description="deken-plugin[v0.9.8].dek"
-             Version="0.9.8" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.8/deken-plugin[v0.9.8].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS42XzIwMjMtMDItMDYgMTM6MjU6MDFfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2023-02-06 13:25:01" Description="deken-plugin[v0.9.6].dek"
-             Version="0.9.6" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.6/deken-plugin[v0.9.6].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS40XzIwMjItMDktMDIgMjM6MTA6NDBfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2022-09-02 23:10:40" Description="deken-plugin[v0.9.4].dek"
-             Version="0.9.4" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.4/deken-plugin[v0.9.4].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4yXzIwMjItMDYtMDEgMTE6NTQ6MjFfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2022-06-01 11:54:21" Description="deken-plugin[v0.9.2].dek"
-             Version="0.9.2" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.2/deken-plugin[v0.9.2].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuOV8yMDIyLTA1LTIxIDE2OjE4OjMzX3ptb2VsbmlnYm90"
-             Author="zmoelnigbot" Timestamp="2022-05-21 16:18:33" Description="deken-plugin[v0.9].dek"
-             Version="0.9" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9/deken-plugin[v0.9].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuOC4wXzIwMjEtMDYtMTYgMjI6MDE6MzZfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2021-06-16 22:01:36" Description="deken-plugin[v0.8.0].dek"
-             Version="0.8.0" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.8.0/deken-plugin[v0.8.0].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuNy44XzIwMjEtMDMtMjIgMTU6MjA6MjVfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2021-03-22 15:20:25" Description="deken-plugin[v0.7.8].dek"
-             Version="0.7.8" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.7.8/deken-plugin[v0.7.8].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuNy42XzIwMjEtMDMtMTAgMTI6MTQ6MDJfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2021-03-10 12:14:02" Description="deken-plugin[v0.7.6].dek"
-             Version="0.7.6" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.7.6/deken-plugin[v0.7.6].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuNy40XzIwMjEtMDMtMDkgMjM6NDE6MzZfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2021-03-09 23:41:36" Description="deken-plugin[v0.7.4].dek"
-             Version="0.7.4" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.7.4/deken-plugin[v0.7.4].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuNy4yXzIwMjEtMDMtMDUgMTY6NTA6MzFfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2021-03-05 16:50:31" Description="deken-plugin[v0.7.2].dek"
-             Version="0.7.2" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.7.2/deken-plugin[v0.7.2].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuNy4xXzIwMjEtMDMtMDMgMTg6MzI6NDJfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2021-03-03 18:32:42" Description="deken-plugin[v0.7.1].dek"
-             Version="0.7.1" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.7.1/deken-plugin[v0.7.1].dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuNS4wXzIwMTgtMDYtMDUgMjE6Mzg6MTBfem1vZWxuaWc="
-             Author="zmoelnig" Timestamp="2018-06-05 21:38:10" Description="deken-plugin/0.5.0 (Deken externals downloader)"
-             Version="0.5.0" URL="https://puredata.info/downloads/deken/releases/0.5.0/deken-plugin-v0.5.0--externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuMy4xXzIwMTgtMDQtMDUgMTI6MDA6MjZfem1vZWxuaWc="
-             Author="zmoelnig" Timestamp="2018-04-05 12:00:26" Description="deken-plugin/0.3.1 (Deken externals downloader - MINIMUM VERSION REQUIRED FOR NEW PACKAGES)"
-             Version="0.3.1" URL="https://puredata.info/downloads/deken/releases/0.3.1/deken-plugin-v0.3.1--externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="ZGVrZW4tcGx1Z2luXzAuNC4xXzIwMTgtMDQtMDUgMTE6NTk6NTlfem1vZWxuaWc="
-             Author="zmoelnig" Timestamp="2018-04-05 11:59:59" Description="deken-plugin/0.4.1 (Deken externals downloader)"
-             Version="0.4.1" URL="https://puredata.info/downloads/deken/releases/0.4.1/deken-plugin-v0.4.1--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="absattr">
-    <Package ID="YWJzYXR0cl8wLjIuM18yMDIwLTAzLTA0IDEzOjM1OjU3X3Rob21hcw=="
-             Author="thomas" Timestamp="2020-03-04 13:35:57" Description="absattr[v0.2.3](Windows-amd64-32).dek"
-             Version="0.2.3" URL="https://puredata.info/Members/thomas/software/absattr/0.2.3/absattr[v0.2.3](Windows-amd64-32).dek">
-      <Objects>
-        <Object Name="absattr"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="FluidCorpusManipulation">
     <Package ID="Rmx1aWRDb3JwdXNNYW5pcHVsYXRpb25fMS4wLjl+bmlnaHRseV8yMDI2LTA0LTExIDE0OjI3OjMzX2ZsdWNvbWE="
              Author="flucoma" Timestamp="2026-04-11 14:27:33" Description="FluidCorpusManipulation[v1.0.9~nightly](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek"
@@ -6392,73 +6406,156 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="py">
-    <Package ID="cHlfMC4yLjJfMjAyMC0wNS0xOSAwMjoxMzo0N190aG9tYXM=" Author="thomas"
-             Timestamp="2020-05-19 02:13:47" Description="py[v0.2.2](Windows-amd64-32).dek"
-             Version="0.2.2" URL="https://puredata.info/Members/thomas/software/py/0.2.2/py[v0.2.2](Windows-amd64-32).dek">
+  <Packages Name="piloslib">
+    <Package ID="cGlsb3NsaWJfMS4wLjRfMjAyMy0wNi0wNCAxNjozOToyNV9ha3VudWxs"
+             Author="akunull" Timestamp="2023-06-04 16:39:25" Description="piloslib[v1.0.4].dek"
+             Version="1.0.4" URL="https://puredata.info/Members/akunull/software/piloslib/1.0.4/piloslib[v1.0.4].dek">
+      <Objects/>
+    </Package>
+    <Package ID="cGlsb3NsaWJfMS4wLjNfMjAyMy0wNi0wMSAwNDoyMDo0M19ha3VudWxs"
+             Author="akunull" Timestamp="2023-06-01 04:20:43" Description="piloslib[v1.0.3].dek"
+             Version="1.0.3" URL="https://puredata.info/Members/akunull/software/piloslib/1.0.3/piloslib[v1.0.3].dek">
+      <Objects/>
+    </Package>
+    <Package ID="cGlsb3NsaWJfMS4wLjJfMjAyMi0wOC0yMyAyMDo0MzoxNl9ha3VudWxs"
+             Author="akunull" Timestamp="2022-08-23 20:43:16" Description="piloslib[v1.0.2].dek"
+             Version="1.0.2" URL="https://puredata.info/Members/akunull/software/piloslib/1.0.2/piloslib[v1.0.2].dek">
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="Fraise">
-    <Package ID="RnJhaXNlXzAuNC4wXzIwMjUtMDUtMjMgMTc6MjA6MjRfYW50MXI=" Author="ant1r"
-             Timestamp="2025-05-23 17:20:24" Description="Fraise[v0.4.0].dek"
-             Version="0.4.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.4.0/Fraise[v0.4.0].dek">
+  <Packages Name="deken-plugin">
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuMTJfMjAyNi0wNS0wNiAxNDo0Njo1N196bW9lbG5pZ2JvdA=="
+             Author="zmoelnigbot" Timestamp="2026-05-06 14:46:57" Description="deken-plugin[v0.10.12].dek"
+             Version="0.10.12" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.12/deken-plugin[v0.10.12].dek">
       <Objects/>
     </Package>
-    <Package ID="RnJhaXNlXzAuMy40XzIwMjUtMDUtMTIgMTM6MzI6NTVfYW50MXI=" Author="ant1r"
-             Timestamp="2025-05-12 13:32:55" Description="Fraise[v0.3.4].dek"
-             Version="0.3.4" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.4/Fraise[v0.3.4].dek">
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuMTBfMjAyNi0wMi0xMCAxNToxOTo1N196bW9lbG5pZ2JvdA=="
+             Author="zmoelnigbot" Timestamp="2026-02-10 15:19:57" Description="deken-plugin[v0.10.10].dek"
+             Version="0.10.10" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.10/deken-plugin[v0.10.10].dek">
       <Objects/>
     </Package>
-    <Package ID="RnJhaXNlXzAuMy4zXzIwMjQtMTAtMDkgMTU6MzU6MjFfYW50MXI=" Author="ant1r"
-             Timestamp="2024-10-09 15:35:21" Description="Fraise[v0.3.3].dek"
-             Version="0.3.3" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.3/Fraise[v0.3.3].dek">
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuOF8yMDI2LTAxLTI3IDE3OjE2OjE4X3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2026-01-27 17:16:18" Description="deken-plugin[v0.10.8].dek"
+             Version="0.10.8" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.8/deken-plugin[v0.10.8].dek">
       <Objects/>
     </Package>
-    <Package ID="RnJhaXNlXzAuMy4yXzIwMjQtMTAtMDkgMTQ6NDE6MDdfYW50MXI=" Author="ant1r"
-             Timestamp="2024-10-09 14:41:07" Description="Fraise[v0.3.2].dek"
-             Version="0.3.2" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.2/Fraise[v0.3.2].dek">
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuNl8yMDI1LTA1LTE5IDEyOjI2OjI0X3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2025-05-19 12:26:24" Description="deken-plugin[v0.10.6].dek"
+             Version="0.10.6" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.6/deken-plugin[v0.10.6].dek">
       <Objects/>
     </Package>
-    <Package ID="RnJhaXNlXzAuMy4xXzIwMjQtMDgtMjEgMTg6MzQ6NDJfYW50MXI=" Author="ant1r"
-             Timestamp="2024-08-21 18:34:42" Description="Fraise[v0.3.1].dek"
-             Version="0.3.1" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.1/Fraise[v0.3.1].dek">
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuMl8yMDI0LTEyLTA2IDIyOjQ4OjAzX3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2024-12-06 22:48:03" Description="deken-plugin[v0.10.2].dek"
+             Version="0.10.2" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.2/deken-plugin[v0.10.2].dek">
       <Objects/>
     </Package>
-    <Package ID="RnJhaXNlXzAuMy4wXzIwMjQtMDMtMjkgMTc6NTY6NTlfYW50MXI=" Author="ant1r"
-             Timestamp="2024-03-29 17:56:59" Description="Fraise[v0.3.0].dek"
-             Version="0.3.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.3.0/Fraise[v0.3.0].dek">
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuMF8yMDI0LTEyLTAyIDE0OjQ3OjUwX3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2024-12-02 14:47:50" Description="deken-plugin[v0.10.0].dek"
+             Version="0.10.0" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.0/deken-plugin[v0.10.0].dek">
       <Objects/>
     </Package>
-    <Package ID="RnJhaXNlXzAuMi4wXzIwMjMtMTEtMTYgMTc6MjQ6NTRfYW50MXI=" Author="ant1r"
-             Timestamp="2023-11-16 17:24:54" Description="Fraise[v0.2.0](Windows-amd64-32).dek"
-             Version="0.2.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.2.0/Fraise[v0.2.0](Windows-amd64-32).dek">
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4xOF8yMDI0LTAzLTE0IDE0OjM4OjUzX3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2024-03-14 14:38:53" Description="deken-plugin[v0.9.18].dek"
+             Version="0.9.18" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.18/deken-plugin[v0.9.18].dek">
       <Objects/>
     </Package>
-    <Package ID="RnJhaXNlXzAuMS4xXzIwMjEtMDMtMjUgMTU6Mzk6MjlfYW50MXI=" Author="ant1r"
-             Timestamp="2021-03-25 15:39:29" Description="Fraise[v0.1.1].dek"
-             Version="0.1.1" URL="https://puredata.info/Members/ant1r/software/Fraise/0.1.1/Fraise[v0.1.1].dek">
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4xNl8yMDIzLTExLTI3IDEzOjIzOjU1X3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2023-11-27 13:23:55" Description="deken-plugin[v0.9.16].dek"
+             Version="0.9.16" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.16/deken-plugin[v0.9.16].dek">
       <Objects/>
     </Package>
-    <Package ID="RnJhaXNlXzAuMS4wXzIwMjEtMDEtMDcgMTI6MzI6MzVfYW50MXI=" Author="ant1r"
-             Timestamp="2021-01-07 12:32:35" Description="Fraise[v0.1.0].dek"
-             Version="0.1.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.1.0/Fraise[v0.1.0].dek">
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4xNF8yMDIzLTA5LTI1IDEyOjUwOjU3X3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2023-09-25 12:50:57" Description="deken-plugin[v0.9.14].dek"
+             Version="0.9.14" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.14/deken-plugin[v0.9.14].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4xMl8yMDIzLTA5LTI1IDEwOjE1OjU0X3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2023-09-25 10:15:54" Description="deken-plugin[v0.9.12].dek"
+             Version="0.9.12" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.12/deken-plugin[v0.9.12].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4xMF8yMDIzLTA3LTI3IDE0OjIzOjQ0X3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2023-07-27 14:23:44" Description="deken-plugin[v0.9.10].dek"
+             Version="0.9.10" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.10/deken-plugin[v0.9.10].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS44XzIwMjMtMDctMDcgMDg6MzI6MjJfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2023-07-07 08:32:22" Description="deken-plugin[v0.9.8].dek"
+             Version="0.9.8" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.8/deken-plugin[v0.9.8].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS42XzIwMjMtMDItMDYgMTM6MjU6MDFfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2023-02-06 13:25:01" Description="deken-plugin[v0.9.6].dek"
+             Version="0.9.6" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.6/deken-plugin[v0.9.6].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS40XzIwMjItMDktMDIgMjM6MTA6NDBfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2022-09-02 23:10:40" Description="deken-plugin[v0.9.4].dek"
+             Version="0.9.4" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.4/deken-plugin[v0.9.4].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOS4yXzIwMjItMDYtMDEgMTE6NTQ6MjFfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2022-06-01 11:54:21" Description="deken-plugin[v0.9.2].dek"
+             Version="0.9.2" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9.2/deken-plugin[v0.9.2].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOV8yMDIyLTA1LTIxIDE2OjE4OjMzX3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2022-05-21 16:18:33" Description="deken-plugin[v0.9].dek"
+             Version="0.9" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.9/deken-plugin[v0.9].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuOC4wXzIwMjEtMDYtMTYgMjI6MDE6MzZfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2021-06-16 22:01:36" Description="deken-plugin[v0.8.0].dek"
+             Version="0.8.0" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.8.0/deken-plugin[v0.8.0].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuNy44XzIwMjEtMDMtMjIgMTU6MjA6MjVfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2021-03-22 15:20:25" Description="deken-plugin[v0.7.8].dek"
+             Version="0.7.8" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.7.8/deken-plugin[v0.7.8].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuNy42XzIwMjEtMDMtMTAgMTI6MTQ6MDJfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2021-03-10 12:14:02" Description="deken-plugin[v0.7.6].dek"
+             Version="0.7.6" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.7.6/deken-plugin[v0.7.6].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuNy40XzIwMjEtMDMtMDkgMjM6NDE6MzZfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2021-03-09 23:41:36" Description="deken-plugin[v0.7.4].dek"
+             Version="0.7.4" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.7.4/deken-plugin[v0.7.4].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuNy4yXzIwMjEtMDMtMDUgMTY6NTA6MzFfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2021-03-05 16:50:31" Description="deken-plugin[v0.7.2].dek"
+             Version="0.7.2" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.7.2/deken-plugin[v0.7.2].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuNy4xXzIwMjEtMDMtMDMgMTg6MzI6NDJfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2021-03-03 18:32:42" Description="deken-plugin[v0.7.1].dek"
+             Version="0.7.1" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.7.1/deken-plugin[v0.7.1].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuNS4wXzIwMTgtMDYtMDUgMjE6Mzg6MTBfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2018-06-05 21:38:10" Description="deken-plugin/0.5.0 (Deken externals downloader)"
+             Version="0.5.0" URL="https://puredata.info/downloads/deken/releases/0.5.0/deken-plugin-v0.5.0--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuMy4xXzIwMTgtMDQtMDUgMTI6MDA6MjZfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2018-04-05 12:00:26" Description="deken-plugin/0.3.1 (Deken externals downloader - MINIMUM VERSION REQUIRED FOR NEW PACKAGES)"
+             Version="0.3.1" URL="https://puredata.info/downloads/deken/releases/0.3.1/deken-plugin-v0.3.1--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuNC4xXzIwMTgtMDQtMDUgMTE6NTk6NTlfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2018-04-05 11:59:59" Description="deken-plugin/0.4.1 (Deken externals downloader)"
+             Version="0.4.1" URL="https://puredata.info/downloads/deken/releases/0.4.1/deken-plugin-v0.4.1--externals.zip">
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="earplug~">
-    <Package ID="ZWFycGx1Z35fMC4zLjBfMjAyMS0wNi0wNiAxODo0NTozOV9sdWNhcmRh"
-             Author="lucarda" Timestamp="2021-06-06 18:45:39" Description="earplug~[v0.3.0](Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="0.3.0" URL="https://puredata.info/Members/lucarda/software/earplug~/0.3.0/earplug~[v0.3.0](Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
+  <Packages Name="absattr">
+    <Package ID="YWJzYXR0cl8wLjIuM18yMDIwLTAzLTA0IDEzOjM1OjU3X3Rob21hcw=="
+             Author="thomas" Timestamp="2020-03-04 13:35:57" Description="absattr[v0.2.3](Windows-amd64-32).dek"
+             Version="0.2.3" URL="https://puredata.info/Members/thomas/software/absattr/0.2.3/absattr[v0.2.3](Windows-amd64-32).dek">
       <Objects>
-        <Object Name="earplug~"/>
-      </Objects>
-    </Package>
-    <Package ID="ZWFycGx1Z35fMC4wLmV4dGVuZGVkXzIwMjEtMDUtMjYgMDE6NDI6MThfbHVjYXJkYQ=="
-             Author="lucarda" Timestamp="2021-05-26 01:42:18" Description="earplug~[v0.0.extended](Windows-amd64-32)(Sources).dek"
-             Version="0.0.extended" URL="https://puredata.info/Members/lucarda/software/earplug~/0.0.extended/earplug~[v0.0.extended](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="earplug~"/>
+        <Object Name="absattr"/>
       </Objects>
     </Package>
   </Packages>
@@ -10346,98 +10443,6 @@
         <Object Name="xselect~"/>
         <Object Name="zbiplot"/>
         <Object Name="zerocross~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="RabbitControl">
-    <Package ID="UmFiYml0Q29udHJvbF8yLjAuMF8yMDI1LTA5LTA4IDIwOjQ0OjA0X2lfbl9nX28="
-             Author="i_n_g_o" Timestamp="2025-09-08 20:44:04" Description="RabbitControl[v2.0.0](Windows-amd64-32).dek"
-             Version="2.0.0" URL="https://puredata.info/Members/i_n_g_o/software/RabbitControl/2.0.0/RabbitControl[v2.0.0](Windows-amd64-32).dek">
-      <Objects>
-        <Object Name="rabbit"/>
-        <Object Name="rabbit.client"/>
-        <Object Name="rabbit.format"/>
-        <Object Name="rabbit.parse"/>
-        <Object Name="rabbit.server"/>
-        <Object Name="rabbitcontrol"/>
-        <Object Name="rcp"/>
-        <Object Name="sizeprefix"/>
-        <Object Name="slipdecoder"/>
-        <Object Name="slipencoder"/>
-        <Object Name="sppp"/>
-      </Objects>
-    </Package>
-    <Package ID="UmFiYml0Q29udHJvbF8xLjAuNF8yMDIyLTA2LTExIDE1OjExOjMwX2lfbl9nX28="
-             Author="i_n_g_o" Timestamp="2022-06-11 15:11:30" Description="RabbitControl[v1.0.4](Windows-amd64-32)(Sources).dek"
-             Version="1.0.4" URL="https://puredata.info/Members/i_n_g_o/software/RabbitControl/1.0.4/RabbitControl[v1.0.4](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="rcp.client"/>
-        <Object Name="rcp.format"/>
-        <Object Name="rcp.parse"/>
-        <Object Name="rcp.server"/>
-        <Object Name="sizeprefix"/>
-        <Object Name="slipdecoder"/>
-        <Object Name="slipencoder"/>
-        <Object Name="sppp"/>
-        <Object Name="ws.client"/>
-        <Object Name="ws.server"/>
-      </Objects>
-    </Package>
-    <Package ID="UmFiYml0Q29udHJvbF8xLjAuM18yMDIyLTAzLTMxIDEyOjAzOjE5X2lfbl9nX28="
-             Author="i_n_g_o" Timestamp="2022-03-31 12:03:19" Description="RabbitControl[v1.0.3](Windows-amd64-32)(Sources).dek"
-             Version="1.0.3" URL="https://puredata.info/Members/i_n_g_o/software/RabbitControl/1.0.3/RabbitControl[v1.0.3](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="rcp.client"/>
-        <Object Name="rcp.format"/>
-        <Object Name="rcp.parse"/>
-        <Object Name="rcp.server"/>
-        <Object Name="sizeprefix"/>
-        <Object Name="slipdecoder"/>
-        <Object Name="slipencoder"/>
-        <Object Name="sppp"/>
-        <Object Name="ws.client"/>
-        <Object Name="ws.server"/>
-      </Objects>
-    </Package>
-    <Package ID="UmFiYml0Q29udHJvbF8xLjAuMl8yMDIyLTAzLTI1IDExOjA0OjQ5X2lfbl9nX28="
-             Author="i_n_g_o" Timestamp="2022-03-25 11:04:49" Description="RabbitControl[v1.0.2](Windows-amd64-32)(Sources).dek"
-             Version="1.0.2" URL="https://puredata.info/Members/i_n_g_o/software/RabbitControl/1.0.2/RabbitControl[v1.0.2](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="rcp.client"/>
-        <Object Name="rcp.format"/>
-        <Object Name="rcp.parse"/>
-        <Object Name="rcp.server"/>
-        <Object Name="sizeprefix"/>
-        <Object Name="slipdecoder"/>
-        <Object Name="slipencoder"/>
-        <Object Name="sppp"/>
-        <Object Name="ws.client"/>
-        <Object Name="ws.server"/>
-      </Objects>
-    </Package>
-    <Package ID="UmFiYml0Q29udHJvbF8xLjAuMV8yMDIyLTAzLTIwIDE2OjE5OjA3X2lfbl9nX28="
-             Author="i_n_g_o" Timestamp="2022-03-20 16:19:07" Description="RabbitControl[v1.0.1](Windows-amd64-32)(Sources).dek"
-             Version="1.0.1" URL="https://puredata.info/Members/i_n_g_o/software/RabbitControl/1.0.1/RabbitControl[v1.0.1](Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="rcp.client"/>
-        <Object Name="rcp.format"/>
-        <Object Name="rcp.parse"/>
-        <Object Name="rcp.server"/>
-        <Object Name="sizeprefix"/>
-        <Object Name="slipdecoder"/>
-        <Object Name="slipencoder"/>
-        <Object Name="sppp"/>
-        <Object Name="ws.client"/>
-        <Object Name="ws.server"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="iempluginOSC">
-    <Package ID="aWVtcGx1Z2luT1NDXzAuMV8yMDE5LTA0LTEyIDEyOjQzOjU1X3NwYWNlY2hpbGQx"
-             Author="spacechild1" Timestamp="2019-04-12 12:43:55" Description="iempluginOSC[v0.1].dek"
-             Version="0.1" URL="https://puredata.info/Members/spacechild1/software/iempluginOSC/0.1/iempluginOSC[v0.1].dek">
-      <Objects>
-        <Object Name="iempluginOSC"/>
       </Objects>
     </Package>
   </Packages>
@@ -21756,7 +21761,10 @@
     <Package ID="cGRsdWFfMC4xMi4xOV8yMDI0LTEwLTA1IDE4OjQ1OjEwX2FncmFlZg=="
              Author="agraef" Timestamp="2024-10-05 18:45:10" Description="pdlua[v0.12.19](Windows-amd64-32)(Windows-amd64-64).dek"
              Version="0.12.19" URL="https://puredata.info/Members/agraef/software/pdlua/0.12.19/pdlua[v0.12.19](Windows-amd64-32)(Windows-amd64-64).dek">
-      <Objects/>
+      <Objects>
+        <Object Name="pdlua"/>
+        <Object Name="pdluax"/>
+      </Objects>
     </Package>
     <Package ID="cGRsdWFfMC4xMi4xOF8yMDI0LTA5LTI0IDEyOjIzOjEwX2FncmFlZg=="
              Author="agraef" Timestamp="2024-09-24 12:23:10" Description="pdlua[v0.12.18](Windows-amd64-32)(Windows-amd64-64).dek"
