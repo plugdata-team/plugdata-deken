@@ -6213,8 +6213,8 @@
     </Package>
   </Packages>
   <Packages Name="Gem">
-    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNi0wNS0wNSAyMjoxMDoxNl9pZW1ib3Q="
-             Author="iembot" Timestamp="2026-05-05 22:10:16" Description="Gem[v0.94-snapshot](Linux-amd64-32)(Linux-amd64-64).dek"
+    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNi0wNS0wNyAxMDo1MjowMl9pZW1ib3Q="
+             Author="iembot" Timestamp="2026-05-07 10:52:02" Description="Gem[v0.94-snapshot](Linux-amd64-32)(Linux-amd64-64).dek"
              Version="0.94-snapshot" URL="https://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Linux-amd64-32)(Linux-amd64-64).dek">
       <Objects>
         <Object Name="_textbbox"/>
@@ -19345,6 +19345,40 @@
     </Package>
   </Packages>
   <Packages Name="moonlib">
+    <Package ID="bW9vbmxpYl8wLjhfMjAyNi0wNS0wNyAxNzowNzoyMl9hbnQxcg==" Author="ant1r"
+             Timestamp="2026-05-07 17:07:22" Description="moonlib[v0.8](Linux-amd64-32).dek"
+             Version="0.8" URL="https://puredata.info/Members/ant1r/software/moonlib/0.8/moonlib[v0.8](Linux-amd64-32).dek">
+      <Objects>
+        <Object Name="absolutepath"/>
+        <Object Name="basedir"/>
+        <Object Name="char2f"/>
+        <Object Name="comma"/>
+        <Object Name="dinlet~"/>
+        <Object Name="dispatch"/>
+        <Object Name="dripchar"/>
+        <Object Name="f2char"/>
+        <Object Name="f2s"/>
+        <Object Name="gamme"/>
+        <Object Name="image"/>
+        <Object Name="mknob"/>
+        <Object Name="ndmetro"/>
+        <Object Name="panvol~"/>
+        <Object Name="popen"/>
+        <Object Name="readsfv~"/>
+        <Object Name="relativepath"/>
+        <Object Name="s2f"/>
+        <Object Name="sarray"/>
+        <Object Name="sfread2~"/>
+        <Object Name="slist"/>
+        <Object Name="ssaw~"/>
+        <Object Name="tabdump2"/>
+        <Object Name="tabenv"/>
+        <Object Name="tabreadl"/>
+        <Object Name="tabsort"/>
+        <Object Name="tabsort2"/>
+        <Object Name="wac"/>
+      </Objects>
+    </Package>
     <Package ID="bW9vbmxpYl8wLjctUGR+MC41My0yXzIwMjMtMDQtMjAgMTY6MDU6MzRfYW50MXI="
              Author="ant1r" Timestamp="2023-04-20 16:05:34" Description="moonlib[v0.7-Pd_0.53-2](Linux-amd64-32).dek"
              Version="0.7-Pd~0.53-2" URL="https://puredata.info/Members/ant1r/software/moonlib/0.7-Pd_0.53-2/moonlib[v0.7-Pd_0.53-2](Linux-amd64-32).dek">
