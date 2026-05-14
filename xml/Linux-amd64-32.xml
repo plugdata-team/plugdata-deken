@@ -19364,6 +19364,40 @@
     </Package>
   </Packages>
   <Packages Name="moonlib">
+    <Package ID="bW9vbmxpYl8wLjguMl8yMDI2LTA1LTEzIDE3OjM4OjExX2FudDFy" Author="ant1r"
+             Timestamp="2026-05-13 17:38:11" Description="moonlib[v0.8.2](Linux-amd64-32).dek"
+             Version="0.8.2" URL="https://puredata.info/Members/ant1r/software/moonlib/0.8.2/moonlib[v0.8.2](Linux-amd64-32).dek">
+      <Objects>
+        <Object Name="absolutepath"/>
+        <Object Name="basedir"/>
+        <Object Name="char2f"/>
+        <Object Name="comma"/>
+        <Object Name="dinlet~"/>
+        <Object Name="dispatch"/>
+        <Object Name="dripchar"/>
+        <Object Name="f2char"/>
+        <Object Name="f2s"/>
+        <Object Name="gamme"/>
+        <Object Name="image"/>
+        <Object Name="mknob"/>
+        <Object Name="ndmetro"/>
+        <Object Name="panvol~"/>
+        <Object Name="popen"/>
+        <Object Name="readsfv~"/>
+        <Object Name="relativepath"/>
+        <Object Name="s2f"/>
+        <Object Name="sarray"/>
+        <Object Name="sfread2~"/>
+        <Object Name="slist"/>
+        <Object Name="ssaw~"/>
+        <Object Name="tabdump2"/>
+        <Object Name="tabenv"/>
+        <Object Name="tabreadl"/>
+        <Object Name="tabsort"/>
+        <Object Name="tabsort2"/>
+        <Object Name="wac"/>
+      </Objects>
+    </Package>
     <Package ID="bW9vbmxpYl8wLjguMV8yMDI2LTA1LTA4IDE4OjA4OjA4X2FudDFy" Author="ant1r"
              Timestamp="2026-05-08 18:08:08" Description="moonlib[v0.8.1](Linux-amd64-32).dek"
              Version="0.8.1" URL="https://puredata.info/Members/ant1r/software/moonlib/0.8.1/moonlib[v0.8.1](Linux-amd64-32).dek">
