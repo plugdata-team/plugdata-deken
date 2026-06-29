@@ -4364,8 +4364,8 @@
     </Package>
   </Packages>
   <Packages Name="Gem">
-    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNi0wNi0yMyAxMTo0MDowM19pZW1ib3Q="
-             Author="iembot" Timestamp="2026-06-23 11:40:03" Description="Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
+    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNi0wNi0yOSAxMjozOTo1N19pZW1ib3Q="
+             Author="iembot" Timestamp="2026-06-29 12:39:57" Description="Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
              Version="0.94-snapshot" URL="https://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek">
       <Objects>
         <Object Name="_textbbox"/>
@@ -13686,6 +13686,20 @@
     </Package>
   </Packages>
   <Packages Name="openscofo~">
+    <Package ID="b3BlbnNjb2Zvfl8wLjIuOWIyXzIwMjYtMDYtMjkgMDI6MDA6MjdfY2hhcmxlc25laW1vZw=="
+             Author="charlesneimog" Timestamp="2026-06-29 02:00:27" Description="openscofo~[v0.2.9b2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
+             Version="0.2.9b2" URL="https://puredata.info/Members/charlesneimog/software/openscofo~/0.2.9b2/openscofo~[v0.2.9b2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="openscofo~"/>
+      </Objects>
+    </Package>
+    <Package ID="b3BlbnNjb2Zvfl8wLjIuOWIxXzIwMjYtMDYtMjggMjA6NDc6NTZfY2hhcmxlc25laW1vZw=="
+             Author="charlesneimog" Timestamp="2026-06-28 20:47:56" Description="openscofo~[v0.2.9b1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
+             Version="0.2.9b1" URL="https://puredata.info/Members/charlesneimog/software/openscofo~/0.2.9b1/openscofo~[v0.2.9b1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="openscofo~"/>
+      </Objects>
+    </Package>
     <Package ID="b3BlbnNjb2Zvfl8wLjIuOGIyXzIwMjYtMDYtMjcgMDQ6NTA6MjhfY2hhcmxlc25laW1vZw=="
              Author="charlesneimog" Timestamp="2026-06-27 04:50:28" Description="openscofo~[v0.2.8b2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
              Version="0.2.8b2" URL="https://puredata.info/Members/charlesneimog/software/openscofo~/0.2.8b2/openscofo~[v0.2.8b2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
