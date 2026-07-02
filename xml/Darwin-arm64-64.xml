@@ -2962,9 +2962,9 @@
     </Package>
   </Packages>
   <Packages Name="Gem">
-    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNi0wNi0yOSAxNDoxNzowM19pZW1ib3Q="
-             Author="iembot" Timestamp="2026-06-29 14:17:03" Description="Gem[v0.94-snapshot](Darwin-amd64-64)(Darwin-arm64-64).dek"
-             Version="0.94-snapshot" URL="https://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Darwin-amd64-64)(Darwin-arm64-64).dek">
+    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNi0wNy0wMSAxNzoxOTowNF9pZW1ib3Q="
+             Author="iembot" Timestamp="2026-07-01 17:19:04" Description="Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
+             Version="0.94-snapshot" URL="https://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek">
       <Objects>
         <Object Name="_textbbox"/>
         <Object Name="accumrotate"/>
@@ -2995,6 +2995,7 @@
         <Object Name="gemcubeframebuffer"/>
         <Object Name="gemframebuffer"/>
         <Object Name="GEMgl"/>
+        <Object Name="GEMglBegin"/>
         <Object Name="gemglfw2window"/>
         <Object Name="gemglfw3window"/>
         <Object Name="gemglutwindow"/>
@@ -3214,9 +3215,9 @@
         <Object Name="yuv2rgb"/>
       </Objects>
     </Package>
-    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNi0wNi0yOSAxMjozOTo1N19pZW1ib3Q="
-             Author="iembot" Timestamp="2026-06-29 12:39:57" Description="Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek"
-             Version="0.94-snapshot" URL="https://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Darwin-amd64-32)(Darwin-amd64-64)(Darwin-arm64-32)(Darwin-arm64-64).dek">
+    <Package ID="R2VtXzAuOTQtc25hcHNob3RfMjAyNi0wNi0yOSAxNDoxNzowM19pZW1ib3Q="
+             Author="iembot" Timestamp="2026-06-29 14:17:03" Description="Gem[v0.94-snapshot](Darwin-amd64-64)(Darwin-arm64-64).dek"
+             Version="0.94-snapshot" URL="https://puredata.info/Members/iembot/software/Gem/0.94-snapshot/Gem[v0.94-snapshot](Darwin-amd64-64)(Darwin-arm64-64).dek">
       <Objects>
         <Object Name="_textbbox"/>
         <Object Name="accumrotate"/>
@@ -3247,7 +3248,6 @@
         <Object Name="gemcubeframebuffer"/>
         <Object Name="gemframebuffer"/>
         <Object Name="GEMgl"/>
-        <Object Name="GEMglBegin"/>
         <Object Name="gemglfw2window"/>
         <Object Name="gemglfw3window"/>
         <Object Name="gemglutwindow"/>
