@@ -1905,7 +1905,18 @@
     <Package ID="dXBwXzAuMi4wXzIwMjItMDgtMjEgMDA6MDA6MTVfdGhvbWFz" Author="thomas"
              Timestamp="2022-08-21 00:00:15" Description="upp[v0.2.0].dek"
              Version="0.2.0" URL="https://puredata.info/Members/thomas/software/upp/0.2.0/upp[v0.2.0].dek">
-      <Objects/>
+      <Objects>
+        <Object Name="upp.delay"/>
+        <Object Name="upp.delay~"/>
+        <Object Name="upp.dirac~"/>
+        <Object Name="upp.dspintv"/>
+        <Object Name="upp.ramp~"/>
+        <Object Name="upp.schedule"/>
+        <Object Name="upp.tabread2~"/>
+        <Object Name="upp.tabread4~"/>
+        <Object Name="upp.vline~"/>
+        <Object Name="upp.xfade~"/>
+      </Objects>
     </Package>
     <Package ID="dXBwXzAuMS4wXzIwMjItMDItMTUgMjI6NTY6NTBfdGhvbWFz" Author="thomas"
              Timestamp="2022-02-15 22:56:50" Description="upp[v0.1.0].dek"
