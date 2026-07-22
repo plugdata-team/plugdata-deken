@@ -3394,21 +3394,6 @@
     </Package>
   </Packages>
   <Packages Name="XXX-deken-test">
-    <Package ID="WFhYLWRla2VuLXRlc3RfMC4xMC4xMi0xNi1nZGRiMGJjNH53aW5kb3dzXzIwMjYtMDctMjEgMTI6MTY6MDBfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2026-07-21 12:16:00" Description="XXX-deken-test[v0.10.12-16-gddb0bc4~windows](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
-             Version="0.10.12-16-gddb0bc4~windows" URL="https://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/18751/0.10.12-16-gddb0bc4~windows/XXX-deken-test[v0.10.12-16-gddb0bc4~windows](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
-      <Objects/>
-    </Package>
-    <Package ID="WFhYLWRla2VuLXRlc3RfMC4xMC4xMy5kZXYxNn53aGVlbF8yMDI2LTA3LTIxIDEyOjE1OjE4X3ptb2VsbmlnYm90"
-             Author="zmoelnigbot" Timestamp="2026-07-21 12:15:18" Description="XXX-deken-test[v0.10.13.dev16~wheel](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
-             Version="0.10.13.dev16~wheel" URL="https://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/18751/0.10.13.dev16~wheel/XXX-deken-test[v0.10.13.dev16~wheel](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
-      <Objects/>
-    </Package>
-    <Package ID="WFhYLWRla2VuLXRlc3RfMC4xMC4xMi0xNi1nZGRiMGJjNDh+ZG9ja2VyXzIwMjYtMDctMjEgMTI6MTQ6Mzdfem1vZWxuaWdib3Q="
-             Author="zmoelnigbot" Timestamp="2026-07-21 12:14:37" Description="XXX-deken-test[v0.10.12-16-gddb0bc48~docker](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
-             Version="0.10.12-16-gddb0bc48~docker" URL="https://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/18751/0.10.12-16-gddb0bc48~docker/XXX-deken-test[v0.10.12-16-gddb0bc48~docker](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
-      <Objects/>
-    </Package>
     <Package ID="WFhYLWRla2VuLXRlc3RfMC4xMC4xMi05LWc2M2RlYTRmfm9zeF8yMDI2LTA3LTIwIDE2OjQzOjAzX3ptb2VsbmlnYm90"
              Author="zmoelnigbot" Timestamp="2026-07-20 16:43:03" Description="XXX-deken-test[v0.10.12-9-g63dea4f~osx](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
              Version="0.10.12-9-g63dea4f~osx" URL="https://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/18747/0.10.12-9-g63dea4f~osx/XXX-deken-test[v0.10.12-9-g63dea4f~osx](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
