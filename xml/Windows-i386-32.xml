@@ -12522,6 +12522,20 @@
     </Package>
   </Packages>
   <Packages Name="pddp">
+    <Package ID="cGRkcF8wLjNfMjAyNi0wNy0yNyAxMzowMDo0N196bW9lbG5pZw==" Author="zmoelnig"
+             Timestamp="2026-07-27 13:00:47" Description="pddp[v0.3](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
+             Version="0.3" URL="https://puredata.info/Members/zmoelnig/software/pddp/0.3/pddp[v0.3](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="+pager"/>
+        <Object Name="dsp"/>
+        <Object Name="ezoutput~"/>
+        <Object Name="helplink"/>
+        <Object Name="open"/>
+        <Object Name="pddplink"/>
+        <Object Name="print"/>
+        <Object Name="print_long"/>
+      </Objects>
+    </Package>
     <Package ID="cGRkcF8wLjAuZXh0ZW5kZWRfMjAxNS0wNy0zMCAxNToxNjozMF9jaHIxNW0="
              Author="chr15m" Timestamp="2015-07-30 15:16:30" Description="pddp-v0.0.extended-(Windows-i386-32)-externals.zip"
              Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/pddp/pddp-v0.0.extended-(Windows-i386-32)-externals.zip">
