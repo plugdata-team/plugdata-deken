@@ -8929,6 +8929,11 @@
     </Package>
   </Packages>
   <Packages Name="pd4web">
+    <Package ID="cGQ0d2ViXzMuMy4wcjFfMjAyNi0wOC0wMyAxODozMzoyNl9jaGFybGVzbmVpbW9n"
+             Author="charlesneimog" Timestamp="2026-08-03 18:33:26" Description="pd4web[v3.3.0r1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
+             Version="3.3.0r1" URL="https://puredata.info/Members/charlesneimog/software/pd4web/3.3.0r1/pd4web[v3.3.0r1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
+      <Objects/>
+    </Package>
     <Package ID="cGQ0d2ViXzMuMy4wYTFfMjAyNi0wNy0yNyAwMzowODoxMF9jaGFybGVzbmVpbW9n"
              Author="charlesneimog" Timestamp="2026-07-27 03:08:10" Description="pd4web[v3.3.0a1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
              Version="3.3.0a1" URL="https://puredata.info/Members/charlesneimog/software/pd4web/3.3.0a1/pd4web[v3.3.0a1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
