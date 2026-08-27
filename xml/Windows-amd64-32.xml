@@ -6116,6 +6116,11 @@
     </Package>
   </Packages>
   <Packages Name="deken-plugin">
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuMjBfMjAyNi0wOC0yNyAxMzozNzo1Ml96bW9lbG5pZ2JvdA=="
+             Author="zmoelnigbot" Timestamp="2026-08-27 13:37:52" Description="deken-plugin[v0.10.20].dek"
+             Version="0.10.20" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.20/deken-plugin[v0.10.20].dek">
+      <Objects/>
+    </Package>
     <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuMThfMjAyNi0wNy0zMCAwOTo1Mjo1MV96bW9lbG5pZ2JvdA=="
              Author="zmoelnigbot" Timestamp="2026-07-30 09:52:51" Description="deken-plugin[v0.10.18].dek"
              Version="0.10.18" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.18/deken-plugin[v0.10.18].dek">
@@ -13707,6 +13712,11 @@
     </Package>
   </Packages>
   <Packages Name="pd4web">
+    <Package ID="cGQ0d2ViXzMuMy4wcjNfMjAyNi0wOC0yNyAxOTo0NDoyMl9jaGFybGVzbmVpbW9n"
+             Author="charlesneimog" Timestamp="2026-08-27 19:44:22" Description="pd4web[v3.3.0r3](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
+             Version="3.3.0r3" URL="https://puredata.info/Members/charlesneimog/software/pd4web/3.3.0r3/pd4web[v3.3.0r3](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
+      <Objects/>
+    </Package>
     <Package ID="cGQ0d2ViXzMuMy4wcjJfMjAyNi0wOC0wNiAwMzo0ODoyNV9jaGFybGVzbmVpbW9n"
              Author="charlesneimog" Timestamp="2026-08-06 03:48:25" Description="pd4web[v3.3.0r2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
              Version="3.3.0r2" URL="https://puredata.info/Members/charlesneimog/software/pd4web/3.3.0r2/pd4web[v3.3.0r2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">

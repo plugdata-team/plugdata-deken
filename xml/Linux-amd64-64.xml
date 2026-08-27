@@ -2808,6 +2808,11 @@
     </Package>
   </Packages>
   <Packages Name="deken-plugin">
+    <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuMjBfMjAyNi0wOC0yNyAxMzozNzo1Ml96bW9lbG5pZ2JvdA=="
+             Author="zmoelnigbot" Timestamp="2026-08-27 13:37:52" Description="deken-plugin[v0.10.20].dek"
+             Version="0.10.20" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.20/deken-plugin[v0.10.20].dek">
+      <Objects/>
+    </Package>
     <Package ID="ZGVrZW4tcGx1Z2luXzAuMTAuMThfMjAyNi0wNy0zMCAwOTo1Mjo1MV96bW9lbG5pZ2JvdA=="
              Author="zmoelnigbot" Timestamp="2026-07-30 09:52:51" Description="deken-plugin[v0.10.18].dek"
              Version="0.10.18" URL="https://puredata.info/Members/zmoelnigbot/software/deken-plugin/0.10.18/deken-plugin[v0.10.18].dek">
