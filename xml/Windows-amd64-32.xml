@@ -25013,6 +25013,20 @@
     </Package>
   </Packages>
   <Packages Name="p2p">
+    <Package ID="cDJwXzAuMy4wXzIwMjYtMDgtMzEgMDQ6Mjc6MTlfY2hhcmxlc25laW1vZw=="
+             Author="charlesneimog" Timestamp="2026-08-31 04:27:19" Description="p2p[v0.3.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
+             Version="0.3.0" URL="https://puredata.info/Members/charlesneimog/software/p2p/0.3.0/p2p[v0.3.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="p2p"/>
+      </Objects>
+    </Package>
+    <Package ID="cDJwXzAuMS4wXzIwMjYtMDgtMzAgMjI6NDQ6NDRfY2hhcmxlc25laW1vZw=="
+             Author="charlesneimog" Timestamp="2026-08-30 22:44:44" Description="p2p[v0.1.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
+             Version="0.1.0" URL="https://puredata.info/Members/charlesneimog/software/p2p/0.1.0/p2p[v0.1.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="p2p"/>
+      </Objects>
+    </Package>
     <Package ID="cDJwXzAuMS4wXzIwMjYtMDgtMjQgMjA6NDI6MDZfY2hhcmxlc25laW1vZw=="
              Author="charlesneimog" Timestamp="2026-08-24 20:42:06" Description="p2p[v0.1.0](Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
              Version="0.1.0" URL="https://puredata.info/Members/charlesneimog/software/p2p/0.1.0/p2p[v0.1.0](Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
