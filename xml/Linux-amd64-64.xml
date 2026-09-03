@@ -3014,8 +3014,8 @@
     </Package>
   </Packages>
   <Packages Name="Gem">
-    <Package ID="R2VtXzAuOTUuMH5zbmFwc2hvdF8yMDI2LTA4LTE4IDE4OjIzOjMzX2llbWJvdA=="
-             Author="iembot" Timestamp="2026-08-18 18:23:33" Description="Gem[v0.95.0~snapshot](Linux-amd64-32)(Linux-amd64-64).dek"
+    <Package ID="R2VtXzAuOTUuMH5zbmFwc2hvdF8yMDI2LTA5LTAzIDA5OjMxOjU1X2llbWJvdA=="
+             Author="iembot" Timestamp="2026-09-03 09:31:55" Description="Gem[v0.95.0~snapshot](Linux-amd64-32)(Linux-amd64-64).dek"
              Version="0.95.0~snapshot" URL="https://puredata.info/Members/iembot/software/Gem/0.95.0~snapshot/Gem[v0.95.0~snapshot](Linux-amd64-32)(Linux-amd64-64).dek">
       <Objects>
         <Object Name="_textbbox"/>

@@ -6530,8 +6530,8 @@
     </Package>
   </Packages>
   <Packages Name="Gem">
-    <Package ID="R2VtXzAuOTUuMH5zbmFwc2hvdF8yMDI2LTA4LTE4IDE4OjIzOjU2X2llbWJvdA=="
-             Author="iembot" Timestamp="2026-08-18 18:23:56" Description="Gem[v0.95.0~snapshot](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
+    <Package ID="R2VtXzAuOTUuMH5zbmFwc2hvdF8yMDI2LTA5LTAyIDE1OjExOjI4X2llbWJvdA=="
+             Author="iembot" Timestamp="2026-09-02 15:11:28" Description="Gem[v0.95.0~snapshot](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek"
              Version="0.95.0~snapshot" URL="https://puredata.info/Members/iembot/software/Gem/0.95.0~snapshot/Gem[v0.95.0~snapshot](Windows-amd64-32)(Windows-amd64-64)(Windows-i386-32).dek">
       <Objects>
         <Object Name="_textbbox"/>
