@@ -968,6 +968,83 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="xlab">
+    <Package ID="eGxhYl8wLjEuMF8yMDI2LTA5LTA5IDE1OjI4OjIyX2NoYXJsZXNuZWltb2c="
+             Author="charlesneimog" Timestamp="2026-09-09 15:28:22" Description="xlab[v0.1.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
+             Version="0.1.0" URL="https://puredata.info/Members/charlesneimog/software/xlab/0.1.0/xlab[v0.1.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="ambi~"/>
+        <Object Name="bhack.bpf"/>
+        <Object Name="bhack.chord-seq"/>
+        <Object Name="bhack.collect"/>
+        <Object Name="bhack.define"/>
+        <Object Name="bhack.depth"/>
+        <Object Name="bhack.filter"/>
+        <Object Name="bhack.iterate"/>
+        <Object Name="bhack.length"/>
+        <Object Name="bhack.mton"/>
+        <Object Name="bhack.nth"/>
+        <Object Name="bhack.op"/>
+        <Object Name="bhack.print"/>
+        <Object Name="bhack.scale"/>
+        <Object Name="bhack.topd"/>
+        <Object Name="bhack.voice"/>
+        <Object Name="ji"/>
+        <Object Name="ji.arith-mean"/>
+        <Object Name="ji.arith-mean-sob"/>
+        <Object Name="ji.change-notes"/>
+        <Object Name="ji.chord-inverse"/>
+        <Object Name="ji.cpstoidentity"/>
+        <Object Name="ji.cpstoratio"/>
+        <Object Name="ji.diamond"/>
+        <Object Name="ji.diamond-identity"/>
+        <Object Name="ji.eikosany"/>
+        <Object Name="ji.eikosany-connections"/>
+        <Object Name="ji.eikosany-draw"/>
+        <Object Name="ji.eikosany-tetrads"/>
+        <Object Name="ji.eikosany-triads"/>
+        <Object Name="ji.filter-ac-inst"/>
+        <Object Name="ji.hexany"/>
+        <Object Name="ji.hexany-connections"/>
+        <Object Name="ji.hexany-triads"/>
+        <Object Name="ji.interval-sob"/>
+        <Object Name="ji.johnston-sob"/>
+        <Object Name="ji.mk-temperament"/>
+        <Object Name="ji.modulation-notes"/>
+        <Object Name="ji.modulation-notes-fund"/>
+        <Object Name="ji.mos"/>
+        <Object Name="ji.mos-check"/>
+        <Object Name="ji.mos-complementary"/>
+        <Object Name="ji.mos-verify"/>
+        <Object Name="ji.prime-decomposition"/>
+        <Object Name="ji.range-change-notes"/>
+        <Object Name="ji.range-reduce"/>
+        <Object Name="ji.rt-octave"/>
+        <Object Name="ji.rttom"/>
+        <Object Name="l.gain~"/>
+        <Object Name="l.orchidea"/>
+        <Object Name="mar~"/>
+        <Object Name="openmusic"/>
+        <Object Name="pv~"/>
+        <Object Name="py.convertion"/>
+        <Object Name="py.game"/>
+        <Object Name="py.loop"/>
+        <Object Name="py.math"/>
+        <Object Name="py.o.train"/>
+        <Object Name="py.pip"/>
+        <Object Name="py.score"/>
+        <Object Name="py.utils"/>
+        <Object Name="py.vispy"/>
+        <Object Name="py4pd"/>
+        <Object Name="pymetro"/>
+        <Object Name="pytest"/>
+        <Object Name="pytest~"/>
+        <Object Name="rhythm"/>
+        <Object Name="upic"/>
+        <Object Name="x.buffers"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="ws">
     <Package ID="d3NfMC4xXzIwMTgtMDMtMTkgMDQ6NTI6MTJfY2hyMTVt" Author="chr15m"
              Timestamp="2018-03-19 04:52:12" Description="ws[v0.1].dek" Version="0.1"
