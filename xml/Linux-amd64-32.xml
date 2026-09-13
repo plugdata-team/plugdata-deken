@@ -13060,6 +13060,15 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="ncpd">
+    <Package ID="bmNwZF8wLjEuMF8yMDI2LTA5LTEzIDE0OjA3OjU0X2ZkY2g=" Author="fdch"
+             Timestamp="2026-09-13 14:07:54" Description="ncpd[v0.1.0](Linux-amd64-32)(Sources).dek"
+             Version="0.1.0" URL="https://puredata.info/Members/fdch/software/ncpd/0.1.0/ncpd[v0.1.0](Linux-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="ncpd"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="ndi">
     <Package ID="bmRpXzAuMC4wXzIwMjAtMDYtMDcgMjE6NTk6NTBfYXZpbGxlcmV0" Author="avilleret"
              Timestamp="2020-06-07 21:59:50" Description="ndi-v0.0.0-(Linux-amd64-64)-externals.tar.gz"
