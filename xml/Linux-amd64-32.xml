@@ -3733,6 +3733,22 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="vinylcontrol~">
+    <Package ID="dmlueWxjb250cm9sfl8wLjFfMjAxNy0wMS0xNyAxNTozODo1OV9hdmlsbGVyZXQ="
+             Author="avilleret" Timestamp="2017-01-17 15:38:59" Description="vinylcontrol~-v0.1-(Linux-amd64-64)(Sources)-externals.tar.gz"
+             Version="0.1" URL="https://puredata.info/Members/avilleret/software/vinylcontrol~/0.1/vinylcontrol~-v0.1-(Linux-amd64-64)(Sources)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="martha~">
+    <Package ID="bWFydGhhfl8wLjZfMjAxOC0wMy0yNCAxOTo0Njo0OV93bWJyZW50" Author="wmbrent"
+             Timestamp="2018-03-24 19:46:49" Description="martha~[v0.6].dek"
+             Version="0.6" URL="https://puredata.info/Members/wmbrent/software/martha~/0.6/martha~[v0.6].dek">
+      <Objects>
+        <Object Name="martha~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="iem_ambi">
     <Package ID="aWVtX2FtYmlfMS4yMS4xXzIwMjYtMDItMTggMTE6MTI6NTdfaWVtYm90"
              Author="iembot" Timestamp="2026-02-18 11:12:57" Description="iem_ambi[v1.21.1](Linux-amd64-32)(Linux-amd64-64)(Linux-arm64-32)(Linux-arm64-64)(Linux-armv7-32)(Linux-armv7-64)(Linux-i386-32)(Linux-i386-64).dek"
@@ -4484,20 +4500,6 @@
       <Objects>
         <Object Name="iempluginOSC"/>
       </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="earplug~">
-    <Package ID="ZWFycGx1Z35fMC4zLjBfMjAyMS0wNi0wNiAxODo0NTozOV9sdWNhcmRh"
-             Author="lucarda" Timestamp="2021-06-06 18:45:39" Description="earplug~[v0.3.0](Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
-             Version="0.3.0" URL="https://puredata.info/Members/lucarda/software/earplug~/0.3.0/earplug~[v0.3.0](Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
-      <Objects>
-        <Object Name="earplug~"/>
-      </Objects>
-    </Package>
-    <Package ID="ZWFycGx1Z35fMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6MzI6MjFfY2hyMTVt"
-             Author="chr15m" Timestamp="2015-08-07 14:32:21" Description="earplug~-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
-             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/earplug~/earplug~-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz">
-      <Objects/>
     </Package>
   </Packages>
   <Packages Name="py">
@@ -17549,6 +17551,34 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="earplug~">
+    <Package ID="ZWFycGx1Z35fMC4zLjBfMjAyMS0wNi0wNiAxODo0NTozOV9sdWNhcmRh"
+             Author="lucarda" Timestamp="2021-06-06 18:45:39" Description="earplug~[v0.3.0](Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek"
+             Version="0.3.0" URL="https://puredata.info/Members/lucarda/software/earplug~/0.3.0/earplug~[v0.3.0](Linux-amd64-32)(Linux-i386-32)(Windows-amd64-32)(Windows-i386-32).dek">
+      <Objects>
+        <Object Name="earplug~"/>
+      </Objects>
+    </Package>
+    <Package ID="ZWFycGx1Z35fMC4wLmV4dGVuZGVkXzIwMTUtMDgtMDcgMTQ6MzI6MjFfY2hyMTVt"
+             Author="chr15m" Timestamp="2015-08-07 14:32:21" Description="earplug~-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
+             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/earplug~/earplug~-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="saf">
+    <Package ID="c2FmXzAuMC4xLWFscGhhXzIwMjYtMDktMTUgMTk6MzI6NDNfY2hhcmxlc25laW1vZw=="
+             Author="charlesneimog" Timestamp="2026-09-15 19:32:43" Description="saf[v0.0.1-alpha](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek"
+             Version="0.0.1-alpha" URL="https://puredata.info/Members/charlesneimog/software/saf/0.0.1-alpha/saf[v0.0.1-alpha](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="saf.binaural~"/>
+        <Object Name="saf.decoder~"/>
+        <Object Name="saf.encoder~"/>
+        <Object Name="saf.meter~"/>
+        <Object Name="saf.panner~"/>
+        <Object Name="saf.panning"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="saturator">
     <Package ID="c2F0dXJhdG9yXzAuMy41XzIwMTYtMDctMzAgMjA6MzY6NDNfc2F0dXJubw=="
              Author="saturno" Timestamp="2016-07-30 20:36:43" Description="saturator-v0.3.5-(Darwin-i386-32)(Sources)(Darwin-x86_64-32)(Linux-amd64-64)(Windows-i386-32)-externals.zip"
@@ -22857,22 +22887,6 @@
     <Package ID="dmFuaWxsYV8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNToxMDozMF9jaHIxNW0="
              Author="chr15m" Timestamp="2015-08-07 15:10:30" Description="vanilla-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz"
              Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/vanilla/vanilla-v0.0.extended-(Linux-i386-32)(Linux-amd64-64)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="martha~">
-    <Package ID="bWFydGhhfl8wLjZfMjAxOC0wMy0yNCAxOTo0Njo0OV93bWJyZW50" Author="wmbrent"
-             Timestamp="2018-03-24 19:46:49" Description="martha~[v0.6].dek"
-             Version="0.6" URL="https://puredata.info/Members/wmbrent/software/martha~/0.6/martha~[v0.6].dek">
-      <Objects>
-        <Object Name="martha~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="vinylcontrol~">
-    <Package ID="dmlueWxjb250cm9sfl8wLjFfMjAxNy0wMS0xNyAxNTozODo1OV9hdmlsbGVyZXQ="
-             Author="avilleret" Timestamp="2017-01-17 15:38:59" Description="vinylcontrol~-v0.1-(Linux-amd64-64)(Sources)-externals.tar.gz"
-             Version="0.1" URL="https://puredata.info/Members/avilleret/software/vinylcontrol~/0.1/vinylcontrol~-v0.1-(Linux-amd64-64)(Sources)-externals.tar.gz">
       <Objects/>
     </Package>
   </Packages>

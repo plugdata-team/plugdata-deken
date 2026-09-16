@@ -188,6 +188,15 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="martha~">
+    <Package ID="bWFydGhhfl8wLjZfMjAxOC0wMy0yNCAxOTo0Njo0OV93bWJyZW50" Author="wmbrent"
+             Timestamp="2018-03-24 19:46:49" Description="martha~[v0.6].dek"
+             Version="0.6" URL="https://puredata.info/Members/wmbrent/software/martha~/0.6/martha~[v0.6].dek">
+      <Objects>
+        <Object Name="martha~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="iem_ambi">
     <Package ID="aWVtX2FtYmlfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoyMTozNF96bW9lbG5pZw=="
              Author="zmoelnig" Timestamp="2015-12-10 14:21:34" Description="iem_ambi-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
@@ -336,13 +345,6 @@
       <Objects>
         <Object Name="iempluginOSC"/>
       </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="earplug~">
-    <Package ID="ZWFycGx1Z35fMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxNzoyNF96bW9lbG5pZw=="
-             Author="zmoelnig" Timestamp="2015-12-10 14:17:24" Description="earplug~-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/earplug~/0-0extended/earplug~-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
     </Package>
   </Packages>
   <Packages Name="Fraise">
@@ -4899,6 +4901,13 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="earplug~">
+    <Package ID="ZWFycGx1Z35fMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxNzoyNF96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:17:24" Description="earplug~-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/earplug~/0-0extended/earplug~-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="cyclone">
     <Package ID="Y3ljbG9uZV8wLjJiZXRhMV8yMDE2LTAxLTA3IDE5OjQ1OjMwX2Zqa3JhYW4="
              Author="fjkraan" Timestamp="2016-01-07 19:45:30" Description="cyclone-v0.2beta1-(Darwin-ppc-32)(Darwin-i386-32)(Darwin-X86_64-32)(Sources)-externals.tgz"
@@ -5207,15 +5216,6 @@
              Author="zmoelnig" Timestamp="2015-12-10 14:35:11" Description="vanilla-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/vanilla/0-0extended/vanilla-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
       <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="martha~">
-    <Package ID="bWFydGhhfl8wLjZfMjAxOC0wMy0yNCAxOTo0Njo0OV93bWJyZW50" Author="wmbrent"
-             Timestamp="2018-03-24 19:46:49" Description="martha~[v0.6].dek"
-             Version="0.6" URL="https://puredata.info/Members/wmbrent/software/martha~/0.6/martha~[v0.6].dek">
-      <Objects>
-        <Object Name="martha~"/>
-      </Objects>
     </Package>
   </Packages>
 </Darwin-ppc-32>
