@@ -648,22 +648,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="mapping">
-    <Package ID="bWFwcGluZ18wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNDo0NToxMV9jaHIxNW0="
-             Author="chr15m" Timestamp="2015-08-07 14:45:11" Description="mapping-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/mapping/mapping-v0.0.extended--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="asdf">
-    <Package ID="YXNkZl8xLjEuMF8yMDI1LTEwLTA1IDE0OjE0OjI5X21nZWllcg==" Author="mgeier"
-             Timestamp="2025-10-05 14:14:29" Description="asdf[v1.1.0](Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
-             Version="1.1.0" URL="https://puredata.info/Members/mgeier/software/asdf/1.1.0/asdf[v1.1.0](Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
-      <Objects>
-        <Object Name="asdf~"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="lyonpotpourri">
     <Package ID="bHlvbnBvdHBvdXJyaV8zLjAuMl8yMDI0LTEwLTMwIDIyOjI0OjU3X2x1Y2FyZGE="
              Author="lucarda" Timestamp="2024-10-30 22:24:57" Description="lyonpotpourri[v3.0.2](Darwin-amd64-32)(Darwin-arm64-32).dek"
@@ -3018,166 +3002,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="bf-pd">
-    <Package ID="YmYtcGRfMS4wXzIwMjEtMDgtMDMgMTI6MTQ6MTZfZmJlcnRoYXV0" Author="fberthaut"
-             Timestamp="2021-08-03 12:14:16" Description="bf-pd[v1.0].dek"
-             Version="1.0" URL="https://puredata.info/Members/fberthaut/software/bf-pd/1.0/bf-pd[v1.0].dek">
-      <Objects>
-        <Object Name="bf-clock"/>
-        <Object Name="bf-instrument"/>
-        <Object Name="bf-output"/>
-        <Object Name="bf-param"/>
-        <Object Name="boeuf"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="search-plugin">
-    <Package ID="c2VhcmNoLXBsdWdpbl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNTowMzoyNV9jaHIxNW0="
-             Author="chr15m" Timestamp="2015-08-07 15:03:25" Description="search-plugin-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/search-plugin/search-plugin-v0.0.extended--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="acre-wg">
-    <Package ID="YWNyZS13Z18xLjAzXzIwMjQtMDgtMjIgMTM6Mzc6NDRfcml0c2No" Author="ritsch"
-             Timestamp="2024-08-22 13:37:44" Description="acre-wg[v1.03].dek"
-             Version="1.03" URL="https://puredata.info/Members/ritsch/software/acre-wg/1.03/acre-wg[v1.03].dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="PDNAM">
-    <Package ID="UEROQU1fMC4xLjFfMjAyNi0wNi0wMyAxMDo1OTo0MF9kcmVhbWVy" Author="dreamer"
-             Timestamp="2026-06-03 10:59:40" Description="PDNAM[v0.1.1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Windows-amd64-32).dek"
-             Version="0.1.1" URL="https://puredata.info/Members/dreamer/software/PDNAM/0.1.1/PDNAM[v0.1.1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Windows-amd64-32).dek">
-      <Objects>
-        <Object Name="pdnam+~"/>
-        <Object Name="pdnam~"/>
-      </Objects>
-    </Package>
-    <Package ID="UEROQU1fMC4xLjBfMjAyNi0wNC0yOCAxMTo1NDo1OF9kcmVhbWVy" Author="dreamer"
-             Timestamp="2026-04-28 11:54:58" Description="PDNAM[v0.1.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Windows-amd64-32).dek"
-             Version="0.1.0" URL="https://puredata.info/Members/dreamer/software/PDNAM/0.1.0/PDNAM[v0.1.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Windows-amd64-32).dek">
-      <Objects>
-        <Object Name="pdnam+~"/>
-        <Object Name="pdnam~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="lolPd">
-    <Package ID="bG9sUGRfMC4zXzIwMTYtMTItMDIgMDU6MTI6NTlfY2hyMTVt" Author="chr15m"
-             Timestamp="2016-12-02 05:12:59" Description="lolPd-v0.3--externals.zip"
-             Version="0.3" URL="https://puredata.info/Members/chr15m/software/lolPd/0.3/lolPd-v0.3--externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="bG9sUGRfMC4yXzIwMTYtMTEtMTcgMTc6MDU6NDVfY2hyMTVt" Author="chr15m"
-             Timestamp="2016-11-17 17:05:45" Description="lolPd-v0.2--externals.zip"
-             Version="0.2" URL="https://puredata.info/Members/chr15m/software/lolPd/0.2/lolPd-v0.2--externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="bG9sUGRfMC4xXzIwMTYtMDctMTAgMTU6MTU6NTJfY2hyMTVt" Author="chr15m"
-             Timestamp="2016-07-10 15:15:52" Description="lolPd-v0.1--externals.zip"
-             Version="0.1" URL="https://puredata.info/Members/chr15m/software/lolPd/0.1/lolPd-v0.1--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="chair">
-    <Package ID="Y2hhaXJfMC44MV8yMDIwLTAyLTE0IDIwOjQxOjMwX0NIQUlS" Author="CHAIR"
-             Timestamp="2020-02-14 20:41:30" Description="chair[v0.81].dek"
-             Version="0.81" URL="https://puredata.info/Members/CHAIR/software/chair/0.81/chair[v0.81].dek">
-      <Objects>
-        <Object Name="chair.14bit-ctlin"/>
-        <Object Name="chair.angle"/>
-        <Object Name="chair.chrismoore-reverb~"/>
-        <Object Name="chair.dc-offset~"/>
-        <Object Name="chair.distance"/>
-        <Object Name="chair.dynamics~"/>
-        <Object Name="chair.encoders"/>
-        <Object Name="chair.feedback-cancellation~"/>
-        <Object Name="chair.gain~"/>
-        <Object Name="chair.gesture"/>
-        <Object Name="chair.hex-hold"/>
-        <Object Name="chair.hex-mapping"/>
-        <Object Name="chair.hex-tuning"/>
-        <Object Name="chair.increment"/>
-        <Object Name="chair.mtocv~"/>
-        <Object Name="chair.peak-env~"/>
-        <Object Name="chair.rotary-limit-range"/>
-        <Object Name="chair.rotary-relative"/>
-        <Object Name="chair.singleton"/>
-        <Object Name="chair.speed"/>
-        <Object Name="chair.stereogain~"/>
-        <Object Name="chair.touchgate~"/>
-        <Object Name="chair.transpose-oct"/>
-        <Object Name="chair.vfreeverb~"/>
-      </Objects>
-    </Package>
-    <Package ID="Y2hhaXJfMC44MF8yMDE5LTEwLTI4IDAwOjEyOjEyX0NIQUlS" Author="CHAIR"
-             Timestamp="2019-10-28 00:12:12" Description="chair[v0.80].dek"
-             Version="0.80" URL="https://puredata.info/Members/CHAIR/software/chair/0.80/chair[v0.80].dek">
-      <Objects>
-        <Object Name="chair.angle"/>
-        <Object Name="chair.capsense"/>
-        <Object Name="chair.chrismoore-reverb~"/>
-        <Object Name="chair.cleanposdata"/>
-        <Object Name="chair.dc-offset~"/>
-        <Object Name="chair.distance"/>
-        <Object Name="chair.dynamics~"/>
-        <Object Name="chair.encoders"/>
-        <Object Name="chair.feedback-cancellation~"/>
-        <Object Name="chair.gain~"/>
-        <Object Name="chair.gesture"/>
-        <Object Name="chair.hex-hold"/>
-        <Object Name="chair.hex-mapping"/>
-        <Object Name="chair.hex-tuning"/>
-        <Object Name="chair.modifier"/>
-        <Object Name="chair.mtocv~"/>
-        <Object Name="chair.peak-env~"/>
-        <Object Name="chair.rotary-limit-range"/>
-        <Object Name="chair.singleton"/>
-        <Object Name="chair.speed"/>
-        <Object Name="chair.stereogain~"/>
-        <Object Name="chair.touchgate~"/>
-        <Object Name="chair.transpose-oct"/>
-        <Object Name="chair.vfreeverb~"/>
-      </Objects>
-    </Package>
-    <Package ID="Y2hhaXJfMC43M18yMDE5LTA2LTE1IDAwOjUyOjI3X0NIQUlS" Author="CHAIR"
-             Timestamp="2019-06-15 00:52:27" Description="chair[v0.73].dek"
-             Version="0.73" URL="https://puredata.info/Members/CHAIR/software/chair/0.73/chair[v0.73].dek">
-      <Objects>
-        <Object Name="cair.modifier"/>
-        <Object Name="chair.angle"/>
-        <Object Name="chair.capsense"/>
-        <Object Name="chair.chrismoore-reverb~"/>
-        <Object Name="chair.cleanposdata"/>
-        <Object Name="chair.dc-offset~"/>
-        <Object Name="chair.distance"/>
-        <Object Name="chair.dynamics~"/>
-        <Object Name="chair.feedback-cancellation~"/>
-        <Object Name="chair.gain~"/>
-        <Object Name="chair.gesture"/>
-        <Object Name="chair.hex-mapping"/>
-        <Object Name="chair.hex-tuning"/>
-        <Object Name="chair.mtocv~"/>
-        <Object Name="chair.peak-env~"/>
-        <Object Name="chair.rotary-limit-range"/>
-        <Object Name="chair.singleton"/>
-        <Object Name="chair.speed"/>
-        <Object Name="chair.stereogain~"/>
-        <Object Name="chair.touchgate~"/>
-        <Object Name="chair.transpose-oct"/>
-        <Object Name="chair.vfreeverb~"/>
-        <Object Name="tickle~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="spring22">
-    <Package ID="c3ByaW5nMjJfMC4yMDIyMDYxN18yMDIyLTA2LTE3IDE1OjAwOjIxX3ptb2Vsbmln"
-             Author="zmoelnig" Timestamp="2022-06-17 15:00:21" Description="spring22[v0.20220617].dek"
-             Version="0.20220617" URL="https://puredata.info/Members/zmoelnig/software/spring22/0.20220617/spring22[v0.20220617].dek">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="pd">
     <Package ID="cGRfMC41Ni4yXzIwMjYtMDItMDkgMTc6MzM6NTFfem1vZWxuaWc=" Author="zmoelnig"
              Timestamp="2026-02-09 17:33:51" Description="pd/0.56.2 (dummy library for built-in objects)"
@@ -3501,6 +3325,173 @@
       <Objects>
         <Object Name="comport"/>
       </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="bf-pd">
+    <Package ID="YmYtcGRfMS4wXzIwMjEtMDgtMDMgMTI6MTQ6MTZfZmJlcnRoYXV0" Author="fberthaut"
+             Timestamp="2021-08-03 12:14:16" Description="bf-pd[v1.0].dek"
+             Version="1.0" URL="https://puredata.info/Members/fberthaut/software/bf-pd/1.0/bf-pd[v1.0].dek">
+      <Objects>
+        <Object Name="bf-clock"/>
+        <Object Name="bf-instrument"/>
+        <Object Name="bf-output"/>
+        <Object Name="bf-param"/>
+        <Object Name="boeuf"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="search-plugin">
+    <Package ID="c2VhcmNoLXBsdWdpbl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNTowMzoyNV9jaHIxNW0="
+             Author="chr15m" Timestamp="2015-08-07 15:03:25" Description="search-plugin-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/search-plugin/search-plugin-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="acre-wg">
+    <Package ID="YWNyZS13Z18xLjAzXzIwMjQtMDgtMjIgMTM6Mzc6NDRfcml0c2No" Author="ritsch"
+             Timestamp="2024-08-22 13:37:44" Description="acre-wg[v1.03].dek"
+             Version="1.03" URL="https://puredata.info/Members/ritsch/software/acre-wg/1.03/acre-wg[v1.03].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="alien-theme-overlay-plugin">
+    <Package ID="YWxpZW4tdGhlbWUtb3ZlcmxheS1wbHVnaW5fMC4xLjBfMjAyNi0wOS0xOCAxOTozODoyN19tb256"
+             Author="monz" Timestamp="2026-09-18 19:38:27" Description="alien-theme-overlay-plugin[v0.1.0].dek"
+             Version="0.1.0" URL="https://puredata.info/Members/monz/software/alien-theme-overlay-plugin/0.1.0/alien-theme-overlay-plugin[v0.1.0].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="PDNAM">
+    <Package ID="UEROQU1fMC4xLjFfMjAyNi0wNi0wMyAxMDo1OTo0MF9kcmVhbWVy" Author="dreamer"
+             Timestamp="2026-06-03 10:59:40" Description="PDNAM[v0.1.1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Windows-amd64-32).dek"
+             Version="0.1.1" URL="https://puredata.info/Members/dreamer/software/PDNAM/0.1.1/PDNAM[v0.1.1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="pdnam+~"/>
+        <Object Name="pdnam~"/>
+      </Objects>
+    </Package>
+    <Package ID="UEROQU1fMC4xLjBfMjAyNi0wNC0yOCAxMTo1NDo1OF9kcmVhbWVy" Author="dreamer"
+             Timestamp="2026-04-28 11:54:58" Description="PDNAM[v0.1.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Windows-amd64-32).dek"
+             Version="0.1.0" URL="https://puredata.info/Members/dreamer/software/PDNAM/0.1.0/PDNAM[v0.1.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Linux-arm64-32)(Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="pdnam+~"/>
+        <Object Name="pdnam~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="lolPd">
+    <Package ID="bG9sUGRfMC4zXzIwMTYtMTItMDIgMDU6MTI6NTlfY2hyMTVt" Author="chr15m"
+             Timestamp="2016-12-02 05:12:59" Description="lolPd-v0.3--externals.zip"
+             Version="0.3" URL="https://puredata.info/Members/chr15m/software/lolPd/0.3/lolPd-v0.3--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="bG9sUGRfMC4yXzIwMTYtMTEtMTcgMTc6MDU6NDVfY2hyMTVt" Author="chr15m"
+             Timestamp="2016-11-17 17:05:45" Description="lolPd-v0.2--externals.zip"
+             Version="0.2" URL="https://puredata.info/Members/chr15m/software/lolPd/0.2/lolPd-v0.2--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="bG9sUGRfMC4xXzIwMTYtMDctMTAgMTU6MTU6NTJfY2hyMTVt" Author="chr15m"
+             Timestamp="2016-07-10 15:15:52" Description="lolPd-v0.1--externals.zip"
+             Version="0.1" URL="https://puredata.info/Members/chr15m/software/lolPd/0.1/lolPd-v0.1--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="chair">
+    <Package ID="Y2hhaXJfMC44MV8yMDIwLTAyLTE0IDIwOjQxOjMwX0NIQUlS" Author="CHAIR"
+             Timestamp="2020-02-14 20:41:30" Description="chair[v0.81].dek"
+             Version="0.81" URL="https://puredata.info/Members/CHAIR/software/chair/0.81/chair[v0.81].dek">
+      <Objects>
+        <Object Name="chair.14bit-ctlin"/>
+        <Object Name="chair.angle"/>
+        <Object Name="chair.chrismoore-reverb~"/>
+        <Object Name="chair.dc-offset~"/>
+        <Object Name="chair.distance"/>
+        <Object Name="chair.dynamics~"/>
+        <Object Name="chair.encoders"/>
+        <Object Name="chair.feedback-cancellation~"/>
+        <Object Name="chair.gain~"/>
+        <Object Name="chair.gesture"/>
+        <Object Name="chair.hex-hold"/>
+        <Object Name="chair.hex-mapping"/>
+        <Object Name="chair.hex-tuning"/>
+        <Object Name="chair.increment"/>
+        <Object Name="chair.mtocv~"/>
+        <Object Name="chair.peak-env~"/>
+        <Object Name="chair.rotary-limit-range"/>
+        <Object Name="chair.rotary-relative"/>
+        <Object Name="chair.singleton"/>
+        <Object Name="chair.speed"/>
+        <Object Name="chair.stereogain~"/>
+        <Object Name="chair.touchgate~"/>
+        <Object Name="chair.transpose-oct"/>
+        <Object Name="chair.vfreeverb~"/>
+      </Objects>
+    </Package>
+    <Package ID="Y2hhaXJfMC44MF8yMDE5LTEwLTI4IDAwOjEyOjEyX0NIQUlS" Author="CHAIR"
+             Timestamp="2019-10-28 00:12:12" Description="chair[v0.80].dek"
+             Version="0.80" URL="https://puredata.info/Members/CHAIR/software/chair/0.80/chair[v0.80].dek">
+      <Objects>
+        <Object Name="chair.angle"/>
+        <Object Name="chair.capsense"/>
+        <Object Name="chair.chrismoore-reverb~"/>
+        <Object Name="chair.cleanposdata"/>
+        <Object Name="chair.dc-offset~"/>
+        <Object Name="chair.distance"/>
+        <Object Name="chair.dynamics~"/>
+        <Object Name="chair.encoders"/>
+        <Object Name="chair.feedback-cancellation~"/>
+        <Object Name="chair.gain~"/>
+        <Object Name="chair.gesture"/>
+        <Object Name="chair.hex-hold"/>
+        <Object Name="chair.hex-mapping"/>
+        <Object Name="chair.hex-tuning"/>
+        <Object Name="chair.modifier"/>
+        <Object Name="chair.mtocv~"/>
+        <Object Name="chair.peak-env~"/>
+        <Object Name="chair.rotary-limit-range"/>
+        <Object Name="chair.singleton"/>
+        <Object Name="chair.speed"/>
+        <Object Name="chair.stereogain~"/>
+        <Object Name="chair.touchgate~"/>
+        <Object Name="chair.transpose-oct"/>
+        <Object Name="chair.vfreeverb~"/>
+      </Objects>
+    </Package>
+    <Package ID="Y2hhaXJfMC43M18yMDE5LTA2LTE1IDAwOjUyOjI3X0NIQUlS" Author="CHAIR"
+             Timestamp="2019-06-15 00:52:27" Description="chair[v0.73].dek"
+             Version="0.73" URL="https://puredata.info/Members/CHAIR/software/chair/0.73/chair[v0.73].dek">
+      <Objects>
+        <Object Name="cair.modifier"/>
+        <Object Name="chair.angle"/>
+        <Object Name="chair.capsense"/>
+        <Object Name="chair.chrismoore-reverb~"/>
+        <Object Name="chair.cleanposdata"/>
+        <Object Name="chair.dc-offset~"/>
+        <Object Name="chair.distance"/>
+        <Object Name="chair.dynamics~"/>
+        <Object Name="chair.feedback-cancellation~"/>
+        <Object Name="chair.gain~"/>
+        <Object Name="chair.gesture"/>
+        <Object Name="chair.hex-mapping"/>
+        <Object Name="chair.hex-tuning"/>
+        <Object Name="chair.mtocv~"/>
+        <Object Name="chair.peak-env~"/>
+        <Object Name="chair.rotary-limit-range"/>
+        <Object Name="chair.singleton"/>
+        <Object Name="chair.speed"/>
+        <Object Name="chair.stereogain~"/>
+        <Object Name="chair.touchgate~"/>
+        <Object Name="chair.transpose-oct"/>
+        <Object Name="chair.vfreeverb~"/>
+        <Object Name="tickle~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="spring22">
+    <Package ID="c3ByaW5nMjJfMC4yMDIyMDYxN18yMDIyLTA2LTE3IDE1OjAwOjIxX3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2022-06-17 15:00:21" Description="spring22[v0.20220617].dek"
+             Version="0.20220617" URL="https://puredata.info/Members/zmoelnig/software/spring22/0.20220617/spring22[v0.20220617].dek">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="algo~">
@@ -4594,6 +4585,22 @@
         <Object Name="ns_seq_propose"/>
         <Object Name="ns_spigot"/>
       </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="asdf">
+    <Package ID="YXNkZl8xLjEuMF8yMDI1LTEwLTA1IDE0OjE0OjI5X21nZWllcg==" Author="mgeier"
+             Timestamp="2025-10-05 14:14:29" Description="asdf[v1.1.0](Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
+             Version="1.1.0" URL="https://puredata.info/Members/mgeier/software/asdf/1.1.0/asdf[v1.1.0](Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="asdf~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="mapping">
+    <Package ID="bWFwcGluZ18wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNDo0NToxMV9jaHIxNW0="
+             Author="chr15m" Timestamp="2015-08-07 14:45:11" Description="mapping-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/mapping/mapping-v0.0.extended--externals.zip">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="Gem">
@@ -10895,6 +10902,330 @@
     </Package>
   </Packages>
   <Packages Name="fd_lib">
+    <Package ID="ZmRfbGliX21haW5fMjAyNi0wOS0xOSAxMToxMDo0OF9mZGNo" Author="fdch"
+             Timestamp="2026-09-19 11:10:48" Description="fd_lib[vmain](Darwin-arm64-32)(Sources).dek"
+             Version="main" URL="https://puredata.info/Members/fdch/software/fd_lib/main/fd_lib[vmain](Darwin-arm64-32)(Sources).dek">
+      <Objects>
+        <Object Name="!msg"/>
+        <Object Name="bus~"/>
+        <Object Name="cantor"/>
+        <Object Name="clifford"/>
+        <Object Name="colormap"/>
+        <Object Name="combi"/>
+        <Object Name="comp2~"/>
+        <Object Name="compander~"/>
+        <Object Name="connect"/>
+        <Object Name="counter"/>
+        <Object Name="crand"/>
+        <Object Name="cuadratic"/>
+        <Object Name="delit"/>
+        <Object Name="dispatch~"/>
+        <Object Name="factor"/>
+        <Object Name="fd_2bit"/>
+        <Object Name="fd_6x6"/>
+        <Object Name="fd_any2list"/>
+        <Object Name="fd_arcsin"/>
+        <Object Name="fd_arcsin~"/>
+        <Object Name="fd_arg1"/>
+        <Object Name="fd_argc"/>
+        <Object Name="fd_argv"/>
+        <Object Name="fd_array-rerange"/>
+        <Object Name="fd_array2pix"/>
+        <Object Name="fd_arrayautotrim"/>
+        <Object Name="fd_arrayclone"/>
+        <Object Name="fd_arraycopy"/>
+        <Object Name="fd_arraymorph"/>
+        <Object Name="fd_arraysort1"/>
+        <Object Name="fd_arraysort2"/>
+        <Object Name="fd_autopatch"/>
+        <Object Name="fd_autopoly"/>
+        <Object Name="fd_background"/>
+        <Object Name="fd_bang"/>
+        <Object Name="fd_bangem"/>
+        <Object Name="fd_bark"/>
+        <Object Name="fd_bark~"/>
+        <Object Name="fd_bass"/>
+        <Object Name="fd_bigmyvu"/>
+        <Object Name="fd_blackman"/>
+        <Object Name="fd_blackman~"/>
+        <Object Name="fd_blob"/>
+        <Object Name="fd_blobtracks"/>
+        <Object Name="fd_blobvid"/>
+        <Object Name="fd_bufvid"/>
+        <Object Name="fd_butterworth"/>
+        <Object Name="fd_calm"/>
+        <Object Name="fd_camara"/>
+        <Object Name="fd_cauchy"/>
+        <Object Name="fd_cauchy~"/>
+        <Object Name="fd_ceil"/>
+        <Object Name="fd_circle"/>
+        <Object Name="fd_clarg"/>
+        <Object Name="fd_clicktrack"/>
+        <Object Name="fd_colorpicker"/>
+        <Object Name="fd_colortheme"/>
+        <Object Name="fd_comp~"/>
+        <Object Name="fd_corr"/>
+        <Object Name="fd_cosline~"/>
+        <Object Name="fd_countdown"/>
+        <Object Name="fd_cputime"/>
+        <Object Name="fd_critical"/>
+        <Object Name="fd_cuacua"/>
+        <Object Name="fd_cubic"/>
+        <Object Name="fd_dacout"/>
+        <Object Name="fd_dacout_rec"/>
+        <Object Name="fd_dactest"/>
+        <Object Name="fd_data"/>
+        <Object Name="fd_dataDroplet"/>
+        <Object Name="fd_dataExp"/>
+        <Object Name="fd_dataGui"/>
+        <Object Name="fd_dataHann"/>
+        <Object Name="fd_dataID"/>
+        <Object Name="fd_dataLine"/>
+        <Object Name="fd_dataMorph"/>
+        <Object Name="fd_dataMorphArray"/>
+        <Object Name="fd_dataMorphGui"/>
+        <Object Name="fd_dataMorphWidth"/>
+        <Object Name="fd_dataRand"/>
+        <Object Name="fd_dataRead"/>
+        <Object Name="fd_dataRead1"/>
+        <Object Name="fd_dataRead3"/>
+        <Object Name="fd_dataStoreGui"/>
+        <Object Name="fd_dataVis"/>
+        <Object Name="fd_dataWalk"/>
+        <Object Name="fd_delit"/>
+        <Object Name="fd_dels"/>
+        <Object Name="fd_distor"/>
+        <Object Name="fd_distributions"/>
+        <Object Name="fd_dory"/>
+        <Object Name="fd_dsp"/>
+        <Object Name="fd_dsp-bang"/>
+        <Object Name="fd_dspon"/>
+        <Object Name="fd_emap2"/>
+        <Object Name="fd_env"/>
+        <Object Name="fd_etareti"/>
+        <Object Name="fd_exp"/>
+        <Object Name="fd_expo~"/>
+        <Object Name="fd_fftfilt"/>
+        <Object Name="fd_filt"/>
+        <Object Name="fd_fk"/>
+        <Object Name="fd_fletcher-munson"/>
+        <Object Name="fd_floor"/>
+        <Object Name="fd_fm"/>
+        <Object Name="fd_fmosc"/>
+        <Object Name="fd_fromsig"/>
+        <Object Name="fd_gain~"/>
+        <Object Name="fd_gate"/>
+        <Object Name="fd_gauss"/>
+        <Object Name="fd_gauss~"/>
+        <Object Name="fd_gem2feat"/>
+        <Object Name="fd_gembuf"/>
+        <Object Name="fd_GEMbuffsize"/>
+        <Object Name="fd_gemloop"/>
+        <Object Name="fd_gemsphere"/>
+        <Object Name="fd_geomean"/>
+        <Object Name="fd_get-element"/>
+        <Object Name="fd_getcomb"/>
+        <Object Name="fd_getid"/>
+        <Object Name="fd_getsize"/>
+        <Object Name="fd_gr"/>
+        <Object Name="fd_grain"/>
+        <Object Name="fd_guiDelta"/>
+        <Object Name="fd_guiFont"/>
+        <Object Name="fd_guiTemplate"/>
+        <Object Name="fd_hann~"/>
+        <Object Name="fd_hihat"/>
+        <Object Name="fd_hopmsec"/>
+        <Object Name="fd_hradio"/>
+        <Object Name="fd_img2feat"/>
+        <Object Name="fd_impulse"/>
+        <Object Name="fd_input"/>
+        <Object Name="fd_inputGui"/>
+        <Object Name="fd_iterate"/>
+        <Object Name="fd_itpoint"/>
+        <Object Name="fd_jumpv"/>
+        <Object Name="fd_karplus"/>
+        <Object Name="fd_key"/>
+        <Object Name="fd_keycomb"/>
+        <Object Name="fd_kinetica"/>
+        <Object Name="fd_kp"/>
+        <Object Name="fd_legato"/>
+        <Object Name="fd_lib"/>
+        <Object Name="fd_lines"/>
+        <Object Name="fd_list-last"/>
+        <Object Name="fd_list-pointer"/>
+        <Object Name="fd_listout"/>
+        <Object Name="fd_log"/>
+        <Object Name="fd_logistic"/>
+        <Object Name="fd_logistic~"/>
+        <Object Name="fd_logo"/>
+        <Object Name="fd_loop"/>
+        <Object Name="fd_lorenz"/>
+        <Object Name="fd_lorenz-expr"/>
+        <Object Name="fd_lorosc"/>
+        <Object Name="fd_lorsig"/>
+        <Object Name="fd_lspace"/>
+        <Object Name="fd_m-comb"/>
+        <Object Name="fd_ma"/>
+        <Object Name="fd_map"/>
+        <Object Name="fd_map2"/>
+        <Object Name="fd_mark"/>
+        <Object Name="fd_markfour"/>
+        <Object Name="fd_markov"/>
+        <Object Name="fd_markov3"/>
+        <Object Name="fd_markov5"/>
+        <Object Name="fd_matrix-comb"/>
+        <Object Name="fd_mbass"/>
+        <Object Name="fd_metro"/>
+        <Object Name="fd_midiread"/>
+        <Object Name="fd_miller-gauss"/>
+        <Object Name="fd_minimax"/>
+        <Object Name="fd_msecparse"/>
+        <Object Name="fd_mtxdelit"/>
+        <Object Name="fd_mtxout"/>
+        <Object Name="fd_mult"/>
+        <Object Name="fd_n!"/>
+        <Object Name="fd_n=n-1"/>
+        <Object Name="fd_navigator"/>
+        <Object Name="fd_netreceive"/>
+        <Object Name="fd_netsend"/>
+        <Object Name="fd_next"/>
+        <Object Name="fd_noise~"/>
+        <Object Name="fd_nonpulmonic"/>
+        <Object Name="fd_norep"/>
+        <Object Name="fd_norm"/>
+        <Object Name="fd_norm-abs"/>
+        <Object Name="fd_note"/>
+        <Object Name="fd_nouns"/>
+        <Object Name="fd_numkey"/>
+        <Object Name="fd_objcreator"/>
+        <Object Name="fd_octaver"/>
+        <Object Name="fd_once"/>
+        <Object Name="fd_osc"/>
+        <Object Name="fd_oshift~"/>
+        <Object Name="fd_out"/>
+        <Object Name="fd_pad"/>
+        <Object Name="fd_pan"/>
+        <Object Name="fd_parsenum"/>
+        <Object Name="fd_phatty"/>
+        <Object Name="fd_pix2list"/>
+        <Object Name="fd_pix_shift"/>
+        <Object Name="fd_pixcrop"/>
+        <Object Name="fd_pixrecord"/>
+        <Object Name="fd_plot"/>
+        <Object Name="fd_pno"/>
+        <Object Name="fd_poisson"/>
+        <Object Name="fd_poisson~"/>
+        <Object Name="fd_printer"/>
+        <Object Name="fd_pshift"/>
+        <Object Name="fd_pshift~"/>
+        <Object Name="fd_r"/>
+        <Object Name="fd_range"/>
+        <Object Name="fd_rbd"/>
+        <Object Name="fd_read-resize"/>
+        <Object Name="fd_rec"/>
+        <Object Name="fd_receive"/>
+        <Object Name="fd_reflect"/>
+        <Object Name="fd_relocate"/>
+        <Object Name="fd_rexpo~"/>
+        <Object Name="fd_rgb"/>
+        <Object Name="fd_rgbcol"/>
+        <Object Name="fd_rnd"/>
+        <Object Name="fd_round"/>
+        <Object Name="fd_rsdel~"/>
+        <Object Name="fd_s-prob"/>
+        <Object Name="fd_s-prob-5"/>
+        <Object Name="fd_salvo"/>
+        <Object Name="fd_scales"/>
+        <Object Name="fd_sdel~"/>
+        <Object Name="fd_seltab"/>
+        <Object Name="fd_seltabm"/>
+        <Object Name="fd_send"/>
+        <Object Name="fd_set-element"/>
+        <Object Name="fd_shader"/>
+        <Object Name="fd_shift"/>
+        <Object Name="fd_shuffle"/>
+        <Object Name="fd_siginfo"/>
+        <Object Name="fd_sin"/>
+        <Object Name="fd_sinc"/>
+        <Object Name="fd_sinc~"/>
+        <Object Name="fd_sinh"/>
+        <Object Name="fd_sinh~"/>
+        <Object Name="fd_smooth"/>
+        <Object Name="fd_smooth_brute"/>
+        <Object Name="fd_snote"/>
+        <Object Name="fd_sp"/>
+        <Object Name="fd_spat"/>
+        <Object Name="fd_specplot~"/>
+        <Object Name="fd_spigot"/>
+        <Object Name="fd_spigot3"/>
+        <Object Name="fd_spline~"/>
+        <Object Name="fd_step"/>
+        <Object Name="fd_stick"/>
+        <Object Name="fd_stopwatch"/>
+        <Object Name="fd_sum"/>
+        <Object Name="fd_swap"/>
+        <Object Name="fd_switch"/>
+        <Object Name="fd_tempo-msec"/>
+        <Object Name="fd_textsort2"/>
+        <Object Name="fd_tglvis"/>
+        <Object Name="fd_tom"/>
+        <Object Name="fd_toroman"/>
+        <Object Name="fd_tovowel"/>
+        <Object Name="fd_tracktopol"/>
+        <Object Name="fd_trapezoid~"/>
+        <Object Name="fd_triangle~"/>
+        <Object Name="fd_trunc2n"/>
+        <Object Name="fd_untext"/>
+        <Object Name="fd_updown"/>
+        <Object Name="fd_vibrato"/>
+        <Object Name="fd_vidbuf"/>
+        <Object Name="fd_visera"/>
+        <Object Name="fd_vu"/>
+        <Object Name="fd_welch"/>
+        <Object Name="fd_welch~"/>
+        <Object Name="fd_wielevy"/>
+        <Object Name="fd_wielevy2"/>
+        <Object Name="fd_wincat"/>
+        <Object Name="fd_winconcat"/>
+        <Object Name="fd_windows"/>
+        <Object Name="fd_winreceive~"/>
+        <Object Name="fd_wood"/>
+        <Object Name="fd_write"/>
+        <Object Name="fd_write1"/>
+        <Object Name="fd_write2"/>
+        <Object Name="fd_write5"/>
+        <Object Name="fd_xnote"/>
+        <Object Name="fd_z12"/>
+        <Object Name="fd_zero-crossing~"/>
+        <Object Name="fdm"/>
+        <Object Name="frand"/>
+        <Object Name="glistinfo"/>
+        <Object Name="halton"/>
+        <Object Name="henon"/>
+        <Object Name="iterate"/>
+        <Object Name="list-exec"/>
+        <Object Name="lorenz"/>
+        <Object Name="lornorm"/>
+        <Object Name="lorsig~"/>
+        <Object Name="lor~"/>
+        <Object Name="mandelbrot"/>
+        <Object Name="minimax"/>
+        <Object Name="mtwister"/>
+        <Object Name="norm"/>
+        <Object Name="parabola"/>
+        <Object Name="particle"/>
+        <Object Name="pmtwister"/>
+        <Object Name="prandom"/>
+        <Object Name="randy"/>
+        <Object Name="reflect"/>
+        <Object Name="root"/>
+        <Object Name="scroll"/>
+        <Object Name="siginfo"/>
+        <Object Name="sradio"/>
+        <Object Name="tabosc4m~"/>
+        <Object Name="tracks"/>
+      </Objects>
+    </Package>
     <Package ID="ZmRfbGliXzAuNC4wXzIwMjYtMDMtMTkgMTk6MDg6NThfZmRjaA==" Author="fdch"
              Timestamp="2026-03-19 19:08:58" Description="fd_lib[v0.4.0](Darwin-arm64-32)(Sources).dek"
              Version="0.4.0" URL="https://puredata.info/Members/fdch/software/fd_lib/0.4.0/fd_lib[v0.4.0](Darwin-arm64-32)(Sources).dek">

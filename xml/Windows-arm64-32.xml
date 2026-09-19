@@ -125,13 +125,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="mapping">
-    <Package ID="bWFwcGluZ18wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNDo0NToxMV9jaHIxNW0="
-             Author="chr15m" Timestamp="2015-08-07 14:45:11" Description="mapping-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/mapping/mapping-v0.0.extended--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="kiosk-plugin">
     <Package ID="a2lvc2stcGx1Z2luXzAuNV8yMDI2LTA4LTI4IDE2OjIxOjExX2llbWJvdA=="
              Author="iembot" Timestamp="2026-08-28 16:21:11" Description="kiosk-plugin[v0.5].dek"
@@ -291,148 +284,6 @@
     <Package ID="RnJhaXNlXzAuMS4wXzIwMjEtMDEtMDcgMTI6MzI6MzVfYW50MXI=" Author="ant1r"
              Timestamp="2021-01-07 12:32:35" Description="Fraise[v0.1.0].dek"
              Version="0.1.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.1.0/Fraise[v0.1.0].dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="bf-pd">
-    <Package ID="YmYtcGRfMS4wXzIwMjEtMDgtMDMgMTI6MTQ6MTZfZmJlcnRoYXV0" Author="fberthaut"
-             Timestamp="2021-08-03 12:14:16" Description="bf-pd[v1.0].dek"
-             Version="1.0" URL="https://puredata.info/Members/fberthaut/software/bf-pd/1.0/bf-pd[v1.0].dek">
-      <Objects>
-        <Object Name="bf-clock"/>
-        <Object Name="bf-instrument"/>
-        <Object Name="bf-output"/>
-        <Object Name="bf-param"/>
-        <Object Name="boeuf"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="search-plugin">
-    <Package ID="c2VhcmNoLXBsdWdpbl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNTowMzoyNV9jaHIxNW0="
-             Author="chr15m" Timestamp="2015-08-07 15:03:25" Description="search-plugin-v0.0.extended--externals.zip"
-             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/search-plugin/search-plugin-v0.0.extended--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="acre-wg">
-    <Package ID="YWNyZS13Z18xLjAzXzIwMjQtMDgtMjIgMTM6Mzc6NDRfcml0c2No" Author="ritsch"
-             Timestamp="2024-08-22 13:37:44" Description="acre-wg[v1.03].dek"
-             Version="1.03" URL="https://puredata.info/Members/ritsch/software/acre-wg/1.03/acre-wg[v1.03].dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="lolPd">
-    <Package ID="bG9sUGRfMC4zXzIwMTYtMTItMDIgMDU6MTI6NTlfY2hyMTVt" Author="chr15m"
-             Timestamp="2016-12-02 05:12:59" Description="lolPd-v0.3--externals.zip"
-             Version="0.3" URL="https://puredata.info/Members/chr15m/software/lolPd/0.3/lolPd-v0.3--externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="bG9sUGRfMC4yXzIwMTYtMTEtMTcgMTc6MDU6NDVfY2hyMTVt" Author="chr15m"
-             Timestamp="2016-11-17 17:05:45" Description="lolPd-v0.2--externals.zip"
-             Version="0.2" URL="https://puredata.info/Members/chr15m/software/lolPd/0.2/lolPd-v0.2--externals.zip">
-      <Objects/>
-    </Package>
-    <Package ID="bG9sUGRfMC4xXzIwMTYtMDctMTAgMTU6MTU6NTJfY2hyMTVt" Author="chr15m"
-             Timestamp="2016-07-10 15:15:52" Description="lolPd-v0.1--externals.zip"
-             Version="0.1" URL="https://puredata.info/Members/chr15m/software/lolPd/0.1/lolPd-v0.1--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="chair">
-    <Package ID="Y2hhaXJfMC44MV8yMDIwLTAyLTE0IDIwOjQxOjMwX0NIQUlS" Author="CHAIR"
-             Timestamp="2020-02-14 20:41:30" Description="chair[v0.81].dek"
-             Version="0.81" URL="https://puredata.info/Members/CHAIR/software/chair/0.81/chair[v0.81].dek">
-      <Objects>
-        <Object Name="chair.14bit-ctlin"/>
-        <Object Name="chair.angle"/>
-        <Object Name="chair.chrismoore-reverb~"/>
-        <Object Name="chair.dc-offset~"/>
-        <Object Name="chair.distance"/>
-        <Object Name="chair.dynamics~"/>
-        <Object Name="chair.encoders"/>
-        <Object Name="chair.feedback-cancellation~"/>
-        <Object Name="chair.gain~"/>
-        <Object Name="chair.gesture"/>
-        <Object Name="chair.hex-hold"/>
-        <Object Name="chair.hex-mapping"/>
-        <Object Name="chair.hex-tuning"/>
-        <Object Name="chair.increment"/>
-        <Object Name="chair.mtocv~"/>
-        <Object Name="chair.peak-env~"/>
-        <Object Name="chair.rotary-limit-range"/>
-        <Object Name="chair.rotary-relative"/>
-        <Object Name="chair.singleton"/>
-        <Object Name="chair.speed"/>
-        <Object Name="chair.stereogain~"/>
-        <Object Name="chair.touchgate~"/>
-        <Object Name="chair.transpose-oct"/>
-        <Object Name="chair.vfreeverb~"/>
-      </Objects>
-    </Package>
-    <Package ID="Y2hhaXJfMC44MF8yMDE5LTEwLTI4IDAwOjEyOjEyX0NIQUlS" Author="CHAIR"
-             Timestamp="2019-10-28 00:12:12" Description="chair[v0.80].dek"
-             Version="0.80" URL="https://puredata.info/Members/CHAIR/software/chair/0.80/chair[v0.80].dek">
-      <Objects>
-        <Object Name="chair.angle"/>
-        <Object Name="chair.capsense"/>
-        <Object Name="chair.chrismoore-reverb~"/>
-        <Object Name="chair.cleanposdata"/>
-        <Object Name="chair.dc-offset~"/>
-        <Object Name="chair.distance"/>
-        <Object Name="chair.dynamics~"/>
-        <Object Name="chair.encoders"/>
-        <Object Name="chair.feedback-cancellation~"/>
-        <Object Name="chair.gain~"/>
-        <Object Name="chair.gesture"/>
-        <Object Name="chair.hex-hold"/>
-        <Object Name="chair.hex-mapping"/>
-        <Object Name="chair.hex-tuning"/>
-        <Object Name="chair.modifier"/>
-        <Object Name="chair.mtocv~"/>
-        <Object Name="chair.peak-env~"/>
-        <Object Name="chair.rotary-limit-range"/>
-        <Object Name="chair.singleton"/>
-        <Object Name="chair.speed"/>
-        <Object Name="chair.stereogain~"/>
-        <Object Name="chair.touchgate~"/>
-        <Object Name="chair.transpose-oct"/>
-        <Object Name="chair.vfreeverb~"/>
-      </Objects>
-    </Package>
-    <Package ID="Y2hhaXJfMC43M18yMDE5LTA2LTE1IDAwOjUyOjI3X0NIQUlS" Author="CHAIR"
-             Timestamp="2019-06-15 00:52:27" Description="chair[v0.73].dek"
-             Version="0.73" URL="https://puredata.info/Members/CHAIR/software/chair/0.73/chair[v0.73].dek">
-      <Objects>
-        <Object Name="cair.modifier"/>
-        <Object Name="chair.angle"/>
-        <Object Name="chair.capsense"/>
-        <Object Name="chair.chrismoore-reverb~"/>
-        <Object Name="chair.cleanposdata"/>
-        <Object Name="chair.dc-offset~"/>
-        <Object Name="chair.distance"/>
-        <Object Name="chair.dynamics~"/>
-        <Object Name="chair.feedback-cancellation~"/>
-        <Object Name="chair.gain~"/>
-        <Object Name="chair.gesture"/>
-        <Object Name="chair.hex-mapping"/>
-        <Object Name="chair.hex-tuning"/>
-        <Object Name="chair.mtocv~"/>
-        <Object Name="chair.peak-env~"/>
-        <Object Name="chair.rotary-limit-range"/>
-        <Object Name="chair.singleton"/>
-        <Object Name="chair.speed"/>
-        <Object Name="chair.stereogain~"/>
-        <Object Name="chair.touchgate~"/>
-        <Object Name="chair.transpose-oct"/>
-        <Object Name="chair.vfreeverb~"/>
-        <Object Name="tickle~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="spring22">
-    <Package ID="c3ByaW5nMjJfMC4yMDIyMDYxN18yMDIyLTA2LTE3IDE1OjAwOjIxX3ptb2Vsbmln"
-             Author="zmoelnig" Timestamp="2022-06-17 15:00:21" Description="spring22[v0.20220617].dek"
-             Version="0.20220617" URL="https://puredata.info/Members/zmoelnig/software/spring22/0.20220617/spring22[v0.20220617].dek">
       <Objects/>
     </Package>
   </Packages>
@@ -736,6 +587,155 @@
         <Object Name="|"/>
         <Object Name="||"/>
       </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="bf-pd">
+    <Package ID="YmYtcGRfMS4wXzIwMjEtMDgtMDMgMTI6MTQ6MTZfZmJlcnRoYXV0" Author="fberthaut"
+             Timestamp="2021-08-03 12:14:16" Description="bf-pd[v1.0].dek"
+             Version="1.0" URL="https://puredata.info/Members/fberthaut/software/bf-pd/1.0/bf-pd[v1.0].dek">
+      <Objects>
+        <Object Name="bf-clock"/>
+        <Object Name="bf-instrument"/>
+        <Object Name="bf-output"/>
+        <Object Name="bf-param"/>
+        <Object Name="boeuf"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="search-plugin">
+    <Package ID="c2VhcmNoLXBsdWdpbl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNTowMzoyNV9jaHIxNW0="
+             Author="chr15m" Timestamp="2015-08-07 15:03:25" Description="search-plugin-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/search-plugin/search-plugin-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="acre-wg">
+    <Package ID="YWNyZS13Z18xLjAzXzIwMjQtMDgtMjIgMTM6Mzc6NDRfcml0c2No" Author="ritsch"
+             Timestamp="2024-08-22 13:37:44" Description="acre-wg[v1.03].dek"
+             Version="1.03" URL="https://puredata.info/Members/ritsch/software/acre-wg/1.03/acre-wg[v1.03].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="alien-theme-overlay-plugin">
+    <Package ID="YWxpZW4tdGhlbWUtb3ZlcmxheS1wbHVnaW5fMC4xLjBfMjAyNi0wOS0xOCAxOTozODoyN19tb256"
+             Author="monz" Timestamp="2026-09-18 19:38:27" Description="alien-theme-overlay-plugin[v0.1.0].dek"
+             Version="0.1.0" URL="https://puredata.info/Members/monz/software/alien-theme-overlay-plugin/0.1.0/alien-theme-overlay-plugin[v0.1.0].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="lolPd">
+    <Package ID="bG9sUGRfMC4zXzIwMTYtMTItMDIgMDU6MTI6NTlfY2hyMTVt" Author="chr15m"
+             Timestamp="2016-12-02 05:12:59" Description="lolPd-v0.3--externals.zip"
+             Version="0.3" URL="https://puredata.info/Members/chr15m/software/lolPd/0.3/lolPd-v0.3--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="bG9sUGRfMC4yXzIwMTYtMTEtMTcgMTc6MDU6NDVfY2hyMTVt" Author="chr15m"
+             Timestamp="2016-11-17 17:05:45" Description="lolPd-v0.2--externals.zip"
+             Version="0.2" URL="https://puredata.info/Members/chr15m/software/lolPd/0.2/lolPd-v0.2--externals.zip">
+      <Objects/>
+    </Package>
+    <Package ID="bG9sUGRfMC4xXzIwMTYtMDctMTAgMTU6MTU6NTJfY2hyMTVt" Author="chr15m"
+             Timestamp="2016-07-10 15:15:52" Description="lolPd-v0.1--externals.zip"
+             Version="0.1" URL="https://puredata.info/Members/chr15m/software/lolPd/0.1/lolPd-v0.1--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="chair">
+    <Package ID="Y2hhaXJfMC44MV8yMDIwLTAyLTE0IDIwOjQxOjMwX0NIQUlS" Author="CHAIR"
+             Timestamp="2020-02-14 20:41:30" Description="chair[v0.81].dek"
+             Version="0.81" URL="https://puredata.info/Members/CHAIR/software/chair/0.81/chair[v0.81].dek">
+      <Objects>
+        <Object Name="chair.14bit-ctlin"/>
+        <Object Name="chair.angle"/>
+        <Object Name="chair.chrismoore-reverb~"/>
+        <Object Name="chair.dc-offset~"/>
+        <Object Name="chair.distance"/>
+        <Object Name="chair.dynamics~"/>
+        <Object Name="chair.encoders"/>
+        <Object Name="chair.feedback-cancellation~"/>
+        <Object Name="chair.gain~"/>
+        <Object Name="chair.gesture"/>
+        <Object Name="chair.hex-hold"/>
+        <Object Name="chair.hex-mapping"/>
+        <Object Name="chair.hex-tuning"/>
+        <Object Name="chair.increment"/>
+        <Object Name="chair.mtocv~"/>
+        <Object Name="chair.peak-env~"/>
+        <Object Name="chair.rotary-limit-range"/>
+        <Object Name="chair.rotary-relative"/>
+        <Object Name="chair.singleton"/>
+        <Object Name="chair.speed"/>
+        <Object Name="chair.stereogain~"/>
+        <Object Name="chair.touchgate~"/>
+        <Object Name="chair.transpose-oct"/>
+        <Object Name="chair.vfreeverb~"/>
+      </Objects>
+    </Package>
+    <Package ID="Y2hhaXJfMC44MF8yMDE5LTEwLTI4IDAwOjEyOjEyX0NIQUlS" Author="CHAIR"
+             Timestamp="2019-10-28 00:12:12" Description="chair[v0.80].dek"
+             Version="0.80" URL="https://puredata.info/Members/CHAIR/software/chair/0.80/chair[v0.80].dek">
+      <Objects>
+        <Object Name="chair.angle"/>
+        <Object Name="chair.capsense"/>
+        <Object Name="chair.chrismoore-reverb~"/>
+        <Object Name="chair.cleanposdata"/>
+        <Object Name="chair.dc-offset~"/>
+        <Object Name="chair.distance"/>
+        <Object Name="chair.dynamics~"/>
+        <Object Name="chair.encoders"/>
+        <Object Name="chair.feedback-cancellation~"/>
+        <Object Name="chair.gain~"/>
+        <Object Name="chair.gesture"/>
+        <Object Name="chair.hex-hold"/>
+        <Object Name="chair.hex-mapping"/>
+        <Object Name="chair.hex-tuning"/>
+        <Object Name="chair.modifier"/>
+        <Object Name="chair.mtocv~"/>
+        <Object Name="chair.peak-env~"/>
+        <Object Name="chair.rotary-limit-range"/>
+        <Object Name="chair.singleton"/>
+        <Object Name="chair.speed"/>
+        <Object Name="chair.stereogain~"/>
+        <Object Name="chair.touchgate~"/>
+        <Object Name="chair.transpose-oct"/>
+        <Object Name="chair.vfreeverb~"/>
+      </Objects>
+    </Package>
+    <Package ID="Y2hhaXJfMC43M18yMDE5LTA2LTE1IDAwOjUyOjI3X0NIQUlS" Author="CHAIR"
+             Timestamp="2019-06-15 00:52:27" Description="chair[v0.73].dek"
+             Version="0.73" URL="https://puredata.info/Members/CHAIR/software/chair/0.73/chair[v0.73].dek">
+      <Objects>
+        <Object Name="cair.modifier"/>
+        <Object Name="chair.angle"/>
+        <Object Name="chair.capsense"/>
+        <Object Name="chair.chrismoore-reverb~"/>
+        <Object Name="chair.cleanposdata"/>
+        <Object Name="chair.dc-offset~"/>
+        <Object Name="chair.distance"/>
+        <Object Name="chair.dynamics~"/>
+        <Object Name="chair.feedback-cancellation~"/>
+        <Object Name="chair.gain~"/>
+        <Object Name="chair.gesture"/>
+        <Object Name="chair.hex-mapping"/>
+        <Object Name="chair.hex-tuning"/>
+        <Object Name="chair.mtocv~"/>
+        <Object Name="chair.peak-env~"/>
+        <Object Name="chair.rotary-limit-range"/>
+        <Object Name="chair.singleton"/>
+        <Object Name="chair.speed"/>
+        <Object Name="chair.stereogain~"/>
+        <Object Name="chair.touchgate~"/>
+        <Object Name="chair.transpose-oct"/>
+        <Object Name="chair.vfreeverb~"/>
+        <Object Name="tickle~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="spring22">
+    <Package ID="c3ByaW5nMjJfMC4yMDIyMDYxN18yMDIyLTA2LTE3IDE1OjAwOjIxX3ptb2Vsbmln"
+             Author="zmoelnig" Timestamp="2022-06-17 15:00:21" Description="spring22[v0.20220617].dek"
+             Version="0.20220617" URL="https://puredata.info/Members/zmoelnig/software/spring22/0.20220617/spring22[v0.20220617].dek">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="acre-amb">
@@ -1489,6 +1489,13 @@
     <Package ID="ZGVrZW4tcGx1Z2luXzAuNC4xXzIwMTgtMDQtMDUgMTE6NTk6NTlfem1vZWxuaWc="
              Author="zmoelnig" Timestamp="2018-04-05 11:59:59" Description="deken-plugin/0.4.1 (Deken externals downloader)"
              Version="0.4.1" URL="https://puredata.info/downloads/deken/releases/0.4.1/deken-plugin-v0.4.1--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="mapping">
+    <Package ID="bWFwcGluZ18wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNDo0NToxMV9jaHIxNW0="
+             Author="chr15m" Timestamp="2015-08-07 14:45:11" Description="mapping-v0.0.extended--externals.zip"
+             Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/mapping/mapping-v0.0.extended--externals.zip">
       <Objects/>
     </Package>
   </Packages>
