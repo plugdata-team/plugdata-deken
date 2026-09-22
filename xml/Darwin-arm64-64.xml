@@ -11648,6 +11648,11 @@
     </Package>
   </Packages>
   <Packages Name="tclprompt-plugin">
+    <Package ID="dGNscHJvbXB0LXBsdWdpbl8wLjRfMjAyNi0wOS0yMiAxMjoxMDo1OF9pZW1ib3Q="
+             Author="iembot" Timestamp="2026-09-22 12:10:58" Description="tclprompt-plugin[v0.4].dek"
+             Version="0.4" URL="https://puredata.info/Members/iembot/software/tclprompt-plugin/0.4/tclprompt-plugin[v0.4].dek">
+      <Objects/>
+    </Package>
     <Package ID="dGNscHJvbXB0LXBsdWdpbl8wLjNfMjAyNi0wOC0yOCAxNzozMToyN19pZW1ib3Q="
              Author="iembot" Timestamp="2026-08-28 17:31:27" Description="tclprompt-plugin[v0.3].dek"
              Version="0.3" URL="https://puredata.info/Members/iembot/software/tclprompt-plugin/0.3/tclprompt-plugin[v0.3].dek">
