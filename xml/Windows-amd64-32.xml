@@ -6511,8 +6511,8 @@
     </Package>
   </Packages>
   <Packages Name="FluidCorpusManipulation">
-    <Package ID="Rmx1aWRDb3JwdXNNYW5pcHVsYXRpb25fMS4wLjl+bmlnaHRseV8yMDI2LTA3LTI4IDE1OjM2OjQ2X2ZsdWNvbWE="
-             Author="flucoma" Timestamp="2026-07-28 15:36:46" Description="FluidCorpusManipulation[v1.0.9~nightly](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek"
+    <Package ID="Rmx1aWRDb3JwdXNNYW5pcHVsYXRpb25fMS4wLjl+bmlnaHRseV8yMDI2LTEwLTA4IDEyOjIwOjE1X2ZsdWNvbWE="
+             Author="flucoma" Timestamp="2026-10-08 12:20:15" Description="FluidCorpusManipulation[v1.0.9~nightly](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek"
              Version="1.0.9~nightly" URL="https://puredata.info/Members/flucoma/software/FluidCorpusManipulation/1.0.9~nightly/FluidCorpusManipulation[v1.0.9~nightly](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek">
       <Objects>
         <Object Name="flucoma"/>
