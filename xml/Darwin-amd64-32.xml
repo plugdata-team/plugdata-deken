@@ -5918,8 +5918,96 @@
     </Package>
   </Packages>
   <Packages Name="FluidCorpusManipulation">
-    <Package ID="Rmx1aWRDb3JwdXNNYW5pcHVsYXRpb25fMS4wLjl+bmlnaHRseV8yMDI2LTEwLTA4IDEyOjIwOjE1X2ZsdWNvbWE="
-             Author="flucoma" Timestamp="2026-10-08 12:20:15" Description="FluidCorpusManipulation[v1.0.9~nightly](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek"
+    <Package ID="Rmx1aWRDb3JwdXNNYW5pcHVsYXRpb25fMS4wLjEwXzIwMjYtMTAtMTAgMTI6NDM6NTZfZmx1Y29tYQ=="
+             Author="flucoma" Timestamp="2026-10-10 12:43:56" Description="FluidCorpusManipulation[v1.0.10](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek"
+             Version="1.0.10" URL="https://puredata.info/Members/flucoma/software/FluidCorpusManipulation/1.0.10/FluidCorpusManipulation[v1.0.10](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="flucoma"/>
+        <Object Name="fluid.ampfeature~"/>
+        <Object Name="fluid.ampgate~"/>
+        <Object Name="fluid.ampslice~"/>
+        <Object Name="fluid.audiotransport~"/>
+        <Object Name="fluid.bufampfeature"/>
+        <Object Name="fluid.bufampgate"/>
+        <Object Name="fluid.bufampslice"/>
+        <Object Name="fluid.bufaudiotransport"/>
+        <Object Name="fluid.bufchroma"/>
+        <Object Name="fluid.bufcompose"/>
+        <Object Name="fluid.bufflatten"/>
+        <Object Name="fluid.bufhpss"/>
+        <Object Name="fluid.bufinfo"/>
+        <Object Name="fluid.bufloudness"/>
+        <Object Name="fluid.bufmelbands"/>
+        <Object Name="fluid.bufmfcc"/>
+        <Object Name="fluid.bufnmf"/>
+        <Object Name="fluid.bufnmfcross"/>
+        <Object Name="fluid.bufnmfseed"/>
+        <Object Name="fluid.bufnoveltyfeature"/>
+        <Object Name="fluid.bufnoveltyslice"/>
+        <Object Name="fluid.bufonsetfeature"/>
+        <Object Name="fluid.bufonsetslice"/>
+        <Object Name="fluid.bufpitch"/>
+        <Object Name="fluid.bufscale"/>
+        <Object Name="fluid.bufselect"/>
+        <Object Name="fluid.bufselectevery"/>
+        <Object Name="fluid.bufsinefeature"/>
+        <Object Name="fluid.bufsines"/>
+        <Object Name="fluid.bufspectralshape"/>
+        <Object Name="fluid.bufstats"/>
+        <Object Name="fluid.bufstft"/>
+        <Object Name="fluid.bufthreaddemo"/>
+        <Object Name="fluid.bufthresh"/>
+        <Object Name="fluid.buftransients"/>
+        <Object Name="fluid.buftransientslice"/>
+        <Object Name="fluid.chroma~"/>
+        <Object Name="fluid.concataudiofiles"/>
+        <Object Name="fluid.dataset"/>
+        <Object Name="fluid.datasetquery"/>
+        <Object Name="fluid.ds2text"/>
+        <Object Name="fluid.gain~"/>
+        <Object Name="fluid.grid"/>
+        <Object Name="fluid.hpss~"/>
+        <Object Name="fluid.kdtree"/>
+        <Object Name="fluid.kmeans"/>
+        <Object Name="fluid.knnclassifier"/>
+        <Object Name="fluid.knnregressor"/>
+        <Object Name="fluid.labelset"/>
+        <Object Name="fluid.loudness~"/>
+        <Object Name="fluid.ls2text"/>
+        <Object Name="fluid.mds"/>
+        <Object Name="fluid.melbands~"/>
+        <Object Name="fluid.mfcc~"/>
+        <Object Name="fluid.mlpclassifier"/>
+        <Object Name="fluid.mlpregressor"/>
+        <Object Name="fluid.multiarray"/>
+        <Object Name="fluid.nmffilter~"/>
+        <Object Name="fluid.nmfmatch~"/>
+        <Object Name="fluid.nmfmorph~"/>
+        <Object Name="fluid.normalize"/>
+        <Object Name="fluid.noveltyfeature~"/>
+        <Object Name="fluid.noveltyslice~"/>
+        <Object Name="fluid.onsetfeature~"/>
+        <Object Name="fluid.onsetslice~"/>
+        <Object Name="fluid.pca"/>
+        <Object Name="fluid.pitch~"/>
+        <Object Name="fluid.plotter"/>
+        <Object Name="fluid.robustscale"/>
+        <Object Name="fluid.s2f"/>
+        <Object Name="fluid.sinefeature~"/>
+        <Object Name="fluid.sines~"/>
+        <Object Name="fluid.skmeans"/>
+        <Object Name="fluid.spectralshape~"/>
+        <Object Name="fluid.standardize"/>
+        <Object Name="fluid.stats"/>
+        <Object Name="fluid.stftpass~"/>
+        <Object Name="fluid.transientslice~"/>
+        <Object Name="fluid.transients~"/>
+        <Object Name="fluid.umap"/>
+        <Object Name="fluid.waveform"/>
+      </Objects>
+    </Package>
+    <Package ID="Rmx1aWRDb3JwdXNNYW5pcHVsYXRpb25fMS4wLjl+bmlnaHRseV8yMDI2LTEwLTEwIDExOjAwOjMyX2ZsdWNvbWE="
+             Author="flucoma" Timestamp="2026-10-10 11:00:32" Description="FluidCorpusManipulation[v1.0.9~nightly](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek"
              Version="1.0.9~nightly" URL="https://puredata.info/Members/flucoma/software/FluidCorpusManipulation/1.0.9~nightly/FluidCorpusManipulation[v1.0.9~nightly](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek">
       <Objects>
         <Object Name="flucoma"/>
