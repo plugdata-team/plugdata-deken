@@ -2795,6 +2795,52 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="fftease">
+    <Package ID="ZmZ0ZWFzZV8zLjAuMV8yMDI2LTEwLTE2IDA0OjQ3OjQyX2VyaWNseW9u"
+             Author="ericlyon" Timestamp="2026-10-16 04:47:42" Description="fftease[v3.0.1](Darwin-arm64-32).dek"
+             Version="3.0.1" URL="https://puredata.info/Members/ericlyon/software/fftease/3.0.1/fftease[v3.0.1](Darwin-arm64-32).dek">
+      <Objects>
+        <Object Name="bthresher~"/>
+        <Object Name="burrow~"/>
+        <Object Name="cavoc27~"/>
+        <Object Name="cavoc~"/>
+        <Object Name="centerring~"/>
+        <Object Name="codepend~"/>
+        <Object Name="cross~"/>
+        <Object Name="dentist~"/>
+        <Object Name="disarrain~"/>
+        <Object Name="disarray~"/>
+        <Object Name="drown~"/>
+        <Object Name="enrich~"/>
+        <Object Name="ether~"/>
+        <Object Name="leaker~"/>
+        <Object Name="loopsea~"/>
+        <Object Name="mindwarp~"/>
+        <Object Name="morphine~"/>
+        <Object Name="multyq~"/>
+        <Object Name="pileup~"/>
+        <Object Name="pvcompand~"/>
+        <Object Name="pvgrain~"/>
+        <Object Name="pvharm~"/>
+        <Object Name="pvoc~"/>
+        <Object Name="pvtuner~"/>
+        <Object Name="pvwarpb~"/>
+        <Object Name="pvwarp~"/>
+        <Object Name="reanimator~"/>
+        <Object Name="resent~"/>
+        <Object Name="residency_buffer~"/>
+        <Object Name="residency~"/>
+        <Object Name="schmear~"/>
+        <Object Name="scrape~"/>
+        <Object Name="shapee~"/>
+        <Object Name="swinger~"/>
+        <Object Name="taint~"/>
+        <Object Name="thresher~"/>
+        <Object Name="vacancy~"/>
+        <Object Name="xsyn~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="purepd">
     <Package ID="cHVyZXBkXzAuMC5leHRlbmRlZF8yMDE1LTA4LTA3IDE1OjA2OjEyX2NocjE1bQ=="
              Author="chr15m" Timestamp="2015-08-07 15:06:12" Description="purepd-v0.0.extended--externals.zip"
