@@ -1168,6 +1168,13 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="jpcex">
+    <Package ID="anBjZXhfMC4xXzIwMTgtMDMtMDggMTg6MTg6NDFfanBjaW1h" Author="jpcima"
+             Timestamp="2018-03-08 18:18:41" Description="jpcex[v0.1](Windows-i386-64)(Sources).dek"
+             Version="0.1" URL="https://puredata.info/Members/jpcima/software/jpcex/0.1/jpcex[v0.1](Windows-i386-64)(Sources).dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="acre-amb">
     <Package ID="YWNyZS1hbWJfMC45XzIwMjQtMDgtMjIgMTM6MzY6MDRfcml0c2No" Author="ritsch"
              Timestamp="2024-08-22 13:36:04" Description="acre-amb[v0.9].dek"
@@ -1988,6 +1995,70 @@
              Author="chr15m" Timestamp="2015-08-07 14:45:11" Description="mapping-v0.0.extended--externals.zip"
              Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/mapping/mapping-v0.0.extended--externals.zip">
       <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="DRFX">
+    <Package ID="RFJGWF8wLjUuMV8yMDE4LTAzLTI2IDA0OjI2OjA3X3dtYnJlbnQ=" Author="wmbrent"
+             Timestamp="2018-03-26 04:26:07" Description="DRFX[v0.5.1].dek"
+             Version="0.5.1" URL="https://puredata.info/Members/wmbrent/software/DRFX/0.5.1/DRFX[v0.5.1].dek">
+      <Objects>
+        <Object Name="DRFX"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="array-abs">
+    <Package ID="YXJyYXktYWJzXzAuMS4wXzIwMjMtMDMtMjAgMjM6NDE6NTNfd21icmVudA=="
+             Author="wmbrent" Timestamp="2023-03-20 23:41:53" Description="array-abs[v0.1.0].dek"
+             Version="0.1.0" URL="https://puredata.info/Members/wmbrent/software/array-abs/0.1.0/array-abs[v0.1.0].dek">
+      <Objects>
+        <Object Name="array-abs-val"/>
+        <Object Name="array-append"/>
+        <Object Name="array-between"/>
+        <Object Name="array-bintofreq"/>
+        <Object Name="array-ceil"/>
+        <Object Name="array-clip"/>
+        <Object Name="array-copy"/>
+        <Object Name="array-copy-range"/>
+        <Object Name="array-dbtorms"/>
+        <Object Name="array-delete"/>
+        <Object Name="array-differentiate"/>
+        <Object Name="array-drip"/>
+        <Object Name="array-equals"/>
+        <Object Name="array-floor"/>
+        <Object Name="array-freqtobin"/>
+        <Object Name="array-ftom"/>
+        <Object Name="array-geomean"/>
+        <Object Name="array-greater"/>
+        <Object Name="array-insert"/>
+        <Object Name="array-integrate"/>
+        <Object Name="array-lesser"/>
+        <Object Name="array-maxk"/>
+        <Object Name="array-mean"/>
+        <Object Name="array-median"/>
+        <Object Name="array-mink"/>
+        <Object Name="array-mode"/>
+        <Object Name="array-mtof"/>
+        <Object Name="array-nearest"/>
+        <Object Name="array-offset"/>
+        <Object Name="array-pow"/>
+        <Object Name="array-prepend"/>
+        <Object Name="array-rand-fill"/>
+        <Object Name="array-random-walk"/>
+        <Object Name="array-range"/>
+        <Object Name="array-rerange"/>
+        <Object Name="array-reverse"/>
+        <Object Name="array-rmstodb"/>
+        <Object Name="array-round"/>
+        <Object Name="array-scale"/>
+        <Object Name="array-scramble"/>
+        <Object Name="array-series"/>
+        <Object Name="array-shift"/>
+        <Object Name="array-shift0"/>
+        <Object Name="array-sort"/>
+        <Object Name="array-std"/>
+        <Object Name="array-unique"/>
+        <Object Name="array-window"/>
+      </Objects>
     </Package>
   </Packages>
   <Packages Name="wavview">
@@ -3526,75 +3597,31 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="jpcex">
-    <Package ID="anBjZXhfMC4xXzIwMTgtMDMtMDggMTg6MTg6NDFfanBjaW1h" Author="jpcima"
-             Timestamp="2018-03-08 18:18:41" Description="jpcex[v0.1](Windows-i386-64)(Sources).dek"
-             Version="0.1" URL="https://puredata.info/Members/jpcima/software/jpcex/0.1/jpcex[v0.1](Windows-i386-64)(Sources).dek">
+  <Packages Name="XXX-deken-test">
+    <Package ID="WFhYLWRla2VuLXRlc3RfMC4xMC4yMi01LWdlOWY3NjhjfndpbmRvd3NfMjAyNi0xMS0wOSAxNzo1Mjo0NV96bW9lbG5pZ2JvdA=="
+             Author="zmoelnigbot" Timestamp="2026-11-09 17:52:45" Description="XXX-deken-test[v0.10.22-5-ge9f768c~windows](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
+             Version="0.10.22-5-ge9f768c~windows" URL="https://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/20459/0.10.22-5-ge9f768c~windows/XXX-deken-test[v0.10.22-5-ge9f768c~windows](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
       <Objects/>
     </Package>
-  </Packages>
-  <Packages Name="DRFX">
-    <Package ID="RFJGWF8wLjUuMV8yMDE4LTAzLTI2IDA0OjI2OjA3X3dtYnJlbnQ=" Author="wmbrent"
-             Timestamp="2018-03-26 04:26:07" Description="DRFX[v0.5.1].dek"
-             Version="0.5.1" URL="https://puredata.info/Members/wmbrent/software/DRFX/0.5.1/DRFX[v0.5.1].dek">
-      <Objects>
-        <Object Name="DRFX"/>
-      </Objects>
+    <Package ID="WFhYLWRla2VuLXRlc3RfMC4xMC4yMi01LWdlOWY3Njhjfm9zeF8yMDI2LTExLTA5IDE3OjAyOjE5X3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2026-11-09 17:02:19" Description="XXX-deken-test[v0.10.22-5-ge9f768c~osx](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
+             Version="0.10.22-5-ge9f768c~osx" URL="https://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/20459/0.10.22-5-ge9f768c~osx/XXX-deken-test[v0.10.22-5-ge9f768c~osx](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
+      <Objects/>
     </Package>
-  </Packages>
-  <Packages Name="array-abs">
-    <Package ID="YXJyYXktYWJzXzAuMS4wXzIwMjMtMDMtMjAgMjM6NDE6NTNfd21icmVudA=="
-             Author="wmbrent" Timestamp="2023-03-20 23:41:53" Description="array-abs[v0.1.0].dek"
-             Version="0.1.0" URL="https://puredata.info/Members/wmbrent/software/array-abs/0.1.0/array-abs[v0.1.0].dek">
-      <Objects>
-        <Object Name="array-abs-val"/>
-        <Object Name="array-append"/>
-        <Object Name="array-between"/>
-        <Object Name="array-bintofreq"/>
-        <Object Name="array-ceil"/>
-        <Object Name="array-clip"/>
-        <Object Name="array-copy"/>
-        <Object Name="array-copy-range"/>
-        <Object Name="array-dbtorms"/>
-        <Object Name="array-delete"/>
-        <Object Name="array-differentiate"/>
-        <Object Name="array-drip"/>
-        <Object Name="array-equals"/>
-        <Object Name="array-floor"/>
-        <Object Name="array-freqtobin"/>
-        <Object Name="array-ftom"/>
-        <Object Name="array-geomean"/>
-        <Object Name="array-greater"/>
-        <Object Name="array-insert"/>
-        <Object Name="array-integrate"/>
-        <Object Name="array-lesser"/>
-        <Object Name="array-maxk"/>
-        <Object Name="array-mean"/>
-        <Object Name="array-median"/>
-        <Object Name="array-mink"/>
-        <Object Name="array-mode"/>
-        <Object Name="array-mtof"/>
-        <Object Name="array-nearest"/>
-        <Object Name="array-offset"/>
-        <Object Name="array-pow"/>
-        <Object Name="array-prepend"/>
-        <Object Name="array-rand-fill"/>
-        <Object Name="array-random-walk"/>
-        <Object Name="array-range"/>
-        <Object Name="array-rerange"/>
-        <Object Name="array-reverse"/>
-        <Object Name="array-rmstodb"/>
-        <Object Name="array-round"/>
-        <Object Name="array-scale"/>
-        <Object Name="array-scramble"/>
-        <Object Name="array-series"/>
-        <Object Name="array-shift"/>
-        <Object Name="array-shift0"/>
-        <Object Name="array-sort"/>
-        <Object Name="array-std"/>
-        <Object Name="array-unique"/>
-        <Object Name="array-window"/>
-      </Objects>
+    <Package ID="WFhYLWRla2VuLXRlc3RfMC4xMC4yMi01LWdlOWY3Njhjfm1hY29zXzIwMjYtMTEtMDkgMTc6MDA6MTZfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2026-11-09 17:00:16" Description="XXX-deken-test[v0.10.22-5-ge9f768c~macos](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
+             Version="0.10.22-5-ge9f768c~macos" URL="https://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/20459/0.10.22-5-ge9f768c~macos/XXX-deken-test[v0.10.22-5-ge9f768c~macos](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
+      <Objects/>
+    </Package>
+    <Package ID="WFhYLWRla2VuLXRlc3RfMC4xMC4yMy5kZXY1fndoZWVsXzIwMjYtMTEtMDkgMTc6MDA6MTJfem1vZWxuaWdib3Q="
+             Author="zmoelnigbot" Timestamp="2026-11-09 17:00:12" Description="XXX-deken-test[v0.10.23.dev5~wheel](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
+             Version="0.10.23.dev5~wheel" URL="https://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/20459/0.10.23.dev5~wheel/XXX-deken-test[v0.10.23.dev5~wheel](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
+      <Objects/>
+    </Package>
+    <Package ID="WFhYLWRla2VuLXRlc3RfMC4xMC4yMi01LWdlOWY3NjhjfmRvY2tlcl8yMDI2LTExLTA5IDE2OjU4OjI1X3ptb2VsbmlnYm90"
+             Author="zmoelnigbot" Timestamp="2026-11-09 16:58:25" Description="XXX-deken-test[v0.10.22-5-ge9f768c~docker](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek"
+             Version="0.10.22-5-ge9f768c~docker" URL="https://puredata.info/Members/zmoelnigbot/software/XXX-deken-test/20459/0.10.22-5-ge9f768c~docker/XXX-deken-test[v0.10.22-5-ge9f768c~docker](Darwin-ppc-32)(Linux-alpha-32)(Linux-s390x-32)(Linux-s390x-64)(Windows-i386-64).dek">
+      <Objects/>
     </Package>
   </Packages>
   <Packages Name="bela">
