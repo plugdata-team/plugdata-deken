@@ -183,10 +183,94 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="vasp">
-    <Package ID="dmFzcF8wLjEuNF8yMDIwLTAzLTA0IDAwOjU5OjI1X3Rob21hcw==" Author="thomas"
-             Timestamp="2020-03-04 00:59:25" Description="vasp[v0.1.4](Darwin-amd64-32)(Darwin-i386-32).dek"
-             Version="0.1.4" URL="https://puredata.info/Members/thomas/software/vasp/0.1.4/vasp[v0.1.4](Darwin-amd64-32)(Darwin-i386-32).dek">
+  <Packages Name="lyonpotpourri">
+    <Package ID="bHlvbnBvdHBvdXJyaV8zLjAuMF8yMDIxLTAzLTE3IDAwOjA1OjQ0X2x1Y2FyZGE="
+             Author="lucarda" Timestamp="2021-03-17 00:05:44" Description="lyonpotpourri[v3.0.0](Darwin-amd64-32)(Darwin-i386-32).dek"
+             Version="3.0.0" URL="https://puredata.info/Members/lucarda/software/lyonpotpourri[v3.0.0](Darwin-amd64-32)(Darwin-i386-32).dek">
+      <Objects>
+        <Object Name="adsr~"/>
+        <Object Name="arrayfilt~"/>
+        <Object Name="bashfest~"/>
+        <Object Name="buffet~"/>
+        <Object Name="bvplay~"/>
+        <Object Name="cartopol~"/>
+        <Object Name="chameleon~"/>
+        <Object Name="channel~"/>
+        <Object Name="chopper~"/>
+        <Object Name="clean_selector~"/>
+        <Object Name="click2bang~"/>
+        <Object Name="click2float~"/>
+        <Object Name="clickhold~"/>
+        <Object Name="click~"/>
+        <Object Name="convolver~"/>
+        <Object Name="counter~"/>
+        <Object Name="distortion~"/>
+        <Object Name="dmach~"/>
+        <Object Name="dynss~"/>
+        <Object Name="epluribus~"/>
+        <Object Name="expflam~"/>
+        <Object Name="flanjah~"/>
+        <Object Name="function~"/>
+        <Object Name="granola~"/>
+        <Object Name="granulesf~"/>
+        <Object Name="granule~"/>
+        <Object Name="kbuffer~"/>
+        <Object Name="killdc~"/>
+        <Object Name="latch~"/>
+        <Object Name="magfreq_analysis~"/>
+        <Object Name="markov~"/>
+        <Object Name="mask~"/>
+        <Object Name="npan~"/>
+        <Object Name="oscil~"/>
+        <Object Name="phasemod~"/>
+        <Object Name="player~"/>
+        <Object Name="poltocar~"/>
+        <Object Name="pulser~"/>
+        <Object Name="quadpan~"/>
+        <Object Name="rotapan~"/>
+        <Object Name="rtrig~"/>
+        <Object Name="samm~"/>
+        <Object Name="sarec~"/>
+        <Object Name="sel~"/>
+        <Object Name="shoehorn~"/>
+        <Object Name="sigseq~"/>
+        <Object Name="smap"/>
+        <Object Name="splitbank~"/>
+        <Object Name="splitspec~"/>
+        <Object Name="squash~"/>
+        <Object Name="stutter~"/>
+        <Object Name="vdb~"/>
+        <Object Name="vdp~"/>
+        <Object Name="vecdex~"/>
+        <Object Name="waveshape~"/>
+        <Object Name="windowvec~"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="iem_roomsim">
+    <Package ID="aWVtX3Jvb21zaW1fMS4yMV8yMDE4LTExLTI5IDE2OjE0OjE5X211c2ls"
+             Author="musil" Timestamp="2018-11-29 16:14:19" Description="iem_roomsim[v1.21](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32)(Sources).dek"
+             Version="1.21" URL="https://puredata.info/Members/musil/software/iem_roomsim/1.21/iem_roomsim[v1.21](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32)(Sources).dek">
+      <Objects>
+        <Object Name="block_delay~"/>
+        <Object Name="block_lp1~"/>
+        <Object Name="block_peak_env~"/>
+        <Object Name="cart2del_damp_2d"/>
+        <Object Name="cart2del_damp_3d"/>
+        <Object Name="n_delay1p_line~"/>
+        <Object Name="n_delay2p_line~"/>
+        <Object Name="xy_2_del_damp_phi"/>
+        <Object Name="xyz_3_del_damp_theta_phi"/>
+      </Objects>
+    </Package>
+    <Package ID="aWVtX3Jvb21zaW1fMS4yMV8yMDE4LTA3LTA0IDE2OjE1OjE3X211c2ls"
+             Author="musil" Timestamp="2018-07-04 16:15:17" Description="iem_roomsim[v1.21](Darwin-i386-32)(Sources).dek"
+             Version="1.21" URL="https://puredata.info/Members/musil/software/iem_roomsim/1.21/iem_roomsim[v1.21](Darwin-i386-32)(Sources).dek">
+      <Objects/>
+    </Package>
+    <Package ID="aWVtX3Jvb21zaW1fMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoyNDoxMF96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:24:10" Description="iem_roomsim-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/iem_roomsim/0-0extended/iem_roomsim-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
       <Objects/>
     </Package>
   </Packages>
@@ -1318,97 +1402,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="iem_roomsim">
-    <Package ID="aWVtX3Jvb21zaW1fMS4yMV8yMDE4LTExLTI5IDE2OjE0OjE5X211c2ls"
-             Author="musil" Timestamp="2018-11-29 16:14:19" Description="iem_roomsim[v1.21](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32)(Sources).dek"
-             Version="1.21" URL="https://puredata.info/Members/musil/software/iem_roomsim/1.21/iem_roomsim[v1.21](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32)(Sources).dek">
-      <Objects>
-        <Object Name="block_delay~"/>
-        <Object Name="block_lp1~"/>
-        <Object Name="block_peak_env~"/>
-        <Object Name="cart2del_damp_2d"/>
-        <Object Name="cart2del_damp_3d"/>
-        <Object Name="n_delay1p_line~"/>
-        <Object Name="n_delay2p_line~"/>
-        <Object Name="xy_2_del_damp_phi"/>
-        <Object Name="xyz_3_del_damp_theta_phi"/>
-      </Objects>
-    </Package>
-    <Package ID="aWVtX3Jvb21zaW1fMS4yMV8yMDE4LTA3LTA0IDE2OjE1OjE3X211c2ls"
-             Author="musil" Timestamp="2018-07-04 16:15:17" Description="iem_roomsim[v1.21](Darwin-i386-32)(Sources).dek"
-             Version="1.21" URL="https://puredata.info/Members/musil/software/iem_roomsim/1.21/iem_roomsim[v1.21](Darwin-i386-32)(Sources).dek">
-      <Objects/>
-    </Package>
-    <Package ID="aWVtX3Jvb21zaW1fMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoyNDoxMF96bW9lbG5pZw=="
-             Author="zmoelnig" Timestamp="2015-12-10 14:24:10" Description="iem_roomsim-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/iem_roomsim/0-0extended/iem_roomsim-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="lyonpotpourri">
-    <Package ID="bHlvbnBvdHBvdXJyaV8zLjAuMF8yMDIxLTAzLTE3IDAwOjA1OjQ0X2x1Y2FyZGE="
-             Author="lucarda" Timestamp="2021-03-17 00:05:44" Description="lyonpotpourri[v3.0.0](Darwin-amd64-32)(Darwin-i386-32).dek"
-             Version="3.0.0" URL="https://puredata.info/Members/lucarda/software/lyonpotpourri[v3.0.0](Darwin-amd64-32)(Darwin-i386-32).dek">
-      <Objects>
-        <Object Name="adsr~"/>
-        <Object Name="arrayfilt~"/>
-        <Object Name="bashfest~"/>
-        <Object Name="buffet~"/>
-        <Object Name="bvplay~"/>
-        <Object Name="cartopol~"/>
-        <Object Name="chameleon~"/>
-        <Object Name="channel~"/>
-        <Object Name="chopper~"/>
-        <Object Name="clean_selector~"/>
-        <Object Name="click2bang~"/>
-        <Object Name="click2float~"/>
-        <Object Name="clickhold~"/>
-        <Object Name="click~"/>
-        <Object Name="convolver~"/>
-        <Object Name="counter~"/>
-        <Object Name="distortion~"/>
-        <Object Name="dmach~"/>
-        <Object Name="dynss~"/>
-        <Object Name="epluribus~"/>
-        <Object Name="expflam~"/>
-        <Object Name="flanjah~"/>
-        <Object Name="function~"/>
-        <Object Name="granola~"/>
-        <Object Name="granulesf~"/>
-        <Object Name="granule~"/>
-        <Object Name="kbuffer~"/>
-        <Object Name="killdc~"/>
-        <Object Name="latch~"/>
-        <Object Name="magfreq_analysis~"/>
-        <Object Name="markov~"/>
-        <Object Name="mask~"/>
-        <Object Name="npan~"/>
-        <Object Name="oscil~"/>
-        <Object Name="phasemod~"/>
-        <Object Name="player~"/>
-        <Object Name="poltocar~"/>
-        <Object Name="pulser~"/>
-        <Object Name="quadpan~"/>
-        <Object Name="rotapan~"/>
-        <Object Name="rtrig~"/>
-        <Object Name="samm~"/>
-        <Object Name="sarec~"/>
-        <Object Name="sel~"/>
-        <Object Name="shoehorn~"/>
-        <Object Name="sigseq~"/>
-        <Object Name="smap"/>
-        <Object Name="splitbank~"/>
-        <Object Name="splitspec~"/>
-        <Object Name="squash~"/>
-        <Object Name="stutter~"/>
-        <Object Name="vdb~"/>
-        <Object Name="vdp~"/>
-        <Object Name="vecdex~"/>
-        <Object Name="waveshape~"/>
-        <Object Name="windowvec~"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="py">
     <Package ID="cHlfMC4yLjJfMjAyMi0wMi0xNSAyMjo1NjowMF90aG9tYXM=" Author="thomas"
              Timestamp="2022-02-15 22:56:00" Description="py[v0.2.2](Darwin-amd64-32)(Darwin-i386-32).dek"
@@ -1947,37 +1940,6 @@
     <Package ID="c3ByaW5nMjJfMC4yMDIyMDYxN18yMDIyLTA2LTE3IDE1OjAwOjIxX3ptb2Vsbmln"
              Author="zmoelnig" Timestamp="2022-06-17 15:00:21" Description="spring22[v0.20220617].dek"
              Version="0.20220617" URL="https://puredata.info/Members/zmoelnig/software/spring22/0.20220617/spring22[v0.20220617].dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="extra">
-    <Package ID="ZXh0cmFfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxODozNl96bW9lbG5pZw=="
-             Author="zmoelnig" Timestamp="2015-12-10 14:18:36" Description="extra-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/extra/0-0extended/extra-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="dnd-plugin">
-    <Package ID="ZG5kLXBsdWdpbl8wLjMuMF8yMDIxLTA0LTE2IDAyOjAzOjUxX2x1Y2FyZGE="
-             Author="lucarda" Timestamp="2021-04-16 02:03:51" Description="dnd-plugin[v0.3.0](Darwin-amd64-32)(Darwin-i386-32).dek"
-             Version="0.3.0" URL="https://puredata.info/Members/lucarda/software/dnd-plugin[v0.3.0](Darwin-amd64-32)(Darwin-i386-32).dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZG5kLXBsdWdpbl8wLjMuMV8yMDIxLTAzLTI2IDAzOjE3OjE0X2x1Y2FyZGE="
-             Author="lucarda" Timestamp="2021-03-26 03:17:14" Description="dnd-plugin[v0.3.1](Darwin-amd64-32)(Darwin-i386-32).dek"
-             Version="0.3.1" URL="https://puredata.info/Members/lucarda/software/dnd-plugin[v0.3.1](Darwin-amd64-32)(Darwin-i386-32).dek">
-      <Objects/>
-    </Package>
-    <Package ID="ZG5kLXBsdWdpbl8wLjJfMjAxOC0xMC0zMSAwMDoxMzo1Nl9sdWNhcmRh"
-             Author="lucarda" Timestamp="2018-10-31 00:13:56" Description="dnd-plugin[v0.2](Darwin-amd64-32)(Darwin-i386-32).dek"
-             Version="0.2" URL="https://puredata.info/Members/lucarda/software/dnd-plugin[v0.2](Darwin-amd64-32)(Darwin-i386-32).dek">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="cxc">
-    <Package ID="Y3hjXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MTY6NDFfem1vZWxuaWc="
-             Author="zmoelnig" Timestamp="2015-12-10 14:16:41" Description="cxc-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/cxc/0-0extended/cxc-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
       <Objects/>
     </Package>
   </Packages>
@@ -3136,70 +3098,6 @@
         <Object Name="ambicube~"/>
         <Object Name="ambipan~"/>
         <Object Name="vbapan~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="DRFX">
-    <Package ID="RFJGWF8wLjUuMV8yMDE4LTAzLTI2IDA0OjI2OjA3X3dtYnJlbnQ=" Author="wmbrent"
-             Timestamp="2018-03-26 04:26:07" Description="DRFX[v0.5.1].dek"
-             Version="0.5.1" URL="https://puredata.info/Members/wmbrent/software/DRFX/0.5.1/DRFX[v0.5.1].dek">
-      <Objects>
-        <Object Name="DRFX"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="array-abs">
-    <Package ID="YXJyYXktYWJzXzAuMS4wXzIwMjMtMDMtMjAgMjM6NDE6NTNfd21icmVudA=="
-             Author="wmbrent" Timestamp="2023-03-20 23:41:53" Description="array-abs[v0.1.0].dek"
-             Version="0.1.0" URL="https://puredata.info/Members/wmbrent/software/array-abs/0.1.0/array-abs[v0.1.0].dek">
-      <Objects>
-        <Object Name="array-abs-val"/>
-        <Object Name="array-append"/>
-        <Object Name="array-between"/>
-        <Object Name="array-bintofreq"/>
-        <Object Name="array-ceil"/>
-        <Object Name="array-clip"/>
-        <Object Name="array-copy"/>
-        <Object Name="array-copy-range"/>
-        <Object Name="array-dbtorms"/>
-        <Object Name="array-delete"/>
-        <Object Name="array-differentiate"/>
-        <Object Name="array-drip"/>
-        <Object Name="array-equals"/>
-        <Object Name="array-floor"/>
-        <Object Name="array-freqtobin"/>
-        <Object Name="array-ftom"/>
-        <Object Name="array-geomean"/>
-        <Object Name="array-greater"/>
-        <Object Name="array-insert"/>
-        <Object Name="array-integrate"/>
-        <Object Name="array-lesser"/>
-        <Object Name="array-maxk"/>
-        <Object Name="array-mean"/>
-        <Object Name="array-median"/>
-        <Object Name="array-mink"/>
-        <Object Name="array-mode"/>
-        <Object Name="array-mtof"/>
-        <Object Name="array-nearest"/>
-        <Object Name="array-offset"/>
-        <Object Name="array-pow"/>
-        <Object Name="array-prepend"/>
-        <Object Name="array-rand-fill"/>
-        <Object Name="array-random-walk"/>
-        <Object Name="array-range"/>
-        <Object Name="array-rerange"/>
-        <Object Name="array-reverse"/>
-        <Object Name="array-rmstodb"/>
-        <Object Name="array-round"/>
-        <Object Name="array-scale"/>
-        <Object Name="array-scramble"/>
-        <Object Name="array-series"/>
-        <Object Name="array-shift"/>
-        <Object Name="array-shift0"/>
-        <Object Name="array-sort"/>
-        <Object Name="array-std"/>
-        <Object Name="array-unique"/>
-        <Object Name="array-window"/>
       </Objects>
     </Package>
   </Packages>
@@ -4904,6 +4802,77 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="extra">
+    <Package ID="ZXh0cmFfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxODozNl96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:18:36" Description="extra-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/extra/0-0extended/extra-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="DRFX">
+    <Package ID="RFJGWF8wLjUuMV8yMDE4LTAzLTI2IDA0OjI2OjA3X3dtYnJlbnQ=" Author="wmbrent"
+             Timestamp="2018-03-26 04:26:07" Description="DRFX[v0.5.1].dek"
+             Version="0.5.1" URL="https://puredata.info/Members/wmbrent/software/DRFX/0.5.1/DRFX[v0.5.1].dek">
+      <Objects>
+        <Object Name="DRFX"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="array-abs">
+    <Package ID="YXJyYXktYWJzXzAuMS4wXzIwMjMtMDMtMjAgMjM6NDE6NTNfd21icmVudA=="
+             Author="wmbrent" Timestamp="2023-03-20 23:41:53" Description="array-abs[v0.1.0].dek"
+             Version="0.1.0" URL="https://puredata.info/Members/wmbrent/software/array-abs/0.1.0/array-abs[v0.1.0].dek">
+      <Objects>
+        <Object Name="array-abs-val"/>
+        <Object Name="array-append"/>
+        <Object Name="array-between"/>
+        <Object Name="array-bintofreq"/>
+        <Object Name="array-ceil"/>
+        <Object Name="array-clip"/>
+        <Object Name="array-copy"/>
+        <Object Name="array-copy-range"/>
+        <Object Name="array-dbtorms"/>
+        <Object Name="array-delete"/>
+        <Object Name="array-differentiate"/>
+        <Object Name="array-drip"/>
+        <Object Name="array-equals"/>
+        <Object Name="array-floor"/>
+        <Object Name="array-freqtobin"/>
+        <Object Name="array-ftom"/>
+        <Object Name="array-geomean"/>
+        <Object Name="array-greater"/>
+        <Object Name="array-insert"/>
+        <Object Name="array-integrate"/>
+        <Object Name="array-lesser"/>
+        <Object Name="array-maxk"/>
+        <Object Name="array-mean"/>
+        <Object Name="array-median"/>
+        <Object Name="array-mink"/>
+        <Object Name="array-mode"/>
+        <Object Name="array-mtof"/>
+        <Object Name="array-nearest"/>
+        <Object Name="array-offset"/>
+        <Object Name="array-pow"/>
+        <Object Name="array-prepend"/>
+        <Object Name="array-rand-fill"/>
+        <Object Name="array-random-walk"/>
+        <Object Name="array-range"/>
+        <Object Name="array-rerange"/>
+        <Object Name="array-reverse"/>
+        <Object Name="array-rmstodb"/>
+        <Object Name="array-round"/>
+        <Object Name="array-scale"/>
+        <Object Name="array-scramble"/>
+        <Object Name="array-series"/>
+        <Object Name="array-shift"/>
+        <Object Name="array-shift0"/>
+        <Object Name="array-sort"/>
+        <Object Name="array-std"/>
+        <Object Name="array-unique"/>
+        <Object Name="array-window"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="bassemu~">
     <Package ID="YmFzc2VtdX5fMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoxNDoyOV96bW9lbG5pZw=="
              Author="zmoelnig" Timestamp="2015-12-10 14:14:29" Description="bassemu~-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
@@ -5573,6 +5542,30 @@
     <Package ID="Y3JlYl8wLTBleHRlbmRlZF8yMDE1LTEyLTEwIDE0OjE2OjIzX3ptb2Vsbmln"
              Author="zmoelnig" Timestamp="2015-12-10 14:16:23" Description="creb-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/creb/0-0extended/creb-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="cxc">
+    <Package ID="Y3hjXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MTY6NDFfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:16:41" Description="cxc-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/cxc/0-0extended/cxc-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="dnd-plugin">
+    <Package ID="ZG5kLXBsdWdpbl8wLjMuMF8yMDIxLTA0LTE2IDAyOjAzOjUxX2x1Y2FyZGE="
+             Author="lucarda" Timestamp="2021-04-16 02:03:51" Description="dnd-plugin[v0.3.0](Darwin-amd64-32)(Darwin-i386-32).dek"
+             Version="0.3.0" URL="https://puredata.info/Members/lucarda/software/dnd-plugin[v0.3.0](Darwin-amd64-32)(Darwin-i386-32).dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZG5kLXBsdWdpbl8wLjMuMV8yMDIxLTAzLTI2IDAzOjE3OjE0X2x1Y2FyZGE="
+             Author="lucarda" Timestamp="2021-03-26 03:17:14" Description="dnd-plugin[v0.3.1](Darwin-amd64-32)(Darwin-i386-32).dek"
+             Version="0.3.1" URL="https://puredata.info/Members/lucarda/software/dnd-plugin[v0.3.1](Darwin-amd64-32)(Darwin-i386-32).dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZG5kLXBsdWdpbl8wLjJfMjAxOC0xMC0zMSAwMDoxMzo1Nl9sdWNhcmRh"
+             Author="lucarda" Timestamp="2018-10-31 00:13:56" Description="dnd-plugin[v0.2](Darwin-amd64-32)(Darwin-i386-32).dek"
+             Version="0.2" URL="https://puredata.info/Members/lucarda/software/dnd-plugin[v0.2](Darwin-amd64-32)(Darwin-i386-32).dek">
       <Objects/>
     </Package>
   </Packages>
@@ -7150,6 +7143,13 @@
     <Package ID="cGRsdWFfMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDozMDoxN196bW9lbG5pZw=="
              Author="zmoelnig" Timestamp="2015-12-10 14:30:17" Description="pdlua-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
              Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/pdlua/0-0extended/pdlua-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="vasp">
+    <Package ID="dmFzcF8wLjEuNF8yMDIwLTAzLTA0IDAwOjU5OjI1X3Rob21hcw==" Author="thomas"
+             Timestamp="2020-03-04 00:59:25" Description="vasp[v0.1.4](Darwin-amd64-32)(Darwin-i386-32).dek"
+             Version="0.1.4" URL="https://puredata.info/Members/thomas/software/vasp/0.1.4/vasp[v0.1.4](Darwin-amd64-32)(Darwin-i386-32).dek">
       <Objects/>
     </Package>
   </Packages>

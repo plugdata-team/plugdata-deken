@@ -37,13 +37,6 @@
       </Objects>
     </Package>
   </Packages>
-  <Packages Name="vasp">
-    <Package ID="dmFzcF8wLjEuNF8yMDIwLTAzLTAzIDA5OjI0OjM5X3Rob21hcw==" Author="thomas"
-             Timestamp="2020-03-03 09:24:39" Description="vasp[v0.1.4](Linux-armv6-32).dek"
-             Version="0.1.4" URL="https://puredata.info/Members/thomas/software/vasp/0.1.4/vasp[v0.1.4](Linux-armv6-32).dek">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="rtcmix~">
     <Package ID="cnRjbWl4fl8wLjRfMjAxNS0wNi0xNyAyMDoyODo0Nl9qd21hdHRoeXM="
              Author="jwmatthys" Timestamp="2015-06-17 20:28:46" Description="rtcmix~-v0.4-(Linux-armv6-32)-externals.tar.gz"
@@ -1676,70 +1669,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="DRFX">
-    <Package ID="RFJGWF8wLjUuMV8yMDE4LTAzLTI2IDA0OjI2OjA3X3dtYnJlbnQ=" Author="wmbrent"
-             Timestamp="2018-03-26 04:26:07" Description="DRFX[v0.5.1].dek"
-             Version="0.5.1" URL="https://puredata.info/Members/wmbrent/software/DRFX/0.5.1/DRFX[v0.5.1].dek">
-      <Objects>
-        <Object Name="DRFX"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="array-abs">
-    <Package ID="YXJyYXktYWJzXzAuMS4wXzIwMjMtMDMtMjAgMjM6NDE6NTNfd21icmVudA=="
-             Author="wmbrent" Timestamp="2023-03-20 23:41:53" Description="array-abs[v0.1.0].dek"
-             Version="0.1.0" URL="https://puredata.info/Members/wmbrent/software/array-abs/0.1.0/array-abs[v0.1.0].dek">
-      <Objects>
-        <Object Name="array-abs-val"/>
-        <Object Name="array-append"/>
-        <Object Name="array-between"/>
-        <Object Name="array-bintofreq"/>
-        <Object Name="array-ceil"/>
-        <Object Name="array-clip"/>
-        <Object Name="array-copy"/>
-        <Object Name="array-copy-range"/>
-        <Object Name="array-dbtorms"/>
-        <Object Name="array-delete"/>
-        <Object Name="array-differentiate"/>
-        <Object Name="array-drip"/>
-        <Object Name="array-equals"/>
-        <Object Name="array-floor"/>
-        <Object Name="array-freqtobin"/>
-        <Object Name="array-ftom"/>
-        <Object Name="array-geomean"/>
-        <Object Name="array-greater"/>
-        <Object Name="array-insert"/>
-        <Object Name="array-integrate"/>
-        <Object Name="array-lesser"/>
-        <Object Name="array-maxk"/>
-        <Object Name="array-mean"/>
-        <Object Name="array-median"/>
-        <Object Name="array-mink"/>
-        <Object Name="array-mode"/>
-        <Object Name="array-mtof"/>
-        <Object Name="array-nearest"/>
-        <Object Name="array-offset"/>
-        <Object Name="array-pow"/>
-        <Object Name="array-prepend"/>
-        <Object Name="array-rand-fill"/>
-        <Object Name="array-random-walk"/>
-        <Object Name="array-range"/>
-        <Object Name="array-rerange"/>
-        <Object Name="array-reverse"/>
-        <Object Name="array-rmstodb"/>
-        <Object Name="array-round"/>
-        <Object Name="array-scale"/>
-        <Object Name="array-scramble"/>
-        <Object Name="array-series"/>
-        <Object Name="array-shift"/>
-        <Object Name="array-shift0"/>
-        <Object Name="array-sort"/>
-        <Object Name="array-std"/>
-        <Object Name="array-unique"/>
-        <Object Name="array-window"/>
-      </Objects>
-    </Package>
-  </Packages>
   <Packages Name="wavview">
     <Package ID="d2F2dmlld18wLjNfMjAyNS0wOC0xNCAxOTowNjo1OF9hbnQxcg==" Author="ant1r"
              Timestamp="2025-08-14 19:06:58" Description="wavview[v0.3].dek"
@@ -3276,6 +3205,70 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="DRFX">
+    <Package ID="RFJGWF8wLjUuMV8yMDE4LTAzLTI2IDA0OjI2OjA3X3dtYnJlbnQ=" Author="wmbrent"
+             Timestamp="2018-03-26 04:26:07" Description="DRFX[v0.5.1].dek"
+             Version="0.5.1" URL="https://puredata.info/Members/wmbrent/software/DRFX/0.5.1/DRFX[v0.5.1].dek">
+      <Objects>
+        <Object Name="DRFX"/>
+      </Objects>
+    </Package>
+  </Packages>
+  <Packages Name="array-abs">
+    <Package ID="YXJyYXktYWJzXzAuMS4wXzIwMjMtMDMtMjAgMjM6NDE6NTNfd21icmVudA=="
+             Author="wmbrent" Timestamp="2023-03-20 23:41:53" Description="array-abs[v0.1.0].dek"
+             Version="0.1.0" URL="https://puredata.info/Members/wmbrent/software/array-abs/0.1.0/array-abs[v0.1.0].dek">
+      <Objects>
+        <Object Name="array-abs-val"/>
+        <Object Name="array-append"/>
+        <Object Name="array-between"/>
+        <Object Name="array-bintofreq"/>
+        <Object Name="array-ceil"/>
+        <Object Name="array-clip"/>
+        <Object Name="array-copy"/>
+        <Object Name="array-copy-range"/>
+        <Object Name="array-dbtorms"/>
+        <Object Name="array-delete"/>
+        <Object Name="array-differentiate"/>
+        <Object Name="array-drip"/>
+        <Object Name="array-equals"/>
+        <Object Name="array-floor"/>
+        <Object Name="array-freqtobin"/>
+        <Object Name="array-ftom"/>
+        <Object Name="array-geomean"/>
+        <Object Name="array-greater"/>
+        <Object Name="array-insert"/>
+        <Object Name="array-integrate"/>
+        <Object Name="array-lesser"/>
+        <Object Name="array-maxk"/>
+        <Object Name="array-mean"/>
+        <Object Name="array-median"/>
+        <Object Name="array-mink"/>
+        <Object Name="array-mode"/>
+        <Object Name="array-mtof"/>
+        <Object Name="array-nearest"/>
+        <Object Name="array-offset"/>
+        <Object Name="array-pow"/>
+        <Object Name="array-prepend"/>
+        <Object Name="array-rand-fill"/>
+        <Object Name="array-random-walk"/>
+        <Object Name="array-range"/>
+        <Object Name="array-rerange"/>
+        <Object Name="array-reverse"/>
+        <Object Name="array-rmstodb"/>
+        <Object Name="array-round"/>
+        <Object Name="array-scale"/>
+        <Object Name="array-scramble"/>
+        <Object Name="array-series"/>
+        <Object Name="array-shift"/>
+        <Object Name="array-shift0"/>
+        <Object Name="array-sort"/>
+        <Object Name="array-std"/>
+        <Object Name="array-unique"/>
+        <Object Name="array-window"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="purest_json">
     <Package ID="cHVyZXN0X2pzb25fMS40LjFfMjAxNi0wNi0yOSAwMTozMzowM19yZXNpZHV1bQ=="
              Author="residuum" Timestamp="2016-06-29 01:33:03" Description="purest_json-v1.4.1-(Linux-armv6l-32)-externals.tar.gz"
@@ -4785,6 +4778,13 @@
     <Package ID="cGQtd2F2ZWxldF8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNDo1ODo1OV9jaHIxNW0="
              Author="chr15m" Timestamp="2015-08-07 14:58:59" Description="pd-wavelet-v0.0.extended--externals.zip"
              Version="0.0.extended" URL="https://puredata.info/Members/chr15m/software/v0-0extended/pd-wavelet/pd-wavelet-v0.0.extended--externals.zip">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="vasp">
+    <Package ID="dmFzcF8wLjEuNF8yMDIwLTAzLTAzIDA5OjI0OjM5X3Rob21hcw==" Author="thomas"
+             Timestamp="2020-03-03 09:24:39" Description="vasp[v0.1.4](Linux-armv6-32).dek"
+             Version="0.1.4" URL="https://puredata.info/Members/thomas/software/vasp/0.1.4/vasp[v0.1.4](Linux-armv6-32).dek">
       <Objects/>
     </Package>
   </Packages>
