@@ -319,6 +319,28 @@
       <Objects/>
     </Package>
   </Packages>
+  <Packages Name="droidparty-abstractions">
+    <Package ID="ZHJvaWRwYXJ0eS1hYnN0cmFjdGlvbnNfNDQwXzIwMjYtMTEtMTIgMTA6NTI6MjhfYW50MXI="
+             Author="ant1r" Timestamp="2026-11-12 10:52:28" Description="droidparty-abstractions[v440].dek"
+             Version="440" URL="https://puredata.info/Members/ant1r/software/droidparty-abstractions/440/droidparty-abstractions[v440].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZHJvaWRwYXJ0eS1hYnN0cmFjdGlvbnNfNDQwXzIwMjYtMTEtMTIgMTA6NTI6MjhfYW50MXI="
+             Author="ant1r" Timestamp="2026-11-12 10:52:28" Description="droidparty-abstractions[v440].dek"
+             Version="440" URL="https://puredata.info/Members/ant1r/software/droidparty-abstractions/440/droidparty-abstractions[v440].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZHJvaWRwYXJ0eS1hYnN0cmFjdGlvbnNfNDM5XzIwMjYtMTEtMTEgMTU6MDY6MDZfYW50MXI="
+             Author="ant1r" Timestamp="2026-11-11 15:06:06" Description="droidparty-abstractions[v439].dek"
+             Version="439" URL="https://puredata.info/Members/ant1r/software/droidparty-abstractions/439/droidparty-abstractions[v439].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZHJvaWRwYXJ0eS1hYnN0cmFjdGlvbnNfNDM5XzIwMjYtMTEtMTEgMTU6MDY6MDZfYW50MXI="
+             Author="ant1r" Timestamp="2026-11-11 15:06:06" Description="droidparty-abstractions[v439].dek"
+             Version="439" URL="https://puredata.info/Members/ant1r/software/droidparty-abstractions/439/droidparty-abstractions[v439].dek">
+      <Objects/>
+    </Package>
+  </Packages>
   <Packages Name="pd">
     <Package ID="cGRfMC41Ni4yXzIwMjYtMDItMDkgMTc6MzM6NTFfem1vZWxuaWc=" Author="zmoelnig"
              Timestamp="2026-02-09 17:33:51" Description="pd/0.56.2 (dummy library for built-in objects)"

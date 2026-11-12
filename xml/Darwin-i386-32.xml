@@ -183,94 +183,10 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="lyonpotpourri">
-    <Package ID="bHlvbnBvdHBvdXJyaV8zLjAuMF8yMDIxLTAzLTE3IDAwOjA1OjQ0X2x1Y2FyZGE="
-             Author="lucarda" Timestamp="2021-03-17 00:05:44" Description="lyonpotpourri[v3.0.0](Darwin-amd64-32)(Darwin-i386-32).dek"
-             Version="3.0.0" URL="https://puredata.info/Members/lucarda/software/lyonpotpourri[v3.0.0](Darwin-amd64-32)(Darwin-i386-32).dek">
-      <Objects>
-        <Object Name="adsr~"/>
-        <Object Name="arrayfilt~"/>
-        <Object Name="bashfest~"/>
-        <Object Name="buffet~"/>
-        <Object Name="bvplay~"/>
-        <Object Name="cartopol~"/>
-        <Object Name="chameleon~"/>
-        <Object Name="channel~"/>
-        <Object Name="chopper~"/>
-        <Object Name="clean_selector~"/>
-        <Object Name="click2bang~"/>
-        <Object Name="click2float~"/>
-        <Object Name="clickhold~"/>
-        <Object Name="click~"/>
-        <Object Name="convolver~"/>
-        <Object Name="counter~"/>
-        <Object Name="distortion~"/>
-        <Object Name="dmach~"/>
-        <Object Name="dynss~"/>
-        <Object Name="epluribus~"/>
-        <Object Name="expflam~"/>
-        <Object Name="flanjah~"/>
-        <Object Name="function~"/>
-        <Object Name="granola~"/>
-        <Object Name="granulesf~"/>
-        <Object Name="granule~"/>
-        <Object Name="kbuffer~"/>
-        <Object Name="killdc~"/>
-        <Object Name="latch~"/>
-        <Object Name="magfreq_analysis~"/>
-        <Object Name="markov~"/>
-        <Object Name="mask~"/>
-        <Object Name="npan~"/>
-        <Object Name="oscil~"/>
-        <Object Name="phasemod~"/>
-        <Object Name="player~"/>
-        <Object Name="poltocar~"/>
-        <Object Name="pulser~"/>
-        <Object Name="quadpan~"/>
-        <Object Name="rotapan~"/>
-        <Object Name="rtrig~"/>
-        <Object Name="samm~"/>
-        <Object Name="sarec~"/>
-        <Object Name="sel~"/>
-        <Object Name="shoehorn~"/>
-        <Object Name="sigseq~"/>
-        <Object Name="smap"/>
-        <Object Name="splitbank~"/>
-        <Object Name="splitspec~"/>
-        <Object Name="squash~"/>
-        <Object Name="stutter~"/>
-        <Object Name="vdb~"/>
-        <Object Name="vdp~"/>
-        <Object Name="vecdex~"/>
-        <Object Name="waveshape~"/>
-        <Object Name="windowvec~"/>
-      </Objects>
-    </Package>
-  </Packages>
-  <Packages Name="iem_roomsim">
-    <Package ID="aWVtX3Jvb21zaW1fMS4yMV8yMDE4LTExLTI5IDE2OjE0OjE5X211c2ls"
-             Author="musil" Timestamp="2018-11-29 16:14:19" Description="iem_roomsim[v1.21](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32)(Sources).dek"
-             Version="1.21" URL="https://puredata.info/Members/musil/software/iem_roomsim/1.21/iem_roomsim[v1.21](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32)(Sources).dek">
-      <Objects>
-        <Object Name="block_delay~"/>
-        <Object Name="block_lp1~"/>
-        <Object Name="block_peak_env~"/>
-        <Object Name="cart2del_damp_2d"/>
-        <Object Name="cart2del_damp_3d"/>
-        <Object Name="n_delay1p_line~"/>
-        <Object Name="n_delay2p_line~"/>
-        <Object Name="xy_2_del_damp_phi"/>
-        <Object Name="xyz_3_del_damp_theta_phi"/>
-      </Objects>
-    </Package>
-    <Package ID="aWVtX3Jvb21zaW1fMS4yMV8yMDE4LTA3LTA0IDE2OjE1OjE3X211c2ls"
-             Author="musil" Timestamp="2018-07-04 16:15:17" Description="iem_roomsim[v1.21](Darwin-i386-32)(Sources).dek"
-             Version="1.21" URL="https://puredata.info/Members/musil/software/iem_roomsim/1.21/iem_roomsim[v1.21](Darwin-i386-32)(Sources).dek">
-      <Objects/>
-    </Package>
-    <Package ID="aWVtX3Jvb21zaW1fMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoyNDoxMF96bW9lbG5pZw=="
-             Author="zmoelnig" Timestamp="2015-12-10 14:24:10" Description="iem_roomsim-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/iem_roomsim/0-0extended/iem_roomsim-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+  <Packages Name="vasp">
+    <Package ID="dmFzcF8wLjEuNF8yMDIwLTAzLTA0IDAwOjU5OjI1X3Rob21hcw==" Author="thomas"
+             Timestamp="2020-03-04 00:59:25" Description="vasp[v0.1.4](Darwin-amd64-32)(Darwin-i386-32).dek"
+             Version="0.1.4" URL="https://puredata.info/Members/thomas/software/vasp/0.1.4/vasp[v0.1.4](Darwin-amd64-32)(Darwin-i386-32).dek">
       <Objects/>
     </Package>
   </Packages>
@@ -1402,6 +1318,97 @@
       </Objects>
     </Package>
   </Packages>
+  <Packages Name="iem_roomsim">
+    <Package ID="aWVtX3Jvb21zaW1fMS4yMV8yMDE4LTExLTI5IDE2OjE0OjE5X211c2ls"
+             Author="musil" Timestamp="2018-11-29 16:14:19" Description="iem_roomsim[v1.21](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32)(Sources).dek"
+             Version="1.21" URL="https://puredata.info/Members/musil/software/iem_roomsim/1.21/iem_roomsim[v1.21](Darwin-amd64-32)(Darwin-i386-32)(Linux-amd64-32)(Windows-amd64-32)(Windows-i386-32)(Sources).dek">
+      <Objects>
+        <Object Name="block_delay~"/>
+        <Object Name="block_lp1~"/>
+        <Object Name="block_peak_env~"/>
+        <Object Name="cart2del_damp_2d"/>
+        <Object Name="cart2del_damp_3d"/>
+        <Object Name="n_delay1p_line~"/>
+        <Object Name="n_delay2p_line~"/>
+        <Object Name="xy_2_del_damp_phi"/>
+        <Object Name="xyz_3_del_damp_theta_phi"/>
+      </Objects>
+    </Package>
+    <Package ID="aWVtX3Jvb21zaW1fMS4yMV8yMDE4LTA3LTA0IDE2OjE1OjE3X211c2ls"
+             Author="musil" Timestamp="2018-07-04 16:15:17" Description="iem_roomsim[v1.21](Darwin-i386-32)(Sources).dek"
+             Version="1.21" URL="https://puredata.info/Members/musil/software/iem_roomsim/1.21/iem_roomsim[v1.21](Darwin-i386-32)(Sources).dek">
+      <Objects/>
+    </Package>
+    <Package ID="aWVtX3Jvb21zaW1fMC0wZXh0ZW5kZWRfMjAxNS0xMi0xMCAxNDoyNDoxMF96bW9lbG5pZw=="
+             Author="zmoelnig" Timestamp="2015-12-10 14:24:10" Description="iem_roomsim-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/iem_roomsim/0-0extended/iem_roomsim-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="lyonpotpourri">
+    <Package ID="bHlvbnBvdHBvdXJyaV8zLjAuMF8yMDIxLTAzLTE3IDAwOjA1OjQ0X2x1Y2FyZGE="
+             Author="lucarda" Timestamp="2021-03-17 00:05:44" Description="lyonpotpourri[v3.0.0](Darwin-amd64-32)(Darwin-i386-32).dek"
+             Version="3.0.0" URL="https://puredata.info/Members/lucarda/software/lyonpotpourri[v3.0.0](Darwin-amd64-32)(Darwin-i386-32).dek">
+      <Objects>
+        <Object Name="adsr~"/>
+        <Object Name="arrayfilt~"/>
+        <Object Name="bashfest~"/>
+        <Object Name="buffet~"/>
+        <Object Name="bvplay~"/>
+        <Object Name="cartopol~"/>
+        <Object Name="chameleon~"/>
+        <Object Name="channel~"/>
+        <Object Name="chopper~"/>
+        <Object Name="clean_selector~"/>
+        <Object Name="click2bang~"/>
+        <Object Name="click2float~"/>
+        <Object Name="clickhold~"/>
+        <Object Name="click~"/>
+        <Object Name="convolver~"/>
+        <Object Name="counter~"/>
+        <Object Name="distortion~"/>
+        <Object Name="dmach~"/>
+        <Object Name="dynss~"/>
+        <Object Name="epluribus~"/>
+        <Object Name="expflam~"/>
+        <Object Name="flanjah~"/>
+        <Object Name="function~"/>
+        <Object Name="granola~"/>
+        <Object Name="granulesf~"/>
+        <Object Name="granule~"/>
+        <Object Name="kbuffer~"/>
+        <Object Name="killdc~"/>
+        <Object Name="latch~"/>
+        <Object Name="magfreq_analysis~"/>
+        <Object Name="markov~"/>
+        <Object Name="mask~"/>
+        <Object Name="npan~"/>
+        <Object Name="oscil~"/>
+        <Object Name="phasemod~"/>
+        <Object Name="player~"/>
+        <Object Name="poltocar~"/>
+        <Object Name="pulser~"/>
+        <Object Name="quadpan~"/>
+        <Object Name="rotapan~"/>
+        <Object Name="rtrig~"/>
+        <Object Name="samm~"/>
+        <Object Name="sarec~"/>
+        <Object Name="sel~"/>
+        <Object Name="shoehorn~"/>
+        <Object Name="sigseq~"/>
+        <Object Name="smap"/>
+        <Object Name="splitbank~"/>
+        <Object Name="splitspec~"/>
+        <Object Name="squash~"/>
+        <Object Name="stutter~"/>
+        <Object Name="vdb~"/>
+        <Object Name="vdp~"/>
+        <Object Name="vecdex~"/>
+        <Object Name="waveshape~"/>
+        <Object Name="windowvec~"/>
+      </Objects>
+    </Package>
+  </Packages>
   <Packages Name="py">
     <Package ID="cHlfMC4yLjJfMjAyMi0wMi0xNSAyMjo1NjowMF90aG9tYXM=" Author="thomas"
              Timestamp="2022-02-15 22:56:00" Description="py[v0.2.2](Darwin-amd64-32)(Darwin-i386-32).dek"
@@ -1448,6 +1455,25 @@
     <Package ID="RnJhaXNlXzAuMS4wXzIwMjEtMDEtMDcgMTI6MzI6MzVfYW50MXI=" Author="ant1r"
              Timestamp="2021-01-07 12:32:35" Description="Fraise[v0.1.0].dek"
              Version="0.1.0" URL="https://puredata.info/Members/ant1r/software/Fraise/0.1.0/Fraise[v0.1.0].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="droidparty-abstractions">
+    <Package ID="ZHJvaWRwYXJ0eS1hYnN0cmFjdGlvbnNfNDQwXzIwMjYtMTEtMTIgMTA6NTI6MjhfYW50MXI="
+             Author="ant1r" Timestamp="2026-11-12 10:52:28" Description="droidparty-abstractions[v440].dek"
+             Version="440" URL="https://puredata.info/Members/ant1r/software/droidparty-abstractions/440/droidparty-abstractions[v440].dek">
+      <Objects/>
+    </Package>
+    <Package ID="ZHJvaWRwYXJ0eS1hYnN0cmFjdGlvbnNfNDM5XzIwMjYtMTEtMTEgMTU6MDY6MDZfYW50MXI="
+             Author="ant1r" Timestamp="2026-11-11 15:06:06" Description="droidparty-abstractions[v439].dek"
+             Version="439" URL="https://puredata.info/Members/ant1r/software/droidparty-abstractions/439/droidparty-abstractions[v439].dek">
+      <Objects/>
+    </Package>
+  </Packages>
+  <Packages Name="pdp">
+    <Package ID="cGRwXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MzE6MDVfem1vZWxuaWc="
+             Author="zmoelnig" Timestamp="2015-12-10 14:31:05" Description="pdp-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
+             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/pdp/0-0extended/pdp-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
       <Objects/>
     </Package>
   </Packages>
@@ -7146,13 +7172,6 @@
       <Objects/>
     </Package>
   </Packages>
-  <Packages Name="vasp">
-    <Package ID="dmFzcF8wLjEuNF8yMDIwLTAzLTA0IDAwOjU5OjI1X3Rob21hcw==" Author="thomas"
-             Timestamp="2020-03-04 00:59:25" Description="vasp[v0.1.4](Darwin-amd64-32)(Darwin-i386-32).dek"
-             Version="0.1.4" URL="https://puredata.info/Members/thomas/software/vasp/0.1.4/vasp[v0.1.4](Darwin-amd64-32)(Darwin-i386-32).dek">
-      <Objects/>
-    </Package>
-  </Packages>
   <Packages Name="la-kitchen">
     <Package ID="bGEta2l0Y2hlbl8wLjAuZXh0ZW5kZWRfMjAxNS0wOC0wNyAxNDo1MjozNF9jaHIxNW0="
              Author="chr15m" Timestamp="2015-08-07 14:52:34" Description="la-kitchen-v0.0.extended--externals.zip"
@@ -7203,13 +7222,6 @@
     <Package ID="cGRtdXNfMC4xXzIwMTYtMDMtMTAgMjA6MDc6MTFfYW5nZWxmYXJhbGRv"
              Author="angelfaraldo" Timestamp="2016-03-10 20:07:11" Description="pdmus-v0.1--externals.zip"
              Version="0.1" URL="https://puredata.info/downloads/pdmus/releases/0.1/pdmus-v0.1--externals.zip">
-      <Objects/>
-    </Package>
-  </Packages>
-  <Packages Name="pdp">
-    <Package ID="cGRwXzAtMGV4dGVuZGVkXzIwMTUtMTItMTAgMTQ6MzE6MDVfem1vZWxuaWc="
-             Author="zmoelnig" Timestamp="2015-12-10 14:31:05" Description="pdp-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz"
-             Version="0-0extended" URL="https://puredata.info/Members/zmoelnig/software/pdp/0-0extended/pdp-v0-0extended-(Darwin-i386-32)(Darwin-PowerPC-32)(Darwin-x86_64-32)-externals.tar.gz">
       <Objects/>
     </Package>
   </Packages>
