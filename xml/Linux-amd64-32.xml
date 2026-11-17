@@ -969,6 +969,110 @@
     </Package>
   </Packages>
   <Packages Name="xlab">
+    <Package ID="eGxhYl8wLjEuNV8yMDI2LTExLTE2IDIyOjUzOjQ4X2NoYXJsZXNuZWltb2c="
+             Author="charlesneimog" Timestamp="2026-11-16 22:53:48" Description="xlab[v0.1.5](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
+             Version="0.1.5" URL="https://puredata.info/Members/charlesneimog/software/xlab/0.1.5/xlab[v0.1.5](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
+      <Objects>
+        <Object Name="bhack.bpf"/>
+        <Object Name="bhack.chord-seq"/>
+        <Object Name="bhack.collect"/>
+        <Object Name="bhack.define"/>
+        <Object Name="bhack.depth"/>
+        <Object Name="bhack.filter"/>
+        <Object Name="bhack.iterate"/>
+        <Object Name="bhack.length"/>
+        <Object Name="bhack.mton"/>
+        <Object Name="bhack.nth"/>
+        <Object Name="bhack.op"/>
+        <Object Name="bhack.print"/>
+        <Object Name="bhack.topd"/>
+        <Object Name="bhack.voice"/>
+        <Object Name="l.orchidea"/>
+        <Object Name="openmusic"/>
+        <Object Name="py.convertion"/>
+        <Object Name="py.game"/>
+        <Object Name="py.loop"/>
+        <Object Name="py.math"/>
+        <Object Name="py.o.train"/>
+        <Object Name="py.pip"/>
+        <Object Name="py.score"/>
+        <Object Name="py.utils"/>
+        <Object Name="py.vispy"/>
+        <Object Name="py4pd"/>
+        <Object Name="pymetro"/>
+        <Object Name="pytest"/>
+        <Object Name="pytest~"/>
+        <Object Name="upic"/>
+        <Object Name="vb.freezer~"/>
+        <Object Name="x.ambi~"/>
+        <Object Name="x.array"/>
+        <Object Name="x.buffers"/>
+        <Object Name="x.clarinet~"/>
+        <Object Name="x.click"/>
+        <Object Name="x.cloudseed.rev~"/>
+        <Object Name="x.conv~"/>
+        <Object Name="x.cut"/>
+        <Object Name="x.darray~"/>
+        <Object Name="x.dragonfly~"/>
+        <Object Name="x.elements~"/>
+        <Object Name="x.fdn~"/>
+        <Object Name="x.filelist"/>
+        <Object Name="x.freeze~"/>
+        <Object Name="x.gain~"/>
+        <Object Name="x.gui.dslider"/>
+        <Object Name="x.gui.granulator"/>
+        <Object Name="x.gui.plot"/>
+        <Object Name="x.infinite.record~"/>
+        <Object Name="x.ji"/>
+        <Object Name="x.ji.arith-mean"/>
+        <Object Name="x.ji.arith-mean-sob"/>
+        <Object Name="x.ji.change-notes"/>
+        <Object Name="x.ji.chord-inverse"/>
+        <Object Name="x.ji.cpstoidentity"/>
+        <Object Name="x.ji.cpstoratio"/>
+        <Object Name="x.ji.diamond"/>
+        <Object Name="x.ji.diamond-identity"/>
+        <Object Name="x.ji.eikosany"/>
+        <Object Name="x.ji.eikosany-connections"/>
+        <Object Name="x.ji.eikosany-draw"/>
+        <Object Name="x.ji.eikosany-tetrads"/>
+        <Object Name="x.ji.eikosany-triads"/>
+        <Object Name="x.ji.filter-ac-inst"/>
+        <Object Name="x.ji.hexany"/>
+        <Object Name="x.ji.hexany-connections"/>
+        <Object Name="x.ji.hexany-triads"/>
+        <Object Name="x.ji.interval-sob"/>
+        <Object Name="x.ji.johnston-sob"/>
+        <Object Name="x.ji.mk-temperament"/>
+        <Object Name="x.ji.modulation-notes"/>
+        <Object Name="x.ji.modulation-notes-fund"/>
+        <Object Name="x.ji.mos"/>
+        <Object Name="x.ji.mos-check"/>
+        <Object Name="x.ji.mos-complementary"/>
+        <Object Name="x.ji.mos-verify"/>
+        <Object Name="x.ji.prime-decomposition"/>
+        <Object Name="x.ji.range-change-notes"/>
+        <Object Name="x.ji.range-reduce"/>
+        <Object Name="x.ji.rt-octave"/>
+        <Object Name="x.ji.rttom"/>
+        <Object Name="x.kalman"/>
+        <Object Name="x.lfreeze~"/>
+        <Object Name="x.loris.anal"/>
+        <Object Name="x.loris.dilate"/>
+        <Object Name="x.loris.morph"/>
+        <Object Name="x.markers"/>
+        <Object Name="x.mar~"/>
+        <Object Name="x.nw.gverb~"/>
+        <Object Name="x.onsetsds~"/>
+        <Object Name="x.pv~"/>
+        <Object Name="x.rhythm"/>
+        <Object Name="x.rings~"/>
+        <Object Name="x.scala"/>
+        <Object Name="x.sieve"/>
+        <Object Name="x.transposer~"/>
+        <Object Name="x.zita.rev~"/>
+      </Objects>
+    </Package>
     <Package ID="eGxhYl8wLjEuNF8yMDI2LTExLTAzIDE4OjUxOjAxX2NoYXJsZXNuZWltb2c="
              Author="charlesneimog" Timestamp="2026-11-03 18:51:01" Description="xlab[v0.1.4](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
              Version="0.1.4" URL="https://puredata.info/Members/charlesneimog/software/xlab/0.1.4/xlab[v0.1.4](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
@@ -16820,6 +16924,27 @@
     </Package>
   </Packages>
   <Packages Name="openscofo~">
+    <Package ID="b3BlbnNjb2Zvfl8wLjMuMl8yMDI2LTExLTE3IDAxOjMyOjMwX2NoYXJsZXNuZWltb2c="
+             Author="charlesneimog" Timestamp="2026-11-17 01:32:30" Description="openscofo~[v0.3.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek"
+             Version="0.3.2" URL="https://puredata.info/Members/charlesneimog/software/openscofo~/0.3.2/openscofo~[v0.3.2](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="openscofo~"/>
+      </Objects>
+    </Package>
+    <Package ID="b3BlbnNjb2Zvfl8wLjMuMV8yMDI2LTExLTE2IDIzOjExOjIzX2NoYXJsZXNuZWltb2c="
+             Author="charlesneimog" Timestamp="2026-11-16 23:11:23" Description="openscofo~[v0.3.1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek"
+             Version="0.3.1" URL="https://puredata.info/Members/charlesneimog/software/openscofo~/0.3.1/openscofo~[v0.3.1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="openscofo~"/>
+      </Objects>
+    </Package>
+    <Package ID="b3BlbnNjb2Zvfl8wLjMuMF8yMDI2LTExLTE2IDIyOjQ4OjQxX2NoYXJsZXNuZWltb2c="
+             Author="charlesneimog" Timestamp="2026-11-16 22:48:41" Description="openscofo~[v0.3.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek"
+             Version="0.3.0" URL="https://puredata.info/Members/charlesneimog/software/openscofo~/0.3.0/openscofo~[v0.3.0](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32).dek">
+      <Objects>
+        <Object Name="openscofo~"/>
+      </Objects>
+    </Package>
     <Package ID="b3BlbnNjb2Zvfl8wLjIuMTBiMV8yMDI2LTA2LTMwIDA1OjA0OjI4X2NoYXJsZXNuZWltb2c="
              Author="charlesneimog" Timestamp="2026-06-30 05:04:28" Description="openscofo~[v0.2.10b1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek"
              Version="0.2.10b1" URL="https://puredata.info/Members/charlesneimog/software/openscofo~/0.2.10b1/openscofo~[v0.2.10b1](Darwin-amd64-32)(Darwin-arm64-32)(Linux-amd64-32)(Windows-amd64-32)(Sources).dek">
